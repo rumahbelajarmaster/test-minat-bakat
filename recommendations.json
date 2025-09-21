@@ -1,198 +1,42 @@
-{
-  "R_I_INTJ": {
-    "profile_summary": "Kamu tipe INTJ dengan minat Realistic-Investigative. Kamu logis, strategis, dan senang menghubungkan praktik nyata dengan analisis mendalam.",
-    "why_it_matches": [
-      "Minat Realistic membuatmu nyaman dengan alat, mesin, dan eksperimen nyata.",
-      "Minat Investigative mendorongmu meneliti, menganalisis, dan mencari pola.",
-      "Tipe INTJ menambah kemampuan merencanakan jangka panjang dengan fokus pada efisiensi."
-    ],
-    "majors": [
-      { "name": "Teknik Mesin", "specializations": ["Robotika", "Otomasi Industri"], "why": "Membutuhkan logika sistematis dan pemahaman praktis." },
-      { "name": "Teknik Informatika", "specializations": ["Kecerdasan Buatan"], "why": "Menghubungkan algoritma dengan aplikasi teknis." }
-    ],
-    "career_paths": ["Engineer Robotika", "Perencana Sistem", "Ilmuwan Data"],
-    "extracurriculars": ["Ikut klub robotika", "Proyek riset kampus", "Hackathon AI"]
+[
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "IRC",
+    "display_name": "The Architect Analyst",
+    "description": "Seorang pemikir logis dan analitis yang gemar memecahkan masalah kompleks dan bekerja dengan ide-ide teoretis. Cenderung investigatif, realistis, dan konvensional.",
+    "recommendations": {
+      "majors": [
+        "Teknik Informatika (AI, Data Science)",
+        "Ilmu Komputer",
+        "Fisika Murni",
+        "Matematika"
+      ],
+      "professions": [
+        "AI Engineer",
+        "Software Architect",
+        "Data Scientist",
+        "University Professor"
+      ]
+    }
   },
-  "R_I_INTP": {
-    "profile_summary": "INTP dengan minat Realistic-Investigative. Kamu penuh rasa ingin tahu, suka bereksperimen, dan menemukan pola baru.",
-    "why_it_matches": [
-      "RIASEC Realistic-Investigative menekankan eksperimen nyata.",
-      "INTP suka mengulik hal teknis sampai ke detail kecil.",
-      "Kombinasi ini membuatmu unggul di bidang riset dan inovasi teknologi."
-    ],
-    "majors": [
-      { "name": "Fisika", "specializations": ["Astrofisika", "Material Science"], "why": "Membuka peluang penelitian murni." },
-      { "name": "Teknik Elektro", "specializations": ["Elektronika", "Telekomunikasi"], "why": "Menghubungkan eksperimen dengan aplikasi dunia nyata." }
-    ],
-    "career_paths": ["Peneliti Fisika", "Engineer Elektronik", "Ilmuwan Komputasi"],
-    "extracurriculars": ["Komunitas open-source", "Eksperimen lab", "Menulis paper ilmiah"]
-  },
-  "R_I_ENTP": {
-    "profile_summary": "ENTP Realistic-Investigative. Kamu penuh ide, energik, dan suka menguji coba solusi baru.",
-    "why_it_matches": [
-      "RIASEC Realistic-Investigative fokus pada problem solving nyata.",
-      "ENTP suka improvisasi dan inovasi.",
-      "Kamu cocok di bidang yang menuntut kombinasi riset dengan keberanian mencoba."
-    ],
-    "majors": [
-      { "name": "Teknik Industri", "specializations": ["Manufaktur", "Inovasi Produk"], "why": "Menggabungkan analisis teknis dan ide kreatif." },
-      { "name": "Teknik Lingkungan", "specializations": ["Energi Terbarukan"], "why": "Membuka peluang inovasi untuk masa depan." }
-    ],
-    "career_paths": ["Inovator Startup", "Konsultan Teknologi", "Engineer R&D"],
-    "extracurriculars": ["Kompetisi inovasi", "Hackathon", "Komunitas energi hijau"]
-  },
-  "R_I_ENFP": {
-    "profile_summary": "ENFP Realistic-Investigative. Kamu antusias, kreatif, dan suka menggabungkan eksperimen dengan ide sosial.",
-    "why_it_matches": [
-      "RIASEC Realistic-Investigative menekankan praktik teknis.",
-      "ENFP menambah kreativitas dalam implementasi riset.",
-      "Kamu senang menghubungkan sains dengan manfaat sosial."
-    ],
-    "majors": [
-      { "name": "Bioteknologi", "specializations": ["Pertanian", "Kesehatan"], "why": "Cocok untuk riset berbasis manusia." },
-      { "name": "Desain Produk", "specializations": ["Produk Ramah Lingkungan"], "why": "Membuka peluang inovasi sosial." }
-    ],
-    "career_paths": ["Peneliti Biotek", "Desainer Produk Sosial", "Wirausaha Inovatif"],
-    "extracurriculars": ["Proyek sosial sains", "Workshop inovasi", "Komunitas wirausaha muda"]
-  },
-  "R_I_ENTJ": {
-    "profile_summary": "ENTJ Realistic-Investigative. Kamu tegas, terorganisir, dan suka mengatur sistem riset maupun produksi.",
-    "why_it_matches": [
-      "RIASEC Realistic-Investigative fokus pada riset teknis.",
-      "ENTJ memperkuat sisi kepemimpinan dalam pengelolaan tim dan proyek.",
-      "Kombinasi ini ideal untuk bidang engineering berskala besar."
-    ],
-    "majors": [
-      { "name": "Teknik Sipil", "specializations": ["Manajemen Konstruksi"], "why": "Membutuhkan keterampilan teknis dan kepemimpinan." },
-      { "name": "Manajemen Teknologi", "specializations": ["Operasional Industri"], "why": "Menghubungkan sains dan manajemen." }
-    ],
-    "career_paths": ["Project Manager", "Engineer Senior", "Direktur Operasional"],
-    "extracurriculars": ["Organisasi mahasiswa teknik", "Kepanitiaan event besar", "Pelatihan kepemimpinan"]
-  },
-  "R_I_ENFJ": {
-    "profile_summary": "ENFJ Realistic-Investigative. Kamu komunikatif, idealis, dan suka menggabungkan penelitian dengan dampak sosial.",
-    "why_it_matches": [
-      "RIASEC Realistic-Investigative fokus pada riset dan eksperimen.",
-      "ENFJ menambah empati dan semangat memimpin orang lain.",
-      "Kombinasi ini membuatmu cocok di bidang riset terapan dengan orientasi manusia."
-    ],
-    "majors": [
-      { "name": "Psikologi", "specializations": ["Psikometri", "Psikologi Industri"], "why": "Menggabungkan riset ilmiah dengan aplikasi sosial." },
-      { "name": "Pendidikan Sains", "specializations": ["Metodologi Pembelajaran"], "why": "Cocok untuk yang ingin menyalurkan pengetahuan." }
-    ],
-    "career_paths": ["Psikolog Industri", "Dosen", "Konselor Pendidikan"],
-    "extracurriculars": ["Volunteer pendidikan", "Komunitas psikologi", "Mengajar adik kelas"]
-  },
-  "R_I_ISFJ": {
-    "profile_summary": "ISFJ Realistic-Investigative. Kamu teliti, sabar, dan peduli pada dampak pekerjaanmu.",
-    "why_it_matches": [
-      "RIASEC Realistic-Investigative menekankan detail teknis.",
-      "ISFJ menambah kesabaran dan dedikasi.",
-      "Kamu cocok di bidang medis dan penelitian yang memberi manfaat nyata."
-    ],
-    "majors": [
-      { "name": "Farmasi", "specializations": ["Formulasi Obat"], "why": "Membutuhkan ketelitian tinggi." },
-      { "name": "Keperawatan", "specializations": ["Teknologi Medis"], "why": "Menggabungkan sains dengan kepedulian sosial." }
-    ],
-    "career_paths": ["Apoteker", "Peneliti Medis", "Perawat Klinis"],
-    "extracurriculars": ["Volunteer rumah sakit", "Komunitas kesehatan", "Praktikum lab medis"]
-  },
-  "R_I_ESFJ": {
-    "profile_summary": "ESFJ Realistic-Investigative. Kamu ramah, teratur, dan suka melibatkan diri dalam aktivitas sosial berbasis sains.",
-    "why_it_matches": [
-      "RIASEC Realistic-Investigative menekankan eksperimen teknis.",
-      "ESFJ menambah kemampuan komunikasi dan kepedulian.",
-      "Kamu cocok di bidang yang menghubungkan teknologi dengan pelayanan publik."
-    ],
-    "majors": [
-      { "name": "Manajemen Kesehatan", "specializations": ["Administrasi Rumah Sakit"], "why": "Membutuhkan keterampilan organisasi dan sains." },
-      { "name": "Pendidikan Teknik", "specializations": ["Pengajaran Vokasi"], "why": "Mengajarkan keterampilan nyata pada generasi muda." }
-    ],
-    "career_paths": ["Manajer RS", "Guru SMK", "Konselor Karier"],
-    "extracurriculars": ["Bakti sosial", "Komunitas edukasi", "Mengajar privat"]
-  },
-  "R_I_ISTJ": {
-    "profile_summary": "ISTJ Realistic-Investigative. Kamu disiplin, teliti, dan suka menyelesaikan masalah dengan cara sistematis.",
-    "why_it_matches": [
-      "RIASEC Realistic-Investigative fokus pada stabilitas dan analisis.",
-      "ISTJ menambah struktur dan konsistensi.",
-      "Kamu cocok di bidang administrasi teknis maupun penelitian."
-    ],
-    "majors": [
-      { "name": "Akuntansi", "specializations": ["Audit Sistem Informasi"], "why": "Butuh detail-oriented dan analitis." },
-      { "name": "Teknik Industri", "specializations": ["Sistem Produksi"], "why": "Menghubungkan manajemen dan praktik teknis." }
-    ],
-    "career_paths": ["Auditor Sistem", "Engineer Proses", "Administrator Data"],
-    "extracurriculars": ["UKM Administrasi", "Pelatihan software ERP", "Organisasi keuangan kampus"]
-  },
-  "R_I_ISFP": {
-    "profile_summary": "ISFP Realistic-Investigative. Kamu tenang, peka, dan suka memadukan eksperimen dengan seni praktis.",
-    "why_it_matches": [
-      "RIASEC Realistic-Investigative fokus pada eksperimen nyata.",
-      "ISFP menambah sensitivitas artistik.",
-      "Kamu cocok di bidang sains terapan dengan kreativitas."
-    ],
-    "majors": [
-      { "name": "Desain Produk", "specializations": ["Produk Ramah Lingkungan"], "why": "Menghubungkan teknik dan seni." },
-      { "name": "Bioteknologi", "specializations": ["Lingkungan"], "why": "Menawarkan ruang kreativitas berbasis sains." }
-    ],
-    "career_paths": ["Desainer Produk", "Peneliti Lingkungan", "Entrepreneur Kreatif"],
-    "extracurriculars": ["Workshop desain", "Komunitas hijau", "Eksperimen DIY"]
-  },
-  "R_I_ESFP": {
-    "profile_summary": "ESFP Realistic-Investigative. Kamu spontan, ramah, dan suka mempraktikkan ide secara langsung.",
-    "why_it_matches": [
-      "RIASEC Realistic-Investigative fokus pada eksperimen praktis.",
-      "ESFP menambah energi dan antusiasme.",
-      "Kamu cocok di bidang yang menghubungkan riset dengan interaksi sosial."
-    ],
-    "majors": [
-      { "name": "Ilmu Komunikasi", "specializations": ["Media Teknologi"], "why": "Menghubungkan teknologi dengan interaksi." },
-      { "name": "Ilmu Olahraga", "specializations": ["Sains Kesehatan"], "why": "Menghubungkan riset dengan tubuh manusia." }
-    ],
-    "career_paths": ["Pelatih", "Public Speaker Teknologi", "Konsultan Kesehatan"],
-    "extracurriculars": ["Klub olahraga", "Organisasi event", "Komunitas digital"]
-  },
-  "R_I_INFJ": {
-    "profile_summary": "INFJ Realistic-Investigative. Kamu idealis, reflektif, dan suka menghubungkan riset dengan visi jangka panjang.",
-    "why_it_matches": [
-      "RIASEC Realistic-Investigative fokus pada riset nyata.",
-      "INFJ menambah visi kemanusiaan.",
-      "Kamu cocok di bidang riset dengan dampak sosial luas."
-    ],
-    "majors": [
-      { "name": "Psikologi", "specializations": ["Psikologi Riset"], "why": "Menggabungkan sains dengan pemahaman manusia." },
-      { "name": "Sosiologi", "specializations": ["Teknologi Sosial"], "why": "Menghubungkan data dengan masyarakat." }
-    ],
-    "career_paths": ["Peneliti Sosial", "Konselor Pendidikan", "Dosen"],
-    "extracurriculars": ["Volunteer sosial", "Komunitas riset", "Menulis opini"]
-  },
-  "R_I_ESTJ": {
-    "profile_summary": "ESTJ Realistic-Investigative. Kamu tegas, praktis, dan suka mengorganisir sistem kerja.",
-    "why_it_matches": [
-      "RIASEC Realistic-Investigative fokus pada praktik dan stabilitas.",
-      "ESTJ menambah kemampuan manajerial.",
-      "Kamu cocok di bidang engineering, manajemen produksi, dan logistik."
-    ],
-    "majors": [
-      { "name": "Teknik Sipil", "specializations": ["Infrastruktur"], "why": "Butuh keterampilan praktis dan manajemen." },
-      { "name": "Manajemen Operasional", "specializations": ["Supply Chain"], "why": "Menghubungkan teknis dan logistik." }
-    ],
-    "career_paths": ["Manajer Proyek", "Supervisor Produksi", "Konsultan Logistik"],
-    "extracurriculars": ["Organisasi bisnis", "Kepanitiaan besar", "Pelatihan manajemen"]
-  },
-  "R_I_ISTP": {
-    "profile_summary": "ISTP Realistic-Investigative. Kamu praktis, suka eksperimen, dan cepat menguasai teknologi baru.",
-    "why_it_matches": [
-      "RIASEC Realistic-Investigative fokus pada eksplorasi teknis.",
-      "ISTP menambah ketangkasan dan problem solving langsung.",
-      "Kamu cocok di bidang mekanik, teknologi, atau IT."
-    ],
-    "majors": [
-      { "name": "Teknik Mesin", "specializations": ["Otomotif"], "why": "Butuh keterampilan mekanik tinggi." },
-      { "name": "Teknik Informatika", "specializations": ["Keamanan Siber"], "why": "Menghubungkan praktik dengan teknologi mutakhir." }
-    ],
-    "career_paths": ["Mekanik Profesional", "Cybersecurity Engineer", "Programmer Embedded"],
-    "extracurriculars": ["Komunitas otomotif", "Kompetisi coding", "Workshop DIY"]
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "SAI",
+    "display_name": "The Inspiring Advocate",
+    "description": "Individu yang antusias dan imajinatif, didorong oleh interaksi sosial dan keinginan untuk membantu orang lain. Cenderung sosial, artistik, dan investigatif.",
+    "recommendations": {
+      "majors": [
+        "Psikologi",
+        "Ilmu Komunikasi",
+        "Hubungan Internasional",
+        "Jurnalistik"
+      ],
+      "professions": [
+        "Counselor",
+        "Public Relations Specialist",
+        "Human Resources Manager",
+        "Creative Director"
+      ]
+    }
   }
-}
+]
