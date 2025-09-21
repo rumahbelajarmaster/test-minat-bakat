@@ -96,3 +96,105 @@
     ]
   }
 ]
+,
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "RI",
+    "profile_title": "Sang Mekanik Teoretis",
+    "profile_tagline": "Pemecah masalah yang lebih suka membuktikan teori dengan tangan sendiri.",
+    "reason_why": "Minat utamamu ada pada hal-hal yang praktis dan nyata (Realistic), namun semua itu didasari oleh kebutuhan analitis untuk memahami 'mengapa' sistem itu bekerja (Investigative & INTP). Kamu adalah tipe orang yang membangun sesuatu untuk bisa memahaminya secara mendalam.",
+    "what_this_means": "Kamu adalah orang yang akan membaca seluruh manual sebelum menyentuh sebuah mesin, lalu mungkin akan membongkarnya hanya untuk melihat apakah kamu bisa merakitnya kembali dengan lebih baik. Kamu berkembang saat menghadapi masalah nyata yang memiliki prinsip-prinsip dasar yang kompleks.",
+    "strengths": ["Kemampuan troubleshooting yang luar biasa.", "Pemahaman mendalam dari teori hingga praktik.", "Sabar dan metodis dalam pekerjaan teknis.", "Mampu bekerja mandiri pada proyek yang rumit."],
+    "weaknesses": ["Mungkin kurang tertarik pada pekerjaan yang sifatnya abstrak murni.", "Bisa jadi kurang sabar dengan instruksi yang tidak jelas atau tidak logis.", "Cenderung lebih fokus pada objek/sistem daripada dinamika tim.", "Kurang menyukai tugas yang berulang tanpa ada tantangan baru."],
+    "recommended_majors": [
+      { "name": "Teknik Mesin", "reason": "Kombinasi sempurna antara prinsip fisika teoretis (Investigative) dan aplikasi perancangan mesin secara nyata (Realistic)." },
+      { "name": "Teknik Dirgantara (Aerospace Engineering)", "reason": "Memungkinkanmu menerapkan teori aerodinamika yang kompleks (Investigative) untuk merancang dan membangun pesawat (Realistic)." },
+      { "name": "Mekatronika", "reason": "Menggabungkan keahlian di bidang mekanik, elektronik, dan komputer untuk menciptakan sistem robotika yang canggih." }
+    ],
+    "career_recommendations": [
+      { "name": "Insinyur Mekanik atau R&D", "reason": "Kamu bisa merancang, menganalisis, dan menguji prototipe mekanik, dari mesin mobil hingga komponen satelit." },
+      { "name": "Teknisi Robotika", "reason": "Bekerja secara langsung dengan perangkat keras dan perangkat lunak robot, memastikan mereka berfungsi sesuai dengan desain teoretisnya." },
+      { "name": "Spesialis Prototyping", "reason": "Menerjemahkan desain konseptual menjadi produk fisik pertama yang bisa diuji dan divalidasi." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "AI",
+    "profile_title": "Sang Visioner Konseptual",
+    "profile_tagline": "Arsitek ide yang mengekspresikan sistem kompleks melalui medium kreatif.",
+    "reason_why": "Dorongan utamamu adalah ekspresi kreatif dan orisinalitas (Artistic), yang kamu gunakan sebagai 'kanvas' untuk menjelajahi sistem dan teori kompleks yang kamu sukai (Investigative & INTP). Kamu menciptakan sesuatu untuk mengeksplorasi sebuah ide.",
+    "what_this_means": "Kamu mungkin bukan seniman tradisional, tapi kamu menggunakan alat-alat kreatif (desain, tulisan, musik) untuk memodelkan dan menjelaskan konsep yang rumit. Kamu adalah tipe orang yang merancang infografis tentang fisika kuantum atau menulis novel fiksi ilmiah berdasarkan prinsip ilmiah yang kuat.",
+    "strengths": ["Mampu memvisualisasikan ide-ide yang sangat abstrak.", "Orisinalitas dalam pemecahan masalah.", "Kemampuan untuk membuat konsep yang kompleks menjadi menarik.", "Sangat inovatif."],
+    "weaknesses": ["Kadang ide-idemu terlalu 'di luar nalar' untuk bisa diwujudkan.", "Bisa cepat bosan dengan detail teknis implementasi.", "Membutuhkan kebebasan berekspresi yang tinggi.", "Kurang menyukai pekerjaan yang terstruktur dan repetitif."],
+    "recommended_majors": [
+      { "name": "Desain Komunikasi Visual (Spesialisasi Infografis)", "reason": "Kamu bisa menggunakan kreativitasmu (Artistic) untuk menyajikan data dan informasi kompleks (Investigative) secara visual." },
+      { "name": "Arsitektur", "reason": "Mengekspresikan konsep ruang dan bentuk (Artistic) yang didasari oleh perhitungan dan prinsip rekayasa yang kuat (Investigative)." },
+      { "name": "Desain Game", "reason": "Menciptakan dunia dan aturan permainan (Artistic) yang didasari oleh logika dan sistem yang seimbang (Investigative)." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Infografis atau Visualisasi Data", "reason": "Mengubah data mentah yang rumit menjadi cerita visual yang mudah dipahami dan menarik." },
+      { "name": "Arsitek Konseptual", "reason": "Fokus pada tahap awal perancangan, menghasilkan ide-ide bangunan yang visioner dan inovatif." },
+      { "name": "World Builder (untuk Game atau Film)", "reason": "Menciptakan sejarah, budaya, dan aturan fisika untuk dunia fiksi, membutuhkan riset dan imajinasi yang kuat." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "SI",
+    "profile_title": "Sang Pendidik Analitis",
+    "profile_tagline": "Pemikir sistem yang termotivasi untuk berbagi pengetahuan dan membantu orang lain memahami dunia.",
+    "reason_why": "Dorongan utamamu adalah untuk membantu dan berinteraksi dengan orang lain (Social), namun caramu membantu adalah dengan membagikan pengetahuan yang mendalam dan telah diteliti dengan baik (Investigative & INTP). Kamu mengajar untuk menyederhanakan kerumitan bagi orang lain.",
+    "what_this_means": "Kamu adalah seorang guru atau mentor alami yang unggul dalam mengurai topik-topik kompleks menjadi bagian-bagian yang logis dan mudah dipahami. Kamu menikmati saat melihat orang lain mengalami momen 'aha!' ketika sebuah ide rumit akhirnya 'klik'. Kamu adalah seorang penjelas yang sabar.",
+    "strengths": ["Kemampuan menjelaskan konsep sulit dengan sederhana.", "Sabar dalam membimbing orang lain.", "Memberikan bantuan yang didasari oleh data dan logika.", "Mampu melihat masalah dari sudut pandang orang lain secara analitis."],
+    "weaknesses": ["Mungkin kurang nyaman dalam situasi yang membutuhkan dukungan emosional murni.", "Bisa jadi terlalu fokus pada 'apa' dan 'mengapa' dan lupa pada 'bagaimana perasaan' orang.", "Membutuhkan banyak waktu sendiri untuk memulihkan energi setelah mengajar.", "Tidak suka berurusan dengan birokrasi dalam sistem pendidikan."],
+    "recommended_majors": [
+      { "name": "Pendidikan (Spesialisasi Sains/Matematika)", "reason": "Sangat cocok untuk menyalurkan minatmu dalam mengajar (Social) di bidang yang kamu kuasai secara analitis (Investigative)." },
+      { "name": "Ilmu Perpustakaan dan Informasi", "reason": "Membantu orang (Social) dengan cara mengorganisir dan menyediakan akses ke pengetahuan (Investigative)." },
+      { "name": "Psikologi Pendidikan", "reason": "Mempelajari cara orang belajar (Investigative) untuk menciptakan metode pengajaran yang lebih efektif (Social)." }
+    ],
+    "career_recommendations": [
+      { "name": "Dosen atau Guru (Bidang STEM)", "reason": "Kamu bisa melakukan riset mendalam sekaligus berbagi pengetahuan dengan generasi berikutnya." },
+      { "name": "Instructional Designer", "reason": "Merancang kurikulum dan materi pembelajaran yang efektif dan logis berdasarkan teori belajar." },
+      { "name": "Spesialis Pelatihan (Corporate Trainer)", "reason": "Mengajarkan keterampilan teknis atau sistem baru kepada karyawan di sebuah perusahaan." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "EI",
+    "profile_title": "Sang Arsitek Usaha",
+    "profile_tagline": "Pemimpin visioner yang membangun sistem inovatif berdasarkan analisis mendalam.",
+    "reason_why": "Dorongan utamamu adalah untuk memimpin, memengaruhi, dan membangun sesuatu yang berdampak (Enterprising), dengan menggunakan kemampuan analitis dan risetmu yang mendalam (Investigative & INTP) sebagai fondasinya. Kamu membangun usaha berdasarkan ketajaman intelektual.",
+    "what_this_means": "Kamu bukan hanya seorang pemimpi; kamu adalah seorang pembangun sistem dan bisnis. Kamu mampu melihat peluang yang dilewatkan orang lain karena kamu dapat menganalisis struktur dasar sebuah pasar atau teknologi dan menyusun rencana logis untuk memanfaatkannya.",
+    "strengths": ["Visioner dan strategis.", "Mampu menerjemahkan analisis kompleks menjadi peluang bisnis.", "Percaya diri dalam mengambil keputusan berbasis data.", "Sangat baik dalam memimpin proyek-proyek inovatif."],
+    "weaknesses": ["Mungkin tidak sabar dengan birokrasi atau proses yang lambat.", "Cenderung kurang tertarik pada detail operasional sehari-hari.", "Bisa dianggap terlalu argumentatif saat mempertahankan ide.", "Membutuhkan tim yang kompeten untuk mengeksekusi visinya."],
+    "recommended_majors": [
+      { "name": "Technopreneurship", "reason": "Jurusan yang secara langsung melatihmu untuk mengubah ide teknologi (Investigative) menjadi bisnis yang nyata (Enterprising)." },
+      { "name": "Manajemen Bisnis (Spesialisasi Strategi)", "reason": "Mempelajari cara menganalisis pasar dan persaingan (Investigative) untuk menciptakan keunggulan kompetitif (Enterprising)." },
+      { "name": "Sistem Informasi", "reason": "Fokus pada perancangan sistem teknologi untuk menyelesaikan masalah bisnis, yang merupakan inti dari banyak startup." }
+    ],
+    "career_recommendations": [
+      { "name": "CEO/CTO Startup Teknologi", "reason": "Posisi yang ideal untuk memimpin sebuah perusahaan yang dibangun di atas fondasi inovasi teknologimu." },
+      { "name": "Konsultan Strategi", "reason": "Membantu perusahaan besar memecahkan masalah paling menantang mereka dengan analisis tajam dan solusi inovatif." },
+      { "name": "Analis Venture Capital", "reason": "Menganalisis potensi startup teknologi (Investigative) untuk memutuskan mana yang layak didanai (Enterprising)." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "CI",
+    "profile_title": "Sang Pengelola Sistem Informasi",
+    "profile_tagline": "Analis yang presisi, yang menciptakan keteraturan dan efisiensi melalui data.",
+    "reason_why": "Dorongan utamamu adalah pada keteraturan, struktur, dan akurasi (Conventional), yang kamu terapkan pada sistem informasi kompleks yang suka kamu analisis (Investigative & INTP). Kamu mengorganisir data untuk mengoptimalkan sistem.",
+    "what_this_means": "Kamu adalah seorang master dalam mengelola data yang rumit. Kamu menemukan kepuasan mendalam saat membuat database yang efisien, menulis kode yang bersih, dan memastikan informasi mengalir secara logis tanpa kesalahan. Kamu adalah fondasi dari setiap organisasi yang berbasis data.",
+    "strengths": ["Sangat akurat dan teliti.", "Hebat dalam menemukan kesalahan atau anomali dalam data.", "Mampu merancang sistem yang sangat efisien.", "Sangat terorganisir dan dapat diandalkan."],
+    "weaknesses": ["Tidak menyukai data yang berantakan atau tidak terstruktur.", "Bisa menjadi kurang fleksibel jika ada perubahan mendadak pada sistem.", "Cenderung fokus pada data dan proses, bukan pada orang.", "Membutuhkan lingkungan kerja yang tenang dan dapat diprediksi."],
+    "recommended_majors": [
+      { "name": "Manajemen Informatika atau Sistem Informasi", "reason": "Fokus pada perancangan dan pengelolaan sistem informasi yang terstruktur (Conventional) dan efisien (Investigative)." },
+      { "name": "Sains Data", "reason": "Menggabungkan kemampuan analisis statistik (Investigative) dengan proses pengolahan data yang teliti dan metodis (Conventional)." },
+      { "name": "Akuntansi Sistem Informasi", "reason": "Spesialisasi yang sempurna untuk menganalisis dan mengaudit sistem keuangan digital yang kompleks." }
+    ],
+    "career_recommendations": [
+      { "name": "Database Administrator", "reason": "Bertanggung jawab untuk merancang, mengelola, dan menjaga keamanan database yang menjadi tulang punggung perusahaan." },
+      { "name": "Analis Sistem (Systems Analyst)", "reason": "Menganalisis kebutuhan bisnis dan merancang solusi sistem IT yang efisien dan terstruktur." },
+      { "name": "Auditor IT", "reason": "Memastikan sistem informasi sebuah perusahaan aman, akurat, dan sesuai dengan regulasi (Conventional & Investigative)." }
+    ]
+  }
+]
