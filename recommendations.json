@@ -2143,3 +2143,464 @@
     ]
   }
 ]
+{
+    "mbti_type": "INFJ",
+    "riasec_code": "SA",
+    "profile_title": "Sang Konselor Visioner",
+    "profile_tagline": "Seorang penyembuh yang menggunakan wawasan mendalam dan kreativitas untuk membimbing orang lain.",
+    "reason_why": "Ini adalah kombinasi INFJ yang paling murni. Visimu yang mendalam tentang potensi manusia (Ni) dan empatimu yang kuat (Fe) sangat selaras dengan minat untuk membantu orang lain (Social) dan mengekspresikan ide-ide kompleks melalui cara-cara yang kreatif dan simbolis (Artistic).",
+    "what_this_means": "Kamu terlahir untuk menjadi seorang konselor, terapis, atau pembimbing. Kamu memiliki kemampuan langka untuk memahami apa yang tidak terucapkan dan melihat potensi terbaik dalam diri orang lain. Kamu tidak hanya mendengarkan; kamu membantu orang lain menulis ulang cerita hidup mereka. Kamu berkembang saat bisa membangun hubungan yang dalam dan membantu orang lain menemukan makna.",
+    "strengths": ["Sangat empatik dan berwawasan.", "Mampu memahami motivasi dan perasaan orang lain yang tersembunyi.", "Komunikator yang hangat dan inspiratif.", "Kreatif dalam menemukan solusi untuk masalah manusia."],
+    "weaknesses": ["Bisa menyerap emosi orang lain secara berlebihan (emotional burnout).", "Cenderung terlalu idealis dan mudah kecewa.", "Sangat perfeksionis dalam usahanya membantu orang.", "Kesulitan untuk menetapkan batasan dan bisa dieksploitasi."],
+    "recommended_majors": [
+      { "name": "Psikologi (Konseling atau Klinis)", "reason": "Secara langsung melatihmu untuk memahami jiwa manusia (Social) dan menggunakan berbagai pendekatan, termasuk yang kreatif (Artistic), untuk membantu." },
+      { "name": "Pekerjaan Sosial (Social Work)", "reason": "Memberikan kerangka kerja praktis untuk membantu individu dan komunitas mengatasi tantangan hidup." },
+      { "name": "Pendidikan (Bimbingan dan Konseling)", "reason": "Fokus pada penerapan prinsip psikologis untuk membimbing siswa dalam perkembangan pribadi dan akademik mereka." }
+    ],
+    "career_recommendations": [
+      { "name": "Terapis atau Psikolog", "reason": "Peran di mana kamu bisa menggunakan wawasan dan empatimu secara mendalam untuk membantu individu." },
+      { "name": "Konselor Sekolah atau Karier", "reason": "Membimbing orang lain di persimpangan jalan penting dalam hidup mereka, membantu mereka melihat potensi mereka." },
+      { "name": "Pekerja Sosial Klinis", "reason": "Memberikan terapi dan dukungan kepada individu dan keluarga yang menghadapi krisis atau tantangan yang kompleks." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "SI",
+    "profile_title": "Sang Peneliti Kemanusiaan",
+    "profile_tagline": "Seorang pemikir mendalam yang mendedikasikan analisisnya untuk memahami kondisi manusia.",
+    "reason_why": "Kamu menggabungkan keinginanmu yang tulus untuk membantu dan memahami orang lain (Social) dengan minat yang mendalam pada riset, teori, dan analisis (Investigative). Visi (Ni) dan empati (Fe) milikmu memberimu perspektif yang unik dalam penelitian tentang manusia.",
+    "what_this_means": "Kamu adalah seorang ilmuwan sosial di hati. Kamu tidak puas hanya dengan membantu satu orang pada satu waktu; kamu ingin memahami akar penyebab dari masalah sosial atau psikologis. Kamu adalah tipe orang yang akan menjadi seorang sosiolog, antropolog, atau psikolog riset, mencari pola-pola besar dalam perilaku manusia untuk menciptakan perubahan yang lebih luas.",
+    "strengths": ["Mampu melakukan riset yang mendalam tentang topik-topik kemanusiaan.", "Memiliki wawasan yang tajam tentang pola-pola sosial dan psikologis.", "Didorong oleh tujuan yang kuat untuk memberikan kontribusi pengetahuan.", "Empati yang memberimu perspektif unik dalam penelitianmu."],
+    "weaknesses": ["Bisa menjadi terlalu teoretis dan kurang terhubung dengan aplikasi praktis.", "Cenderung bekerja sendiri dan bisa terisolasi.", "Sangat idealis tentang dampak yang bisa dihasilkan oleh penelitiannya.", "Pekerjaan bisa sangat menguras energi mental."],
+    "recommended_majors": [
+      { "name": "Sosiologi atau Antropologi", "reason": "Mempelajari masyarakat dan budaya (Social) melalui metode penelitian yang sistematis (Investigative)." },
+      { "name": "Psikologi (Jalur Riset)", "reason": "Fokus pada pelaksanaan studi ilmiah untuk memahami pikiran dan perilaku manusia." },
+      { "name": "Sejarah", "reason": "Menganalisis masa lalu untuk memahami pola-pola yang membentuk kondisi manusia saat ini." }
+    ],
+    "career_recommendations": [
+      { "name": "Peneliti Sosial (Social Researcher)", "reason": "Bekerja untuk universitas atau lembaga think tank, mempelajari isu-isu seperti kemiskinan, pendidikan, atau kesehatan." },
+      { "name": "Dosen Ilmu Sosial atau Humaniora", "reason": "Melakukan riset dan berbagi pengetahuanmu dengan generasi berikutnya." },
+      { "name": "Analis Kebijakan Publik", "reason": "Menggunakan risetmu untuk memberikan rekomendasi kepada pemerintah tentang cara memperbaiki kebijakan sosial." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "SE",
+    "profile_title": "Sang Advokat Pergerakan",
+    "profile_tagline": "Seorang pemimpin yang menginspirasi dan mengorganisir orang untuk sebuah tujuan mulia.",
+    "reason_why": "Kombinasi ini menyatukan doronganmu untuk melayani dan memberdayakan orang lain (Social) dengan kemampuan untuk memimpin, memengaruhi, dan mengorganisir (Enterprising). Visi (Ni) dan karisma empatikmu (Fe) membuatmu menjadi seorang pemimpin gerakan sosial yang sangat kuat.",
+    "what_this_means": "Kamu adalah seorang Martin Luther King Jr. atau Nelson Mandela di hati. Kamu memiliki visi yang jelas tentang dunia yang lebih baik, dan kamu memiliki kemampuan langka untuk mengartikulasikan visi itu dengan cara yang menggerakkan hati dan pikiran orang lain. Kamu tidak hanya bermimpi; kamu membangun sebuah gerakan.",
+    "strengths": ["Sangat inspiratif dan karismatik.", "Memiliki visi moral yang kuat dan jelas.", "Pandai menyatukan orang dari berbagai latar belakang.", "Strategis dan gigih dalam memperjuangkan tujuannya."],
+    "weaknesses": ["Bisa menempatkan tujuan di atas kesejahteraan pribadi, rentan terhadap burnout.", "Sangat idealis dan bisa sangat terpukul oleh kemunduran atau pengkhianatan.", "Cenderung memikul beban seluruh gerakan di pundaknya.", "Bisa kesulitan mendelegasikan karena merasa hanya dia yang benar-benar memahami visinya."],
+    "recommended_majors": [
+      { "name": "Ilmu Politik atau Hubungan Internasional", "reason": "Mempelajari sistem kekuasaan sehingga kamu bisa menavigasinya untuk menciptakan perubahan." },
+      { "name": "Hukum", "reason": "Memberimu alat yang kuat untuk memperjuangkan keadilan dan hak asasi manusia." },
+      { "name": "Manajemen Nirlaba (Non-Profit Management)", "reason": "Mempelajari cara membangun dan memimpin organisasi yang efektif untuk tujuan sosial." }
+    ],
+    "career_recommendations": [
+      { "name": "Pemimpin Organisasi Nirlaba atau Aktivis", "reason": "Mendedikasikan hidupmu untuk memperjuangkan sebuah isu yang kamu yakini." },
+      { "name": "Politisi", "reason": "Menggunakan platform politik untuk memperjuangkan kebijakan yang mencerminkan nilaimu." },
+      { "name": "Pengacara Hak Asasi Manusia", "reason": "Membela individu atau kelompok yang hak-haknya dilanggar." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "IA",
+    "profile_title": "Sang Penulis Jiwa",
+    "profile_tagline": "Seorang seniman yang karyanya menyelami kedalaman kondisi manusia.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada analisis dan pemahaman (Investigative) dengan hasrat untuk berekspresi melalui medium yang simbolis dan kreatif (Artistic). Sebagai seorang INFJ, fokus dari semua ini adalah untuk menjelajahi dan mengungkapkan kebenaran tentang jiwa manusia, moralitas, dan makna hidup.",
+    "what_this_means": "Kamu adalah seorang penulis, penyair, atau pembuat film di hati. Kamu memiliki dunia batin yang sangat kaya dan kemampuan untuk melihat pola dan makna yang tersembunyi dalam kehidupan. Kamu menggunakan senimu bukan hanya untuk hiburan, tetapi sebagai cara untuk bergulat dengan pertanyaan-pertanyaan besar dan untuk terhubung dengan orang lain pada tingkat yang sangat dalam.",
+    "strengths": ["Memiliki kedalaman wawasan yang luar biasa.", "Sangat kreatif dan simbolis dalam berekspresi.", "Mampu menciptakan karya yang menggugah emosi dan pikiran.", "Didorong oleh tujuan yang kuat untuk menyampaikan kebenaran."],
+    "weaknesses": ["Bisa menjadi sangat perfeksionis dengan karyanya.", "Proses kreatif bisa sangat menguras energi emosional.", "Sangat sensitif terhadap kritik.", "Cenderung terisolasi dan bekerja sendiri."],
+    "recommended_majors": [
+      { "name": "Sastra, Penulisan Kreatif, atau Filsafat", "reason": "Jurusan yang secara langsung memberimu alat untuk mengeksplorasi dan mengekspresikan ide-ide kompleks tentang kemanusiaan." },
+      { "name": "Psikologi", "reason": "Memberikan pemahaman ilmiah tentang jiwa manusia, yang menjadi bahan bakar untuk karya kreatifmu." },
+      { "name": "Studi Film", "reason": "Mempelajari bahasa visual sebagai cara untuk menceritakan kisah yang mendalam dan berlapis." }
+    ],
+    "career_recommendations": [
+      { "name": "Penulis Novel atau Penyair", "reason": "Menciptakan dunia dan karakter yang mengeksplorasi kedalaman pengalaman manusia." },
+      { "name": "Penulis Naskah atau Sutradara Film", "reason": "Menceritakan kisah yang kuat melalui medium audiovisual." },
+      { "name": "Dosen Sastra atau Humaniora", "reason": "Menganalisis karya-karya besar dan membantu orang lain memahami makna yang terkandung di dalamnya." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "IC",
+    "profile_title": "Sang Kurator Pengetahuan",
+    "profile_tagline": "Seorang organisator yang merancang sistem pengetahuan untuk mencerahkan orang lain.",
+    "reason_why": "Kombinasi ini menyatukan minatmu yang mendalam pada riset dan pemahaman (Investigative) dengan kecintaan pada struktur, akurasi, dan keteraturan (Conventional). Sebagai seorang INFJ, kamu melakukan ini bukan untuk data itu sendiri, tetapi karena kamu percaya bahwa pengetahuan yang terorganisir dengan baik adalah alat yang kuat untuk pencerahan dan pengembangan diri.",
+    "what_this_means": "Kamu adalah seorang pustakawan, arsiparis, atau arsitek informasi yang idealis. Kamu menikmati proses mengambil informasi yang kompleks dan menyusunnya ke dalam sistem yang indah dan logis. Kamu adalah tipe orang yang akan merancang sistem katalog perpustakaan yang sempurna atau mengkurasi sebuah database online, dengan tujuan akhir agar orang lain dapat dengan mudah belajar dan bertumbuh.",
+    "strengths": ["Sangat baik dalam mengkategorikan dan menstrukturkan informasi.", "Memiliki visi tentang bagaimana pengetahuan seharusnya diorganisir.", "Sangat teliti, metodis, dan dapat diandalkan.", "Didorong oleh misi untuk melestarikan dan menyebarkan pengetahuan."],
+    "weaknesses": ["Bisa menjadi sangat kaku dengan sistem yang telah dirancangnya.", "Perfeksionis dan bisa terjebak dalam detail pengorganisasian.", "Cenderung lebih suka bekerja dengan informasi daripada dengan orang secara langsung.", "Bisa frustrasi dengan kekacauan atau ketidakteraturan."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan dan Informasi", "reason": "Jurusan yang secara langsung melatihmu untuk menjadi seorang ahli dalam mengelola dan mengorganisir pengetahuan." },
+      { "name": "Sejarah atau Museologi", "reason": "Fokus pada pelestarian dan pengorganisasian artefak dan dokumen bersejarah." },
+      { "name": "Arsitektur Informasi atau Desain UX", "reason": "Menerapkan prinsip pengorganisasian pada dunia digital untuk membantu pengguna menemukan informasi." }
+    ],
+    "career_recommendations": [
+      { "name": "Pustakawan (Akademik atau Riset)", "reason": "Membangun dan mengelola koleksi pengetahuan untuk sebuah komunitas pembelajar." },
+      { "name": "Arsiparis atau Kurator Museum", "reason": "Melestarikan dan memberikan akses ke warisan budaya dan sejarah." },
+      { "name": "Arsitek Informasi", "reason": "Merancang struktur navigasi dan konten untuk situs web atau aplikasi yang kompleks." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "IR",
+    "profile_title": "Sang Dokter Holistik",
+    "profile_tagline": "Seorang penyembuh yang menggabungkan analisis ilmiah dengan pemahaman mendalam tentang pasien.",
+    "reason_why": "Kamu menggabungkan minat yang kuat pada ilmu pengetahuan dan riset (Investigative) dengan fokus pada aplikasi praktis di dunia nyata (Realistic), semua didorong oleh visi INFJ untuk menyembuhkan. Kamu melihat pasien bukan sebagai sekumpulan gejala, tetapi sebagai manusia utuh.",
+    "what_this_means": "Kamu sangat cocok untuk profesi di bidang medis. Kamu adalah tipe dokter atau ilmuwan medis yang tidak hanya brilian secara teknis, tetapi juga memiliki 'insting' atau intuisi yang tajam tentang apa yang sebenarnya terjadi pada pasien. Kamu mampu melihat pola-pola halus yang mungkin dilewatkan oleh orang lain dan sangat peduli pada kesejahteraan pasien secara keseluruhan.",
+    "strengths": ["Kemampuan diagnostik yang tajam dan intuitif.", "Menggabungkan kompetensi ilmiah dengan kepedulian yang tulus.", "Sangat teliti dan berdedikasi.", "Mampu menjelaskan kondisi medis yang kompleks dengan empati."],
+    "weaknesses": ["Pekerjaan bisa sangat menguras energi emosional dan fisik.", "Bisa menjadi terlalu terlibat secara personal dengan penderitaan pasien.", "Sangat perfeksionis dan sulit memaafkan diri sendiri jika terjadi kesalahan.", "Cenderung bekerja terlalu keras dan mengabaikan kebutuhan diri sendiri."],
+    "recommended_majors": [
+      { "name": "Kedokteran", "reason": "Jalan yang paling langsung untuk menerapkan ilmu (Investigative & Realistic) untuk tujuan menyembuhkan orang (visi INFJ)." },
+      { "name": "Ilmu Biomedis atau Bioteknologi", "reason": "Fokus pada riset di belakang layar untuk menemukan obat atau terapi baru." },
+      { "name": "Farmasi", "reason": "Menggabungkan pengetahuan kimia yang mendalam dengan interaksi langsung untuk membantu pasien." }
+    ],
+    "career_recommendations": [
+      { "name": "Dokter (terutama spesialis seperti psikiater, neurolog, atau dokter keluarga)", "reason": "Peran yang membutuhkan kombinasi antara analisis ilmiah yang tajam dan hubungan pasien yang kuat." },
+      { "name": "Ilmuwan Riset Medis", "reason": "Bekerja di laboratorium untuk menemukan penyebab dan obat untuk penyakit." },
+      { "name": "Psikiater", "reason": "Profesi yang secara sempurna menggabungkan pemahaman tentang otak (Realistic/Investigative) dan jiwa (Social/INFJ)." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "AS",
+    "profile_title": "Sang Guru Inspiratif",
+    "profile_tagline": "Seorang pendidik yang menggunakan kreativitas dan empati untuk membuka pikiran siswa.",
+    "reason_why": "Dorongan utamamu adalah untuk membimbing dan membantu orang lain (Social), dan kamu melakukannya melalui medium yang kreatif, ekspresif, dan penuh makna (Artistic). Sebagai seorang INFJ, kamu melihat pendidikan bukan sebagai transfer informasi, tetapi sebagai proses menyalakan api keingintahuan dan pengembangan karakter.",
+    "what_this_means": "Kamu adalah tipe guru sastra, sejarah, atau seni yang akan mengubah hidup siswamu. Kamu mampu menciptakan lingkungan belajar yang aman dan inspiratif di mana siswa merasa didengar dan termotivasi untuk mengekspresikan diri. Kamu mengajar dengan cerita, metafora, dan dengan menghubungkan materi pelajaran dengan kehidupan siswa.",
+    "strengths": ["Sangat inspiratif dan mampu membangkitkan semangat belajar.", "Kreatif dalam metode pengajaran.", "Sangat empatik dan peduli pada setiap siswa sebagai individu.", "Mampu menjelaskan ide-ide abstrak dengan cara yang menarik."],
+    "weaknesses": ["Bisa menjadi terlalu idealis tentang sistem pendidikan.", "Sangat terpengaruh oleh atmosfer emosional di dalam kelas.", "Kesulitan menghadapi siswa yang sinis atau tidak mau berpartisipasi.", "Pekerjaan bisa sangat menguras energi emosional."],
+    "recommended_majors": [
+      { "name": "Pendidikan (dengan spesialisasi Sastra, Sejarah, atau Seni)", "reason": "Secara langsung mempersiapkanmu untuk mengajar (Social) mata pelajaran yang kamu sukai secara kreatif (Artistic)." },
+      { "name": "Sastra atau Humaniora", "reason": "Memberimu pemahaman yang mendalam tentang kondisi manusia, yang menjadi bahan bakar untuk pengajaranmu." },
+      { "name": "Psikologi Pendidikan", "reason": "Mempelajari cara siswa belajar dan berkembang, membantumu menjadi guru yang lebih efektif." }
+    ],
+    "career_recommendations": [
+      { "name": "Guru (terutama Sastra, Sejarah, Seni, atau Drama)", "reason": "Peran di mana kamu bisa secara langsung membentuk pikiran dan hati generasi berikutnya." },
+      { "name": "Pengembang Kurikulum", "reason": "Merancang materi pembelajaran yang tidak hanya informatif tetapi juga menarik dan bermakna." },
+      { "name": "Pustakawan Sekolah", "reason": "Menciptakan ruang yang aman dan inspiratif bagi siswa untuk jatuh cinta pada buku dan pengetahuan." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "AI",
+    "profile_title": "Sang Desainer Humanis",
+    "profile_tagline": "Seorang perancang yang visinya berpusat pada penciptaan pengalaman yang bermakna bagi manusia.",
+    "reason_why": "Kamu menggabungkan hasrat untuk menciptakan sesuatu yang baru dan indah (Artistic) dengan analisis yang mendalam tentang bagaimana ciptaan itu akan memengaruhi kehidupan manusia (Investigative). Sebagai seorang INFJ, kamu tidak hanya mendesain objek atau ruang; kamu merancang emosi dan interaksi.",
+    "what_this_means": "Kamu adalah seorang desainer UX atau arsitek yang berpusat pada manusia. Kamu terobsesi dengan pertanyaan 'Bagaimana ini akan membuat orang merasa?' atau 'Bagaimana ini akan meningkatkan kualitas hidup mereka?'. Kamu menggunakan intuisimu untuk memahami kebutuhan pengguna yang tidak terucapkan dan kemudian merancang solusi yang tidak hanya fungsional, tetapi juga intuitif dan menyenangkan secara emosional.",
+    "strengths": ["Memiliki empati yang mendalam terhadap pengguna.", "Mampu merancang pengalaman yang intuitif dan bermakna.", "Visioner dan memiliki standar estetika yang tinggi.", "Sangat baik dalam riset kualitatif untuk memahami pengguna."],
+    "weaknesses": ["Bisa menjadi terlalu idealis dan sulit menerima kompromi desain.", "Sangat terikat secara personal pada desainnya, sensitif terhadap kritik.", "Mungkin kurang tertarik pada aspek teknis atau bisnis dari proyek.", "Proses desainnya bisa lambat karena didasarkan pada refleksi yang mendalam."],
+    "recommended_majors": [
+      { "name": "Desain Pengalaman Pengguna (UX Design) atau Desain Interaksi", "reason": "Fokus pada riset tentang manusia (Investigative) untuk merancang produk digital yang lebih baik (Artistic)." },
+      { "name": "Arsitektur atau Desain Interior", "reason": "Merancang ruang fisik yang dapat memengaruhi suasana hati dan perilaku penghuninya." },
+      { "name": "Psikologi Kognitif atau Human-Computer Interaction (HCI)", "reason": "Memberikan dasar ilmiah tentang bagaimana manusia berpikir dan berinteraksi dengan teknologi." }
+    ],
+    "career_recommendations": [
+      { "name": "Periset UX (UX Researcher)", "reason": "Melakukan wawancara mendalam dan studi etnografi untuk memahami kebutuhan dan rasa frustrasi pengguna." },
+      { "name": "Desainer UX/UI", "reason": "Menerjemahkan wawasan tentang pengguna menjadi alur dan antarmuka aplikasi yang intuitif dan indah." },
+      { "name": "Arsitek (dengan fokus pada perumahan atau ruang publik)", "reason": "Merancang bangunan yang benar-benar meningkatkan kualitas hidup orang-orang di dalamnya." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "AE",
+    "profile_title": "Sang Produser Misi",
+    "profile_tagline": "Seorang pemimpin kreatif yang membangun platform untuk menyebarkan pesan-pesan penting.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan membangun sebuah usaha (Enterprising) dengan hasrat untuk menciptakan karya yang memiliki makna dan dampak budaya (Artistic). Sebagai seorang INFJ, kamu tidak tertarik pada bisnis demi bisnis; kamu tertarik pada bisnis sebagai kendaraan untuk menyebarkan sebuah ide atau visi.",
+    "what_this_means": "Kamu adalah tipe orang yang akan mendirikan sebuah rumah produksi film dokumenter, sebuah perusahaan penerbitan buku-buku bermutu, atau sebuah agensi kreatif yang hanya mengerjakan klien dengan misi sosial. Kamu memiliki visi artistik dan kemampuan untuk mengorganisir, menggalang dana, dan memimpin tim untuk mewujudkannya dalam skala yang besar.",
+    "strengths": ["Didorong oleh visi dan misi yang kuat.", "Mampu menginspirasi tim kreatif untuk bekerja demi tujuan bersama.", "Strategis dalam membangun merek atau platform yang bermakna.", "Pandai menyeimbangkan antara idealisme artistik dan kebutuhan bisnis."],
+    "weaknesses": ["Bisa menjadi sangat selektif dan menolak proyek yang tidak sesuai dengan misinya, meskipun menguntungkan.", "Sangat idealis dan bisa kecewa dengan realitas industri.", "Cenderung memikul terlalu banyak beban emosional dan finansial dari usahanya.", "Bisa kesulitan mendelegasikan karena merasa visinya sangat personal."],
+    "recommended_majors": [
+      { "name": "Manajemen Industri Kreatif", "reason": "Mempelajari cara memimpin bisnis (Enterprising) yang bergerak di bidang seni dan media (Artistic)." },
+      { "name": "Kewirausahaan Sosial", "reason": "Fokus pada pembangunan usaha yang memiliki misi sosial atau budaya sebagai intinya." },
+      { "name": "Produksi Film atau Jurnalistik", "reason": "Memberikan keterampilan praktis untuk menciptakan konten, yang kemudian bisa kamu kembangkan menjadi sebuah usaha." }
+    ],
+    "career_recommendations": [
+      { "name": "Produser Film atau Dokumenter", "reason": "Memimpin produksi sebuah karya audiovisual yang memiliki pesan penting." },
+      { "name": "Penerbit (Publisher)", "reason": "Membangun sebuah rumah penerbitan yang dikenal karena kualitas dan visinya." },
+      { "name": "Pendiri Agensi Kreatif atau Konsultan Merek", "reason": "Membantu organisasi-organisasi yang memiliki misi untuk mengkomunikasikan cerita mereka dengan lebih efektif." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "AC",
+    "profile_title": "Sang Manajer Merek Global",
+    "profile_tagline": "Seorang ahli strategi yang membangun dan menjaga konsistensi merek di seluruh dunia.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mempromosikan sebuah merek (Enterprising) dengan apresiasi yang mendalam terhadap kreativitas (Artistic) dan kebutuhan akan aturan dan konsistensi yang ketat (Conventional). Kamu adalah seorang penjaga gerbang identitas sebuah merek.",
+    "what_this_means": "Kamu sangat cocok untuk peran sebagai manajer merek di perusahaan multinasional. Kamu adalah orang yang akan memastikan bahwa logo, pesan, dan pengalaman merek tetap konsisten, dari iklan di TV hingga kemasan produk di toko. Kamu merancang 'panduan merek' (brand guidelines) dan secara tegas memastikan semua orang mematuhinya.",
+    "strengths": ["Sangat strategis dalam membangun citra merek.", "Mampu mengelola kampanye pemasaran yang kompleks dan konsisten.", "Sangat terorganisir dan berorientasi pada detail.", "Tegas dalam menjaga integritas merek."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan menolak ide-ide kreatif yang 'di luar merek'.", "Mungkin menghambat kreativitas tim lokal demi konsistensi global.", "Cenderung kurang fleksibel terhadap tren pasar yang cepat berubah.", "Bisa terlihat birokratis bagi tim kreatif."],
+    "recommended_majors": [
+      { "name": "Manajemen Merek (Brand Management) atau Pemasaran", "reason": "Secara langsung mempelajari cara membangun, mengelola, dan melindungi aset tak berwujud yang paling berharga dari sebuah perusahaan." },
+      { "name": "Komunikasi", "reason": "Fokus pada bagaimana pesan sebuah merek disampaikan secara konsisten melalui berbagai saluran." },
+      { "name": "Desain Komunikasi Visual (dengan minat pada strategi)", "reason": "Memahami dasar-dasar visual dari sebuah merek, yang penting untuk dikelola." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Merek (Brand Manager) atau Direktur Merek", "reason": "Bertanggung jawab atas kesehatan dan strategi jangka panjang sebuah merek." },
+      { "name": "Ahli Strategi Periklanan (Advertising Strategist)", "reason": "Merancang kerangka kerja strategis untuk kampanye periklanan, memastikan semua materi kreatif sesuai dengan tujuan merek." },
+      { "name": "Manajer Pemasaran Global", "reason": "Mengadaptasi dan mengelola strategi pemasaran sebuah merek di berbagai negara dan budaya." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "AR",
+    "profile_title": "Sang Pengrajin Simbolis",
+    "profile_tagline": "Seorang kreator yang menuangkan wawasan mendalam tentang jiwa manusia ke dalam objek fisik.",
+    "reason_why": "Dorongan utamamu adalah untuk menciptakan karya yang orisinal dan penuh makna (Artistic), dan kamu melakukannya melalui medium yang nyata, membutuhkan keterampilan tangan, dan sentuhan personal (Realistic). Sebagai seorang INFJ, setiap objek yang kamu buat bukan hanya sekadar objek; ia adalah sebuah simbol, sebuah cerita, atau sebuah emosi yang diwujudkan.",
+    "what_this_means": "Kamu adalah seorang seniman atau pengrajin yang karyanya sangat personal dan mendalam. Kamu mungkin seorang pembuat keramik yang setiap bentuknya memiliki filosofi, seorang desainer perhiasan yang setiap karyanya menceritakan sebuah kisah, atau seorang pembuat boneka yang setiap karakternya memiliki jiwa. Kamu menemukan kepuasan dalam proses yang lambat, meditatif, dan penuh perasaan.",
+    "strengths": ["Mampu menciptakan karya fisik yang sangat personal dan penuh makna.", "Memiliki keterampilan tangan yang baik dan kesabaran yang tinggi.", "Visi artistik yang mendalam dan simbolis.", "Sangat berdedikasi pada kerajinannya."],
+    "weaknesses": ["Mungkin kesulitan untuk memproduksi karya secara massal atau komersial.", "Proses kreatif bisa sangat lambat dan intens.", "Sangat terikat secara personal pada karyanya, sulit untuk menjualnya.", "Cenderung bekerja dalam isolasi."],
+    "recommended_majors": [
+      { "name": "Kriya (Craft) atau Seni Rupa (Peminatan Keramik, Tekstil, dll.)", "reason": "Jurusan yang secara langsung mengasah keterampilan tangan (Realistic) untuk tujuan ekspresi artistik (Artistic)." },
+      { "name": "Desain Produk (dengan fokus pada kerajinan tangan)", "reason": "Merancang objek fungsional yang dibuat dengan sentuhan personal dan artistik." },
+      { "name": "Antropologi (dengan minat pada budaya material)", "reason": "Mempelajari bagaimana objek fisik membawa makna dalam berbagai budaya, yang bisa menginspirasi karyamu." }
+    ],
+    "career_recommendations": [
+      { "name": "Seniman atau Pengrajin (Keramik, Kayu, Logam, Tekstil)", "reason": "Mendedikasikan dirimu untuk menciptakan dan menjual karya-karyamu yang unik." },
+      { "name": "Desainer Perhiasan atau Aksesori", "reason": "Menciptakan objek-objek kecil yang indah dan penuh makna." },
+      { "name": "Restorator atau Konservator Seni", "reason": "Menggunakan keterampilan tanganmu yang teliti untuk merawat dan memperbaiki karya seni bersejarah." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "AC",
+    "profile_title": "Sang Pustakawan Sastra",
+    "profile_tagline": "Seorang organisator yang menciptakan ruang yang teratur dan indah untuk penemuan intelektual.",
+    "reason_why": "Kamu menggabungkan dorongan untuk menciptakan pengalaman yang estetis dan bermakna (Artistic) dengan kecintaan pada keteraturan, sistem, dan presisi (Conventional). Sebagai seorang INFJ, kamu melihat perpustakaan atau arsip bukan hanya sebagai gudang informasi, tetapi sebagai tempat suci yang harus dirancang dengan indah dan logis untuk menginspirasi pembelajaran.",
+    "what_this_means": "Kamu adalah seorang pustakawan, kurator, atau desainer pameran yang ideal. Kamu menikmati proses mengorganisir koleksi, merancang tata letak ruang, dan menciptakan pengalaman yang mulus bagi pengunjung. Kamu adalah tipe orang yang akan memastikan setiap label di museum diketik dengan font yang sempurna dan setiap buku di perpustakaan tersusun dengan cara yang paling intuitif.",
+    "strengths": ["Mampu menciptakan sistem organisasi yang estetis dan fungsional.", "Sangat teliti dan berorientasi pada detail.", "Memiliki visi yang jelas tentang bagaimana sebuah pengalaman seharusnya terasa.", "Sangat terorganisir dan dapat diandalkan."],
+    "weaknesses": ["Bisa menjadi sangat perfeksionis dan kaku dengan sistemnya.", "Tidak suka pada kekacauan atau perubahan mendadak.", "Mungkin kurang fleksibel dalam menanggapi kebutuhan pengguna yang tidak terduga.", "Cenderung lebih suka bekerja sendiri di lingkungan yang tenang."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan atau Museologi (Studi Museum)", "reason": "Secara langsung mempelajari cara mengelola koleksi (Conventional) dan merancang pameran atau layanan (Artistic)." },
+      { "name": "Desain Interior atau Desain Grafis", "reason": "Memberikan keterampilan praktis dalam merancang ruang atau materi visual yang terstruktur." },
+      { "name": "Sejarah Seni", "reason": "Memberikan dasar pengetahuan untuk bekerja sebagai kurator di galeri atau museum." }
+    ],
+    "career_recommendations": [
+      { "name": "Pustakawan (terutama di perpustakaan seni atau arsitektur)", "reason": "Mengelola koleksi yang membutuhkan kepekaan estetika dan organisasi yang kuat." },
+      { "name": "Kurator atau Manajer Koleksi di Museum", "reason": "Bertanggung jawab atas perawatan, penelitian, dan pameran koleksi artefak." },
+      { "name": "Desainer Pameran (Exhibition Designer)", "reason": "Merancang tata letak fisik dan alur naratif dari sebuah pameran di museum atau galeri." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "EI",
+    "profile_title": "Sang Wirausahawan Sosial",
+    "profile_tagline": "Seorang visioner yang membangun bisnis untuk memecahkan masalah sosial.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan membangun sebuah usaha (Enterprising) dengan minat yang mendalam pada riset tentang masalah-masalah kompleks (Investigative). Sebagai seorang INFJ, kamu tidak termotivasi oleh keuntungan semata, tetapi oleh sebuah visi untuk menciptakan dampak positif yang berkelanjutan melalui model bisnis yang inovatif.",
+    "what_this_means": "Kamu adalah seorang pendiri di hati, tetapi misimu bersifat sosial. Kamu adalah tipe orang yang akan menciptakan aplikasi untuk kesehatan mental, membangun perusahaan yang memberdayakan pengrajin lokal, atau memulai sebuah lembaga pendidikan yang inovatif. Kamu menggunakan ketajaman strategis dan analitismu untuk tujuan yang lebih besar.",
+    "strengths": ["Didorong oleh visi dan misi sosial yang kuat.", "Strategis dan mampu melihat peluang untuk inovasi sosial.", "Mampu menganalisis masalah sosial secara mendalam.", "Persuasif dan mampu menginspirasi investor dan tim untuk bergabung dengan misinya."],
+    "weaknesses": ["Bisa menjadi terlalu idealis dan mengabaikan realitas pasar.", "Cenderung memprioritaskan dampak daripada keuntungan, yang bisa menyulitkan keberlanjutan bisnis.", "Sangat terikat secara personal pada misinya, sulit menerima kegagalan.", "Bisa memikul terlalu banyak beban dan rentan terhadap burnout."],
+    "recommended_majors": [
+      { "name": "Kewirausahaan Sosial (Social Entrepreneurship)", "reason": "Jurusan yang secara spesifik mengajarkan cara membangun model bisnis yang berkelanjutan untuk memecahkan masalah sosial." },
+      { "name": "Ekonomi Pembangunan", "reason": "Menganalisis masalah-masalah pembangunan (Investigative) dan merancang intervensi berbasis pasar (Enterprising)." },
+      { "name": "Manajemen Bisnis (dengan fokus pada keberlanjutan atau CSR)", "reason": "Menerapkan prinsip-prinsip bisnis untuk tujuan sosial dan lingkungan." }
+    ],
+    "career_recommendations": [
+      { "name": "Pendiri atau CEO Wirausaha Sosial", "reason": "Membangun dan memimpin sebuah perusahaan yang memiliki 'double bottom line': keuntungan dan dampak." },
+      { "name": "Manajer Investasi Dampak (Impact Investing)", "reason": "Menganalisis dan berinvestasi pada perusahaan-perusahaan yang menciptakan dampak sosial dan lingkungan yang positif." },
+      { "name": "Konsultan Keberlanjutan atau CSR", "reason": "Membantu perusahaan-perusahaan besar merancang program tanggung jawab sosial yang strategis dan efektif." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "ES",
+    "profile_title": "Sang Diplomat",
+    "profile_tagline": "Seorang pembangun jembatan yang menggunakan wawasan dan persuasi untuk menciptakan keharmonisan.",
+    "reason_why": "Kombinasi ini menonjolkan kekuatan interpersonalmu. Kamu menggabungkan dorongan untuk memimpin dan memengaruhi (Enterprising) dengan hasrat yang mendalam untuk menciptakan keharmonisan dan membantu orang lain (Social). Visi (Ni) dan empati (Fe) INFJ-mu membuatmu menjadi seorang negosiator dan mediator yang luar biasa.",
+    "what_this_means": "Kamu adalah seorang diplomat alami, baik dalam skala besar maupun kecil. Kamu unggul dalam peran di mana kamu harus memahami berbagai sudut pandang, menemukan titik temu, dan membimbing orang menuju kesepakatan. Kamu adalah tipe orang yang akan menjadi seorang diplomat, mediator, atau manajer SDM yang hebat. Kamu memimpin dengan membangun konsensus.",
+    "strengths": ["Sangat baik dalam memahami dinamika kelompok dan politik.", "Negosiator yang empatik dan persuasif.", "Mampu membangun kepercayaan dan hubungan jangka panjang.", "Visioner dalam melihat solusi 'menang-menang' (win-win)."],
+    "weaknesses": ["Cenderung menghindari konflik secara berlebihan.", "Bisa kesulitan untuk mengambil keputusan yang tegas tetapi tidak populer.", "Sangat terpengaruh oleh atmosfer emosional dalam sebuah negosiasi.", "Bisa mengorbankan kepentingannya sendiri demi keharmonisan."],
+    "recommended_majors": [
+      { "name": "Hubungan Internasional atau Diplomasi", "reason": "Secara langsung melatihmu dalam seni negosiasi dan pemahaman antar budaya." },
+      { "name": "Manajemen Sumber Daya Manusia (SDM)", "reason": "Fokus pada pengelolaan hubungan antar karyawan, mediasi konflik, dan pembangunan budaya perusahaan." },
+      { "name": "Hukum (dengan spesialisasi mediasi atau hukum internasional)", "reason": "Menggunakan kerangka kerja hukum untuk menyelesaikan sengketa dengan cara yang damai." }
+    ],
+    "career_recommendations": [
+      { "name": "Diplomat atau Pejabat Kementerian Luar Negeri", "reason": "Mewakili negara dan membangun hubungan baik dengan negara lain." },
+      { "name": "Mediator atau Arbiter", "reason": "Bertindak sebagai pihak ketiga yang netral untuk membantu menyelesaikan sengketa di luar pengadilan." },
+      { "name": "Manajer Sumber Daya Manusia (HR Manager)", "reason": "Menjembatani antara kepentingan manajemen dan karyawan untuk menciptakan lingkungan kerja yang harmonis." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "EC",
+    "profile_title": "Sang Pemimpin Etis",
+    "profile_tagline": "Seorang manajer yang membangun organisasi yang efisien dan berintegritas.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mengorganisir (Enterprising) dengan komitmen yang kuat pada aturan, prosedur, dan integritas (Conventional). Sebagai seorang INFJ, kamu tidak hanya ingin efisien; kamu ingin efisien dengan cara yang benar dan adil. Kamu adalah seorang pembangun sistem yang berprinsip.",
+    "what_this_means": "Kamu sangat cocok untuk peran kepemimpinan di industri yang sangat diatur, seperti perbankan, hukum, atau administrasi publik. Kamu adalah tipe manajer yang akan memastikan bahwa semua proses tidak hanya efisien, tetapi juga etis dan sesuai dengan semua peraturan. Kamu membangun kepercayaan melalui kompetensi dan integritas.",
+    "strengths": ["Memiliki integritas yang sangat tinggi.", "Sangat terorganisir dan dapat diandalkan.", "Mampu merancang dan menerapkan sistem yang adil dan efisien.", "Pemimpin yang tenang dan konsisten."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan tidak fleksibel dengan aturan.", "Mungkin kurang inovatif dan cenderung menghindari risiko.", "Sangat kritis terhadap pelanggaran etika atau prosedur sekecil apa pun.", "Bisa kesulitan memimpin di lingkungan yang kacau atau cepat berubah."],
+    "recommended_majors": [
+      { "name": "Administrasi Publik atau Pemerintahan", "reason": "Mempelajari cara mengelola organisasi sektor publik yang terikat oleh aturan dan etika yang ketat." },
+      { "name": "Hukum", "reason": "Memberikan dasar yang kuat dalam aturan dan prosedur yang mengatur masyarakat dan bisnis." },
+      { "name": "Manajemen Bisnis (dengan fokus pada etika bisnis atau kepatuhan)", "reason": "Menerapkan prinsip-prinsip manajemen dengan penekanan kuat pada integritas." }
+    ],
+    "career_recommendations": [
+      { "name": "Administrator Publik atau Manajer di Lembaga Pemerintah", "reason": "Memastikan bahwa pelayanan publik berjalan secara efisien, adil, dan sesuai dengan hukum." },
+      { "name": "Manajer Kepatuhan (Compliance Manager) di Sektor Keuangan", "reason": "Merancang sistem untuk memastikan sebuah bank atau perusahaan investasi mematuhi semua peraturan." },
+      { "name": "Manajer Firma Hukum", "reason": "Mengelola operasional dari sebuah kantor pengacara, memastikan semuanya berjalan secara etis dan efisien." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "ER",
+    "profile_title": "Sang Manajer Proyek Kemanusiaan",
+    "profile_tagline": "Seorang pemimpin lapangan yang memastikan proyek bantuan kemanusiaan berhasil.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mengelola sebuah proyek (Enterprising) dengan fokus pada hasil yang nyata dan praktis di lapangan (Realistic). Sebagai seorang INFJ, kamu termotivasi oleh sebuah misi kemanusiaan yang mendalam untuk melakukan ini.",
+    "what_this_means": "Kamu adalah tipe orang yang akan memimpin sebuah proyek pembangunan sekolah di daerah terpencil, mengelola distribusi bantuan di lokasi bencana, atau menjalankan sebuah program lingkungan. Kamu memiliki visi tentang dunia yang lebih baik dan kemampuan praktis untuk mengorganisir sumber daya dan orang di lapangan untuk mewujudkannya.",
+    "strengths": ["Didorong oleh misi yang kuat.", "Mampu mengelola proyek yang kompleks di lingkungan yang menantang.", "Sangat baik dalam menyeimbangkan antara visi besar dan kebutuhan praktis di lapangan.", "Mampu menginspirasi tim untuk bekerja keras demi sebuah tujuan mulia."],
+    "weaknesses": ["Pekerjaan bisa sangat menantang secara fisik dan emosional.", "Bisa menjadi sangat frustrasi dengan hambatan logistik atau birokrasi.", "Cenderung memikul terlalu banyak tanggung jawab.", "Bisa mengabaikan kesejahteraan diri sendiri demi proyek."],
+    "recommended_majors": [
+      { "name": "Studi Pembangunan Internasional", "reason": "Mempelajari tantangan dan strategi untuk proyek-proyek pembangunan di negara berkembang." },
+      { "name": "Manajemen Proyek", "reason": "Memberikan keterampilan universal untuk mengelola proyek apa pun, yang bisa kamu terapkan pada sektor kemanusiaan." },
+      { "name": "Teknik Lingkungan atau Teknik Sipil (dengan minat pada pembangunan)", "reason": "Memberikan dasar teknis untuk proyek-proyek yang berhubungan dengan infrastruktur atau lingkungan." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Proyek untuk LSM Internasional (misal: Palang Merah, UNICEF)", "reason": "Memimpin dan mengelola proyek bantuan kemanusiaan di berbagai belahan dunia." },
+      { "name": "Petugas Lapangan (Field Officer) untuk PBB", "reason": "Bekerja secara langsung di komunitas untuk mengimplementasikan program-program pembangunan." },
+      { "name": "Direktur Operasional untuk Organisasi Konservasi", "reason": "Memimpin proyek-proyek di lapangan untuk melindungi lingkungan dan satwa liar." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "RE",
+    "profile_title": "Sang Pengusaha Berprinsip",
+    "profile_tagline": "Seorang pembangun yang menciptakan produk atau layanan yang berkualitas dan bermakna.",
+    "reason_why": "Minat utamamu adalah pada pekerjaan yang nyata dan menghasilkan produk yang konkret (Realistic), dan kamu didorong oleh ambisi untuk membangun sebuah bisnis yang sukses di sekitarnya (Enterprising). Sebagai seorang INFJ, bisnismu tidak akan pernah hanya tentang uang; ia harus memiliki tujuan, kualitas, dan integritas.",
+    "what_this_means": "Kamu adalah seorang pengrajin yang menjadi pengusaha. Kamu mungkin memulai dari membuat furnitur berkualitas tinggi, membuka restoran organik, atau menciptakan sebuah merek pakaian yang etis. Kamu sangat peduli pada kualitas produkmu dan cerita di baliknya. Kamu memimpin dengan standar yang tinggi dan visi jangka panjang.",
+    "strengths": ["Sangat berorientasi pada kualitas.", "Memiliki visi jangka panjang untuk bisnisnya.", "Mampu membangun merek yang didasarkan pada nilai dan kepercayaan.", "Sangat berdedikasi dan pekerja keras."],
+    "weaknesses": ["Bisa menjadi terlalu perfeksionis dan lambat untuk berkembang.", "Mungkin kesulitan untuk mendelegasikan karena merasa hanya dia yang bisa melakukannya dengan benar.", "Cenderung kurang agresif dalam pemasaran atau penjualan.", "Sangat terikat secara personal pada bisnisnya, sulit menerima kritik."],
+    "recommended_majors": [
+      { "name": "Kewirausahaan (Entrepreneurship)", "reason": "Mempelajari dasar-dasar membangun dan mengelola bisnis sendiri." },
+      { "name": "Desain Produk atau Kriya", "reason": "Memberikan keterampilan praktis untuk menciptakan produk berkualitas tinggi sebagai dasar bisnismu." },
+      { "name": "Manajemen Perhotelan atau Seni Kuliner", "reason": "Fokus pada bisnis yang menghasilkan produk dan pengalaman nyata bagi pelanggan." }
+    ],
+    "career_recommendations": [
+      { "name": "Pemilik Usaha Kecil atau Menengah (UKM)", "reason": "Membangun bisnis dari nol yang mencerminkan nilai dan standarmu." },
+      { "name": "Restaurateur atau Chef-Owner", "reason": "Memiliki dan mengelola restoran sendiri, mengontrol segalanya dari menu hingga suasana." },
+      { "name": "Pengrajin atau Desainer yang memiliki merek sendiri", "reason": "Mengubah keterampilan tanganmu menjadi sebuah bisnis yang berkelanjutan." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "RA",
+    "profile_title": "Sang Arsitek Ruang Sakral",
+    "profile_tagline": "Seorang perancang yang menciptakan ruang fisik yang menenangkan jiwa.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang nyata dan konstruktif (Realistic) dengan kepekaan yang mendalam terhadap suasana, keindahan, dan ekspresi simbolis (Artistic). Sebagai seorang INFJ, kamu melihat bangunan atau ruang bukan hanya sebagai struktur, tetapi sebagai wadah untuk pengalaman manusia.",
+    "what_this_means": "Kamu adalah seorang arsitek atau desainer interior yang fokus pada bagaimana sebuah ruang 'terasa'. Kamu unggul dalam merancang tempat-tempat seperti rumah ibadah, pusat meditasi, perpustakaan, atau bahkan rumah tinggal yang memberikan rasa damai dan harmoni. Kamu adalah seorang penyair ruang.",
+    "strengths": ["Sangat peka terhadap atmosfer dan kualitas spasial.", "Mampu menciptakan desain yang memiliki kedalaman emosional dan spiritual.", "Memiliki visi artistik yang kuat dan koheren.", "Teliti dalam detail yang menciptakan suasana."],
+    "weaknesses": ["Bisa menjadi sangat idealis dan sulit menerima batasan praktis atau anggaran.", "Desainnya mungkin terlalu personal atau tidak sesuai dengan selera klien yang lebih konvensional.", "Sangat terikat pada visinya dan sulit untuk berkompromi.", "Proses desainnya bisa sangat lambat dan introspektif."],
+    "recommended_majors": [
+      { "name": "Arsitektur atau Desain Interior", "reason": "Jurusan yang secara langsung melatihmu untuk merancang (Artistic) ruang fisik (Realistic)." },
+      { "name": "Arsitektur Lanskap", "reason": "Fokus pada perancangan ruang luar seperti taman dan taman publik, yang sangat memengaruhi suasana hati." },
+      { "name": "Sejarah Seni atau Filsafat", "reason": "Memberikan kedalaman konseptual yang bisa menginformasikan filosofi desainmu." }
+    ],
+    "career_recommendations": [
+      { "name": "Arsitek (dengan spesialisasi pada bangunan budaya, spiritual, atau perumahan)", "reason": "Merancang bangunan yang memiliki resonansi emosional yang kuat." },
+      { "name": "Desainer Interior", "reason": "Menciptakan suasana di dalam sebuah ruang melalui pemilihan material, warna, cahaya, dan perabotan." },
+      { "name": "Arsitek Lanskap", "reason": "Merancang taman atau ruang publik yang memberikan pengalaman ketenangan atau kegembiraan." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "RS",
+    "profile_title": "Sang Terapis Holistik",
+    "profile_tagline": "Seorang penyembuh yang membantu orang lain melalui pendekatan pikiran-tubuh.",
+    "reason_why": "Kamu menggabungkan keinginan tulus untuk membantu dan menyembuhkan orang lain (Social) dengan minat pada tubuh manusia dan metode penyembuhan yang praktis dan nyata (Realistic). Sebagai seorang INFJ, kamu melihat hubungan yang tak terpisahkan antara kesehatan mental dan fisik.",
+    "what_this_means": "Kamu tertarik pada profesi-profesi seperti terapi okupasi, akupunktur, atau bahkan menjadi seorang dokter dengan pendekatan holistik. Kamu percaya bahwa penyembuhan sejati melibatkan lebih dari sekadar mengobati gejala; ia melibatkan pemahaman terhadap gaya hidup, emosi, dan lingkungan pasien secara keseluruhan. Kamu adalah seorang penyembuh yang intuitif.",
+    "strengths": ["Mampu melihat pasien sebagai manusia seutuhnya.", "Memiliki pendekatan penyembuhan yang intuitif dan empatik.", "Sabar dan suportif dalam membimbing pasien.", "Mampu membangun hubungan terapeutik yang didasarkan pada kepercayaan."],
+    "weaknesses": ["Bisa jadi kurang skeptis dan terlalu terbuka pada metode penyembuhan alternatif.", "Pekerjaan bisa sangat menguras energi emosional.", "Bisa frustrasi dengan sistem medis yang terlalu fokus pada pengobatan gejala.", "Cenderung terlalu memikirkan penderitaan pasiennya."],
+    "recommended_majors": [
+      { "name": "Terapi Okupasi", "reason": "Membantu orang (Social) untuk bisa kembali melakukan aktivitas sehari-hari (Realistic) setelah sakit atau cedera." },
+      { "name": "Ilmu Gizi", "reason": "Mempelajari bagaimana makanan (Realistic) memengaruhi kesehatan dan kesejahteraan seseorang (Social)." },
+      { "name": "Kedokteran (dengan minat pada pengobatan integratif atau holistik)", "reason": "Menjadi dokter yang mempertimbangkan semua aspek kehidupan pasien dalam diagnosis dan pengobatannya." }
+    ],
+    "career_recommendations": [
+      { "name": "Terapis Okupasi", "reason": "Membantu pasien dari segala usia untuk berpartisipasi dalam hal-hal yang ingin dan perlu mereka lakukan melalui penggunaan terapeutik dari kegiatan sehari-hari." },
+      { "name": "Ahli Gizi atau Dietisien", "reason": "Memberikan nasihat tentang makanan dan nutrisi untuk mempromosikan gaya hidup sehat atau mengelola penyakit." },
+      { "name": "Praktisi Pengobatan Alternatif (misal: Akupunktur, Naturopati)", "reason": "Menawarkan metode penyembuhan yang berfokus pada keseimbangan tubuh dan pikiran." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "RC",
+    "profile_title": "Sang Penjaga Warisan Budaya",
+    "profile_tagline": "Seorang pelestari yang merawat objek-objek bersejarah dengan ketelitian dan rasa hormat.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan membutuhkan keterampilan tangan (Realistic) dengan kecintaan pada keteraturan, presisi, dan pelestarian (Conventional). Sebagai seorang INFJ, kamu melakukan ini bukan hanya sebagai pekerjaan teknis, tetapi karena kamu merasakan hubungan yang mendalam dengan cerita dan makna di balik setiap objek yang kamu rawat.",
+    "what_this_means": "Kamu adalah seorang konservator atau restorator seni di hati. Kamu memiliki kesabaran, ketelitian, dan sentuhan lembut yang dibutuhkan untuk bekerja dengan artefak yang rapuh. Kamu menikmati proses yang lambat dan metodis untuk membersihkan, memperbaiki, dan melestarikan sebuah lukisan, buku kuno, atau benda bersejarah lainnya. Kamu adalah seorang dokter untuk objek.",
+    "strengths": ["Sangat teliti, sabar, dan presisi.", "Memiliki rasa hormat yang mendalam terhadap sejarah dan material.", "Mampu bekerja sendiri untuk waktu yang lama pada tugas yang rumit.", "Didorong oleh misi untuk melestarikan warisan budaya untuk generasi mendatang."],
+    "weaknesses": ["Pekerjaan bisa sangat lambat dan membutuhkan kesabaran yang ekstrem.", "Bisa menjadi sangat perfeksionis.", "Cenderung terisolasi dalam pekerjaan.", "Mungkin kurang tertarik pada aspek sosial atau manajerial dari sebuah museum."],
+    "recommended_majors": [
+      { "name": "Konservasi dan Restorasi Benda Seni/Cagar Budaya", "reason": "Jurusan yang secara spesifik melatihmu dalam ilmu dan teknik (Conventional & Realistic) untuk merawat artefak." },
+      { "name": "Kimia atau Ilmu Material", "reason": "Memberikan pemahaman ilmiah tentang material, yang sangat penting untuk pekerjaan konservasi." },
+      { "name": "Sejarah Seni atau Arkeologi", "reason": "Memberikan konteks historis dan budaya untuk objek-objek yang akan kamu rawat." }
+    ],
+    "career_recommendations": [
+      { "name": "Konservator atau Restorator di Museum", "reason": "Bertanggung jawab atas perawatan fisik koleksi museum, dari lukisan hingga patung." },
+      { "name": "Konservator Buku atau Arsiparis", "reason": "Spesialisasi dalam merawat dokumen kertas dan buku-buku langka." },
+      { "name": "Teknisi Arkeologi", "reason": "Bekerja di lapangan dan di lab untuk membersihkan, merekonstruksi, dan melestarikan artefak yang ditemukan dari situs penggalian." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "RI",
+    "profile_title": "Sang Ilmuwan Medis",
+    "profile_tagline": "Seorang peneliti yang didorong oleh visi untuk menyembuhkan penyakit.",
+    "reason_why": "Minat utamamu adalah pada riset ilmiah yang mendalam (Investigative) dan kamu ingin menerapkannya pada dunia fisik yang nyata, khususnya tubuh manusia (Realistic). Sebagai seorang INFJ, kamu tidak melakukan riset ini hanya karena rasa ingin tahu; kamu melakukannya karena sebuah panggilan untuk mengurangi penderitaan manusia.",
+    "what_this_means": "Kamu adalah tipe ilmuwan yang akan mendedikasikan hidupnya untuk menemukan obat untuk kanker, Alzheimer, atau penyakit lainnya. Kamu memiliki kesabaran dan ketekunan untuk bekerja bertahun-tahun di laboratorium, melakukan eksperimen yang teliti, dan menganalisis data yang kompleks. Visimu tentang dampak positif dari penemuanmu adalah yang membuatmu terus maju.",
+    "strengths": ["Sangat tekun dan berdedikasi pada riset jangka panjang.", "Didorong oleh misi kemanusiaan yang kuat.", "Analitis dan metodis dalam bekerja.", "Mampu melihat 'gambaran besar' atau arah baru dalam penelitiannya."],
+    "weaknesses": ["Bisa menjadi sangat terisolasi dalam pekerjaan di lab.", "Sangat perfeksionis dan bisa sangat terpukul oleh eksperimen yang gagal.", "Mungkin kurang terampil dalam mempresentasikan atau 'menjual' hasil risetnya.", "Cenderung mengabaikan keseimbangan antara kerja dan kehidupan pribadi."],
+    "recommended_majors": [
+      { "name": "Ilmu Biomedis, Biologi Molekuler, atau Bioteknologi", "reason": "Jurusan yang berada di garis depan riset medis modern." },
+      { "name": "Kimia atau Farmasi", "reason": "Fokus pada penemuan dan pengembangan obat-obatan baru." },
+      { "name": "Kedokteran (dengan jalur riset atau MD-PhD)", "reason": "Menjadi seorang dokter-ilmuwan yang menjembatani antara praktik klinis dan penelitian dasar." }
+    ],
+    "career_recommendations": [
+      { "name": "Ilmuwan Riset (di universitas, perusahaan farmasi, atau lembaga pemerintah)", "reason": "Melakukan penelitian untuk memahami dan menemukan pengobatan untuk penyakit." },
+      { "name": "Spesialis Laboratorium Klinis", "reason": "Melakukan tes diagnostik yang kompleks untuk membantu dokter mendiagnosis penyakit." },
+      { "name": "Penulis Ilmiah (Medical Writer)", "reason": "Menerjemahkan hasil penelitian yang kompleks menjadi artikel jurnal atau dokumen regulasi." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "CI",
+    "profile_title": "Sang Peneliti Genealogi",
+    "profile_tagline": "Seorang detektif sejarah yang menyatukan kembali cerita keluarga.",
+    "reason_why": "Kamu menggabungkan dorongan untuk keteraturan dan akurasi data (Conventional) dengan minat yang mendalam pada riset (Investigative). Sebagai seorang INFJ, kamu melakukan ini karena kamu melihat makna yang mendalam dalam hubungan antar manusia dan pentingnya memahami akar dan cerita kita.",
+    "what_this_means": "Kamu adalah seorang sejarawan, arsiparis, atau geneolog. Kamu menikmati proses 'berburu' informasi di arsip-arsip tua, database online, dan catatan sipil. Kamu adalah seorang detektif yang petunjuknya adalah data historis. Kamu menemukan kepuasan luar biasa saat berhasil menghubungkan titik-titik dan merekonstruksi sebuah cerita dari masa lalu.",
+    "strengths": ["Sangat teliti dan sabar dalam melakukan riset.", "Pandai menemukan informasi yang tersembunyi.", "Sangat terorganisir dalam mengelola data penelitian.", "Memiliki apresiasi yang mendalam terhadap sejarah personal dan kolektif."],
+    "weaknesses": ["Pekerjaan bisa sangat soliter dan membutuhkan banyak waktu di depan arsip atau komputer.", "Bisa menjadi frustrasi jika menemui jalan buntu dalam penelitian.", "Cenderung perfeksionis dalam memastikan setiap detail akurat.", "Mungkin kurang tertarik pada aspek lain dari sejarah yang lebih bersifat interpretatif."],
+    "recommended_majors": [
+      { "name": "Sejarah", "reason": "Secara langsung melatihmu dalam metode penelitian historis dan analisis sumber primer." },
+      { "name": "Ilmu Perpustakaan dan Kearsipan", "reason": "Mempelajari cara kerja arsip dan database, yang merupakan alat utamamu." },
+      { "name": "Antropologi", "reason": "Memberikan konteks budaya untuk memahami data silsilah dan sejarah keluarga." }
+    ],
+    "career_recommendations": [
+      { "name": "Genealog atau Peneliti Silsilah Profesional", "reason": "Membantu orang lain melacak dan memahami sejarah keluarga mereka." },
+      { "name": "Arsiparis atau Sejarawan", "reason": "Bekerja di lembaga pemerintah, museum, atau universitas untuk mengelola dan melakukan riset pada koleksi historis." },
+      { "name": "Peneliti untuk Film Dokumenter Sejarah", "reason": "Bertanggung jawab untuk menemukan fakta, foto, dan dokumen yang akurat untuk sebuah produksi." }
+    ]
+  },
+  {
+    "mbti_type": "INFJ",
+    "riasec_code": "CE",
+    "profile_title": "Sang Pengacara Keluarga",
+    "profile_tagline": "Seorang advokat yang menggunakan aturan untuk melindungi dan memperjuangkan kepentingan keluarga.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan bernegosiasi (Enterprising) dengan komitmen yang kuat pada aturan dan prosedur (Conventional). Sebagai seorang INFJ, kamu menerapkan keterampilan ini pada arena yang sangat personal dan penuh makna: hukum keluarga. Kamu berjuang demi keadilan bagi individu di masa-masa sulit mereka.",
+    "what_this_means": "Kamu sangat cocok untuk menjadi seorang pengacara yang berspesialisasi dalam hukum keluarga, adopsi, atau warisan. Kamu memiliki kombinasi langka antara ketajaman analitis untuk memahami hukum yang rumit dan empati untuk memahami situasi emosional klienmu. Kamu adalah seorang pejuang yang berprinsip.",
+    "strengths": ["Memiliki integritas dan komitmen etis yang tinggi.", "Sangat teliti dalam mempersiapkan kasus.", "Mampu menjelaskan proses hukum yang rumit dengan empati.", "Negosiator yang tenang dan strategis."],
+    "weaknesses": ["Pekerjaan bisa sangat menguras energi emosional.", "Bisa menjadi terlalu terlibat secara personal dalam kasus klien.", "Sangat idealis tentang keadilan dan bisa frustrasi dengan sistem hukum.", "Cenderung menghindari taktik yang agresif atau 'kotor'."],
+    "recommended_majors": [
+      { "name": "Hukum", "reason": "Memberikanmu alat dan pengetahuan untuk berjuang demi klien dalam kerangka sistem peradilan." },
+      { "name": "Pekerjaan Sosial atau Psikologi", "reason": "Memberikan pemahaman yang mendalam tentang dinamika keluarga dan trauma, yang sangat relevan." },
+      { "name": "Administrasi Publik", "reason": "Mempelajari cara kerja sistem dan lembaga yang berhubungan dengan kesejahteraan keluarga dan anak." }
+    ],
+    "career_recommendations": [
+      { "name": "Pengacara Hukum Keluarga", "reason": "Mewakili klien dalam kasus perceraian, hak asuh anak, atau adopsi." },
+      { "name": "Mediator Keluarga", "reason": "Membantu pasangan atau keluarga menyelesaikan sengketa mereka di luar pengadilan dengan cara yang damai." },
+      { "name": "Jaksa atau Pengacara di bidang Perlindungan Anak", "reason": "Bekerja untuk negara untuk melindungi anak-anak dari penelantaran atau kekerasan." }
+    ]
+  }
+]
