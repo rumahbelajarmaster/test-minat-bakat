@@ -1,0 +1,14 @@
+[
+  { "id": 1, "text": "Saat menghadapi masalah, saya lebih mengandalkan logika dan analisis objektif daripada perasaan pribadi.", "type": "mbti", "dimension": "TF", "positive_for": "T" },
+  { "id": 2, "text": "Saya senang bekerja dengan tangan, seperti merakit atau memperbaiki sesuatu.", "type": "riasec", "dimension": "R" },
+  { "id": 3, "text": "Saya lebih suka merencanakan segala sesuatu secara detail jauh-jauh hari.", "type": "mbti", "dimension": "PJ", "positive_for": "J" },
+  { "id": 4, "text": "Saya tertarik untuk melakukan riset atau investigasi mendalam pada suatu topik.", "type": "riasec", "dimension": "I" },
+  { "id": 5, "text": "Saya merasa bersemangat dan mendapatkan energi setelah bersosialisasi di acara yang ramai.", "type": "mbti", "dimension": "EI", "positive_for": "E" },
+  { "id": 6, "text": "Saya menikmati kegiatan yang berhubungan dengan seni, musik, atau menulis.", "type": "riasec", "dimension": "A" },
+  { "id": 7, "text": "Saya lebih fokus pada gambaran besar dan konsep teoretis daripada detail praktis.", "type": "mbti", "dimension": "SN", "positive_for": "N" },
+  { "id": 8, "text": "Saya merasa puas ketika bisa membantu atau mengajar orang lain.", "type": "riasec", "dimension": "S" },
+  { "id": 9, "text": "Saya lebih suka bekerja dengan jadwal yang fleksibel dan spontan.", "type": "mbti", "dimension": "PJ", "positive_for": "P" },
+  { "id": 10, "text": "Saya memiliki ambisi untuk memimpin tim atau memulai bisnis sendiri.", "type": "riasec", "dimension": "E" },
+  { "id": 11, "text": "Setelah seharian beraktivitas, saya butuh waktu sendiri untuk mengisi ulang energi.", "type": "mbti", "dimension": "EI", "positive_for": "I" },
+  { "id": 12, "text": "Saya menyukai pekerjaan yang memiliki aturan dan prosedur yang jelas.", "type": "riasec", "dimension": "C" }
+]
