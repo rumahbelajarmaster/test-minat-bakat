@@ -4649,3 +4649,385 @@
     ]
   }
 ]
+{
+    "mbti_type": "ISTP",
+    "riasec_code": "RI",
+    "profile_title": "Sang Mekanik Master",
+    "profile_tagline": "Seorang pemecah masalah yang memahami dunia dengan cara membongkar dan merakitnya kembali.",
+    "reason_why": "Ini adalah kombinasi ISTP yang paling murni. Kemampuanmu untuk menganalisis sistem secara logis (Ti) dan berinteraksi langsung dengan dunia fisik (Se) sangat selaras dengan minat pada pekerjaan mekanis (Realistic) dan pemahaman mendalam tentang cara kerja sesuatu (Investigative).",
+    "what_this_means": "Kamu terlahir untuk menjadi seorang insinyur, mekanik, atau teknisi. Kamu memiliki kemampuan langka untuk melihat sebuah sistem yang kompleks, dengan cepat memahami bagaimana semua bagiannya bekerja, dan secara intuitif tahu di mana letak masalahnya. Kamu belajar dengan melakukan, dan kamu menemukan kepuasan dalam membuat sesuatu yang rusak menjadi berfungsi kembali.",
+    "strengths": ["Luar biasa dalam troubleshooting dan pemecahan masalah praktis.", "Sangat terampil dalam bekerja dengan alat dan mesin.", "Pemikir yang sangat logis dan efisien.", "Tenang dan fokus di bawah tekanan, terutama dalam situasi krisis."],
+    "weaknesses": ["Bisa menjadi kurang tertarik pada teori abstrak atau perencanaan jangka panjang.", "Cenderung kurang komunikatif dan lebih suka bekerja sendiri.", "Bisa bosan dengan rutinitas atau pekerjaan yang tidak memiliki tantangan baru.", "Mungkin mengabaikan aturan atau prosedur jika dianggapnya tidak efisien."],
+    "recommended_majors": [
+      { "name": "Teknik Mesin atau Teknik Elektro", "reason": "Secara langsung mengasah kemampuanmu untuk menganalisis (Investigative) dan membangun (Realistic) sistem mekanis dan elektrik." },
+      { "name": "Teknologi Otomotif atau Penerbangan", "reason": "Spesialisasi dalam sistem kompleks yang sangat kamu nikmati untuk dibongkar dan dipahami." },
+      { "name": "Ilmu Komputer (dengan fokus pada perangkat keras)", "reason": "Menggabungkan pemahaman tentang logika digital dengan interaksi langsung dengan komponen fisik." }
+    ],
+    "career_recommendations": [
+      { "name": "Insinyur Mekanik", "reason": "Merancang, menganalisis, dan memecahkan masalah pada sistem mekanis yang kompleks." },
+      { "name": "Mekanik (Mobil, Pesawat, Alat Berat)", "reason": "Karier langsung di mana kamu menggunakan keterampilan diagnostik dan tanganmu setiap hari." },
+      { "name": "Spesialis Dukungan Teknis (Perangkat Keras)", "reason": "Menjadi orang yang dituju saat perangkat keras yang rumit mengalami masalah." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "RC",
+    "profile_title": "Sang Pengrajin Presisi",
+    "profile_tagline": "Seorang ahli yang menciptakan kesempurnaan melalui keterampilan tangan dan ketaatan pada teknik.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan membutuhkan keterampilan tangan (Realistic) dengan penghargaan yang tinggi terhadap presisi, detail, dan prosedur yang benar (Conventional). Logika (Ti) dan kepekaan inderamu (Se) membuatmu menjadi seorang pengrajin yang sangat teliti.",
+    "what_this_means": "Kamu adalah seorang master dalam kerajinanmu. Kamu mungkin seorang operator mesin CNC, pembuat jam, atau teknisi laboratorium. Kamu menemukan kepuasan dalam proses yang metodis dan hasil yang sempurna secara teknis. Bagimu, kualitas adalah segalanya, dan kualitas dicapai melalui penguasaan teknik dan perhatian pada setiap detail kecil.",
+    "strengths": ["Sangat teliti dan presisi.", "Memiliki keterampilan motorik halus yang luar biasa.", "Sangat baik dalam mengikuti instruksi teknis yang kompleks.", "Menghasilkan pekerjaan dengan kualitas dan konsistensi yang sangat tinggi."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan tidak suka improvisasi.", "Mungkin kurang cepat dalam beradaptasi dengan metode atau teknologi baru.", "Cenderung tidak tertarik pada 'gambaran besar' atau aspek strategis.", "Lebih suka bekerja sendiri dan bisa kurang komunikatif."],
+    "recommended_majors": [
+      { "name": "Teknik Manufaktur atau Permesinan", "reason": "Fokus pada proses presisi (Conventional) untuk menciptakan komponen fisik (Realistic)." },
+      { "name": "Teknologi Laboratorium Medis", "reason": "Bekerja dengan peralatan canggih yang membutuhkan presisi dan kepatuhan pada prosedur." },
+      { "name": "Avionik (Teknologi Penerbangan)", "reason": "Bidang yang menuntut standar akurasi dan keandalan tertinggi." }
+    ],
+    "career_recommendations": [
+      { "name": "Operator atau Programmer Mesin CNC", "reason": "Mengubah desain digital menjadi objek fisik dengan presisi mikrometer." },
+      { "name": "Pembuat Instrumen (Ilmiah atau Musik)", "reason": "Sebuah kerajinan yang menuntut kesabaran, presisi, dan keterampilan tangan yang luar biasa." },
+      { "name": "Teknisi Quality Control", "reason": "Menggunakan alat ukur presisi untuk memastikan setiap produk memenuhi standar kualitas yang ketat." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "RE",
+    "profile_title": "Sang Wirausahawan Bengkel",
+    "profile_tagline": "Seorang praktisi terampil yang mengubah keahliannya menjadi sebuah bisnis yang efisien.",
+    "reason_why": "Kamu menggabungkan keahlianmu yang mendalam dalam pekerjaan praktis dan teknis (Realistic) dengan dorongan untuk mandiri, mengambil risiko, dan membangun sebuah usaha (Enterprising). Logika (Ti) dan pragmatismemu (Se) membuatmu menjadi pemilik bisnis yang sangat membumi dan berorientasi pada solusi.",
+    "what_this_means": "Kamu adalah tipe orang yang akan memulai dari sebuah bengkel di garasi dan membangunnya menjadi sebuah bisnis yang sukses. Kamu tidak hanya pandai memperbaiki atau membuat sesuatu; kamu juga secara intuitif memahami sisi bisnisnya—bagaimana cara bekerja dengan efisien, bagaimana cara menetapkan harga, dan bagaimana cara mendapatkan pekerjaan. Kamu memimpin dengan kompetensi.",
+    "strengths": ["Sangat terampil dan kompeten secara teknis.", "Pemecah masalah yang praktis dan efisien.", "Mandiri dan memiliki etos kerja yang kuat.", "Baik dalam mengambil risiko yang diperhitungkan."],
+    "weaknesses": ["Bisa jadi kurang tertarik pada aspek pemasaran atau hubungan pelanggan.", "Cenderung lebih fokus pada pekerjaan daripada pada mengelola orang.", "Mungkin kesulitan dengan perencanaan bisnis jangka panjang.", "Tidak suka pada birokrasi atau pekerjaan administratif."],
+    "recommended_majors": [
+      { "name": "Kewirausahaan (Entrepreneurship)", "reason": "Memberikan dasar-dasar bisnis yang kamu butuhkan untuk mengubah keahlianmu menjadi usaha." },
+      { "name": "Manajemen Bisnis Kecil", "reason": "Fokus pada tantangan praktis dalam menjalankan usaha sendiri." },
+      { "name": "Gelar kejuruan di bidang yang kamu minati (misal: Otomotif, Pengelasan, Kelistrikan)", "reason": "Membangun keahlian teknis yang akan menjadi fondasi bisnismu." }
+    ],
+    "career_recommendations": [
+      { "name": "Pemilik Bengkel (Otomotif, Las, Kayu, dll.)", "reason": "Menjadi bos bagi dirimu sendiri, membangun bisnis di sekitar keahlianmu." },
+      { "name": "Kontraktor (di bidang konstruksi, renovasi, atau kelistrikan)", "reason": "Mengelola proyek-proyek praktis dari awal hingga akhir." },
+      { "name": "Pendiri Startup Perangkat Keras (Hardware)", "reason": "Mengubah prototipe yang kamu buat di garasi menjadi sebuah produk yang bisa dijual." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "RS",
+    "profile_title": "Sang Instruktur Ahli",
+    "profile_tagline": "Seorang praktisi yang sabar, yang berbagi keahliannya melalui demonstrasi langsung.",
+    "reason_why": "Kamu menggabungkan penguasaanmu atas keterampilan fisik atau teknis (Realistic) dengan keinginan untuk membantu dan membimbing orang lain (Social). Sebagai seorang ISTP, kamu bukanlah guru yang teoretis; kamu mengajar dengan menunjukkan, 'Begini caranya'. Kamu adalah seorang mentor yang praktis.",
+    "what_this_means": "Kamu adalah seorang instruktur penerbangan, pelatih olahraga, atau guru di sekolah kejuruan. Kamu memiliki kesabaran untuk mengamati pemula, dengan tenang menunjukkan kesalahan mereka, dan membimbing mereka langkah demi langkah untuk menguasai sebuah keterampilan. Kamu menemukan kepuasan saat melihat orang lain berhasil melakukan sesuatu yang kamu ajarkan.",
+    "strengths": ["Sangat kompeten dan terampil dalam bidangnya.", "Instruktur yang sangat sabar dan metodis.", "Mampu menjelaskan proses yang rumit dengan cara yang sederhana dan langsung.", "Membangun kepercayaan melalui demonstrasi, bukan hanya kata-kata."],
+    "weaknesses": ["Mungkin kurang komunikatif secara verbal atau kurang ekspresif secara emosional.", "Bisa frustrasi dengan siswa yang tidak mau mencoba atau takut gagal.", "Cenderung kurang tertarik pada teori pedagogis atau administrasi pengajaran.", "Interaksi sosial yang intens bisa menguras energi."],
+    "recommended_majors": [
+      { "name": "Pendidikan Kejuruan atau Vokasi", "reason": "Secara langsung mempersiapkanmu untuk mengajar (Social) keterampilan praktis (Realistic)." },
+      { "name": "Ilmu Keolahragaan atau Pendidikan Kepelatihan", "reason": "Fokus pada pengajaran keterampilan fisik dan strategi." },
+      { "name": "Sertifikasi instruktur di bidang yang kamu minati (misal: penerbangan, menyelam, otomotif)", "reason": "Jalan yang paling langsung untuk menjadi seorang pengajar ahli." }
+    ],
+    "career_recommendations": [
+      { "name": "Instruktur Penerbangan atau Pelayaran", "reason": "Mengajarkan keterampilan yang menuntut presisi dan ketenangan di bawah tekanan." },
+      { "name": "Pelatih Olahraga (terutama olahraga teknis seperti golf, panahan, atau anggar)", "reason": "Fokus pada penyempurnaan teknik dan mekanika gerakan." },
+      { "name": "Guru di Sekolah Menengah Kejuruan (SMK)", "reason": "Mencetak generasi baru yang terampil di bidang-bidang seperti permesinan, otomotif, atau elektronika." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "RA",
+    "profile_title": "Sang Desainer-Pembuat",
+    "profile_tagline": "Seorang pengrajin yang visinya terwujud langsung melalui tangannya, bukan di atas kertas.",
+    "reason_why": "Dorongan utamamu adalah untuk bekerja dengan material fisik dan alat (Realistic), dan kamu melakukannya dengan kepekaan bawaan terhadap bentuk, fungsi, dan estetika (Artistic). Sebagai seorang ISTP, kamu adalah seorang desainer yang 'berpikir dengan tanganmu'. Kamu menemukan desainmu melalui proses pembuatan itu sendiri.",
+    "what_this_means": "Kamu adalah seorang desainer furnitur, pembuat pisau, atau perancang produk yang sangat hands-on. Kamu mungkin tidak membuat sketsa yang rumit; sebaliknya, kamu akan langsung mengambil sepotong kayu atau logam dan mulai membentuknya, membiarkan material itu sendiri memandumu. Bagimu, desain dan pembuatan adalah satu proses yang tak terpisahkan.",
+    "strengths": ["Memiliki pemahaman yang mendalam dan intuitif tentang material.", "Sangat terampil dalam mengubah bahan mentah menjadi objek yang indah dan fungsional.", "Mampu memecahkan masalah desain secara praktis dan langsung.", "Menghasilkan karya yang otentik dan berkualitas tinggi."],
+    "weaknesses": ["Bisa jadi kurang terencana dan lebih mengandalkan intuisi.", "Cenderung kurang suka pada proses desain digital atau perencanaan di komputer.", "Mungkin kesulitan untuk mengkomunikasikan proses kreatifnya kepada orang lain.", "Lebih suka bekerja sendiri di bengkel atau studionya."],
+    "recommended_majors": [
+      { "name": "Desain Produk Industri atau Kriya (Craft)", "reason": "Fokus pada perancangan (Artistic) dan pembuatan (Realistic) objek fungsional." },
+      { "name": "Seni Rupa (Peminatan Patung atau Keramik)", "reason": "Memberikan kebebasan untuk mengeksplorasi bentuk dan material." },
+      { "name": "Arsitektur (dengan fokus pada pembuatan maket dan detail konstruksi)", "reason": "Menghubungkan visi desain dengan realitas fisik pembangunan." }
+    ],
+    "career_recommendations": [
+      { "name": "Pembuat Furnitur atau Pengrajin Kayu", "reason": "Merancang dan membangun perabotan dari awal hingga akhir." },
+      { "name": "Perancang Perhiasan atau Pandai Besi", "reason": "Bekerja dengan logam untuk menciptakan objek-objek kecil yang indah dan presisi." },
+      { "name": "Desainer Prototipe", "reason": "Spesialisasi dalam membuat model fisik pertama dari sebuah produk baru, mengubah ide menjadi sesuatu yang bisa dipegang." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "IR",
+    "profile_title": "Sang Insinyur Lapangan",
+    "profile_tagline": "Seorang analis sistem yang melakukan diagnostik dan perbaikan langsung di lokasi.",
+    "reason_why": "Minat utamamu adalah untuk memahami cara kerja sistem yang kompleks (Investigative), dan kamu melakukannya dengan cara yang sangat praktis dan langsung (Realistic). Sebagai seorang ISTP, kamu adalah seorang ilmuwan terapan. Kamu tidak puas hanya dengan teori; kamu harus melihat, menyentuh, dan mengujinya di dunia nyata.",
+    "what_this_means": "Kamu adalah seorang insinyur lapangan, teknisi R&D, atau ilmuwan forensik. Kamu adalah orang yang akan dikirim ke lokasi anjungan minyak lepas pantai ketika sebuah mesin rusak, atau orang yang akan menganalisis bukti fisik di tempat kejadian perkara. Kamu berkembang dalam situasi di mana kamu bisa menggunakan logikamu untuk memecahkan teka-teki yang nyata dan mendesak.",
+    "strengths": ["Luar biasa dalam diagnostik dan pemecahan masalah di tempat.", "Mampu tetap tenang dan logis dalam situasi krisis.", "Sangat baik dalam menjembatani antara teori dan aplikasi praktis.", "Pengamat yang sangat tajam dan berorientasi pada fakta."],
+    "weaknesses": ["Bisa menjadi sangat tidak sabar dengan birokrasi atau pekerjaan kantor.", "Cenderung kurang komunikatif, lebih fokus pada masalah daripada pada orang.", "Mungkin mengabaikan implikasi jangka panjang karena terlalu fokus pada solusi saat ini.", "Tidak suka pada rapat atau diskusi yang bertele-tele."],
+    "recommended_majors": [
+      { "name": "Teknik (Mesin, Elektro, Sipil)", "reason": "Memberikan dasar teoretis (Investigative) yang kuat untuk pekerjaan praktis di lapangan (Realistic)." },
+      { "name": "Ilmu Forensik", "reason": "Menerapkan metode ilmiah untuk menganalisis bukti fisik." },
+      { "name": "Geologi atau Oseanografi", "reason": "Ilmu yang membutuhkan pengumpulan dan analisis data secara langsung di lapangan." }
+    ],
+    "career_recommendations": [
+      { "name": "Insinyur Lapangan (Field Engineer)", "reason": "Bepergian ke berbagai lokasi untuk memasang, memelihara, dan memperbaiki peralatan yang kompleks." },
+      { "name": "Ilmuwan Forensik", "reason": "Menganalisis bukti fisik dari TKP untuk membantu investigasi kriminal." },
+      { "name": "Teknisi Riset dan Pengembangan (R&D Technician)", "reason": "Membantu para ilmuwan dengan membangun dan menguji prototipe eksperimental di laboratorium." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "IC",
+    "profile_title": "Sang Ahli Diagnostik",
+    "profile_tagline": "Seorang pemecah masalah yang menggunakan logika dan data untuk menemukan akar penyebab dari kegagalan sistem.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada pemahaman cara kerja sistem (Investigative) dengan penghargaan terhadap data, akurasi, dan proses yang metodis (Conventional). Sebagai seorang ISTP, kamu adalah seorang troubleshooter yang sangat sistematis. Kamu mengikuti data ke mana pun ia menuntun.",
+    "what_this_means": "Kamu adalah seorang analis sistem, penguji perangkat lunak (QA), atau teknisi diagnostik. Kamu memiliki kesabaran untuk melakukan serangkaian tes yang teliti, menganalisis log data, dan secara sistematis mengeliminasi kemungkinan-kemungkinan sampai kamu menemukan satu penyebab masalah. Kamu adalah seorang detektif untuk mesin dan kode.",
+    "strengths": ["Sangat logis dan metodis dalam pendekatan pemecahan masalah.", "Sangat baik dalam analisis data dan menemukan anomali.", "Sabar dan gigih dalam melacak masalah yang sulit.", "Sangat objektif dan tidak terpengaruh oleh asumsi."],
+    "weaknesses": ["Bisa menjadi terlalu fokus pada detail teknis dan kehilangan gambaran besar.", "Cenderung kurang tertarik pada aspek kreatif atau desain.", "Lebih suka bekerja dengan sistem daripada dengan orang.", "Bisa terlihat kaku atau tidak fleksibel dalam metodenya."],
+    "recommended_majors": [
+      { "name": "Ilmu Komputer atau Sistem Informasi", "reason": "Melatihmu untuk berpikir secara logis dan sistematis tentang perangkat lunak dan data." },
+      { "name": "Teknik Elektro (dengan fokus pada pengujian)", "reason": "Mempelajari cara melakukan diagnostik pada sirkuit dan perangkat keras yang kompleks." },
+      { "name": "Manajemen Kualitas", "reason": "Fokus pada metodologi untuk menemukan dan mencegah cacat dalam sebuah proses." }
+    ],
+    "career_recommendations": [
+      { "name": "Insinyur Quality Assurance (QA) / Penguji Perangkat Lunak", "reason": "Bertanggung jawab untuk menemukan bug dan memastikan sebuah perangkat lunak bekerja sesuai spesifikasi." },
+      { "name": "Analis Sistem", "reason": "Menganalisis sistem yang ada untuk menemukan inefisiensi atau masalah dan merekomendasikan perbaikan." },
+      { "name": "Teknisi Diagnostik (di bidang otomotif atau medis)", "reason": "Menggunakan peralatan canggih dan data untuk mendiagnosis masalah yang kompleks pada mobil atau peralatan medis." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "IA",
+    "profile_title": "Sang Desainer Fungsional",
+    "profile_tagline": "Seorang kreator yang solusi desainnya didasarkan pada pemahaman mendalam tentang cara kerja sesuatu.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada pemahaman sistem (Investigative) dengan dorongan untuk menciptakan sesuatu yang baru dan orisinal (Artistic). Sebagai seorang ISTP, desainmu akan selalu sangat cerdas dan fungsional, di mana keindahan muncul dari efisiensi mekanisme atau logika di baliknya.",
+    "what_this_means": "Kamu adalah seorang desainer industri, arsitek, atau desainer UX yang sangat berorientasi pada fungsi. Kamu adalah tipe orang yang akan merancang sebuah kursi yang sangat ergonomis, sebuah antarmuka aplikasi yang sangat intuitif, atau sebuah bangunan yang sistem ventilasinya sangat efisien. Kamu percaya bahwa bentuk sejati mengikuti fungsi.",
+    "strengths": ["Sangat baik dalam menciptakan desain yang cerdas dan fungsional.", "Mampu memecahkan masalah desain yang kompleks dengan solusi yang elegan.", "Memiliki pemahaman yang mendalam tentang mekanika atau logika di balik desainnya.", "Inovatif dengan cara yang sangat praktis."],
+    "weaknesses": ["Bisa jadi kurang tertarik pada aspek estetika murni atau dekorasi.", "Cenderung lebih fokus pada 'bagaimana ia bekerja' daripada 'bagaimana ia terasa'.", "Mungkin kesulitan untuk mengkomunikasikan proses pemikiran di balik desainnya.", "Bisa menjadi sangat kritis terhadap desain lain yang dianggapnya tidak logis."],
+    "recommended_majors": [
+      { "name": "Desain Produk Industri", "reason": "Secara langsung menggabungkan pemahaman tentang manufaktur dan mekanika (Investigative) dengan perancangan bentuk (Artistic)." },
+      { "name": "Arsitektur", "reason": "Fokus pada perancangan bangunan sebagai sebuah sistem fungsional." },
+      { "name": "Desain Interaksi atau Desain UX", "reason": "Merancang alur kerja digital yang logis dan efisien." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Produk Industri", "reason": "Merancang objek fungsional, dari peralatan dapur hingga perkakas listrik." },
+      { "name": "Desainer UX (dengan fokus pada alur kerja kompleks)", "reason": "Merancang perangkat lunak untuk para profesional, seperti software editing video atau program CAD." },
+      { "name": "Arsitek (dengan spesialisasi pada bangunan teknis atau berkelanjutan)", "reason": "Merancang bangunan yang tidak hanya terlihat bagus tetapi juga merupakan sebuah sistem yang sangat efisien." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "IS",
+    "profile_title": "Sang Paramedis",
+    "profile_tagline": "Seorang penolong yang tetap tenang dan logis di tengah krisis untuk membantu orang lain.",
+    "reason_why": "Kamu menggabungkan minat pada pemahaman sistem (Investigative), khususnya tubuh manusia, dengan keinginan untuk membantu orang lain (Social). Sebagai seorang ISTP, kamu unggul dalam situasi darurat karena kemampuanmu untuk tetap tenang, berpikir logis, dan mengambil tindakan praktis di bawah tekanan.",
+    "what_this_means": "Kamu sangat cocok untuk peran sebagai paramedis, petugas pemadam kebakaran, atau perawat ruang gawat darurat. Kamu adalah orang yang akan tiba di lokasi kecelakaan dan segera tahu apa yang harus dilakukan. Kamu tidak panik; kamu menganalisis situasi, memprioritaskan tindakan, dan mengeksekusinya dengan efisien. Kamu membantu dengan cara yang paling langsung dan krusial.",
+    "strengths": ["Sangat tenang dan efektif di bawah tekanan.", "Pemecah masalah yang sangat cepat dan praktis.", "Mampu membuat keputusan logis di tengah kekacauan emosional.", "Berorientasi pada tindakan dan sangat kompeten secara teknis."],
+    "weaknesses": ["Bisa terlihat dingin atau tidak empatik karena terlalu fokus pada tugas.", "Mungkin kesulitan untuk memberikan dukungan emosional setelah krisis selesai.", "Pekerjaan bisa sangat menguras adrenalin dan menyebabkan burnout.", "Cenderung kurang suka pada pekerjaan administratif atau pelaporan setelah kejadian."],
+    "recommended_majors": [
+      { "name": "Ilmu Keperawatan (dengan spesialisasi Gawat Darurat atau Perawatan Kritis)", "reason": "Mempersiapkanmu untuk memberikan perawatan medis di lingkungan yang paling menantang." },
+      { "name": "Paramedis atau Teknologi Medis Darurat", "reason": "Secara spesifik melatihmu untuk menjadi responden pertama dalam situasi darurat medis." },
+      { "name": "Ilmu Pemadam Kebakaran", "reason": "Menggabungkan keterampilan teknis, medis, dan fisik untuk layanan darurat." }
+    ],
+    "career_recommendations": [
+      { "name": "Paramedis atau Teknisi Medis Darurat (EMT)", "reason": "Berada di garis depan dalam memberikan perawatan medis pra-rumah sakit." },
+      { "name": "Perawat Ruang Gawat Darurat (ER Nurse)", "reason": "Bekerja di lingkungan rumah sakit yang paling cepat dan tidak dapat diprediksi." },
+      { "name": "Petugas Pemadam Kebakaran", "reason": "Menanggapi berbagai macam keadaan darurat, dari kebakaran hingga kecelakaan." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "IE",
+    "profile_title": "Sang Konsultan Teknis",
+    "profile_tagline": "Seorang ahli yang menjual keahliannya dalam memecahkan masalah teknis yang sulit.",
+    "reason_why": "Kamu menggabungkan pemahaman yang mendalam tentang cara kerja sistem (Investigative) dengan dorongan untuk mandiri, mengambil risiko, dan memengaruhi (Enterprising). Sebagai seorang ISTP, kamu tidak ingin terikat pada satu perusahaan; kamu ingin menjadi 'senjata sewaan', dipanggil untuk memecahkan masalah yang tidak bisa dipecahkan oleh orang lain.",
+    "what_this_means": "Kamu adalah seorang konsultan independen, troubleshooter ahli, atau bahkan seorang 'ethical hacker'. Kamu menikmati tantangan untuk masuk ke dalam sebuah sistem yang tidak kamu kenal, dengan cepat menganalisisnya, menemukan kelemahannya, dan memberikan solusi yang efisien. Kamu menjual keahlianmu, bukan waktumu.",
+    "strengths": ["Ahli dalam memecahkan masalah yang sangat spesifik dan sulit.", "Sangat mandiri dan mampu mengelola diri sendiri.", "Cepat belajar dan beradaptasi dengan sistem atau teknologi baru.", "Percaya diri dengan kemampuannya dan pandai 'menjual' keahliannya."],
+    "weaknesses": ["Bisa jadi kurang sabar dengan klien yang tidak mengerti aspek teknis.", "Cenderung kurang tertarik pada membangun hubungan jangka panjang dengan klien.", "Tidak suka pada aspek administratif dari menjalankan bisnis sendiri.", "Bisa terlihat arogan atau terlalu blak-blakan."],
+    "recommended_majors": [
+      { "name": "Ilmu Komputer (dengan spesialisasi Keamanan Siber)", "reason": "Memberikan keahlian teknis tingkat tinggi yang sangat diminati." },
+      { "name": "Teknik (Mesin, Elektro, dll.)", "reason": "Membangun dasar keahlian yang mendalam di bidang tertentu." },
+      { "name": "Sistem Informasi", "reason": "Fokus pada analisis dan perbaikan sistem bisnis dan teknologi." }
+    ],
+    "career_recommendations": [
+      { "name": "Konsultan IT atau Keamanan Siber", "reason": "Membantu berbagai perusahaan mengamankan atau memperbaiki sistem teknologi mereka." },
+      { "name": "Pekerja Lepas (Freelancer) di bidang teknis (misal: Programmer, Insinyur)", "reason": "Menawarkan keahlianmu berdasarkan proyek, memberimu kebebasan dan variasi." },
+      { "name": "Analis Intelijen Teknis", "reason": "Bekerja untuk lembaga pemerintah atau swasta untuk menganalisis sistem teknologi lawan." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "AE",
+    "profile_title": "Sang Bintang Aksi",
+    "profile_tagline": "Seorang penampil yang keahliannya terletak pada penguasaan fisik yang luar biasa.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan menjadi pusat perhatian (Enterprising) dengan hasrat untuk ekspresi fisik dan estetis (Artistic). Sebagai seorang ISTP, kamu adalah seorang penampil yang 'berbicara' melalui tindakan, bukan kata-kata. Kamu adalah seorang virtuoso fisik.",
+    "what_this_means": "Kamu adalah seorang atlet profesional, penari, atau pemeran pengganti (stunt performer). Kamu memiliki kesadaran tubuh yang luar biasa dan menikmati tantangan untuk mendorongnya hingga batas kemampuannya. Kamu menemukan kepuasan dalam penguasaan sebuah keterampilan fisik yang sulit dan kemudian menampilkannya di depan audiens. Kamu adalah seni dalam gerakan.",
+    "strengths": ["Memiliki kontrol dan kesadaran tubuh yang luar biasa.", "Sangat berani dan suka mengambil risiko fisik.", "Sangat kompetitif dan berorientasi pada kinerja.", "Mampu tetap tenang dan fokus di bawah tekanan saat tampil."],
+    "weaknesses": ["Karier bisa berumur pendek dan sangat bergantung pada kondisi fisik.", "Sangat rentan terhadap cedera.", "Mungkin kurang tertarik pada aspek promosi atau interaksi dengan penggemar.", "Cenderung sangat individualistis, bahkan dalam olahraga tim."],
+    "recommended_majors": [
+      { "name": "Ilmu Keolahragaan atau Kinesiologi", "reason": "Memberikan pemahaman ilmiah tentang bagaimana cara mengoptimalkan kinerja tubuh." },
+      { "name": "Seni Tari atau Teater Fisik", "reason": "Melatih tubuh sebagai alat ekspresi artistik." },
+      { "name": "Tidak memerlukan gelar formal", "reason": "Banyak dari karier ini lebih bergantung pada bakat alami dan latihan intensif sejak usia muda." }
+    ],
+    "career_recommendations": [
+      { "name": "Atlet Profesional", "reason": "Mendedikasikan hidupmu untuk menjadi yang terbaik di cabang olahragamu." },
+      { "name": "Penari Profesional", "reason": "Mengekspresikan cerita dan emosi melalui gerakan tubuh." },
+      { "name": "Pemeran Pengganti (Stunt Performer) untuk Film", "reason": "Melakukan adegan-adegan berbahaya yang membutuhkan keterampilan fisik dan keberanian yang luar biasa." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "AR",
+    "profile_title": "Sang Pengrajin Modern",
+    "profile_tagline": "Seorang seniman yang menggunakan alat dan teknologi modern untuk menciptakan karya fungsional.",
+    "reason_why": "Dorongan utamamu adalah untuk menciptakan karya yang indah dan orisinal (Artistic), dan kamu melakukannya dengan cara yang sangat praktis, teknis, dan hands-on (Realistic). Sebagai seorang ISTP, kamu adalah seorang seniman-insinyur, menemukan keindahan dalam mekanisme yang cerdas dan desain yang bersih.",
+    "what_this_means": "Kamu adalah seorang desainer produk, pembuat perhiasan, atau pengrajin kulit. Kamu menikmati proses mengubah bahan mentah menjadi objek yang dipoles dengan sempurna. Kamu mungkin menggunakan mesin bubut, printer 3D, atau pemotong laser. Bagimu, alat adalah perpanjangan tangan dari kreativitasmu, dan hasilnya haruslah sesuatu yang bisa digunakan dan dikagumi.",
+    "strengths": ["Menggabungkan kepekaan estetika dengan keterampilan teknis yang tinggi.", "Sangat baik dalam bekerja dengan alat dan teknologi baru.", "Mampu menciptakan prototipe yang fungsional dan indah.", "Sangat berorientasi pada kualitas pengerjaan."],
+    "weaknesses": ["Bisa menjadi sangat perfeksionis.", "Cenderung kurang tertarik pada aspek pemasaran atau penjualan karyanya.", "Lebih suka proses pembuatannya daripada berinteraksi dengan klien.", "Bisa frustrasi jika visinya dibatasi oleh biaya material."],
+    "recommended_majors": [
+      { "name": "Desain Produk Industri", "reason": "Jurusan yang secara sempurna menggabungkan kreativitas (Artistic) dengan pemahaman tentang manufaktur dan material (Realistic)." },
+      { "name": "Kriya (Craft) dengan fokus pada media modern", "reason": "Mengeksplorasi penggunaan alat-alat modern dalam penciptaan karya seni." },
+      { "name": "Arsitektur", "reason": "Merancang bangunan yang membutuhkan keseimbangan antara estetika dan integritas struktural." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Produk", "reason": "Merancang dan seringkali membuat prototipe untuk produk-produk konsumen." },
+      { "name": "Pengrajin (Kulit, Logam, Kayu)", "reason": "Menciptakan dan menjual produk buatan tangan berkualitas tinggi." },
+      { "name": "Spesialis Fabrikasi Digital (Digital Fabricator)", "reason": "Menggunakan alat-alat seperti printer 3D dan pemotong laser untuk mewujudkan desain bagi orang lain." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "AC",
+    "profile_title": "Sang Teknisi Audiovisual",
+    "profile_tagline": "Seorang ahli di balik layar yang memastikan setiap pertunjukan terlihat dan terdengar sempurna.",
+    "reason_why": "Kamu menggabungkan minat pada ekspresi kreatif dan estetika (Artistic) dengan keahlian dalam mengoperasikan peralatan yang kompleks dan mengikuti prosedur yang presisi (Conventional). Sebagai seorang ISTP, kamu adalah orang yang tenang dan kompeten di tengah kekacauan produksi.",
+    "what_this_means": "Kamu adalah seorang operator kamera, editor video, atau teknisi suara. Kamu mungkin bukan orang yang berada di atas panggung, tetapi kamu adalah orang yang membuat orang di atas panggung terlihat bagus. Kamu menikmati proses teknis di balik penciptaan sebuah karya seni. Kamu menemukan kepuasan dalam mengedit sebuah adegan dengan sempurna atau mengatur pencahayaan dengan tepat.",
+    "strengths": ["Sangat terampil dalam mengoperasikan peralatan teknis.", "Memiliki mata dan telinga yang jeli untuk detail.", "Tenang dan fokus di bawah tekanan produksi.", "Mampu menerjemahkan visi seorang sutradara menjadi kenyataan teknis."],
+    "weaknesses": ["Cenderung kurang komunikatif dan lebih suka fokus pada peralatannya.", "Bisa menjadi tidak sabar dengan orang yang tidak mengerti aspek teknis.", "Mungkin kurang tertarik pada fase konseptual atau penulisan naskah.", "Lebih suka mengeksekusi daripada memimpin sebuah proyek kreatif."],
+    "recommended_majors": [
+      { "name": "Produksi Film dan Televisi atau Penyiaran (Broadcasting)", "reason": "Secara langsung melatihmu dalam semua aspek teknis di balik layar." },
+      { "name": "Teknik Audio (Audio Engineering)", "reason": "Spesialisasi dalam ilmu dan seni merekam dan mencampur suara." },
+      { "name": "Desain Grafis atau Animasi", "reason": "Fokus pada sisi teknis dari penciptaan konten visual digital." }
+    ],
+    "career_recommendations": [
+      { "name": "Editor Video atau Audio", "reason": "Menyusun rekaman mentah menjadi sebuah cerita yang koheren dan menarik." },
+      { "name": "Operator Kamera atau Sinematografer", "reason": "Bertanggung jawab atas aspek visual dari sebuah produksi film atau TV." },
+      { "name": "Teknisi Suara atau Pencahayaan (untuk acara langsung)", "reason": "Memastikan kualitas teknis dari sebuah konser atau pertunjukan teater." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "AI",
+    "profile_title": "Sang Arsitek Perangkat Keras",
+    "profile_tagline": "Seorang perancang sistem yang pemahamannya tentang logika terwujud dalam sirkuit dan silikon.",
+    "reason_why": "Dorongan utamamu adalah untuk memahami sistem yang kompleks hingga ke tingkat fundamental (Investigative), dan kamu melakukannya dengan cara yang sangat logis dan elegan (Artistic, dalam arti desain yang cerdas). Sebagai seorang ISTP, kamu menerapkan ini pada dunia perangkat keras komputer.",
+    "what_this_means": "Kamu adalah seorang insinyur komputer atau perancang chip. Kamu memiliki kemampuan langka untuk memvisualisasikan bagaimana jutaan transistor bisa bekerja sama untuk melakukan sebuah perhitungan. Kamu menikmati tantangan untuk merancang arsitektur mikroprosesor yang lebih cepat, lebih efisien, atau lebih kuat. Bagimu, sebuah papan sirkuit yang dirancang dengan baik adalah sebuah karya seni.",
+    "strengths": ["Mampu memahami sistem abstrak yang sangat kompleks.", "Sangat baik dalam merancang solusi yang logis dan efisien.", "Inovatif dalam menemukan cara-cara baru untuk memecahkan masalah komputasi.", "Sangat teliti dan presisi dalam desain."],
+    "weaknesses": ["Bisa menjadi sangat terisolasi dalam pekerjaannya.", "Mungkin kesulitan untuk mengkomunikasikan ide-ide yang sangat teknis kepada audiens non-teknis.", "Cenderung kurang tertarik pada pengembangan perangkat lunak tingkat tinggi.", "Sangat perfeksionis."],
+    "recommended_majors": [
+      { "name": "Teknik Komputer atau Teknik Elektro", "reason": "Jurusan yang secara langsung fokus pada desain perangkat keras dan sistem tingkat rendah." },
+      { "name": "Ilmu Komputer", "reason": "Memberikan dasar yang kuat dalam logika dan arsitektur komputasi." },
+      { "name": "Fisika (dengan spesialisasi semikonduktor)", "reason": "Mempelajari prinsip-prinsip dasar di balik cara kerja transistor dan chip." }
+    ],
+    "career_recommendations": [
+      { "name": "Arsitek CPU atau Perancang Chip", "reason": "Bekerja di perusahaan seperti Intel, AMD, atau NVIDIA untuk merancang mikroprosesor generasi berikutnya." },
+      { "name": "Insinyur Perangkat Keras (Hardware Engineer)", "reason": "Merancang papan sirkuit dan komponen untuk berbagai perangkat, dari smartphone hingga satelit." },
+      { "name": "Insinyur Sistem Tertanam (Embedded Systems Engineer)", "reason": "Memprogram perangkat keras pada tingkat yang sangat rendah untuk mengontrol perangkat seperti mobil atau peralatan medis." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "AS",
+    "profile_title": "Sang Pengamat Diam",
+    "profile_tagline": "Seorang seniman yang menangkap esensi manusia melalui observasi yang tajam dan tidak mencolok.",
+    "reason_why": "Kamu menggabungkan dorongan untuk berekspresi secara kreatif (Artistic) dengan minat untuk mengamati dan memahami orang lain (Social), tetapi kamu melakukannya dengan cara ISTP yang pendiam dan tidak mengganggu. Kamu adalah seorang 'people-watcher' yang mengubah observasimu menjadi seni.",
+    "what_this_means": "Kamu adalah seorang fotografer jalanan (street photographer), seorang penulis cerita pendek yang realis, atau seorang seniman sketsa. Kamu memiliki kemampuan untuk berbaur dengan keramaian, mengamati momen-momen kecil yang otentik dalam interaksi manusia, dan menangkapnya dalam karyamu. Kamu tidak perlu berbicara dengan orang untuk memahami mereka; kamu hanya perlu melihat.",
+    "strengths": ["Pengamat yang sangat tajam terhadap detail dan bahasa tubuh.", "Mampu menangkap momen yang jujur dan tidak direkayasa.", "Sabar dan mampu menunggu saat yang tepat.", "Karyanya seringkali memiliki kualitas yang sangat otentik dan membumi."],
+    "weaknesses": ["Cenderung sangat menjaga jarak dan kurang terlibat secara emosional.", "Bisa kesulitan untuk mempromosikan karyanya atau berinteraksi dalam pembukaan pameran.", "Lebih suka proses mengamati daripada proses mengedit atau mempresentasikan.", "Bisa terlihat mengintimidasi atau misterius bagi orang lain."],
+    "recommended_majors": [
+      { "name": "Fotografi", "reason": "Medium yang sempurna untuk mengamati dunia dan menangkap momen tanpa banyak interaksi verbal." },
+      { "name": "Penulisan Kreatif (dengan fokus pada cerita pendek atau realisme)", "reason": "Mengasah kemampuanmu untuk menggambarkan karakter dan situasi berdasarkan observasi yang tajam." },
+      { "name": "Antropologi Visual", "reason": "Menggunakan media visual seperti foto atau film sebagai cara untuk mendokumentasikan budaya." }
+    ],
+    "career_recommendations": [
+      { "name": "Fotografer Jalanan atau Jurnalis Foto", "reason": "Mendokumentasikan kehidupan sehari-hari di jalanan atau peristiwa-peristiwa penting." },
+      { "name": "Penulis Cerita Pendek", "reason": "Menciptakan 'potret' karakter dan situasi yang diambil dari pengamatan kehidupan nyata." },
+      { "name": "Sinematografer untuk Film Dokumenter", "reason": "Bertanggung jawab untuk menangkap gambar-gambar yang menceritakan sebuah kisah nyata." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "SE",
+    "profile_title": "Sang Penolong Keren",
+    "profile_tagline": "Seorang individu yang beraksi, yang membantu orang lain dengan cara yang paling langsung dan praktis.",
+    "reason_why": "Kamu menggabungkan keinginan untuk membantu orang lain (Social) dengan dorongan yang kuat untuk mengambil tindakan nyata dan langsung (Enterprising & Se). Sebagai seorang ISTP, kamu bukanlah tipe penolong yang memberikan kata-kata penghiburan; kamu adalah orang yang akan langsung datang dan memperbaiki masalahnya.",
+    "what_this_means": "Kamu adalah seorang responden darurat, seorang teman yang akan datang membantumu pindahan, atau seorang manajer yang menyelesaikan masalah timnya tanpa banyak bicara. Kamu melihat sebuah masalah, menganalisis cara tercepat untuk menyelesaikannya, dan langsung mengerjakannya. Kamu mendapatkan rasa hormat bukan melalui kata-kata, tetapi melalui tindakan dan kompetensi.",
+    "strengths": ["Sangat berorientasi pada tindakan dan solusi.", "Tetap tenang dan efisien dalam situasi krisis.", "Sangat dapat diandalkan dalam keadaan darurat.", "Membantu dengan cara yang praktis dan nyata."],
+    "weaknesses": ["Bisa terlihat kurang empatik atau tidak peduli secara emosional.", "Cenderung kurang suka pada pembicaraan atau proses yang panjang.", "Mungkin 'mengambil alih' dan menyelesaikan masalah sendiri daripada mengajari orang lain.", "Bisa frustrasi dengan orang yang dianggapnya tidak kompeten atau terlalu banyak mengeluh."],
+    "recommended_majors": [
+      { "name": "Manajemen Darurat atau Penanggulangan Bencana", "reason": "Mempersiapkanmu untuk memimpin dan bertindak dalam situasi krisis." },
+      { "name": "Ilmu Kepolisian atau Kriminologi", "reason": "Karier yang berorientasi pada tindakan untuk melindungi dan melayani masyarakat." },
+      { "name": "Keperawatan Gawat Darurat", "reason": "Berada di garis depan dalam memberikan bantuan medis yang cepat dan efisien." }
+    ],
+    "career_recommendations": [
+      { "name": "Petugas Polisi, Pemadam Kebakaran, atau Paramedis", "reason": "Karier di mana kemampuanmu untuk bertindak cepat dan logis di bawah tekanan sangat dihargai." },
+      { "name": "Manajer Proyek atau Operasional", "reason": "Dikenal sebagai 'pemadam kebakaran' di kantor, orang yang dipanggil untuk memperbaiki proyek yang bermasalah." },
+      { "name": "Militer (terutama di unit-unit teknis atau operasi khusus)", "reason": "Lingkungan yang sangat menghargai keterampilan praktis dan ketenangan di bawah tekanan." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "SC",
+    "profile_title": "Sang Pustakawan Teknis",
+    "profile_tagline": "Seorang spesialis informasi yang memastikan sistem di belakang layar berjalan sempurna.",
+    "reason_why": "Kamu menggabungkan keinginan untuk membantu orang lain mengakses informasi (Social) dengan bakat untuk bekerja dengan sistem yang teratur, detail, dan berbasis aturan (Conventional). Sebagai seorang ISTP, kamu adalah orang yang memastikan 'mesin' perpustakaan atau database berjalan tanpa cela.",
+    "what_this_means": "Kamu adalah seorang pustakawan sistem, manajer data, atau spesialis IT di perpustakaan. Kamu mungkin bukan orang yang berada di meja depan, tetapi kamu adalah orang yang merancang sistem katalog online, memecahkan masalah jaringan komputer, atau memastikan semua data terarsip dengan benar. Kamu menemukan kepuasan dalam sistem yang bekerja dengan lancar.",
+    "strengths": ["Sangat baik dalam troubleshooting sistem teknis.", "Terorganisir dan metodis.", "Mampu bekerja secara mandiri pada masalah yang kompleks.", "Dapat diandalkan untuk menjaga sistem tetap berjalan."],
+    "weaknesses": ["Cenderung kurang tertarik pada interaksi tatap muka dengan pengguna.", "Bisa menjadi tidak sabar dengan pengguna yang tidak mengerti teknologi.", "Kurang fleksibel dan lebih suka bekerja dengan sistem yang sudah dikenal.", "Bisa frustrasi dengan birokrasi atau rapat."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan dan Informasi (dengan spesialisasi sistem atau teknologi)", "reason": "Secara langsung mempersiapkanmu untuk mengelola aspek teknis dari sebuah perpustakaan." },
+      { "name": "Sistem Informasi atau Teknologi Informasi", "reason": "Memberikan dasar yang kuat dalam mengelola sistem komputer dan database." },
+      { "name": "Manajemen Arsip dan Rekod", "reason": "Fokus pada pengelolaan data dan dokumen secara sistematis." }
+    ],
+    "career_recommendations": [
+      { "name": "Pustakawan Sistem (Systems Librarian)", "reason": "Bertanggung jawab atas semua teknologi di sebuah perpustakaan, dari situs web hingga sistem katalog." },
+      { "name": "Administrator Database", "reason": "Merancang, membangun, dan memelihara database untuk berbagai organisasi." },
+      { "name": "Spesialis Dukungan IT", "reason": "Menjadi orang yang memecahkan masalah teknis untuk semua karyawan di sebuah organisasi." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "EC",
+    "profile_title": "Sang Pedagang Saham (Trader)",
+    "profile_tagline": "Seorang pengambil risiko yang menganalisis sistem pasar untuk keuntungan cepat.",
+    "reason_why": "Kamu menggabungkan dorongan untuk bersaing, mengambil risiko, dan menghasilkan uang (Enterprising) dengan penghargaan terhadap data, aturan, dan eksekusi yang cepat (Conventional). Sebagai seorang ISTP, kamu adalah seorang pemain di pasar: logis, tidak emosional, dan berorientasi pada aksi.",
+    "what_this_means": "Kamu sangat cocok untuk peran sebagai pedagang saham harian (day trader) atau analis teknikal. Kamu tidak terlalu peduli pada cerita jangka panjang sebuah perusahaan; kamu peduli pada pola harga, volume, dan indikator teknis. Kamu menikmati sensasi menganalisis pasar secara cepat, membuat keputusan dalam hitungan detik, dan melihat hasilnya secara langsung. Ini adalah sebuah permainan keterampilan dan saraf.",
+    "strengths": ["Sangat logis dan tidak emosional dalam mengambil keputusan.", "Mampu memproses data dan bertindak dengan sangat cepat.", "Sangat baik dalam mengenali pola jangka pendek.", "Pengambil risiko yang disiplin dan tahu kapan harus keluar."],
+    "weaknesses": ["Bisa menjadi terlalu impulsif dan mengabaikan analisis fundamental.", "Cenderung kurang tertarik pada strategi investasi jangka panjang.", "Lingkungan kerja yang sangat penuh tekanan dan berisiko tinggi.", "Sangat individualistis dan tidak cocok untuk kerja tim."],
+    "recommended_majors": [
+      { "name": "Keuangan atau Ekonomi", "reason": "Memberikan pemahaman tentang cara kerja pasar." },
+      { "name": "Statistika atau Matematika", "reason": "Mengasah kemampuanmu untuk menganalisis data kuantitatif dan pola." },
+      { "name": "Ilmu Komputer (dengan minat pada trading algoritmik)", "reason": "Membangun sistem otomatis untuk melakukan trading berdasarkan aturan yang kamu tetapkan." }
+    ],
+    "career_recommendations": [
+      { "name": "Pedagang Saham (Stock Trader)", "reason": "Membeli dan menjual aset keuangan untuk mendapatkan keuntungan dari pergerakan harga jangka pendek." },
+      { "name": "Analis Teknikal", "reason": "Menganalisis grafik harga untuk memprediksi pergerakan pasar di masa depan." },
+      { "name": "Manajer Dana Lindung Nilai (Hedge Fund Manager) (dengan gaya trading)", "reason": "Mengelola uang dalam jumlah besar dengan strategi yang agresif dan berisiko tinggi." }
+    ]
+  },
+  {
+    "mbti_type": "ISTP",
+    "riasec_code": "CI",
+    "profile_title": "Sang Analis Data Forensik",
+    "profile_tagline": "Seorang detektif digital yang mengikuti jejak data untuk menemukan kebenaran.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada riset dan pemecahan teka-teki (Investigative) dengan keahlian dalam bekerja dengan data yang terstruktur, aturan, dan prosedur (Conventional). Sebagai seorang ISTP, kamu adalah seorang penyelidik yang sangat objektif dan metodis, membiarkan bukti digital berbicara sendiri.",
+    "what_this_means": "Kamu adalah seorang analis forensik digital atau akuntan forensik. Kamu adalah orang yang akan dipanggil setelah terjadi peretasan data atau penipuan keuangan. Kamu memiliki kesabaran dan ketelitian untuk menyisir ribuan baris log, data transaksi, atau file yang dihapus untuk merekonstruksi apa yang sebenarnya terjadi. Kamu menemukan kepuasan dalam memecahkan sebuah kasus melalui analisis data yang cermat.",
+    "strengths": ["Sangat teliti dan berorientasi pada detail.", "Sangat baik dalam mengikuti jejak digital dan menemukan anomali.", "Sangat objektif dan tidak terpengaruh oleh bias.", "Sabar dan gigih dalam menghadapi data yang sangat besar dan kompleks."],
+    "weaknesses": ["Pekerjaan bisa sangat soliter dan membutuhkan fokus yang intens.", "Bisa menjadi frustrasi dengan data yang tidak lengkap atau rusak.", "Cenderung kurang tertarik pada aspek manusia atau motivasi di balik sebuah kejahatan.", "Mungkin kesulitan untuk menjelaskan temuan teknisnya kepada audiens non-teknis."],
+    "recommended_majors": [
+      { "name": "Forensik Digital atau Keamanan Siber", "reason": "Secara langsung melatihmu dalam teknik untuk menginvestigasi kejahatan digital." },
+      { "name": "Akuntansi (dengan spesialisasi akuntansi forensik)", "reason": "Fokus pada pendeteksian penipuan melalui analisis catatan keuangan." },
+      { "name": "Ilmu Komputer atau Sistem Informasi", "reason": "Memberikan dasar teknis yang kuat untuk memahami bagaimana data disimpan dan dimanipulasi." }
+    ],
+    "career_recommendations": [
+      { "name": "Analis Forensik Digital", "reason": "Bekerja untuk lembaga penegak hukum atau perusahaan swasta untuk menginvestigasi insiden siber." },
+      { "name": "Akuntan Forensik", "reason": "Menyelidiki penipuan keuangan, penggelapan uang, atau kejahatan kerah putih lainnya." },
+      { "name": "Penyelidik eDiscovery", "reason": "Bekerja untuk firma hukum untuk menemukan dan menganalisis bukti elektronik untuk sebuah kasus." }
+    }
+  ],
+  "message": "Selesai sudah untuk ISTP! Dengan ini, 330 profil telah kita buat. Tinggal satu lagi untuk melengkapi kelompok SP (Sensing-Perceiving), yaitu 'saudara kembar' ekstrovertnya, **ESTP**. Apakah kita akan langsung melanjutkannya?"
+}
