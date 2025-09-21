@@ -1,48 +1,98 @@
-{
-  "mbti_type": "INTP",
-  "riasec_code": "IR",
-  "profile_title": "Sang Teoris Analitis",
-  "profile_tagline": "Seorang pemikir mendalam yang mendasarkan ide-ide abstrak pada realitas yang nyata.",
-  "reason_why": "Hasil ini menunjukkan kombinasi kuat dari Introverted Thinking (Ti) dan Extraverted Intuition (Ne) dari MBTI Anda, yang mengarah pada kecintaan pada sistem logis dan kemungkinan. Ini dipasangkan dengan minat dominan Investigatif (I), yang mendorong rasa ingin tahu Anda, dan minat Realistis (R) yang kuat, yang membumikan teori-teori Anda dalam hal-hal yang praktis dan nyata.",
-  "what_this_means": "Anda kemungkinan besar adalah seorang pemecah masalah alami yang tidak hanya puas dengan mengetahui *bagaimana* sesuatu bekerja secara teori, tetapi juga merasa terdorong untuk membangun, menguji, atau menerapkannya di dunia nyata. Anda berkembang di lingkungan yang memberi Anda otonomi intelektual untuk mengeksplorasi tantangan kompleks dan kemudian menerjemahkan temuan Anda menjadi hasil yang konkret.",
-  "strengths": [
-    "Pemikiran analitis dan sistematis yang mendalam.",
-    "Kemampuan untuk menjembatani konsep abstrak dengan implementasi praktis.",
-    "Mandiri dan berdikari dalam riset dan eksekusi.",
-    "Standar tinggi untuk akurasi dan konsistensi logis."
-  ],
-  "weaknesses": [
-    "Bisa menjadi terlalu fokus pada detail teoretis, yang menunda tindakan ('analysis paralysis').",
-    "Bisa sangat skeptis terhadap prosedur yang sudah ada tanpa bukti logis yang cukup.",
-    "Mungkin lebih suka bekerja sendiri, terkadang kehilangan wawasan kolaboratif.",
-    "Potensi kesulitan dalam mengkomunikasikan ide-ide kompleks kepada audiens non-teknis."
-  ],
-  "recommended_majors": [
-    {
-      "name": "Ilmu Komputer (Spesialisasi AI & Robotika)",
-      "reason": "Sangat selaras dengan keinginan Investigatif Anda untuk memahami algoritma kompleks (AI) dengan dorongan Realistis Anda untuk membangun sistem nyata (Robotika)."
-    },
-    {
-      "name": "Teknik Elektro",
-      "reason": "Memungkinkan Anda menerapkan prinsip-prinsip teoretis fisika (Investigatif) untuk merancang dan membuat sirkuit dan perangkat fisik (Realistis)."
-    },
-    {
-      "name": "Fisika Murni atau Terapan",
-      "reason": "Memenuhi keinginan inti Anda untuk memahami hukum dasar alam semesta (Investigatif) dan menerapkannya untuk memecahkan masalah dunia nyata (Realistis)."
-    }
-  ],
-  "career_recommendations": [
-    {
-      "name": "Insinyur AI/Robotika",
-      "reason": "Aplikasi langsung dari profil Anda, menggabungkan riset teoretis yang mendalam dengan pengembangan sistem cerdas secara langsung."
-    },
-    {
-      "name": "Data Scientist",
-      "reason": "Memanfaatkan sifat Investigatif Anda untuk menemukan pola dalam data dan kerangka logis INTP Anda untuk membangun model prediktif."
-    },
-    {
-      "name": "Arsitek Perangkat Lunak (Software Architect)",
-      "reason": "Memungkinkan Anda merancang sistem perangkat lunak yang kompleks dan logis (INTP) berdasarkan riset dan pemahaman teknis yang mendalam (Investigatif)."
-    }
-  ]
-}
+[
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "IR",
+    "profile_title": "Sang Teoris Analitis",
+    "profile_tagline": "Seorang pemikir mendalam yang bisa nyambungin ide-ide abstrak ke dunia nyata.",
+    "reason_why": "Hasil ini nunjukkin kalau kamu punya kombinasi keren dari Introverted Thinking (Ti) dan Extraverted Intuition (Ne) dari MBTI-mu. Makanya kamu suka banget sama sistem yang logis dan mikirin segala kemungkinan. Terus, ini nyambung banget sama minat Investigatif (I) yang bikin kamu super kepo, dan minat Realistis (R) yang bikin kamu pengen ide-idemu itu ada wujudnya.",
+    "what_this_means": "Artinya, kamu itu tipe pemecah masalah alami yang nggak cuma puas tahu teori doang, tapi juga ngerasa harus banget ngebangun, ngetes, atau ngewujudin idemu di dunia nyata. Kamu bakal bersinar di lingkungan yang ngasih kamu kebebasan buat mikir, ngulik tantangan rumit, terus ngejadiin temuanmu sebagai sesuatu yang konkret.",
+    "strengths": [
+      "Pemikiran analitis dan sistematis yang tajam banget.",
+      "Jago ngehubungin konsep abstrak ke implementasi praktis.",
+      "Mandiri dan bisa diandalkan buat riset dan eksekusi.",
+      "Punya standar tinggi buat akurasi dan konsistensi logika."
+    ],
+    "weaknesses": [
+      "Kadang terlalu asyik sama teori sampe lupa take action ('analysis paralysis').",
+      "Bisa jadi super skeptis sama aturan yang udah ada kalau nggak ada bukti logisnya.",
+      "Seringnya lebih suka kerja sendiri, jadi kadang ketinggalan insight dari tim.",
+      "Agak susah ngejelasin ide-ide rumit ke orang yang nggak sepemikiran."
+    ],
+    "recommended_majors": [
+      {
+        "name": "Ilmu Komputer (Spesialisasi AI & Robotika)",
+        "reason": "Ini pas banget! Kamu bisa muasin jiwa Investigatif-mu buat ngulik algoritma (AI) sekaligus dorongan Realistis-mu buat ngebangun sistem nyata (Robotika)."
+      },
+      {
+        "name": "Teknik Elektro",
+        "reason": "Bikin kamu bisa nerapin prinsip fisika (Investigatif) buat ngerancang sirkuit dan perangkat keren di dunia nyata (Realistis)."
+      },
+      {
+        "name": "Fisika Murni atau Terapan",
+        "reason": "Ini 'kamu banget' yang pengen ngerti hukum dasar alam semesta (Investigatif) dan nerapin itu buat mecahin masalah (Realistis)."
+      }
+    ],
+    "career_recommendations": [
+      {
+        "name": "Insinyur AI/Robotika",
+        "reason": "Ini kerjaan impian buat profilmu, ngegabungin riset teori yang dalem sama pengembangan sistem cerdas yang nyata."
+      },
+      {
+        "name": "Data Scientist",
+        "reason": "Kamu bisa pakai jiwa Investigatif-mu buat nemuin pola di data dan logika INTP-mu buat bikin model prediksi yang akurat."
+      },
+      {
+        "name": "Arsitek Perangkat Lunak (Software Architect)",
+        "reason": "Di sini kamu bisa ngerancang sistem software yang logis dan kompleks (INTP) berdasarkan riset teknis yang mendalam (Investigatif)."
+      }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "SE",
+    "profile_title": "Sang Pengasuh Sosial",
+    "profile_tagline": "Seorang pilar komunitas yang hangat, yang jago menyatukan orang dan menciptakan harmoni.",
+    "reason_why": "Hasil ini nunjukkin kalau kamu punya Extraverted Feeling (Fe) yang kuat banget, bikin kamu super peka sama kebutuhan orang lain dan jago ngebangun hubungan. Dikombinasiin sama minat Sosial (S) yang tinggi, kamu itu emang dilahirin buat berinteraksi dan ngebantu orang, plus minat Usaha (E) nunjukkin kamu juga suka ngambil inisiatif dan nge-lead!",
+    "what_this_means": "Artinya, kamu itu tipe orang yang paling 'hidup' pas lagi bareng orang lain. Kamu dapet energi dari ngebantu, ngatur acara, dan mastiin semua orang di sekitar kamu ngerasa nyaman dan dihargai. Kamu itu lem perekat di kelompokmu, jago banget bikin suasana jadi positif dan produktif.",
+    "strengths": [
+      "Super empatik dan peduli sama perasaan orang lain.",
+      "Jago banget ngorganisir acara atau tim.",
+      "Komunikator yang hangat dan persuasif.",
+      "Sangat bertanggung jawab dan bisa diandalkan."
+    ],
+    "weaknesses": [
+      "Kadang terlalu mikirin kebutuhan orang lain sampe lupa sama diri sendiri.",
+      "Bisa jadi kurang suka sama kritik, apalagi yang sifatnya personal.",
+      "Cenderung ngehindarin konflik demi menjaga harmoni.",
+      "Kurang suka sama pekerjaan yang terlalu teoretis atau sendirian."
+    ],
+    "recommended_majors": [
+      {
+        "name": "Ilmu Komunikasi",
+        "reason": "Ini pas banget buat kamu yang jago ngomong, ngebangun relasi, dan ngertiin audiens. Cocok buat public relations atau event management."
+      },
+      {
+        "name": "Manajemen SDM (Human Resources)",
+        "reason": "Kamu bisa gunain empati dan skill organisasimu buat ngurusin kesejahteraan karyawan dan ngebangun budaya perusahaan yang positif."
+      },
+      {
+        "name": "Pendidikan Guru Sekolah Dasar (PGSD)",
+        "reason": "Cocok banget sama sifatmu yang suka ngebantu dan ngasuh. Kamu bisa jadi guru yang inspiratif buat anak-anak."
+      }
+    ],
+    "career_recommendations": [
+      {
+        "name": "Manajer HRD",
+        "reason": "Kombinasi skill sosial dan organisasimu bakal kepake banget di sini buat ngelola talenta dan ngebangun tim yang solid."
+      },
+      {
+        "name": "Event Organizer",
+        "reason": "Kamu bisa nyalurin energimu buat ngatur acara-acara keren dan mastiin semua orang seneng. Perfect match!"
+      },
+      {
+        "name": "Konselor Sekolah",
+        "reason": "Sifat empatik dan pedulimu bikin kamu jadi tempat curhat yang aman dan bisa ngebantu siswa nemuin jalan mereka."
+      }
+    ]
+  }
+]
