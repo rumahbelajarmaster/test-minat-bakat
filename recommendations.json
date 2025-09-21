@@ -5372,3 +5372,284 @@
     ]
   }
 ]
+{
+    "mbti_type": "ISFJ",
+    "riasec_code": "SC",
+    "profile_title": "Sang Administrator yang Peduli",
+    "profile_tagline": "Seorang organisator yang memastikan sistem berjalan lancar demi kesejahteraan orang lain.",
+    "reason_why": "Ini adalah kombinasi ISFJ yang paling murni. Kemampuanmu untuk mengingat detail dan mengikuti prosedur (Si) serta kepedulianmu yang tulus terhadap orang lain (Fe) sangat selaras dengan minat untuk membantu (Social) dan bekerja dengan cara yang teratur dan efisien (Conventional).",
+    "what_this_means": "Kamu adalah tulang punggung dari setiap organisasi yang berfungsi dengan baik. Kamu adalah seorang administrator, asisten eksekutif, atau manajer kantor yang luar biasa. Kamu menemukan kepuasan yang mendalam dalam menciptakan keteraturan dan memastikan bahwa semua kebutuhan orang lain terpenuhi di belakang layar. Kamu adalah orang yang membuat dunia tetap berputar.",
+    "strengths": ["Sangat terorganisir, teliti, dan dapat diandalkan.", "Sangat baik dalam mengikuti prosedur dan memperhatikan detail.", "Sangat peduli dan suportif terhadap rekan kerja.", "Memiliki ingatan yang kuat untuk detail-detail praktis."],
+    "weaknesses": ["Bisa menjadi sangat resisten terhadap perubahan atau metode baru.", "Cenderung terlalu banyak mengambil pekerjaan dan kesulitan untuk mengatakan 'tidak'.", "Mungkin menghindari konflik dan tidak menyuarakan kebutuhannya sendiri.", "Bisa menjadi terlalu fokus pada tugas-tugas rutin."],
+    "recommended_majors": [
+      { "name": "Administrasi Perkantoran atau Sekretaris", "reason": "Secara langsung melatihmu dalam keterampilan organisasi (Conventional) untuk mendukung orang lain (Social)." },
+      { "name": "Ilmu Perpustakaan", "reason": "Menggabungkan kecintaan pada keteraturan dan sistem (Conventional) dengan misi untuk melayani para pencari pengetahuan (Social)." },
+      { "name": "Manajemen Informasi Kesehatan", "reason": "Fokus pada pengelolaan data pasien yang detail (Conventional) untuk mendukung pelayanan kesehatan (Social)." }
+    ],
+    "career_recommendations": [
+      { "name": "Asisten Eksekutif atau Manajer Kantor", "reason": "Menjadi tangan kanan yang tak ternilai bagi seorang pemimpin, mengelola semua detail administratif." },
+      { "name": "Staf Administrasi (di sekolah, rumah sakit, atau firma hukum)", "reason": "Memastikan semua operasional di belakang layar berjalan lancar dan efisien." },
+      { "name": "Pustakawan atau Arsiparis", "reason": "Merawat dan mengorganisir koleksi pengetahuan untuk kepentingan publik." }
+    ]
+  },
+  {
+    "mbti_type": "ISFJ",
+    "riasec_code": "SR",
+    "profile_title": "Sang Perawat Setia",
+    "profile_tagline": "Seorang pemberi perawatan yang memberikan dukungan praktis dan emosional dengan penuh kesabaran.",
+    "reason_why": "Kamu menggabungkan doronganmu yang kuat untuk membantu dan merawat orang lain (Social) dengan pendekatan yang sangat praktis, nyata, dan langsung (Realistic). Sebagai seorang ISFJ, kamu menunjukkan kepedulianmu melalui tindakan nyata, bukan hanya kata-kata.",
+    "what_this_means": "Kamu terlahir untuk menjadi seorang perawat, terapis, atau guru anak usia dini. Kamu memiliki kesabaran yang luar biasa dan sentuhan yang menenangkan. Kamu menemukan kepuasan dalam memberikan perawatan fisik—mengganti perban, membantu pasien berjalan, atau memeluk seorang anak yang menangis. Kamu adalah kehadiran yang menenangkan dan dapat diandalkan dalam masa-masa sulit.",
+    "strengths": ["Sangat sabar, peduli, dan penuh perhatian.", "Sangat terampil dalam memberikan perawatan praktis.", "Mampu menciptakan lingkungan yang aman dan nyaman.", "Sangat dapat diandalkan dan setia pada pasien atau muridnya."],
+    "weaknesses": ["Pekerjaan bisa sangat menguras energi fisik dan emosional.", "Bisa menyerap terlalu banyak penderitaan dari orang yang dirawatnya.", "Cenderung mengabaikan kesejahteraan diri sendiri.", "Mungkin kesulitan untuk menjadi tegas atau menetapkan batasan."],
+    "recommended_majors": [
+      { "name": "Keperawatan", "reason": "Profesi yang secara sempurna menggabungkan perawatan langsung (Realistic) dengan empati dan pelayanan (Social)." },
+      { "name": "Pendidikan Anak Usia Dini (PAUD)", "reason": "Fokus pada perawatan dan pendidikan anak-anak kecil melalui aktivitas praktis." },
+      { "name": "Terapi Okupasi atau Fisioterapi", "reason": "Membantu orang lain memulihkan fungsi fisik mereka melalui bimbingan yang sabar dan praktis." }
+    ],
+    "career_recommendations": [
+      { "name": "Perawat", "reason": "Memberikan perawatan langsung kepada pasien di berbagai setting, dari rumah sakit hingga panti jompo." },
+      { "name": "Guru TK atau Pengasuh Anak", "reason": "Merawat dan mendidik anak-anak kecil dalam tahun-tahun formatif mereka." },
+      { "name": "Terapis Fisik atau Okupasi", "reason": "Secara langsung membantu pasien dalam proses rehabilitasi mereka." }
+    ]
+  },
+  {
+    "mbti_type": "ISFJ",
+    "riasec_code": "SA",
+    "profile_title": "Sang Pelindung Tradisi",
+    "profile_tagline": "Seorang individu yang menggunakan kreativitas untuk merawat dan merayakan tradisi komunitas.",
+    "reason_why": "Kamu menggabungkan keinginan tulus untuk membantu dan menyatukan orang (Social) dengan apresiasi yang mendalam terhadap keindahan, tradisi, dan ekspresi kreatif (Artistic). Sebagai seorang ISFJ, kamu adalah penjaga budaya dan cerita komunitasmu.",
+    "what_this_means": "Kamu adalah tipe orang yang akan menjadi guru sejarah yang disukai, kurator museum lokal, atau organisator festival budaya. Kamu menemukan kegembiraan dalam melestarikan tradisi—baik itu melalui masakan, kerajinan tangan, atau cerita—dan membagikannya dengan cara yang hangat dan menarik. Kamu membantu orang merasa terhubung dengan akar mereka.",
+    "strengths": ["Memiliki penghargaan yang mendalam terhadap sejarah dan tradisi.", "Sangat baik dalam menciptakan acara atau lingkungan yang hangat dan ramah.", "Kreatif dalam cara-cara yang melayani komunitas.", "Sangat setia dan berdedikasi pada komunitasnya."],
+    "weaknesses": ["Bisa menjadi sangat resisten terhadap perubahan atau ide-ide baru.", "Cenderung lebih fokus pada masa lalu daripada masa depan.", "Mungkin menghindari sorotan dan kurang mempromosikan karyanya.", "Sangat terpengaruh oleh keharmonisan kelompok."],
+    "recommended_majors": [
+      { "name": "Sejarah atau Antropologi", "reason": "Mempelajari tradisi dan cerita manusia (Social & Artistic)." },
+      { "name": "Museologi (Studi Museum) atau Manajemen Seni", "reason": "Fokus pada pelestarian dan presentasi warisan budaya." },
+      { "name": "Pendidikan (dengan spesialisasi Sejarah atau Ilmu Sosial)", "reason": "Mempersiapkanmu untuk menjadi guru yang berbagi cerita tentang masa lalu." }
+    ],
+    "career_recommendations": [
+      { "name": "Guru Sejarah atau Ilmu Sosial", "reason": "Membuat masa lalu menjadi hidup dan relevan bagi siswa." },
+      { "name": "Kurator Museum atau Pustakawan", "reason": "Merawat koleksi yang menceritakan kisah sebuah komunitas." },
+      { "name": "Perencana Acara untuk festival budaya atau acara komunitas", "reason": "Mengorganisir perayaan yang menyatukan orang dan melestarikan tradisi." }
+    ]
+  },
+  {
+    "mbti_type": "ISFJ",
+    "riasec_code": "CS",
+    "profile_title": "Sang Penjaga Data Manusia",
+    "profile_tagline": "Seorang individu yang teliti, yang memastikan informasi tentang orang lain dikelola dengan benar dan penuh perhatian.",
+    "reason_why": "Dorongan utamamu adalah untuk bekerja dengan cara yang teratur, akurat, dan sesuai prosedur (Conventional), dan kamu termotivasi oleh keinginan untuk membantu dan melayani orang lain (Social). Sebagai seorang ISFJ, kamu adalah penjaga data yang dapat dipercaya.",
+    "what_this_means": "Kamu sangat cocok untuk peran sebagai staf HR, petugas rekam medis, atau administrator di lembaga sosial. Kamu memiliki ketelitian untuk memastikan semua data benar dan terorganisir, tetapi kamu tidak pernah lupa bahwa di balik setiap angka dan formulir, ada seorang manusia. Kamu menangani informasi sensitif dengan profesionalisme dan empati.",
+    "strengths": ["Sangat teliti, akurat, dan terorganisir.", "Sangat dapat dipercaya dan menjaga kerahasiaan.", "Empati dan peduli dalam menangani data personal.", "Sangat andal dan konsisten dalam bekerja."],
+    "weaknesses": ["Bisa menjadi sangat kaku dengan aturan dan birokrasi.", "Cenderung kurang fleksibel jika ada situasi yang tidak biasa.", "Mungkin tidak nyaman dengan pengambilan keputusan yang ambigu.", "Lebih suka bekerja di belakang layar."],
+    "recommended_majors": [
+      { "name": "Manajemen Sumber Daya Manusia (SDM)", "reason": "Fokus pada sistem (Conventional) untuk mengelola data karyawan (Social)." },
+      { "name": "Manajemen Informasi Kesehatan", "reason": "Spesialisasi dalam mengelola rekam medis pasien dengan akurasi dan kerahasiaan." },
+      { "name": "Administrasi Bisnis atau Publik", "reason": "Memberikan keterampilan administratif yang luas untuk diterapkan di sektor pelayanan." }
+    ],
+    "career_recommendations": [
+      { "name": "Spesialis atau Staf Sumber Daya Manusia (HR)", "reason": "Mengelola data karyawan, penggajian, dan tunjangan dengan akurat dan penuh perhatian." },
+      { "name": "Petugas Rekam Medis", "reason": "Memastikan semua informasi pasien di rumah sakit atau klinik akurat dan terorganisir." },
+      { "name": "Administrator di Organisasi Nirlaba", "reason": "Mengelola data donor, sukarelawan, dan klien untuk mendukung misi organisasi." }
+    ]
+  },
+  {
+    "mbti_type": "ISFJ",
+    "riasec_code": "CR",
+    "profile_title": "Sang Apoteker",
+    "profile_tagline": "Seorang profesional yang teliti, yang memastikan keselamatan pasien melalui presisi dan kepatuhan.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang teratur, akurat, dan berbasis aturan (Conventional) dengan fokus pada dunia kesehatan yang nyata dan praktis (Realistic). Sebagai seorang ISFJ, kamu adalah penjaga gerbang yang sempurna antara obat dan pasien, didorong oleh rasa tanggung jawab yang mendalam.",
+    "what_this_means": "Kamu sangat cocok untuk karier sebagai apoteker atau teknisi farmasi. Kamu memiliki ketelitian untuk membaca resep yang rumit, menghitung dosis dengan tepat, dan memeriksa potensi interaksi obat. Kamu adalah garis pertahanan terakhir yang melindungi pasien dari kesalahan. Kamu menemukan kepuasan dalam pekerjaan yang membutuhkan konsentrasi tinggi dan memiliki dampak langsung pada keselamatan orang.",
+    "strengths": ["Sangat teliti, presisi, dan akurat.", "Memiliki rasa tanggung jawab yang sangat tinggi.", "Sangat baik dalam mengikuti prosedur dan protokol yang ketat.", "Sabar dalam menjelaskan informasi kepada pasien."],
+    "weaknesses": ["Bisa menjadi sangat stres oleh tanggung jawab yang besar.", "Kurang suka pada lingkungan kerja yang kacau atau tidak terduga.", "Cenderung resisten terhadap perubahan dalam prosedur atau sistem.", "Bisa menjadi sangat perfeksionis."],
+    "recommended_majors": [
+      { "name": "Farmasi", "reason": "Secara langsung mempersiapkanmu untuk menjadi seorang apoteker." },
+      { "name": "Teknologi Laboratorium Medis", "reason": "Fokus pada pekerjaan detail di belakang layar yang membutuhkan presisi tinggi." },
+      { "name": "Kimia", "reason": "Memberikan dasar ilmiah yang kuat untuk memahami cara kerja obat." }
+    ],
+    "career_recommendations": [
+      { "name": "Apoteker (di apotek, rumah sakit, atau industri)", "reason": "Bertanggung jawab untuk meracik dan mendistribusikan obat secara aman dan akurat." },
+      { "name": "Teknisi Farmasi", "reason": "Mendukung apoteker dalam tugas-tugas teknis, dari persiapan obat hingga manajemen inventaris." },
+      { "name": "Spesialis Quality Control di Perusahaan Farmasi", "reason": "Memastikan bahwa setiap batch obat yang diproduksi memenuhi standar kualitas dan keamanan yang tertinggi." }
+    ]
+  },
+  {
+    "mbti_type": "ISFJ",
+    "riasec_code": "SE",
+    "profile_title": "Sang Tuan Rumah yang Sempurna",
+    "profile_tagline": "Seorang individu yang berdedikasi untuk menciptakan pengalaman yang hangat dan nyaman bagi orang lain.",
+    "reason_why": "Kamu menggabungkan dorongan untuk membantu dan melayani orang lain (Social) dengan bakat untuk memimpin dan mengorganisir dalam skala kecil dan personal (Enterprising). Sebagai seorang ISFJ, kamu adalah tuan rumah alami, menggunakan perhatianmu pada detail (Si) dan kehangatanmu (Fe) untuk membuat semua orang merasa diterima.",
+    "what_this_means": "Kamu adalah seorang manajer perhotelan, pemilik penginapan, atau manajer restoran yang luar biasa. Kamu tidak hanya melihat pelanggan; kamu melihat tamu. Kamu memperhatikan detail-detail kecil—bunga segar di meja, nama tamu yang diingat—yang membuat sebuah pengalaman menjadi istimewa. Kamu memimpin dengan memberikan contoh pelayanan yang tulus.",
+    "strengths": ["Sangat ramah, hangat, dan penuh perhatian.", "Memiliki perhatian yang luar biasa pada detail-detail yang menciptakan kenyamanan.", "Sangat baik dalam mengantisipasi kebutuhan tamu.", "Pemimpin yang suportif dan dihargai oleh stafnya."],
+    "weaknesses": ["Bisa kesulitan untuk menangani pelanggan yang sangat kasar atau tidak puas.", "Sangat terpengaruh secara personal oleh ulasan negatif.", "Cenderung bekerja terlalu keras untuk menyenangkan semua orang.", "Bisa kesulitan untuk mendelegasikan karena merasa hanya dia yang tahu cara yang 'benar'."],
+    "recommended_majors": [
+      { "name": "Manajemen Perhotelan atau Pariwisata", "reason": "Secara langsung mempelajari seni dan bisnis menciptakan pengalaman tamu yang luar biasa." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan dasar yang kuat dalam mengelola sebuah usaha pelayanan." },
+      { "name": "Komunikasi", "reason": "Mengasah kemampuan interpersonal yang penting dalam industri perhotelan." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Hotel Butik atau Penginapan (Innkeeper)", "reason": "Menciptakan dan mengelola pengalaman yang sangat personal bagi setiap tamu." },
+      { "name": "Manajer Restoran", "reason": "Bertanggung jawab atas seluruh pengalaman makan, dari sambutan di pintu hingga kualitas makanan." },
+      { "name": "Manajer Hubungan Tamu (Guest Relations Manager)", "reason": "Spesialisasi dalam menangani tamu-tamu VIP dan memastikan kepuasan mereka." }
+    ]
+  },
+  {
+    "mbti_type": "ISFJ",
+    "riasec_code": "RC",
+    "profile_title": "Sang Penata Ruang",
+    "profile_tagline": "Seorang organisator yang menciptakan ketenangan dan efisiensi melalui penataan ruang fisik.",
+    "reason_why": "Dorongan utamamu adalah untuk bekerja dengan cara yang teratur dan sistematis (Conventional), dan kamu menerapkannya pada dunia fisik yang nyata (Realistic). Sebagai seorang ISFJ, kamu memiliki bakat alami untuk melihat kekacauan dan secara intuitif tahu bagaimana cara merapikannya untuk menciptakan ketenangan dan fungsi.",
+    "what_this_means": "Kamu adalah seorang pengorganisir profesional (professional organizer) atau penata interior. Kamu menikmati proses mengubah lemari yang berantakan menjadi sistem yang rapi, atau menata ulang perabotan di sebuah ruangan agar terasa lebih luas dan nyaman. Kamu membantu orang lain menemukan kedamaian dengan menciptakan keteraturan di lingkungan fisik mereka.",
+    "strengths": ["Sangat terorganisir dan berorientasi pada detail.", "Memiliki kepekaan spasial yang baik.", "Sangat praktis dan metodis.", "Sabar dan tidak menghakimi saat membantu orang lain merapikan barang-barangnya."],
+    "weaknesses": ["Bisa menjadi sangat kaku dengan sistem organisasinya.", "Mungkin kurang tertarik pada aspek dekoratif yang murni artistik.", "Cenderung lebih suka bekerja sendiri.", "Bisa frustrasi dengan klien yang tidak bisa menjaga kerapian yang telah diciptakan."],
+    "recommended_majors": [
+      { "name": "Desain Interior", "reason": "Mempelajari prinsip-prinsip penataan ruang yang fungsional dan estetis." },
+      { "name": "Ilmu Perpustakaan", "reason": "Mengajarkan prinsip-prinsip pengorganisasian dan klasifikasi yang bisa diterapkan pada objek fisik." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan keterampilan untuk menjalankan bisnis pengorganisasianmu sendiri." }
+    ],
+    "career_recommendations": [
+      { "name": "Pengorganisir Profesional (Professional Organizer)", "reason": "Membantu individu atau bisnis menata ruang, barang, dan alur kerja mereka." },
+      { "name": "Penata Properti (Home Stager)", "reason": "Menata sebuah rumah agar terlihat rapi dan menarik bagi calon pembeli." },
+      { "name": "Manajer Inventaris atau Gudang", "reason": "Bertanggung jawab untuk memastikan semua barang disimpan secara logis dan mudah ditemukan." }
+    ]
+  },
+  {
+    "mbti_type": "ISFJ",
+    "riasec_code": "RA",
+    "profile_title": "Sang Pengrajin Tradisional",
+    "profile_tagline": "Seorang kreator yang menemukan keindahan dalam melestarikan keterampilan tangan dari masa lalu.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan membutuhkan keterampilan tangan (Realistic) dengan apresiasi yang mendalam terhadap keindahan dan tradisi (Artistic). Sebagai seorang ISFJ, kamu adalah seorang pengrajin yang setia pada teknik-teknik yang telah teruji oleh waktu.",
+    "what_this_means": "Kamu adalah seorang penenun, pembuat tembikar, atau pengrajin kulit. Kamu tidak terlalu tertarik pada inovasi yang radikal; sebaliknya, kamu menemukan kepuasan dalam menguasai sebuah kerajinan tradisional dengan sempurna. Kamu adalah orang yang akan menghabiskan waktu bertahun-tahun untuk menyempurnakan satu teknik, menciptakan karya yang memiliki kualitas abadi.",
+    "strengths": ["Sangat sabar dan berdedikasi pada kerajinannya.", "Memiliki keterampilan tangan yang sangat baik.", "Sangat menghargai kualitas dan tradisi.", "Menghasilkan karya yang dibuat dengan sangat baik dan tahan lama."],
+    "weaknesses": ["Bisa menjadi sangat resisten terhadap metode atau gaya baru.", "Cenderung kurang suka pada pemasaran atau penjualan karyanya.", "Prosesnya bisa sangat lambat.", "Lebih suka bekerja sendiri dan bisa terisolasi."],
+    "recommended_majors": [
+      { "name": "Kriya (Craft) atau Seni Rupa", "reason": "Secara langsung melatih keterampilan tangan (Realistic) dan kepekaan estetika (Artistic)." },
+      { "name": "Antropologi atau Sejarah", "reason": "Memberikan pemahaman tentang konteks budaya dari kerajinan tradisional." },
+      { "name": "Desain Tekstil atau Keramik", "reason": "Spesialisasi dalam medium kerajinan tertentu." }
+    ],
+    "career_recommendations": [
+      { "name": "Pengrajin (Penenun, Pembuat Tembikar, Pengukir)", "reason": "Mendedikasikan hidupmu untuk menguasai dan melestarikan sebuah kerajinan tradisional." },
+      { "name": "Guru Kerajinan Tangan", "reason": "Mengajarkan keterampilan tradisional kepada generasi berikutnya." },
+      { "name": "Restorator atau Konservator (di bidang furnitur atau tekstil)", "reason": "Menggunakan keterampilan tanganmu untuk merawat dan memperbaiki benda-benda bersejarah." }
+    ]
+  },
+  {
+    "mbti_type": "ISFJ",
+    "riasec_code": "RE",
+    "profile_title": "Sang Pemilik Toko Lokal",
+    "profile_tagline": "Seorang wirausahawan yang membangun bisnis yang melayani kebutuhan praktis komunitasnya.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan nyata (Realistic) dengan dorongan untuk membangun sebuah usaha yang stabil dan dapat diandalkan (Enterprising). Sebagai seorang ISFJ, bisnismu akan selalu berakar pada pelayanan kepada komunitas dan penyediaan produk berkualitas.",
+    "what_this_means": "Kamu adalah tipe orang yang akan membuka toko kelontong, toko perangkat keras, atau toko roti di lingkunganmu. Kamu tidak tertarik membangun sebuah kerajaan bisnis global; kamu ingin membangun sebuah usaha yang menjadi bagian penting dari komunitas lokal. Kamu mengenal pelangganmu dari nama dan menemukan kepuasan dalam menyediakan produk yang mereka butuhkan sehari-hari.",
+    "strengths": ["Sangat dapat diandalkan dan konsisten.", "Fokus pada kualitas produk dan pelayanan pelanggan.", "Mampu membangun hubungan jangka panjang dengan pelanggan.", "Sangat pekerja keras dan berdedikasi pada bisnisnya."],
+    "weaknesses": ["Bisa menjadi terlalu berhati-hati dan menghindari risiko yang diperlukan untuk berkembang.", "Mungkin kesulitan untuk beradaptasi dengan perubahan pasar atau persaingan.", "Cenderung kurang agresif dalam pemasaran.", "Batasan antara kehidupan pribadi dan pekerjaan bisa menjadi kabur."],
+    "recommended_majors": [
+      { "name": "Manajemen Bisnis Kecil atau Kewirausahaan", "reason": "Mempelajari dasar-dasar praktis dalam menjalankan usaha sendiri." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan keterampilan dalam akuntansi, manajemen inventaris, dan operasional." },
+      { "name": "Pemasaran", "reason": "Membantumu memahami cara menjangkau komunitas lokalmu dengan lebih efektif." }
+    ],
+    "career_recommendations": [
+      { "name": "Pemilik Toko Ritel Lokal (Toko Roti, Toko Perangkat Keras, Toko Buku)", "reason": "Menjadi pilar di komunitasmu dengan menyediakan produk dan layanan yang esensial." },
+      { "name": "Manajer Waralaba (Franchise Manager)", "reason": "Menjalankan sebuah cabang dari merek yang sudah mapan, dengan fokus pada operasional harian." },
+      { "name": "Pemasok atau Distributor Lokal", "reason": "Bekerja di belakang layar untuk memastikan toko-toko lain memiliki produk yang mereka butuhkan." }
+    ]
+  },
+  {
+    "mbti_type": "ISFJ",
+    "riasec_code": "RI",
+    "profile_title": "Sang Teknisi Medis",
+    "profile_tagline": "Seorang profesional yang teliti, yang memastikan peralatan medis berfungsi dengan sempurna.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan teknis (Realistic) dengan hasrat untuk pemahaman yang mendalam dan metodis (Investigative). Sebagai seorang ISFJ, kamu termotivasi oleh rasa tanggung jawab yang besar untuk memastikan bahwa pekerjaanmu yang teliti akan membantu menyelamatkan nyawa.",
+    "what_this_means": "Kamu sangat cocok untuk peran sebagai teknisi laboratorium, teknisi radiologi, atau teknisi peralatan medis. Kamu memiliki kesabaran dan ketelitian untuk melakukan tes yang kompleks, mengkalibrasi mesin yang rumit, atau menganalisis sampel di bawah mikroskop. Kamu adalah pahlawan tak terlihat di dunia medis, yang karyanya menjadi dasar bagi para dokter untuk membuat diagnosis yang akurat.",
+    "strengths": ["Sangat teliti, presisi, dan metodis.", "Mampu mengikuti prosedur yang sangat kompleks dengan sempurna.", "Sangat dapat diandalkan dan memiliki standar kerja yang tinggi.", "Memiliki pemahaman teknis yang mendalam tentang peralatannya."],
+    "weaknesses": ["Cenderung lebih suka bekerja sendiri di lingkungan yang tenang.", "Bisa menjadi sangat kaku dan tidak suka penyimpangan dari protokol.", "Mungkin kurang nyaman dalam situasi yang membutuhkan improvisasi cepat.", "Kurang tertarik pada aspek sosial atau komunikasi dari pekerjaan."],
+    "recommended_majors": [
+      { "name": "Teknologi Laboratorium Medis atau Radiologi", "reason": "Secara langsung melatihmu untuk mengoperasikan peralatan medis canggih (Realistic & Investigative)." },
+      { "name": "Teknik Biomedis", "reason": "Fokus pada perancangan dan pemeliharaan peralatan medis." },
+      { "name": "Biologi atau Kimia", "reason": "Memberikan dasar ilmiah yang kuat untuk pekerjaan di laboratorium." }
+    ],
+    "career_recommendations": [
+      { "name": "Teknisi Laboratorium Medis", "reason": "Melakukan berbagai macam tes pada sampel biologis untuk membantu mendiagnosis penyakit." },
+      { "name": "Radiografer atau Teknisi MRI/CT Scan", "reason": "Mengoperasikan peralatan pencitraan canggih untuk menghasilkan gambar diagnostik." },
+      { "name": "Teknisi Peralatan Biomedis", "reason": "Memasang, memelihara, dan memperbaiki semua peralatan medis di sebuah rumah sakit." }
+    ]
+  },
+  {
+    "mbti_type": "ISFJ",
+    "riasec_code": "IA",
+    "profile_title": "Sang Desainer Interior",
+    "profile_tagline": "Seorang kreator yang menciptakan ruang yang harmonis, nyaman, dan personal.",
+    "reason_why": "Kamu menggabungkan minat pada analisis dan pemahaman (Investigative) dengan hasrat untuk menciptakan keindahan dan suasana (Artistic). Sebagai seorang ISFJ, kamu adalah seorang desainer yang sangat berempati. Kamu tidak memaksakan gayamu; sebaliknya, kamu dengan teliti mendengarkan kebutuhan klien dan merancang sebuah ruang yang merupakan cerminan sejati dari kepribadian mereka.",
+    "what_this_means": "Kamu adalah seorang desainer interior atau dekorator yang luar biasa. Kamu memiliki mata yang jeli untuk warna, tekstur, dan tata letak, tetapi kekuatan terbesarmu adalah kemampuanmu untuk memahami klienmu. Kamu menikmati proses riset—mencari perabotan yang sempurna, memilih palet warna yang tepat—dan kemudian menyatukan semuanya menjadi sebuah keseluruhan yang harmonis.",
+    "strengths": ["Sangat baik dalam memahami kebutuhan dan selera klien.", "Memiliki kepekaan estetika yang tinggi.", "Sangat teliti dan terorganisir dalam proses desain.", "Mampu menciptakan ruang yang terasa personal dan nyaman."],
+    "weaknesses": ["Bisa kesulitan untuk mendorong klien keluar dari zona nyaman mereka.", "Cenderung menghindari gaya desain yang terlalu berani atau konfrontatif.", "Sangat terikat secara personal pada proyeknya dan sensitif terhadap kritik.", "Mungkin kurang terampil dalam negosiasi atau manajemen anggaran yang ketat."],
+    "recommended_majors": [
+      { "name": "Desain Interior", "reason": "Secara langsung mempelajari seni (Artistic) dan ilmu (Investigative) merancang ruang." },
+      { "name": "Sejarah Seni atau Arsitektur", "reason": "Memberikan dasar pengetahuan yang luas tentang berbagai gaya desain." },
+      { "name": "Psikologi", "reason": "Membantumu memahami bagaimana lingkungan memengaruhi suasana hati dan perilaku manusia." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Interior", "reason": "Bekerja dengan klien untuk merancang dan mendekorasi rumah atau ruang komersial." },
+      { "name": "Konsultan Warna atau Dekorasi", "reason": "Spesialisasi dalam membantu klien memilih elemen-elemen dekoratif untuk ruang mereka." },
+      { "name": "Penata Properti (Home Stager)", "reason": "Menata sebuah rumah agar terlihat menarik bagi calon pembeli, menciptakan suasana yang hangat dan ramah." }
+    ]
+  },
+  {
+    "mbti_type": "ISFJ",
+    "riasec_code": "IE",
+    "profile_title": "Sang Manajer Toko Butik",
+    "profile_tagline": "Seorang pemimpin yang membangun bisnis yang sukses melalui pelayanan pelanggan yang luar biasa.",
+    "reason_why": "Kamu menggabungkan minat pada riset untuk memahami pelanggan (Investigative) dengan dorongan untuk memimpin sebuah tim dan mencapai target penjualan (Enterprising). Sebagai seorang ISFJ, kamu memimpin dengan cara yang suportif dan berorientasi pada pelayanan, menciptakan lingkungan di mana baik staf maupun pelanggan merasa dihargai.",
+    "what_this_means": "Kamu adalah seorang manajer ritel yang sangat efektif, terutama di lingkungan seperti toko butik, galeri, atau toko khusus. Kamu menikmati proses memahami produkmu secara mendalam dan kemudian melatih timmu untuk memberikan pengetahuan dan pelayanan terbaik kepada pelanggan. Kamu membangun loyalitas pelanggan melalui kepercayaan dan perhatian personal.",
+    "strengths": ["Sangat baik dalam membangun hubungan jangka panjang dengan pelanggan.", "Pemimpin yang sangat suportif dan sabar bagi timnya.", "Memiliki pengetahuan produk yang mendalam.", "Sangat terorganisir dan dapat diandalkan dalam operasional toko."],
+    "weaknesses": ["Bisa kesulitan untuk menjadi sangat agresif dalam penjualan.", "Cenderung menghindari konflik dengan staf atau pelanggan.", "Mungkin terlalu banyak memberikan diskon atau kelonggaran demi menyenangkan pelanggan.", "Sangat terpengaruh oleh moral tim."],
+    "recommended_majors": [
+      { "name": "Manajemen Bisnis Ritel", "reason": "Secara langsung mempelajari cara mengelola (Enterprising) sebuah toko berdasarkan pemahaman pelanggan (Investigative)." },
+      { "name": "Pemasaran (Marketing)", "reason": "Fokus pada cara memahami dan melayani kebutuhan pelanggan." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan dasar yang kuat dalam semua aspek operasional dari menjalankan sebuah bisnis." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Toko atau Manajer Departemen", "reason": "Bertanggung jawab atas semua aspek dari sebuah unit ritel, dari penjualan hingga manajemen staf." },
+      { "name": "Manajer Hubungan Pelanggan (Customer Relationship Manager)", "reason": "Fokus pada membangun dan memelihara loyalitas dari pelanggan-pelanggan terbaik." },
+      { "name": "Pelatih Penjualan (Sales Trainer)", "reason": "Menggunakan pengetahuan produk dan keterampilan interpersonalmu untuk melatih tim penjualan baru." }
+    ]
+  },
+  {
+    "mbti_type": "ISFJ",
+    "riasec_code": "AE",
+    "profile_title": "Sang Manajer Galeri",
+    "profile_tagline": "Seorang organisator yang menciptakan ruang bagi seniman untuk bersinar dan terhubung dengan audiens.",
+    "reason_why": "Kamu menggabungkan kecintaan dan penghargaan terhadap seni (Artistic) dengan bakat untuk memimpin, mempromosikan, dan mengelola sebuah usaha (Enterprising). Sebagai seorang ISFJ, kamu adalah juara bagi para seniman, menyediakan lingkungan yang suportif dan profesional bagi mereka untuk memamerkan karya mereka.",
+    "what_this_means": "Kamu adalah seorang manajer galeri seni, direktur teater komunitas, atau agen untuk seniman. Kamu mungkin bukan senimannya sendiri, tetapi kamu adalah orang yang membuat seni itu menjadi mungkin. Kamu menikmati proses mengkurasi sebuah pameran, mengorganisir malam pembukaan, dan membangun hubungan dengan para kolektor dan penikmat seni. Kamu adalah fasilitator kreativitas.",
+    "strengths": ["Sangat menghargai seniman dan proses kreatif mereka.", "Sangat terorganisir dan baik dalam mengelola logistik sebuah pameran atau pertunjukan.", "Pandai membangun komunitas di sekitar sebuah ruang seni.", "Hangat dan ramah, membuat pengunjung merasa diterima."],
+    "weaknesses": ["Bisa kesulitan dengan aspek negosiasi harga atau bisnis yang 'keras'.", "Cenderung menghindari seniman atau karya yang terlalu kontroversial.", "Sangat terikat secara personal pada seniman yang diwakilinya.", "Mungkin kurang agresif dalam pemasaran atau penjualan."],
+    "recommended_majors": [
+      { "name": "Manajemen Seni", "reason": "Secara langsung mempelajari sisi bisnis (Enterprising) dari dunia seni (Artistic)." },
+      { "name": "Sejarah Seni", "reason": "Memberikan dasar pengetahuan yang kuat untuk bekerja sebagai kurator atau manajer galeri." },
+      { "name": "Hubungan Masyarakat (Public Relations)", "reason": "Mengasah kemampuanmu untuk mempromosikan acara dan pameran seni." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer atau Direktur Galeri Seni", "reason": "Bertanggung jawab atas semua operasional sebuah galeri, dari kurasi hingga penjualan." },
+      { "name": "Manajer Teater atau Perusahaan Tari", "reason": "Mengelola semua aspek di belakang layar dari sebuah organisasi pertunjukan." },
+      { "name": "Agen Seni atau Sastra", "reason": "Mewakili dan membangun karier para seniman atau penulis." }
+    ]
+  },
+  {
+    "mbti_type": "ISFJ",
+    "riasec_code": "EC",
+    "profile_title": "Sang Manajer Kantor Hukum",
+    "profile_tagline": "Seorang pemimpin administratif yang memastikan sebuah firma hukum berjalan dengan lancar dan etis.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mengelola (Enterprising) dengan dedikasi yang kuat pada aturan, prosedur, dan integritas (Conventional). Sebagai seorang ISFJ, kamu adalah jangkar yang stabil di lingkungan yang penuh tekanan dan berisiko tinggi. Kamu memastikan bahwa para pengacara bisa fokus pada kasus mereka karena kamu telah mengurus segalanya.",
+    "what_this_means": "Kamu adalah seorang manajer kantor, paralegal senior, atau administrator di sebuah firma hukum. Kamu unggul dalam mengelola jadwal pengadilan yang rumit, memastikan semua dokumen diajukan tepat waktu, dan menangani penagihan klien dengan teliti. Kamu adalah penjaga keteraturan dan etika di dunia hukum yang seringkali kacau.",
+    "strengths": ["Sangat terorganisir, teliti, dan dapat diandalkan.", "Memiliki integritas yang sangat tinggi dan menjaga kerahasiaan.", "Pemimpin yang tenang dan suportif bagi staf administratif.", "Sangat baik dalam mengikuti dan menegakkan prosedur yang kompleks."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan tidak suka pada penyimpangan dari aturan.", "Cenderung menghindari konflik interpersonal di kantor.", "Mungkin kurang nyaman dengan ambiguitas atau strategi hukum yang kreatif.", "Sangat terpengaruh oleh stres atau atmosfer negatif di kantor."],
+    "recommended_majors": [
+      { "name": "Administrasi Hukum atau Studi Paralegal", "reason": "Secara langsung mempersiapkanmu untuk peran administratif di lingkungan hukum." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan keterampilan manajemen umum yang bisa diterapkan di firma hukum." },
+      { "name": "Akuntansi", "reason": "Sangat relevan untuk mengelola aspek keuangan dari sebuah praktik hukum." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Kantor atau Administrator Firma Hukum", "reason": "Bertanggung jawab atas semua operasional non-hukum dari sebuah firma." },
+      { "name": "Paralegal Senior", "reason": "Mengambil peran kepemimpinan dalam tim paralegal, mengelola kasus dan dokumen." },
+      { "name": "Manajer Kepatuhan (Compliance Manager)", "reason": "Memastikan firma mematuhi semua aturan etika dan hukum yang berlaku." }
+    ]
+  }
+]
