@@ -5,18 +5,28 @@
     "display_name": "The Architect Analyst",
     "description": "Seorang pemikir logis dan analitis yang gemar memecahkan masalah kompleks dan bekerja dengan ide-ide teoretis. Cenderung investigatif, realistis, dan konvensional.",
     "recommendations": {
-      "majors": [
-        "Teknik Informatika (AI, Data Science)",
-        "Ilmu Komputer",
-        "Fisika Murni",
-        "Matematika"
-      ],
-      "professions": [
-        "AI Engineer",
-        "Software Architect",
-        "Data Scientist",
-        "University Professor"
-      ]
+      "majors": ["Teknik Informatika (AI, Data Science)", "Ilmu Komputer", "Fisika Murni", "Matematika", "Filsafat"],
+      "professions": ["AI Engineer", "Software Architect", "Data Scientist", "University Professor", "System Analyst"]
+    }
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "ECI",
+    "display_name": "The Strategic Commander",
+    "description": "Pemimpin alami yang tegas, visioner, dan efisien dalam mengorganisir sumber daya untuk mencapai tujuan jangka panjang. Cenderung berjiwa wirausaha, konvensional, dan investigatif.",
+    "recommendations": {
+      "majors": ["Manajemen Bisnis", "Hukum", "Ilmu Politik", "Teknik Industri", "Ekonomi Pembangunan"],
+      "professions": ["CEO / Executive", "Management Consultant", "Lawyer", "Entrepreneur", "Project Manager"]
+    }
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "ASR",
+    "display_name": "The Artistic Adventurer",
+    "description": "Individu yang artistik, menawan, dan spontan, yang menikmati keindahan dan pengalaman baru. Cenderung artistik, sosial, dan realistis.",
+    "recommendations": {
+      "majors": ["Desain Komunikasi Visual", "Seni Rupa", "Desain Interior", "Pariwisata", "Musik"],
+      "professions": ["Graphic Designer", "Fashion Designer", "Musician", "Chef", "Photographer"]
     }
   },
   {
@@ -25,18 +35,18 @@
     "display_name": "The Inspiring Advocate",
     "description": "Individu yang antusias dan imajinatif, didorong oleh interaksi sosial dan keinginan untuk membantu orang lain. Cenderung sosial, artistik, dan investigatif.",
     "recommendations": {
-      "majors": [
-        "Psikologi",
-        "Ilmu Komunikasi",
-        "Hubungan Internasional",
-        "Jurnalistik"
-      ],
-      "professions": [
-        "Counselor",
-        "Public Relations Specialist",
-        "Human Resources Manager",
-        "Creative Director"
-      ]
+      "majors": ["Psikologi", "Ilmu Komunikasi", "Hubungan Internasional", "Jurnalistik", "Sosiologi"],
+      "professions": ["Counselor", "Public Relations Specialist", "Human Resources Manager", "Journalist", "Creative Director"]
+    }
+  },
+  {
+    "mbti_type": "ISTJ",
+    "riasec_code": "CRI",
+    "display_name": "The Practical Logistician",
+    "description": "Seorang yang sangat bertanggung jawab, terorganisir, dan dapat diandalkan, yang menghargai tradisi dan keteraturan. Cenderung konvensional, realistis, dan investigatif.",
+    "recommendations": {
+      "majors": ["Akuntansi", "Administrasi Bisnis", "Teknik Sipil", "Manajemen Logistik", "Ilmu Perpustakaan"],
+      "professions": ["Accountant", "Auditor", "Civil Engineer", "Supply Chain Manager", "Data Analyst"]
     }
   }
 ]
