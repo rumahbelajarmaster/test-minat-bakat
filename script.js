@@ -136,7 +136,7 @@ document.addEventListener("DOMContentLoaded", () => {
   // ==========================================================
   async function submitResultsToSheet(resultData) {
     // PASTE URL WEB APP DARI GOOGLE APPS SCRIPT DI SINI
-    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyCxMoMreOzurGSMubVA6vjyKMxNUZ-M_44uHc-8vWdzzr9hmCL9kBetxnFulwusqYZiA/exec"; 
+    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbwCYmx14assWsxWrfxDfqX9tZ-HDjmCXYDPkHdT2nSWLGAmJXYF-dEzEpLJ8aYCiYjLMg/exec"; 
 
     try {
       await fetch(SCRIPT_URL, {
