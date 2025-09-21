@@ -6014,3 +6014,284 @@
     ]
   }
 ]
+{
+    "mbti_type": "ISTJ",
+    "riasec_code": "CR",
+    "profile_title": "Sang Inspektur Andal",
+    "profile_tagline": "Seorang profesional yang memastikan setiap detail sesuai dengan standar dan prosedur.",
+    "reason_why": "Ini adalah kombinasi ISTJ yang paling murni. Kemampuanmu untuk fokus pada detail dan pengalaman masa lalu (Si) serta mengeksekusi secara logis (Te) sangat selaras dengan minat pada pekerjaan yang teratur (Conventional) dan praktis (Realistic).",
+    "what_this_means": "Kamu adalah pilar stabilitas dan keandalan. Kamu terlahir untuk menjadi seorang auditor, inspektur kualitas, atau administrator. Kamu memiliki kemampuan luar biasa untuk memeriksa sebuah sistem atau produk dan menemukan setiap ketidaksesuaian atau kesalahan. Kamu menemukan kepuasan dalam memastikan bahwa segala sesuatu dilakukan 'dengan benar'.",
+    "strengths": ["Sangat teliti, presisi, dan berorientasi pada detail.", "Sangat dapat diandalkan dan memiliki integritas tinggi.", "Luar biasa dalam mengikuti dan menegakkan aturan dan prosedur.", "Sangat terorganisir dan metodis."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan resisten terhadap perubahan.", "Cenderung kurang fleksibel dan tidak suka improvisasi.", "Mungkin terlihat kritis atau terlalu fokus pada kesalahan.", "Bisa kurang nyaman dengan situasi yang ambigu atau tidak terstruktur."],
+    "recommended_majors": [
+      { "name": "Akuntansi atau Perpajakan", "reason": "Bidang yang sepenuhnya didasarkan pada aturan (Conventional) dan aplikasi praktis (Realistic) dari data keuangan." },
+      { "name": "Manajemen Kualitas (Quality Management)", "reason": "Mempelajari metodologi untuk memastikan produk dan proses (Realistic) memenuhi standar yang ditetapkan (Conventional)." },
+      { "name": "Administrasi Publik atau Hukum", "reason": "Fokus pada penerapan sistem aturan yang kompleks dalam masyarakat." }
+    ],
+    "career_recommendations": [
+      { "name": "Auditor atau Akuntan", "reason": "Memeriksa catatan keuangan untuk memastikan akurasi dan kepatuhan terhadap peraturan." },
+      { "name": "Inspektur Kualitas (Quality Inspector)", "reason": "Memastikan produk manufaktur memenuhi semua spesifikasi teknis sebelum dikirim." },
+      { "name": "Administrator Sistem atau Database", "reason": "Menjaga keteraturan dan integritas dari sistem data yang kompleks." }
+    ]
+  },
+  {
+    "mbti_type": "ISTJ",
+    "riasec_code": "CI",
+    "profile_title": "Sang Analis Data",
+    "profile_tagline": "Seorang peneliti yang menemukan kebenaran melalui analisis data yang cermat dan metodis.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang teratur dan berbasis data (Conventional) dengan hasrat untuk riset dan pemahaman yang mendalam (Investigative). Sebagai seorang ISTJ, kamu adalah seorang ilmuwan data yang sangat membumi dan faktual.",
+    "what_this_means": "Kamu adalah seorang detektif data. Kamu menikmati proses mengambil kumpulan data yang besar dan berantakan, membersihkannya, dan kemudian secara sistematis menganalisisnya untuk menemukan fakta-fakta yang tersembunyi. Kamu tidak tertarik pada spekulasi; kamu tertarik pada apa yang bisa dibuktikan oleh data. Kamu adalah orang yang bisa dipercaya untuk memberikan laporan yang akurat dan tidak bias.",
+    "strengths": ["Sangat teliti dan metodis dalam analisis.", "Mampu bekerja dengan kumpulan data yang sangat besar dan kompleks.", "Sangat objektif dan berbasis pada fakta.", "Sangat baik dalam menemukan inkonsistensi atau anomali dalam data."],
+    "weaknesses": ["Bisa menjadi terlalu fokus pada data historis dan kurang pada prediksi masa depan.", "Mungkin kurang kreatif atau intuitif dalam interpretasi data.", "Cenderung lebih suka bekerja sendiri dan kurang komunikatif tentang temuannya.", "Bisa menjadi sangat kaku dengan metodologi penelitiannya."],
+    "recommended_majors": [
+      { "name": "Statistika atau Sains Data", "reason": "Secara langsung melatihmu dalam metode (Conventional) untuk menganalisis dan menafsirkan data (Investigative)." },
+      { "name": "Sistem Informasi atau Manajemen Informatika", "reason": "Fokus pada pengelolaan dan analisis database yang terstruktur." },
+      { "name": "Ekonomi atau Keuangan", "reason": "Menggunakan data historis untuk menganalisis tren pasar dan kinerja bisnis." }
+    ],
+    "career_recommendations": [
+      { "name": "Analis Data (Data Analyst)", "reason": "Mengubah data mentah menjadi wawasan yang dapat ditindaklanjuti untuk bisnis." },
+      { "name": "Akuntan Forensik", "reason": "Menganalisis catatan keuangan untuk menemukan bukti penipuan atau penyimpangan." },
+      { "name": "Analis Intelijen", "reason": "Menyusun dan menganalisis informasi dari berbagai sumber untuk memberikan laporan yang akurat." }
+    ]
+  },
+  {
+    "mbti_type": "ISTJ",
+    "riasec_code": "CE",
+    "profile_title": "Sang Manajer Andal",
+    "profile_tagline": "Seorang pemimpin yang memastikan sebuah tim atau proyek berjalan sesuai rencana, waktu, dan anggaran.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang teratur dan berbasis aturan (Conventional) dengan dorongan untuk memimpin dan mencapai tujuan (Enterprising). Sebagai seorang ISTJ, kamu adalah seorang manajer yang sangat dapat diandalkan, fokus pada eksekusi yang sempurna.",
+    "what_this_means": "Kamu adalah seorang manajer proyek, administrator, atau pemimpin tim yang sangat efektif. Kamu mungkin bukan pemimpin yang paling karismatik, tetapi kamu adalah yang paling bisa diandalkan. Kamu unggul dalam mengambil sebuah rencana, memecahnya menjadi tugas-tugas yang jelas, menetapkan tenggat waktu, dan kemudian secara sistematis memastikan semua orang melakukan bagian mereka. Kamu adalah penjamin keberhasilan operasional.",
+    "strengths": ["Sangat terorganisir dan pandai merencanakan.", "Sangat dapat diandalkan untuk memenuhi tenggat waktu dan anggaran.", "Pemimpin yang jelas, konsisten, dan adil.", "Sangat baik dalam mengelola detail-detail proyek yang kompleks."],
+    "weaknesses": ["Bisa menjadi kurang fleksibel dan sulit beradaptasi dengan perubahan rencana.", "Mungkin terlalu fokus pada tugas dan kurang pada pengembangan atau moral tim.", "Cenderung 'micromanage' untuk memastikan semuanya dilakukan dengan benar.", "Bisa terlihat kaku atau birokratis."],
+    "recommended_majors": [
+      { "name": "Manajemen Proyek", "reason": "Mempelajari metodologi (Conventional) untuk memimpin (Enterprising) proyek dari awal hingga akhir." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan dasar yang kuat dalam semua aspek pengelolaan operasional." },
+      { "name": "Manajemen Rantai Pasok", "reason": "Fokus pada perencanaan dan eksekusi yang efisien dalam logistik." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Proyek", "reason": "Bertanggung jawab untuk memastikan proyek selesai tepat waktu dan sesuai anggaran." },
+      { "name": "Manajer Operasional", "reason": "Mengawasi semua proses harian dari sebuah departemen atau bisnis." },
+      { "name": "Administrator Kontrak atau Pengadaan", "reason": "Mengelola proses yang kompleks untuk memastikan kepatuhan dan efisiensi." }
+    ]
+  },
+  {
+    "mbti_type": "ISTJ",
+    "riasec_code": "CS",
+    "profile_title": "Sang Pustakawan Klasik",
+    "profile_tagline": "Seorang penjaga pengetahuan yang berdedikasi untuk melayani komunitas melalui keteraturan.",
+    "reason_why": "Dorongan utamamu adalah untuk bekerja dengan cara yang teratur dan sistematis (Conventional), dan kamu termotivasi oleh keinginan yang tulus untuk membantu orang lain dengan cara yang praktis (Social). Sebagai seorang ISTJ, kamu adalah perwujudan dari pustakawan yang andal dan berpengetahuan.",
+    "what_this_means": "Kamu adalah seorang pustakawan, arsiparis, atau manajer catatan. Kamu menikmati ketenangan dan keteraturan dari sebuah perpustakaan atau arsip. Kamu menemukan kepuasan dalam proses mengkatalogkan buku dengan benar, membantu seseorang menemukan informasi yang mereka butuhkan, dan memastikan bahwa sistem berjalan sebagaimana mestinya. Kamu adalah penjaga gerbang pengetahuan yang tenang.",
+    "strengths": ["Sangat terorganisir dan metodis.", "Memiliki pengetahuan yang luas dan ingatan yang baik untuk fakta.", "Sangat sabar dan dapat diandalkan dalam membantu.", "Sangat berintegritas dan menjaga kerahasiaan."],
+    "weaknesses": ["Bisa menjadi sangat kaku dengan aturan atau prosedur.", "Mungkin kurang cepat dalam mengadopsi teknologi atau metode baru.", "Cenderung kurang ekspresif secara emosional dalam interaksi.", "Bisa frustrasi dengan lingkungan kerja yang kacau atau berisik."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan dan Informasi", "reason": "Secara langsung mempersiapkanmu untuk mengelola sistem informasi (Conventional) untuk melayani publik (Social)." },
+      { "name": "Sejarah", "reason": "Mengasah kemampuanmu untuk melakukan riset yang detail dan mengelola sumber-sumber historis." },
+      { "name": "Administrasi Publik", "reason": "Fokus pada pengelolaan sistem untuk pelayanan masyarakat." }
+    ],
+    "career_recommendations": [
+      { "name": "Pustakawan (Referensi atau Katalog)", "reason": "Membantu orang menemukan informasi atau memastikan semua koleksi terorganisir dengan benar." },
+      { "name": "Arsiparis", "reason": "Mengelola dan melestarikan dokumen-dokumen bersejarah yang penting." },
+      { "name": "Manajer Catatan (Records Manager)", "reason": "Merancang dan mengelola sistem penyimpanan dokumen untuk sebuah organisasi besar." }
+    ]
+  },
+  {
+    "mbti_type": "ISTJ",
+    "riasec_code": "RC",
+    "profile_title": "Sang Insinyur Kualitas",
+    "profile_tagline": "Seorang profesional teknis yang memastikan setiap produk dibuat sesuai standar tertinggi.",
+    "reason_why": "Minat utamamu adalah pada pekerjaan yang praktis dan mekanis (Realistic), dan kamu melakukannya dengan dedikasi yang tak tergoyahkan pada presisi, standar, dan prosedur (Conventional). Sebagai seorang ISTJ, kamu adalah penjamin kualitas di dunia rekayasa.",
+    "what_this_means": "Kamu adalah seorang insinyur kualitas, teknisi, atau manajer produksi. Kamu adalah orang yang akan membaca cetak biru teknis setebal 100 halaman dan memastikan setiap pengukuran sesuai dengan toleransi 0.01mm. Kamu percaya pada proses, pengujian, dan verifikasi. Bagimu, tidak ada jalan pintas menuju kualitas.",
+    "strengths": ["Sangat teliti dan berorientasi pada detail teknis.", "Sangat baik dalam mengikuti dan menegakkan standar dan spesifikasi.", "Sangat metodis dalam melakukan pengujian dan inspeksi.", "Sangat dapat diandalkan dan berintegritas tinggi."],
+    "weaknesses": ["Bisa menjadi sangat resisten terhadap metode atau material baru yang belum terbukti.", "Mungkin kurang inovatif atau kreatif dalam pemecahan masalah.", "Cenderung sangat kaku dan tidak suka penyimpangan dari rencana.", "Bisa terlihat terlalu kritis atau fokus pada kesalahan."],
+    "recommended_majors": [
+      { "name": "Teknik Industri atau Teknik Manufaktur", "reason": "Fokus pada perancangan dan optimalisasi proses produksi (Realistic) untuk mencapai standar kualitas (Conventional)." },
+      { "name": "Manajemen Kualitas (Quality Management)", "reason": "Mempelajari metodologi dan standar internasional untuk penjaminan kualitas." },
+      { "name": "Teknik Mesin atau Elektro", "reason": "Memberikan dasar teknis yang kuat untuk bekerja di industri manufaktur." }
+    ],
+    "career_recommendations": [
+      { "name": "Insinyur atau Manajer Kualitas (Quality Engineer/Manager)", "reason": "Merancang dan mengawasi sistem manajemen mutu di sebuah pabrik." },
+      { "name": "Inspektur (Penerbangan, Konstruksi, Manufaktur)", "reason": "Melakukan pemeriksaan untuk memastikan kepatuhan terhadap standar keselamatan dan kualitas." },
+      { "name": "Teknisi Kalibrasi", "reason": "Memastikan semua alat ukur di sebuah fasilitas akurat dan sesuai dengan standar." }
+    ]
+  },
+  {
+    "mbti_type": "ISTJ",
+    "riasec_code": "RI",
+    "profile_title": "Sang Teknisi Ahli",
+    "profile_tagline": "Seorang pemecah masalah yang menggunakan pengetahuan mendalam dan pengalaman untuk memperbaiki sistem yang kompleks.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan mekanis (Realistic) dengan hasrat untuk memahami cara kerja sistem hingga ke akar-akarnya (Investigative). Sebagai seorang ISTJ, kamu adalah seorang troubleshooter yang sangat andal, mengandalkan pengetahuan yang terakumulasi dari pengalaman.",
+    "what_this_means": "Kamu adalah seorang teknisi ahli, baik itu di bidang IT, otomotif, atau elektronik. Kamu adalah tipe orang yang telah 'melihat semuanya'. Ketika orang lain menyerah pada sebuah masalah, kamu akan dengan sabar dan metodis memeriksa setiap kemungkinan berdasarkan pengalaman dan pengetahuanmu yang luas. Kamu adalah seorang dokter untuk mesin.",
+    "strengths": ["Memiliki pengetahuan teknis yang sangat luas dan mendalam.", "Sangat baik dalam diagnostik dan troubleshooting yang metodis.", "Sangat sabar dan gigih dalam memecahkan masalah.", "Dapat diandalkan dan memberikan solusi yang terbukti berhasil."],
+    "weaknesses": ["Bisa menjadi lambat dalam mengadopsi teknologi baru yang tidak dikenal.", "Cenderung mengandalkan metode yang sudah dikenal daripada mencoba solusi eksperimental.", "Kurang komunikatif, lebih suka bekerja sendiri dengan masalahnya.", "Bisa frustrasi dengan masalah yang tidak memiliki penjelasan logis."],
+    "recommended_majors": [
+      { "name": "Teknologi Informasi atau Jaringan Komputer", "reason": "Mempelajari cara kerja sistem komputer (Investigative) untuk pemeliharaan praktis (Realistic)." },
+      { "name": "Teknik Otomotif atau Elektronika", "reason": "Memberikan pengetahuan mendalam tentang sistem mekanis dan elektrik yang kompleks." },
+      { "name": "Gelar kejuruan atau sertifikasi teknis", "reason": "Banyak dari karier ini lebih menghargai pengalaman dan sertifikasi daripada gelar sarjana." }
+    ],
+    "career_recommendations": [
+      { "name": "Administrator Jaringan atau Sistem", "reason": "Bertanggung jawab untuk menjaga agar jaringan komputer sebuah perusahaan tetap berjalan lancar." },
+      { "name": "Teknisi Ahli (Master Technician) di bidang otomotif atau penerbangan", "reason": "Spesialis dalam mendiagnosis dan memperbaiki masalah yang paling sulit." },
+      { "name": "Spesialis Dukungan Teknis Tingkat Lanjut", "reason": "Menangani kasus-kasus eskalasi yang membutuhkan pengetahuan produk yang sangat mendalam." }
+    ]
+  },
+  {
+    "mbti_type": "ISTJ",
+    "riasec_code": "RE",
+    "profile_title": "Sang Manajer Konstruksi",
+    "profile_tagline": "Seorang pemimpin di lapangan yang memastikan sebuah proyek dibangun sesuai rencana, anggaran, dan jadwal.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan nyata (Realistic) dengan dorongan untuk memimpin dan mengelola sumber daya secara efisien (Enterprising). Sebagai seorang ISTJ, kamu adalah manajer proyek yang sangat membumi dan dapat diandalkan.",
+    "what_this_means": "Kamu adalah seorang manajer konstruksi atau manajer pabrik. Kamu unggul dalam mengambil sebuah rencana teknis yang detail dan kemudian mengelola semua bagian yang bergerak—kru, material, peralatan, dan jadwal—untuk mewujudkannya. Kamu memimpin dengan memberikan arahan yang jelas, mengawasi kemajuan, dan memastikan semua orang mematuhi standar keselamatan dan kualitas.",
+    "strengths": ["Sangat baik dalam perencanaan dan penjadwalan.", "Sangat berorientasi pada detail dan kepatuhan pada rencana.", "Pemimpin yang jelas, konsisten, dan dapat diandalkan.", "Sangat baik dalam mengelola anggaran dan logistik."],
+    "weaknesses": ["Bisa menjadi sangat tidak fleksibel terhadap perubahan atau masalah tak terduga.", "Cenderung 'micromanage' untuk memastikan semuanya dilakukan dengan benar.", "Mungkin kurang visioner atau inovatif.", "Fokus pada tugas bisa membuatnya terlihat kurang peduli pada moral tim."],
+    "recommended_majors": [
+      { "name": "Manajemen Konstruksi", "reason": "Secara langsung mempersiapkanmu untuk memimpin (Enterprising) proyek pembangunan fisik (Realistic)." },
+      { "name": "Teknik Sipil", "reason": "Memberikan dasar teknis yang kuat untuk memahami dan mengelola proyek konstruksi." },
+      { "name": "Manajemen Operasional", "reason": "Fokus pada pengelolaan proses dan sumber daya di lingkungan produksi atau proyek." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Proyek Konstruksi", "reason": "Bertanggung jawab penuh atas sebuah proyek pembangunan, dari awal hingga akhir." },
+      { "name": "Manajer Pabrik", "reason": "Mengawasi semua operasi harian di sebuah fasilitas manufaktur." },
+      { "name": "Manajer Logistik atau Rantai Pasok", "reason": "Merencanakan dan mengawasi alur pergerakan barang dan material." }
+    ]
+  },
+  {
+    "mbti_type": "ISTJ",
+    "riasec_code": "RS",
+    "profile_title": "Sang Dokter Gigi",
+    "profile_tagline": "Seorang profesional kesehatan yang memberikan perawatan yang teliti dan menenangkan.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang membutuhkan keterampilan tangan yang presisi (Realistic) dengan keinginan yang tulus untuk membantu dan merawat orang lain (Social). Sebagai seorang ISTJ, kamu adalah praktisi kesehatan yang sangat dapat diandalkan, metodis, dan menenangkan.",
+    "what_this_means": "Kamu sangat cocok untuk karier sebagai dokter gigi, ahli higienis gigi, atau profesi medis lain yang membutuhkan presisi. Kamu memiliki ketelitian untuk bekerja di ruang yang kecil dan kesabaran untuk melakukan prosedur yang berulang-ulang dengan standar tertinggi. Kamu juga memiliki sikap yang tenang dan dapat diandalkan yang membuat pasien merasa aman.",
+    "strengths": ["Memiliki keterampilan motorik halus yang sangat baik dan sangat teliti.", "Sangat sabar dan metodis dalam bekerja.", "Mampu menciptakan lingkungan yang tenang dan dapat diprediksi bagi pasien.", "Sangat dapat diandalkan dan berintegritas tinggi."],
+    "weaknesses": ["Bisa menjadi resisten terhadap teknik atau teknologi baru.", "Mungkin kurang fleksibel dalam menangani pasien yang sangat cemas atau tidak kooperatif.", "Cenderung kurang ekspresif secara emosional.", "Bisa merasa stres oleh tanggung jawab yang besar."],
+    "recommended_majors": [
+      { "name": "Kedokteran Gigi atau Higienis Gigi", "reason": "Secara langsung melatihmu dalam keterampilan teknis (Realistic) untuk merawat pasien (Social)." },
+      { "name": "Keperawatan", "reason": "Profesi yang juga membutuhkan kombinasi antara keterampilan praktis dan perawatan." },
+      { "name": "Teknologi Bedah", "reason": "Fokus pada presisi dan prosedur di lingkungan medis." }
+    ],
+    "career_recommendations": [
+      { "name": "Dokter Gigi", "reason": "Memberikan berbagai macam perawatan gigi, dari pembersihan rutin hingga prosedur yang kompleks." },
+      { "name": "Ahli Higienis Gigi (Dental Hygienist)", "reason": "Spesialisasi dalam perawatan pencegahan dan pembersihan." },
+      { "name": "Optometris", "reason": "Profesi kesehatan lain yang membutuhkan pemeriksaan yang teliti dan interaksi yang tenang dengan pasien." }
+    ]
+  },
+  {
+    "mbti_type": "ISTJ",
+    "riasec_code": "RA",
+    "profile_title": "Sang Arsitek Teknis",
+    "profile_tagline": "Seorang perancang yang fokus pada integritas struktural dan fungsionalitas yang sempurna.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan konstruksi yang praktis dan nyata (Realistic) dengan apresiasi terhadap desain yang teratur, fungsional, dan berbasis pada aturan (Artistic & Si). Sebagai seorang ISTJ, kamu adalah seorang arsitek yang memastikan sebuah bangunan tidak hanya berdiri, tetapi berdiri dengan benar.",
+    "what_this_means": "Kamu adalah seorang arsitek atau juru gambar teknis (drafter) yang sangat berorientasi pada detail. Kamu mungkin bukan orang yang menghasilkan konsep desain yang paling liar, tetapi kamu adalah orang yang akan memastikan bahwa setiap detail dalam cetak biru akurat, sesuai dengan kode bangunan, dan dapat dibangun. Kamu adalah penjaga realitas dalam sebuah proyek desain.",
+    "strengths": ["Sangat teliti dan akurat dalam gambar teknis.", "Memiliki pemahaman yang mendalam tentang kode bangunan dan material.", "Sangat baik dalam menerjemahkan konsep menjadi rencana yang bisa dibangun.", "Sangat dapat diandalkan dan memastikan kualitas konstruksi."],
+    "weaknesses": ["Bisa menjadi kurang inovatif atau kreatif dalam desain.", "Cenderung sangat resisten terhadap perubahan desain di tengah jalan.", "Mungkin terlihat kaku atau tidak fleksibel oleh klien atau desainer lain.", "Lebih fokus pada aspek teknis daripada aspek estetika murni."],
+    "recommended_majors": [
+      { "name": "Teknik Sipil", "reason": "Fokus utama pada integritas struktural dan rekayasa di balik sebuah bangunan." },
+      { "name": "Arsitektur (dengan fokus pada teknologi bangunan)", "reason": "Mempelajari sisi teknis dari perancangan dan konstruksi bangunan." },
+      { "name": "Drafting atau Desain Berbantuan Komputer (CAD)", "reason": "Spesialisasi dalam pembuatan gambar teknis yang presisi." }
+    ],
+    "career_recommendations": [
+      { "name": "Arsitek Teknis atau Teknolog Arsitektur", "reason": "Spesialis dalam detail konstruksi, spesifikasi material, dan kepatuhan pada kode." },
+      { "name": "Juru Gambar (Drafter) CAD", "reason": "Mengubah sketsa desain menjadi gambar teknis yang detail dan akurat." },
+      { "name": "Inspektur Bangunan", "reason": "Memeriksa proyek konstruksi untuk memastikan semuanya dibangun sesuai dengan rencana dan peraturan." }
+    ]
+  },
+  {
+    "mbti_type": "ISTJ",
+    "riasec_code": "IA",
+    "profile_title": "Sang Sejarawan Militer",
+    "profile_tagline": "Seorang peneliti yang merekonstruksi masa lalu melalui analisis fakta dan artefak yang teliti.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada riset dan pemahaman (Investigative) dengan penghargaan terhadap tradisi, sejarah, dan presentasi yang teratur (Artistic & Si). Sebagai seorang ISTJ, kamu adalah seorang sejarawan yang sangat berbasis pada bukti dan fakta.",
+    "what_this_means": "Kamu adalah seorang sejarawan, arsiparis, atau kurator museum yang sangat baik. Kamu menikmati proses 'berburu' di arsip, memverifikasi sumber, dan secara metodis menyusun kepingan-kepingan informasi menjadi sebuah narasi yang akurat tentang masa lalu. Kamu percaya bahwa sejarah harus diceritakan dengan benar, berdasarkan bukti, bukan spekulasi.",
+    "strengths": ["Peneliti yang sangat teliti dan metodis.", "Sangat baik dalam bekerja dengan sumber-sumber primer dan arsip.", "Memiliki ingatan yang kuat untuk fakta, tanggal, dan detail.", "Menghasilkan karya yang sangat akurat dan terperinci."],
+    "weaknesses": ["Tulisannya bisa menjadi sangat kering atau akademis, kurang naratif.", "Bisa menjadi resisten terhadap interpretasi sejarah yang baru atau radikal.", "Cenderung lebih suka bekerja sendiri.", "Mungkin kurang tertarik pada aspek 'cerita manusia' dan lebih pada fakta peristiwa."],
+    "recommended_majors": [
+      { "name": "Sejarah", "reason": "Secara langsung melatihmu dalam metode riset dan analisis historis." },
+      { "name": "Arkeologi", "reason": "Mempelajari masa lalu melalui bukti fisik." },
+      { "name": "Museologi (Studi Museum) atau Ilmu Kearsipan", "reason": "Fokus pada pelestarian dan penyajian bukti sejarah." }
+    ],
+    "career_recommendations": [
+      { "name": "Sejarawan atau Peneliti Akademik", "reason": "Mendedikasikan kariermu untuk mempelajari dan menulis tentang periode atau peristiwa tertentu." },
+      { "name": "Arsiparis", "reason": "Mengelola dan melestarikan koleksi dokumen bersejarah." },
+      { "name": "Kurator di Museum Sejarah atau Militer", "reason": "Merancang pameran yang secara akurat menceritakan sebuah kisah dari masa lalu." }
+    ]
+  },
+  {
+    "mbti_type": "ISTJ",
+    "riasec_code": "AS",
+    "profile_title": "Sang Musisi Klasik",
+    "profile_tagline": "Seorang penampil yang berdedikasi pada penguasaan teknis dan interpretasi yang setia.",
+    "reason_why": "Kamu menggabungkan minat pada ekspresi kreatif melalui musik (Artistic) dengan keinginan untuk melayani sebuah tradisi dan komunitas (Social). Sebagai seorang ISTJ, kamu bukanlah tipe musisi yang suka berimprovisasi; kamu adalah pemain orkestra yang andal, yang menemukan keindahan dalam mengeksekusi sebuah karya besar dengan sempurna sebagai bagian dari sebuah tim.",
+    "what_this_means": "Kamu adalah seorang musisi klasik, anggota paduan suara, atau guru musik. Kamu memiliki disiplin dan dedikasi untuk berlatih berjam-jam setiap hari demi mencapai penguasaan teknis atas instrumenmu. Kamu menemukan kepuasan dalam menjadi bagian dari sesuatu yang lebih besar dari dirimu sendiri—sebuah orkestra yang menciptakan suara yang harmonis, atau sebuah tradisi musik yang telah bertahan selama berabad-abad.",
+    "strengths": ["Sangat disiplin dan berdedikasi pada latihan.", "Pemain ansambel yang sangat andal dan konsisten.", "Memiliki teknik yang sangat baik.", "Sangat menghormati tradisi dan karya komponis."],
+    "weaknesses": ["Bisa menjadi kurang ekspresif atau spontan dalam penampilan.", "Cenderung kurang suka pada improvisasi atau interpretasi yang radikal.", "Sangat kritis terhadap kesalahan teknis, baik pada diri sendiri maupun orang lain.", "Mungkin kurang nyaman dalam sorotan sebagai pemain solo."],
+    "recommended_majors": [
+      { "name": "Musik (Pertunjukan Klasik)", "reason": "Secara langsung melatihmu dalam disiplin dan teknik yang dibutuhkan." },
+      { "name": "Pendidikan Musik", "reason": "Mempersiapkanmu untuk menjadi guru yang mewariskan pengetahuan dan keterampilan musik kepada orang lain." },
+      { "name": "Sejarah Musik", "reason": "Mempelajari tradisi dan konteks di balik karya-karya yang kamu mainkan." }
+    ],
+    "career_recommendations": [
+      { "name": "Pemain Orkestra atau Ansambel", "reason": "Menjadi bagian dari sebuah kolektif musik besar, menyumbangkan keahlianmu untuk menciptakan suara yang utuh." },
+      { "name": "Guru Musik", "reason": "Mengajarkan dasar-dasar teknik dan teori musik kepada siswa dengan cara yang sistematis." },
+      { "name": "Pengiring (Accompanist)", "reason": "Peran pendukung yang penting, membutuhkan keandalan dan kemampuan membaca musik yang luar biasa." }
+    ]
+  },
+  {
+    "mbti_type": "ISTJ",
+    "riasec_code": "AC",
+    "profile_title": "Sang Desainer Teknis",
+    "profile_tagline": "Seorang kreator yang menemukan keindahan dalam presisi, keteraturan, dan fungsionalitas.",
+    "reason_why": "Kamu menggabungkan minat pada estetika dan komposisi (Artistic) dengan kecintaan yang mendalam pada aturan, grid, dan detail yang presisi (Conventional). Sebagai seorang ISTJ, kamu adalah seorang desainer yang sangat andal dan bersih.",
+    "what_this_means": "Kamu adalah seorang desainer grafis, desainer UI, atau desainer layout. Kamu mungkin bukan orang yang menghasilkan ide-ide paling 'gila', tetapi kamu adalah orang yang akan mengambil sebuah konsep dan mengeksekusinya dengan kesempurnaan teknis. Kamu menikmati proses menyusun elemen-elemen visual ke dalam sebuah sistem yang harmonis dan mudah dibaca. Karyamu selalu terlihat profesional dan terpoles.",
+    "strengths": ["Sangat teliti dan presisi dalam pekerjaan desain.", "Sangat baik dalam menciptakan layout yang bersih dan teratur.", "Menguasai perangkat lunak desain secara teknis.", "Sangat andal dalam mengikuti brand guidelines dan memenuhi tenggat waktu."],
+    "weaknesses": ["Bisa menjadi kurang inovatif atau konseptual.", "Cenderung kaku dan resisten terhadap gaya desain yang lebih 'kacau' atau ekspresif.", "Mungkin kurang fleksibel dalam menanggapi umpan balik yang bersifat subjektif.", "Lebih suka mengeksekusi daripada melakukan brainstorming."],
+    "recommended_majors": [
+      { "name": "Desain Komunikasi Visual (DKV)", "reason": "Tempat yang sempurna untuk mempelajari prinsip-prinsip desain yang terstruktur (Conventional) dan menerapkannya secara kreatif (Artistic)." },
+      { "name": "Desain Web", "reason": "Menggabungkan estetika visual dengan struktur kode yang logis." },
+      { "name": "Penerbitan (Publishing)", "reason": "Fokus pada seni menata halaman untuk buku dan majalah." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Grafis (dengan spesialisasi pada layout atau desain korporat)", "reason": "Menciptakan materi komunikasi yang bersih, profesional, dan konsisten." },
+      { "name": "Desainer UI (User Interface)", "reason": "Merancang antarmuka aplikasi yang teratur, konsisten, dan mudah digunakan." },
+      { "name": "Artworker atau Desainer Produksi", "reason": "Spesialis dalam mempersiapkan file desain akhir untuk dicetak atau diproduksi, sebuah pekerjaan yang menuntut presisi tertinggi." }
+    ]
+  },
+  {
+    "mbti_type": "ISTJ",
+    "riasec_code": "AE",
+    "profile_title": "Sang Manajer Properti",
+    "profile_tagline": "Seorang pemimpin yang memastikan sebuah aset properti terawat dengan baik dan menguntungkan.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mengelola sebuah bisnis (Enterprising) dengan apresiasi terhadap tradisi, kualitas, dan presentasi yang baik (Artistic & Si). Sebagai seorang ISTJ, kamu adalah manajer yang dapat dipercaya untuk menjaga sebuah aset berharga.",
+    "what_this_means": "Kamu adalah seorang manajer properti, manajer hotel, atau bahkan kurator koleksi pribadi. Kamu memiliki mata yang jeli untuk detail dan standar yang tinggi. Kamu menikmati proses memastikan bahwa sebuah bangunan atau koleksi tidak hanya terawat dengan baik, tetapi juga disajikan dengan cara terbaik untuk meningkatkan nilainya. Kamu adalah seorang penjaga investasi.",
+    "strengths": ["Sangat terorganisir dan berorientasi pada detail.", "Sangat bertanggung jawab dan dapat dipercaya.", "Baik dalam mengelola anggaran dan vendor.", "Memiliki standar kualitas yang tinggi."],
+    "weaknesses": ["Bisa menjadi sangat resisten terhadap renovasi atau perubahan yang dianggapnya tidak perlu.", "Mungkin kurang berani dalam mengambil risiko untuk meningkatkan nilai properti.", "Cenderung fokus pada pemeliharaan daripada inovasi.", "Bisa terlihat kaku atau tidak fleksibel oleh penyewa atau staf."],
+    "recommended_majors": [
+      { "name": "Manajemen Properti atau Real Estat", "reason": "Secara langsung mempelajari sisi bisnis (Enterprising) dari mengelola aset fisik (Artistic/Realistic)." },
+      { "name": "Manajemen Perhotelan", "reason": "Fokus pada pengelolaan properti yang juga merupakan bisnis pelayanan." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan dasar yang kuat dalam manajemen, keuangan, dan operasional." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Properti", "reason": "Bertanggung jawab atas semua aspek operasional dari sebuah bangunan komersial atau perumahan." },
+      { "name": "Manajer Hotel", "reason": "Memastikan sebuah hotel berjalan dengan lancar dan mempertahankan standar kualitasnya." },
+      { "name": "Manajer Fasilitas (Facilities Manager)", "reason": "Mengelola semua aset fisik dan layanan pendukung untuk sebuah perusahaan besar atau kampus." }
+    ]
+  },
+  {
+    "mbti_type": "ISTJ",
+    "riasec_code": "ES",
+    "profile_title": "Sang Bendahara Organisasi",
+    "profile_tagline": "Seorang anggota tim yang andal, yang memastikan kesehatan finansial dari sebuah kelompok.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dengan cara yang praktis dan bertanggung jawab (Enterprising) dengan komitmen yang kuat untuk melayani dan menjaga stabilitas sebuah kelompok (Social). Sebagai seorang ISTJ, kamu adalah orang yang akan dipercaya semua orang untuk mengelola uang.",
+    "what_this_means": "Kamu adalah bendahara yang sempurna untuk klub, organisasi nirlaba, atau bahkan bisnismu sendiri. Kamu memiliki ketelitian untuk melacak setiap pemasukan dan pengeluaran, dan integritas untuk memastikannya digunakan dengan benar. Kamu mungkin bukan pemimpin yang paling vokal, tetapi kamu memberikan kontribusi yang krusial dengan menjaga agar organisasi tetap sehat secara finansial dan berkelanjutan.",
+    "strengths": ["Sangat jujur dan memiliki integritas tinggi.", "Sangat teliti dan terorganisir dengan angka.", "Sangat bertanggung jawab dan dapat diandalkan.", "Mampu membuat keputusan finansial yang logis dan hati-hati."],
+    "weaknesses": ["Bisa menjadi terlalu berhati-hati dengan pengeluaran dan menghambat pertumbuhan.", "Mungkin kurang pandai dalam 'menjual' ide atau menggalang dana.", "Cenderung fokus pada angka dan kurang pada aspek manusiawi.", "Tidak suka pada ketidakpastian atau risiko finansial."],
+    "recommended_majors": [
+      { "name": "Akuntansi atau Keuangan", "reason": "Memberikan keterampilan teknis untuk mengelola keuangan (Enterprising) sebuah organisasi (Social)." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan dasar yang luas dalam semua aspek operasional bisnis." },
+      { "name": "Manajemen Nirlaba", "reason": "Fokus pada tantangan finansial yang unik dari organisasi yang berorientasi pada misi." }
+    ],
+    "career_recommendations": [
+      { "name": "Bendahara atau Manajer Keuangan untuk Organisasi Nirlaba", "reason": "Menjaga kesehatan finansial dari sebuah organisasi yang kamu yakini misinya." },
+      { "name": "Akuntan Publik", "reason": "Melayani berbagai klien bisnis kecil, membantu mereka menjaga keteraturan keuangan mereka." },
+      { "name": "Analis Anggaran (Budget Analyst)", "reason": "Bekerja untuk pemerintah atau perusahaan besar untuk merencanakan dan mengawasi anggaran." }
+    ]
+  }
+]
