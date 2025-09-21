@@ -6295,3 +6295,284 @@
     ]
   }
 ]
+{
+    "mbti_type": "ESTJ",
+    "riasec_code": "EC",
+    "profile_title": "Sang Eksekutif Klasik",
+    "profile_tagline": "Seorang pemimpin yang membangun dan mengelola sistem yang efisien dan produktif.",
+    "reason_why": "Ini adalah kombinasi ESTJ yang paling murni. Kemampuanmu untuk mengorganisir dunia eksternal secara logis (Te) dan mengandalkan pengalaman serta prosedur (Si) sangat selaras dengan minat untuk memimpin (Enterprising) dan bekerja dengan cara yang teratur (Conventional).",
+    "what_this_means": "Kamu terlahir untuk menjadi seorang manajer. Kamu memiliki bakat alami untuk melihat sebuah sistem yang kacau, mengidentifikasi masalahnya, dan menciptakan struktur, aturan, dan proses untuk membuatnya berjalan dengan lancar. Kamu adalah seorang eksekutor yang andal, fokus pada hasil, dan mengharapkan hal yang sama dari orang lain.",
+    "strengths": ["Pemimpin yang sangat terorganisir dan efisien.", "Luar biasa dalam perencanaan dan eksekusi.", "Sangat dapat diandalkan dan bertanggung jawab.", "Jelas dan tegas dalam berkomunikasi."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan tidak fleksibel.", "Cenderung kurang sabar dengan orang yang tidak seefisien dirinya.", "Mungkin mengabaikan ide-ide baru atau pendekatan non-tradisional.", "Bisa terlihat terlalu mengontrol atau mendominasi."],
+    "recommended_majors": [
+      { "name": "Administrasi Bisnis atau Manajemen", "reason": "Secara langsung melatihmu dalam seni dan ilmu mengelola (Enterprising) sebuah organisasi secara terstruktur (Conventional)." },
+      { "name": "Akuntansi atau Keuangan", "reason": "Bidang yang membutuhkan logika, keteraturan, dan kepemimpinan dalam pengambilan keputusan." },
+      { "name": "Hukum", "reason": "Mengasah kemampuanmu untuk bekerja dalam sistem aturan yang kompleks dan memimpin sebuah argumen." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer (di berbagai industri)", "reason": "Peran di mana kamu bisa secara langsung menerapkan bakatmu dalam mengorganisir orang dan proses." },
+      { "name": "Eksekutif Perusahaan (CEO, COO)", "reason": "Memimpin sebuah organisasi dengan fokus pada efisiensi dan hasil." },
+      { "name": "Administrator Publik atau Militer", "reason": "Lingkungan yang sangat menghargai struktur, hierarki, dan kepemimpinan yang jelas." }
+    ]
+  },
+  {
+    "mbti_type": "ESTJ",
+    "riasec_code": "ER",
+    "profile_title": "Sang Manajer Konstruksi",
+    "profile_tagline": "Seorang pemimpin di lapangan yang memastikan proyek selesai tepat waktu, sesuai anggaran, dan sesuai standar.",
+    "reason_why": "Kamu menggabungkan doronganmu yang kuat untuk memimpin dan mengelola (Enterprising) dengan fokus pada dunia fisik yang praktis dan nyata (Realistic). Sebagai seorang ESTJ, kamu adalah manajer yang tidak takut turun ke lapangan dan memastikan pekerjaan dilakukan dengan benar.",
+    "what_this_means": "Kamu adalah seorang manajer konstruksi, manajer pabrik, atau supervisor lapangan. Kamu unggul dalam menerjemahkan rencana dan cetak biru menjadi aksi nyata. Kamu adalah orang yang akan berada di lokasi proyek pada pukul 6 pagi, memastikan semua kru dan material siap, dan secara sistematis mengawasi setiap tahap konstruksi untuk memastikan efisiensi dan kualitas.",
+    "strengths": ["Pemimpin yang sangat praktis dan berorientasi pada tindakan.", "Sangat baik dalam mengelola proyek, jadwal, dan anggaran.", "Tegas dan mampu menjaga disiplin di lapangan.", "Memiliki pemahaman yang kuat tentang proses teknis."],
+    "weaknesses": ["Bisa menjadi tidak sabar dengan penundaan atau kesalahan.", "Mungkin kurang fleksibel dalam menghadapi masalah tak terduga.", "Cenderung kurang empatik terhadap masalah pribadi kru.", "Sangat fokus pada hasil akhir dan bisa mengabaikan proses."],
+    "recommended_majors": [
+      { "name": "Manajemen Konstruksi", "reason": "Secara langsung mempersiapkanmu untuk memimpin (Enterprising) proyek pembangunan fisik (Realistic)." },
+      { "name": "Teknik Sipil atau Teknik Industri", "reason": "Memberikan dasar teknis dan sistemik untuk mengelola proyek industri." },
+      { "name": "Manajemen Operasional", "reason": "Fokus pada pengelolaan proses di lingkungan produksi atau proyek." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Konstruksi atau Proyek", "reason": "Bertanggung jawab penuh atas keberhasilan sebuah proyek pembangunan." },
+      { "name": "Manajer Pabrik atau Supervisor Produksi", "reason": "Memimpin tim di lantai produksi untuk mencapai target." },
+      { "name": "Perwira Militer (di korps zeni atau logistik)", "reason": "Memimpin proyek-proyek konstruksi dan logistik di lingkungan militer." }
+    ]
+  },
+  {
+    "mbti_type": "ESTJ",
+    "riasec_code": "ES",
+    "profile_title": "Sang Organisator Komunitas",
+    "profile_tagline": "Seorang pemimpin yang menyatukan orang melalui acara dan kegiatan yang terencana dengan baik.",
+    "reason_why": "Kamu menggabungkan doronganmu untuk memimpin dan mengorganisir (Enterprising) dengan keinginan yang tulus untuk melayani dan menjaga keharmonisan komunitas (Social). Sebagai seorang ESTJ, kamu adalah pilar dari setiap acara komunitas yang sukses.",
+    "what_this_means": "Kamu adalah seorang ketua panitia, manajer acara, atau pemimpin organisasi sosial. Kamu adalah tipe orang yang akan dengan senang hati mengambil tanggung jawab untuk merencanakan reuni sekolah, festival kota, atau acara penggalangan dana. Kamu unggul dalam mendelegasikan tugas, menyusun jadwal, dan memastikan setiap detail logistik tertangani sehingga semua orang bisa bersenang-senang.",
+    "strengths": ["Sangat terorganisir dan efisien dalam merencanakan acara.", "Pemimpin yang jelas dan mampu memobilisasi orang.", "Sangat dapat diandalkan dan bertanggung jawab.", "Pandai membangun struktur untuk sebuah komunitas atau acara."],
+    "weaknesses": ["Bisa menjadi terlalu kaku dengan rencana dan kurang spontan.", "Mungkin fokus pada logistik dan kurang pada aspek emosional acara.", "Cenderung mengambil alih terlalu banyak dan kurang mendengarkan masukan.", "Bisa frustrasi dengan anggota tim yang tidak disiplin."],
+    "recommended_majors": [
+      { "name": "Manajemen Acara (Event Management) atau Perhotelan", "reason": "Mempelajari cara mengelola (Enterprising) acara untuk melayani orang (Social)." },
+      { "name": "Administrasi Publik atau Manajemen Nirlaba", "reason": "Fokus pada pengelolaan organisasi yang berorientasi pada komunitas." },
+      { "name": "Komunikasi", "reason": "Mengasah kemampuanmu untuk berkomunikasi secara jelas dan efektif saat memimpin." }
+    ],
+    "career_recommendations": [
+      { "name": "Perencana Acara atau Konferensi", "reason": "Mengorganisir acara berskala besar dari awal hingga akhir." },
+      { "name": "Direktur Organisasi Nirlaba atau Asosiasi", "reason": "Memimpin sebuah organisasi komunitas, mengelola program dan keanggotaan." },
+      { "name": "Manajer Kampanye Politik (di tingkat lokal)", "reason": "Mengorganisir semua acara, sukarelawan, dan logistik untuk sebuah kampanye." }
+    ]
+  },
+  {
+    "mbti_type": "ESTJ",
+    "riasec_code": "EI",
+    "profile_title": "Sang Hakim",
+    "profile_tagline": "Seorang pemimpin yang menegakkan hukum dan sistem melalui analisis fakta yang objektif.",
+    "reason_why": "Kamu menggabungkan doronganmu untuk memimpin dan membuat keputusan (Enterprising) dengan minat yang mendalam pada riset fakta, bukti, dan sistem aturan (Investigative). Sebagai seorang ESTJ, kamu adalah perwujudan dari hukum dan ketertiban, didasarkan pada logika dan bukti.",
+    "what_this_means": "Kamu terlahir untuk berada di dunia hukum atau penegakan hukum. Kamu adalah seorang hakim, jaksa, atau detektif senior. Kamu memiliki kemampuan untuk mendengarkan semua sisi dari sebuah kasus, menganalisis bukti secara objektif, membandingkannya dengan hukum yang berlaku, dan kemudian membuat keputusan yang tegas dan logis. Kamu adalah penegak sistem.",
+    "strengths": ["Sangat logis dan objektif dalam pengambilan keputusan.", "Mampu menganalisis informasi yang kompleks dan saling bertentangan.", "Sangat tegas dan tidak mudah terpengaruh oleh emosi.", "Memiliki rasa keadilan yang kuat berdasarkan pada aturan dan bukti."],
+    "weaknesses": ["Bisa terlihat kaku atau tidak memiliki belas kasihan.", "Cenderung kurang mempertimbangkan konteks atau keadaan yang meringankan.", "Sangat tidak fleksibel jika bukti atau fakta baru muncul yang menentang kesimpulan awalnya.", "Bisa menjadi sangat argumentatif dan mendominasi."],
+    "recommended_majors": [
+      { "name": "Hukum", "reason": "Secara langsung mempersiapkanmu untuk karier di dalam sistem peradilan." },
+      { "name": "Ilmu Kepolisian atau Kriminologi", "reason": "Fokus pada investigasi dan penegakan hukum." },
+      { "name": "Akuntansi Forensik", "reason": "Menggabungkan investigasi keuangan dengan pengetahuan hukum." }
+    ],
+    "career_recommendations": [
+      { "name": "Hakim atau Jaksa", "reason": "Membuat keputusan yang menegakkan hukum dan ketertiban dalam masyarakat." },
+      { "name": "Pengacara (terutama di bidang litigasi atau hukum korporat)", "reason": "Membangun kasus yang kuat berdasarkan bukti dan argumen yang logis." },
+      { "name": "Detektif atau Penyelidik Senior", "reason": "Memimpin investigasi yang kompleks untuk memecahkan kejahatan." }
+    ]
+  },
+  {
+    "mbti_type": "ESTJ",
+    "riasec_code": "CE",
+    "profile_title": "Sang Bankir",
+    "profile_tagline": "Seorang profesional yang mengelola risiko dan aset sesuai dengan aturan yang telah ditetapkan.",
+    "reason_why": "Dorongan utamamu adalah untuk bekerja dalam sistem yang teratur dan berbasis aturan (Conventional), dan kamu melakukannya dengan tujuan untuk memimpin, mengelola, dan mencapai keuntungan (Enterprising). Sebagai seorang ESTJ, kamu adalah manajer yang sempurna untuk dunia keuangan yang terstruktur.",
+    "what_this_means": "Kamu adalah seorang bankir, manajer keuangan, atau analis kredit. Kamu unggul dalam lingkungan di mana ada prosedur yang jelas untuk diikuti dan hasil yang bisa diukur dengan angka. Kamu adalah tipe orang yang akan dengan teliti menganalisis laporan keuangan untuk memutuskan apakah sebuah pinjaman layak diberikan, atau mengelola portofolio investasi dengan pendekatan yang konservatif dan berbasis aturan.",
+    "strengths": ["Sangat baik dalam analisis keuangan dan manajemen risiko.", "Sangat teliti dan dapat diandalkan.", "Membuat keputusan yang logis dan berbasis pada data historis.", "Sangat berintegritas dan patuh pada peraturan."],
+    "weaknesses": ["Bisa menjadi terlalu berhati-hati dan menghindari risiko, sehingga melewatkan peluang.", "Cenderung kurang inovatif dalam strategi keuangan.", "Bisa menjadi sangat birokratis.", "Mungkin kurang pandai dalam membangun hubungan personal dengan klien."],
+    "recommended_majors": [
+      { "name": "Keuangan atau Perbankan", "reason": "Secara langsung mempelajari aturan (Conventional) dan strategi (Enterprising) dari dunia keuangan." },
+      { "name": "Akuntansi", "reason": "Memberikan dasar yang paling kuat dalam aturan dan pelaporan keuangan." },
+      { "name": "Ekonomi", "reason": "Memberikan pemahaman tentang sistem pasar yang lebih luas." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Bank atau Analis Kredit", "reason": "Membuat keputusan tentang pinjaman berdasarkan analisis risiko yang teliti." },
+      { "name": "Manajer Keuangan (Finance Manager)", "reason": "Mengelola kesehatan finansial sebuah perusahaan, dari penganggaran hingga pelaporan." },
+      { "name": "Konsultan Manajemen Risiko", "reason": "Membantu perusahaan mengidentifikasi dan memitigasi risiko finansial dan operasional." }
+    ]
+  },
+  {
+    "mbti_type": "ESTJ",
+    "riasec_code": "CS",
+    "profile_title": "Sang Kepala Sekolah",
+    "profile_tagline": "Seorang pemimpin yang menjaga agar sebuah institusi pendidikan berjalan dengan tertib dan efisien.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang teratur dan berbasis aturan (Conventional) dengan keinginan yang tulus untuk melayani dan membimbing sebuah komunitas (Social). Sebagai seorang ESTJ, kamu adalah pemimpin yang memastikan bahwa sekolah adalah tempat yang aman, terstruktur, dan kondusif untuk belajar.",
+    "what_this_means": "Kamu adalah seorang kepala sekolah atau administrator pendidikan yang sangat efektif. Kamu mungkin bukan guru yang paling 'seru', tetapi kamu adalah orang yang akan memastikan bahwa jadwal pelajaran berjalan tepat waktu, anggaran sekolah digunakan dengan benar, dan aturan disiplin ditegakkan secara adil. Kamu menciptakan sebuah lingkungan di mana para guru bisa mengajar dan para siswa bisa belajar tanpa gangguan.",
+    "strengths": ["Sangat baik dalam manajemen dan administrasi sekolah.", "Pemimpin yang jelas, adil, dan konsisten.", "Sangat terorganisir dan dapat diandalkan.", "Berdedikasi tinggi pada institusi dan kesejahteraan siswa."],
+    "weaknesses": ["Bisa menjadi sangat kaku dengan aturan dan kurang fleksibel.", "Mungkin kurang terbuka pada metode pengajaran baru atau inovatif.", "Cenderung lebih fokus pada disiplin daripada pada pengembangan emosional siswa.", "Bisa terlihat tidak personal atau sulit didekati oleh siswa dan guru."],
+    "recommended_majors": [
+      { "name": "Administrasi Pendidikan atau Kepemimpinan Pendidikan", "reason": "Secara langsung mempersiapkanmu untuk peran manajerial di sekolah." },
+      { "name": "Pendidikan (dengan pengalaman mengajar sebelumnya)", "reason": "Memberikan pemahaman dari bawah ke atas tentang bagaimana sebuah sekolah bekerja." },
+      { "name": "Administrasi Publik", "reason": "Mempelajari cara mengelola institusi di sektor publik." }
+    ],
+    "career_recommendations": [
+      { "name": "Kepala Sekolah atau Wakil Kepala Sekolah", "reason": "Bertanggung jawab penuh atas operasional harian dan standar akademik sebuah sekolah." },
+      { "name": "Administrator Distrik Sekolah", "reason": "Mengelola kebijakan dan anggaran untuk sekelompok sekolah." },
+      { "name": "Manajer di Lembaga Pendidikan atau Kursus", "reason": "Memastikan operasional sebuah institusi pendidikan swasta berjalan lancar." }
+    ]
+  },
+  {
+    "mbti_type": "ESTJ",
+    "riasec_code": "CI",
+    "profile_title": "Sang Auditor Utama",
+    "profile_tagline": "Seorang penyelidik yang memastikan kebenaran dan kepatuhan melalui analisis fakta yang tak terbantahkan.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang berbasis aturan dan data (Conventional) dengan hasrat untuk investigasi dan penemuan kebenaran (Investigative). Sebagai seorang ESTJ, kamu adalah seorang auditor atau penyelidik yang sangat gigih dan tidak kenal kompromi.",
+    "what_this_means": "Kamu adalah seorang auditor internal, akuntan forensik, atau penyelidik untuk lembaga pemerintah. Kamu adalah orang yang akan menyisir ribuan dokumen dan transaksi untuk menemukan satu bukti penyimpangan. Kamu tidak percaya pada cerita; kamu percaya pada jejak kertas. Kamu menemukan kepuasan dalam menegakkan aturan dan memastikan bahwa semua orang bertanggung jawab.",
+    "strengths": ["Sangat teliti dan metodis.", "Gigih dan tidak mudah menyerah dalam investigasi.", "Sangat objektif dan tidak terpengaruh oleh tekanan.", "Memiliki integritas yang sangat tinggi."],
+    "weaknesses": ["Bisa terlihat sangat curiga atau tidak percaya pada orang lain.", "Cenderung sangat kaku dan hitam-putih dalam pandangannya.", "Kurang mempertimbangkan niat atau konteks di balik sebuah pelanggaran.", "Bisa menjadi sangat konfrontatif saat menemukan kesalahan."],
+    "recommended_majors": [
+      { "name": "Akuntansi (dengan spesialisasi Audit atau Forensik)", "reason": "Secara langsung melatihmu dalam seni dan ilmu menemukan penyimpangan keuangan." },
+      { "name": "Hukum atau Kriminologi", "reason": "Memberikan kerangka kerja untuk melakukan investigasi formal." },
+      { "name": "Sistem Informasi", "reason": "Penting untuk melakukan audit pada sistem digital modern." }
+    ],
+    "career_recommendations": [
+      { "name": "Auditor (Internal atau Eksternal)", "reason": "Memeriksa catatan keuangan dan operasional sebuah perusahaan untuk memastikan akurasi dan kepatuhan." },
+      { "name": "Akuntan Forensik", "reason": "Menginvestigasi penipuan keuangan untuk tujuan litigasi." },
+      { "name": "Penyelidik (untuk lembaga pemerintah seperti OJK, KPK, atau kepolisian)", "reason": "Melakukan investigasi yang kompleks terhadap kejahatan kerah putih." }
+    ]
+  },
+  {
+    "mbti_type": "ESTJ",
+    "riasec_code": "CR",
+    "profile_title": "Sang Logistik Militer",
+    "profile_tagline": "Seorang organisator yang memastikan pasukan di lapangan memiliki semua yang mereka butuhkan.",
+    "reason_why": "Dorongan utamamu adalah untuk bekerja dalam sistem yang terstruktur dan hierarkis (Conventional), dan kamu menerapkannya pada dunia logistik yang sangat nyata dan praktis (Realistic). Sebagai seorang ESTJ, kamu adalah perwira logistik yang sempurna, memastikan rantai pasok tidak pernah putus, bahkan di tengah medan perang.",
+    "what_this_means": "Kamu adalah seorang ahli logistik. Kamu unggul dalam merencanakan dan mengeksekusi pergerakan orang dan material dalam skala besar. Kamu adalah tipe orang yang bisa mengatur pengiriman ribuan ton persediaan ke seberang lautan dan memastikannya tiba tepat waktu. Kamu menemukan kepuasan dalam keberhasilan operasional yang sempurna.",
+    "strengths": ["Luar biasa dalam perencanaan logistik dan operasional.", "Sangat terorganisir dan efisien.", "Mampu bekerja dengan baik di bawah tekanan dan di lingkungan yang sulit.", "Pemimpin yang jelas dan dapat diandalkan."],
+    "weaknesses": ["Bisa menjadi sangat tidak fleksibel dengan rencana.", "Cenderung kurang inovatif dan lebih suka menggunakan metode yang sudah terbukti.", "Sangat fokus pada misi dan bisa mengabaikan kesejahteraan personel.", "Tidak suka pada ambiguitas atau informasi yang tidak lengkap."],
+    "recommended_majors": [
+      { "name": "Manajemen Rantai Pasok (Supply Chain Management) atau Logistik", "reason": "Secara langsung mempelajari ilmu mengelola aliran barang dan informasi." },
+      { "name": "Manajemen Operasional", "reason": "Fokus pada efisiensi proses dalam skala besar." },
+      { "name": "Akademi Militer atau Sekolah Tinggi Ilmu Kepolisian", "reason": "Lingkungan yang sangat menghargai dan melatih keterampilan logistik dan kepemimpinan." }
+    ],
+    "career_recommendations": [
+      { "name": "Perwira Logistik di Militer", "reason": "Bertanggung jawab untuk merencanakan dan mengeksekusi dukungan logistik untuk operasi militer." },
+      { "name": "Manajer Rantai Pasok atau Distribusi", "reason": "Mengelola seluruh jaringan logistik untuk sebuah perusahaan besar." },
+      { "name": "Manajer Operasi Bantuan Bencana", "reason": "Mengkoordinasikan logistik untuk mengirimkan bantuan ke daerah-daerah yang terkena bencana." }
+    ]
+  },
+  {
+    "mbti_type": "ESTJ",
+    "riasec_code": "RS",
+    "profile_title": "Sang Pelatih Disiplin",
+    "profile_tagline": "Seorang mentor yang membentuk karakter dan keterampilan melalui latihan yang terstruktur.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan fisik (Realistic) dengan dorongan untuk mengajar dan memimpin sebuah tim (Social). Sebagai seorang ESTJ, kamu adalah tipe pelatih yang menekankan pada disiplin, kerja keras, dan penguasaan fundamental.",
+    "what_this_means": "Kamu adalah seorang pelatih olahraga, sersan instruktur, atau guru pendidikan jasmani. Kamu percaya pada kekuatan pengulangan dan latihan yang disiplin. Kamu mungkin bukan pelatih yang paling hangat, tetapi kamu adalah yang akan mendorong atletmu untuk mencapai potensi fisik mereka yang tertinggi. Kamu membangun tim yang tangguh dan terorganisir.",
+    "strengths": ["Sangat baik dalam membangun disiplin dan etos kerja.", "Mampu merancang program latihan yang terstruktur dan efektif.", "Pemimpin yang jelas dan dihormati.", "Sangat berorientasi pada peningkatan kinerja yang terukur."],
+    "weaknesses": ["Bisa menjadi terlalu keras atau tidak peka terhadap kebutuhan emosional atlet.", "Cenderung kurang fleksibel dengan gaya pelatihan.", "Mungkin kurang menghargai bakat alami jika tidak disertai dengan kerja keras.", "Sangat tidak suka pada kekalahan atau kinerja yang buruk."],
+    "recommended_majors": [
+      { "name": "Pendidikan Kepelatihan Olahraga atau Ilmu Keolahragaan", "reason": "Mempelajari cara melatih (Social) keterampilan fisik (Realistic) dengan metode yang terbukti." },
+      { "name": "Pendidikan Jasmani", "reason": "Mempersiapkanmu untuk menjadi guru yang menanamkan pentingnya disiplin dan kebugaran." },
+      { "name": "Manajemen Olahraga", "reason": "Memberikan sisi bisnis untuk karier di dunia olahraga." }
+    ],
+    "career_recommendations": [
+      { "name": "Pelatih Olahraga (terutama untuk tim atau olahraga yang membutuhkan disiplin tinggi)", "reason": "Membentuk atlet menjadi juara melalui program yang terstruktur." },
+      { "name": "Sersan Instruktur di Militer atau Polisi", "reason": "Melatih rekrut baru dalam keterampilan dasar dan disiplin." },
+      { "name": "Guru Pendidikan Jasmani", "reason": "Mengajarkan pentingnya kebugaran dan sportivitas kepada siswa." }
+    ]
+  },
+  {
+    "mbti_type": "ESTJ",
+    "riasec_code": "RA",
+    "profile_title": "Sang Arsitek Praktis",
+    "profile_tagline": "Seorang perancang yang fokus pada bangunan yang fungsional, tahan lama, dan sesuai anggaran.",
+    "reason_why": "Kamu menggabungkan minat pada konstruksi dan dunia fisik (Realistic) dengan apresiasi terhadap desain yang teratur dan tradisional (Artistic & Si). Sebagai seorang ESTJ, kamu adalah arsitek yang memastikan bahwa sebuah bangunan tidak hanya bisa dibangun, tetapi juga masuk akal secara finansial dan fungsional.",
+    "what_this_means": "Kamu adalah seorang arsitek atau insinyur sipil yang sangat membumi. Kamu tidak terlalu tertarik pada desain konseptual yang aneh; kamu tertarik pada bangunan yang berfungsi dengan baik, mudah dirawat, dan akan bertahan selama seratus tahun. Kamu adalah orang yang akan memastikan bahwa denah lantainya efisien dan material yang dipilih adalah yang paling tahan lama. Kamu membangun untuk masa depan.",
+    "strengths": ["Sangat praktis dan berorientasi pada fungsionalitas.", "Memiliki pemahaman yang kuat tentang material dan metode konstruksi.", "Sangat baik dalam mengelola proyek agar sesuai dengan anggaran.", "Menghasilkan desain yang andal dan teruji oleh waktu."],
+    "weaknesses": ["Bisa menjadi sangat resisten terhadap ide-ide desain yang baru atau eksperimental.", "Cenderung lebih memprioritaskan fungsi di atas estetika.", "Mungkin kurang fleksibel dalam menanggapi keinginan klien yang dianggapnya tidak praktis.", "Bisa terlihat kaku dan tidak imajinatif."],
+    "recommended_majors": [
+      { "name": "Teknik Sipil", "reason": "Fokus utama pada rekayasa dan integritas struktural dari sebuah bangunan." },
+      { "name": "Arsitektur", "reason": "Memberikan keterampilan desain yang bisa kamu padukan dengan pendekatan praktismu." },
+      { "name": "Manajemen Konstruksi", "reason": "Menjembatani antara desain dan eksekusi di lapangan." }
+    ],
+    "career_recommendations": [
+      { "name": "Insinyur Sipil", "reason": "Merancang dan mengawasi pembangunan infrastruktur seperti jembatan, jalan, dan gedung." },
+      { "name": "Arsitek (dengan spesialisasi pada bangunan komersial atau industri)", "reason": "Merancang bangunan di mana fungsionalitas dan efisiensi adalah prioritas utama." },
+      { "name": "Manajer Properti atau Fasilitas", "reason": "Bertanggung jawab atas pemeliharaan jangka panjang dari sebuah bangunan." }
+    ]
+  },
+  {
+    "mbti_type": "ESTJ",
+    "riasec_code": "RI",
+    "profile_title": "Sang Dokter Bedah",
+    "profile_tagline": "Seorang profesional medis yang membuat keputusan cepat dan tindakan presisi di bawah tekanan.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang membutuhkan keterampilan tangan yang tinggi (Realistic) dengan pemahaman yang mendalam tentang sistem tubuh manusia (Investigative). Sebagai seorang ESTJ, kamu adalah pemimpin alami di ruang operasi, mampu tetap tenang, logis, dan tegas di saat-saat paling kritis.",
+    "what_this_means": "Kamu sangat cocok untuk menjadi seorang dokter bedah, dokter gawat darurat, atau profesi medis lain yang berorientasi pada tindakan. Kamu memiliki kombinasi langka antara kepercayaan diri untuk membuat keputusan hidup-mati dalam hitungan detik dengan keterampilan teknis untuk mengeksekusinya dengan sempurna. Kamu berkembang di lingkungan berisiko tinggi di mana kompetensimu adalah segalanya.",
+    "strengths": ["Sangat tenang dan tegas di bawah tekanan.", "Memiliki keterampilan motorik halus dan presisi yang luar biasa.", "Mampu membuat keputusan yang cepat dan logis.", "Pemimpin alami di dalam tim medis."],
+    "weaknesses": ["Bisa terlihat kurang empatik atau tidak sabar dengan pasien atau staf junior.", "Cenderung sangat tidak suka pada kesalahan, baik dari diri sendiri maupun orang lain.", "Mungkin kurang tertarik pada hubungan jangka panjang dengan pasien.", "Bisa menjadi sangat 'workaholic' dan mengabaikan keseimbangan hidup."],
+    "recommended_majors": [
+      { "name": "Kedokteran (dengan spesialisasi Bedah, Anestesi, atau Gawat Darurat)", "reason": "Jalan yang paling langsung untuk karier medis yang berorientasi pada tindakan." },
+      { "name": "Teknik Biomedis", "reason": "Menggabungkan pemahaman tentang rekayasa dengan aplikasi di dunia medis." },
+      { "name": "Ilmu Keperawatan (dengan spesialisasi Perawatan Kritis)", "reason": "Berada di garis depan perawatan di unit-unit yang paling intens." }
+    ],
+    "career_recommendations": [
+      { "name": "Dokter Bedah", "reason": "Melakukan prosedur operasi yang kompleks yang membutuhkan presisi dan ketegasan." },
+      { "name": "Dokter Gawat Darurat", "reason": "Mendiagnosis dan merawat berbagai macam kondisi medis di lingkungan yang paling cepat." },
+      { "name": "Ahli Anestesi", "reason": "Bertanggung jawab untuk menjaga pasien tetap aman dan stabil selama operasi, sebuah peran yang membutuhkan kewaspadaan dan ketegasan." }
+    ]
+  },
+  {
+    "mbti_type": "ESTJ",
+    "riasec_code": "IA",
+    "profile_title": "Sang Produser Berita",
+    "profile_tagline": "Seorang pemimpin di ruang berita yang mengubah informasi mentah menjadi siaran yang jelas dan berdampak.",
+    "reason_why": "Kamu menggabungkan minat pada riset dan penyampaian fakta (Investigative) dengan apresiasi terhadap presentasi yang jelas, teratur, dan efektif (Artistic & Si). Sebagai seorang ESTJ, kamu adalah manajer yang sempurna untuk lingkungan ruang berita yang bergerak cepat.",
+    "what_this_means": "Kamu adalah seorang produser berita TV, editor surat kabar, atau manajer redaksi. Kamu adalah orang yang akan mengambil semua laporan dari para jurnalis di lapangan, dengan cepat menganalisis mana yang paling penting, dan kemudian mengorganisirnya menjadi sebuah siaran berita atau halaman depan yang koheren. Kamu adalah penjaga gerbang informasi, memastikan bahwa berita disampaikan secara akurat, tepat waktu, dan jelas.",
+    "strengths": ["Sangat baik dalam membuat keputusan cepat di bawah tekanan tenggat waktu.", "Mampu mengorganisir sejumlah besar informasi menjadi sebuah narasi yang jelas.", "Pemimpin yang tegas dan efisien di ruang redaksi.", "Sangat berpegang pada fakta dan standar jurnalistik."],
+    "weaknesses": ["Bisa menjadi sangat tidak sabar dengan jurnalis yang lambat atau kurang fokus.", "Cenderung lebih memprioritaskan kecepatan dan kejelasan daripada kedalaman atau nuansa.", "Mungkin kurang fleksibel atau inovatif dalam format penceritaan.", "Bisa terlihat terlalu kritis atau tidak empatik terhadap subjek berita."],
+    "recommended_majors": [
+      { "name": "Jurnalistik (Penyiaran atau Cetak)", "reason": "Secara langsung mempersiapkanmu untuk karier di ruang redaksi." },
+      { "name": "Ilmu Komunikasi", "reason": "Mempelajari teori dan praktik penyampaian informasi kepada publik." },
+      { "name": "Ilmu Politik", "reason": "Memberikan dasar pengetahuan yang kuat untuk meliput berita politik dan pemerintahan." }
+    ],
+    "career_recommendations": [
+      { "name": "Produser Berita (TV atau Radio)", "reason": "Bertanggung jawab atas konten dan alur dari sebuah program berita." },
+      { "name": "Editor (di surat kabar, majalah, atau situs berita)", "reason": "Membuat keputusan akhir tentang berita apa yang akan diterbitkan dan bagaimana cara menyajikannya." },
+      { "name": "Manajer Redaksi", "reason": "Mengelola semua operasional dari sebuah ruang berita, dari anggaran hingga staf." }
+    ]
+  },
+  {
+    "mbti_type": "ESTJ",
+    "riasec_code": "AS",
+    "profile_title": "Sang Ketua Organisasi",
+    "profile_tagline": "Seorang pemimpin yang berdedikasi untuk menjaga tradisi dan melayani anggotanya.",
+    "reason_why": "Kamu menggabungkan minat pada ekspresi dan tradisi komunal (Artistic) dengan dorongan yang kuat untuk melayani dan mengorganisir sebuah kelompok (Social). Sebagai seorang ESTJ, kamu adalah pemimpin yang memastikan bahwa sebuah organisasi berjalan dengan baik dan melayani tujuannya.",
+    "what_this_means": "Kamu adalah seorang ketua asosiasi alumni, pemimpin di organisasi keagamaan, atau manajer klub sosial. Kamu adalah tipe orang yang akan dengan senang hati mengambil tanggung jawab untuk merencanakan acara tahunan, mengelola anggaran, dan memastikan semua anggota merasa menjadi bagian dari sesuatu. Kamu adalah seorang penjaga komunitas yang praktis.",
+    "strengths": ["Sangat terorganisir dan dapat diandalkan.", "Sangat baik dalam merencanakan dan menjalankan acara.", "Pemimpin yang adil dan konsisten.", "Berdedikasi tinggi pada tradisi dan kesejahteraan organisasi."],
+    "weaknesses": ["Bisa menjadi sangat resisten terhadap perubahan atau ide-ide baru dari anggota.", "Cenderung lebih fokus pada aturan dan prosedur daripada hubungan personal.", "Mungkin kurang spontan atau fleksibel.", "Bisa terlihat terlalu formal atau kaku."],
+    "recommended_majors": [
+      { "name": "Manajemen Nirlaba", "reason": "Mempelajari cara mengelola organisasi yang berorientasi pada anggota." },
+      { "name": "Administrasi Publik", "reason": "Fokus pada pengelolaan organisasi di sektor publik atau komunitas." },
+      { "name": "Sosiologi", "reason": "Memberikan pemahaman tentang bagaimana kelompok dan organisasi berfungsi." }
+    ],
+    "career_recommendations": [
+      { "name": "Direktur Eksekutif Asosiasi Profesional atau Alumni", "reason": "Memimpin sebuah organisasi yang melayani para anggotanya." },
+      { "name": "Manajer Klub (Klub Olahraga, Klub Sosial)", "reason": "Bertanggung jawab atas semua operasional dari sebuah klub." },
+      { "name": "Administrator di Lembaga Keagamaan", "reason": "Mengurus semua aspek non-religius dari sebuah gereja, masjid, atau sinagoga." }
+    ]
+  },
+  {
+    "mbti_type": "ESTJ",
+    "riasec_code": "AC",
+    "profile_title": "Sang Pembuat Peraturan",
+    "profile_tagline": "Seorang administrator yang merancang sistem aturan untuk memastikan keadilan dan efisiensi.",
+    "reason_why": "Kamu menggabungkan minat pada ekspresi (Artistic, dalam arti merancang sistem) dengan dedikasi yang tak tergoyahkan pada aturan, prosedur, dan konsistensi (Conventional). Sebagai seorang ESTJ, kamu adalah seorang birokrat dalam arti yang terbaik: seseorang yang percaya pada kekuatan sistem yang dirancang dengan baik untuk menciptakan ketertiban.",
+    "what_this_means": "Kamu adalah seorang legislator, perancang kebijakan, atau penulis teknis. Kamu memiliki kemampuan langka untuk memikirkan semua kemungkinan skenario dan kemudian menulis seperangkat aturan atau prosedur yang jelas, komprehensif, dan tidak ambigu untuk menanganinya. Kamu adalah arsitek dari peraturan.",
+    "strengths": ["Sangat baik dalam berpikir secara sistematis dan logis.", "Mampu menulis dokumen yang sangat jelas dan terperinci.", "Sangat teliti dan mampu mengantisipasi berbagai kemungkinan.", "Sangat berprinsip dan fokus pada keadilan prosedural."],
+    "weaknesses": ["Sistem yang dirancangnya bisa menjadi sangat rumit dan birokratis.", "Cenderung kurang fleksibel dan sulit untuk mengakomodasi pengecualian.", "Mungkin kurang mempertimbangkan dampak manusiawi dari aturan yang dibuatnya.", "Sangat resisten terhadap perubahan pada sistem yang telah dirancangnya."],
+    "recommended_majors": [
+      { "name": "Hukum atau Administrasi Publik", "reason": "Secara langsung terlibat dalam pembuatan dan interpretasi aturan dan peraturan." },
+      { "name": "Penulisan Teknis", "reason": "Mengasah kemampuanmu untuk menulis instruksi dan prosedur yang sangat jelas." },
+      { "name": "Filsafat (dengan fokus pada logika atau etika)", "reason": "Memberikan dasar untuk berpikir secara sistematis tentang prinsip-prinsip." }
+    ],
+    "career_recommendations": [
+      { "name": "Staf Legislatif atau Perancang Kebijakan", "reason": "Bekerja di pemerintahan untuk menulis dan menyempurnakan undang-undang dan peraturan." },
+      { "name": "Penulis Teknis", "reason": "Menulis manual pengguna, prosedur operasi standar, atau dokumentasi teknis lainnya." },
+      { "name": "Spesialis Kepatuhan (Compliance)", "reason": "Menafsirkan peraturan pemerintah dan menulis kebijakan internal perusahaan untuk memastikannya dipatuhi." }
+    ]
+  }
+]
