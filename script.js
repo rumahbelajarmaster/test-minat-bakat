@@ -52,7 +52,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   async function loadQuestions() {
     try {
-      // PERBAIKAN CACHE: Menambahkan parameter unik agar browser selalu mengambil file terbaru
       const response = await fetch('questions.json?v=' + new Date().getTime());
       if (!response.ok) throw new Error('Gagal memuat pertanyaan');
       questions = await response.json();
@@ -132,17 +131,59 @@ document.addEventListener("DOMContentLoaded", () => {
     return { code, scores };
   }
 
+  // ==========================================================
+  // PENAMBAHAN FUNGSI PENGIRIMAN DATA
+  // ==========================================================
+  async function submitResultsToSheet(resultData) {
+    // PASTE URL WEB APP DARI GOOGLE APPS SCRIPT DI SINI
+    const SCRIPT_URL = "https://script.google.com/macros/s/AKfycbyCxMoMreOzurGSMubVA6vjyKMxNUZ-M_44uHc-8vWdzzr9hmCL9kBetxnFulwusqYZiA/exec"; 
+
+    try {
+      await fetch(SCRIPT_URL, {
+        method: 'POST',
+        mode: 'cors',
+        cache: 'no-cache',
+        headers: {
+          'Content-Type': 'text/plain;charset=utf-8',
+        },
+        body: JSON.stringify(resultData),
+      });
+    } catch (error) {
+      console.error('Error submitting to Google Sheet:', error);
+    }
+  }
+
   async function showResults() {
     questionScreen.classList.add("d-none");
     resultScreen.classList.remove("d-none");
     resultContent.innerHTML = `<p class="text-center">Lagi ngitung hasil akhir kamu, sabar ya...</p>`;
+    
     const mbtiResult = calculateMbtiScores();
     const riasecResult = calculateRiasecScores();
     const analytics = { mbti: mbtiResult.scores, riasec: riasecResult.scores };
+    
     try {
       const recommendations = await fetch('recommendations.json?v=' + new Date().getTime()).then(res => res.json());
       const profile = recommendations.find(p => p.mbti_type === mbtiResult.type && p.riasec_code === riasecResult.code);
+      
       displayDetailedResults(profile, analytics, mbtiResult.type, riasecResult.code);
+
+      // ==========================================================
+      // PEMANGGILAN FUNGSI PENGIRIMAN DATA DITAMBAHKAN DI SINI
+      // ==========================================================
+      if (profile) { // Hanya kirim data jika profil ditemukan
+        const resultData = {
+          name: userInfo.name,
+          school: userInfo.school,
+          grade: userInfo.grade,
+          mbti: mbtiResult.type,
+          riasec: riasecResult.code,
+          majors: profile.recommended_majors.map(major => major.name).join(', ')
+        };
+        // Mengirim data ke Google Sheet di latar belakang
+        submitResultsToSheet(resultData);
+      }
+
     } catch (error) {
       console.error('Gagal mengambil data rekomendasi:', error);
       resultContent.innerHTML = `<div class="alert alert-danger">Waduh, gagal memuat data rekomendasi nih. Coba lagi nanti ya.</div>`;
