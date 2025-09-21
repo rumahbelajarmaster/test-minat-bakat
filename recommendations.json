@@ -3907,3 +3907,424 @@
     ]
   }
 ]
+{
+    "mbti_type": "ISFP",
+    "riasec_code": "AR",
+    "profile_title": "Sang Seniman Sejati",
+    "profile_tagline": "Seorang kreator yang mengekspresikan dunia batinnya yang kaya melalui karya-karya yang nyata dan indah.",
+    "reason_why": "Ini adalah kombinasi ISFP yang paling murni. Doronganmu untuk setia pada nilai dan perasaan pribadimu (Fi) dan hidup di saat ini (Se) sangat selaras dengan minat untuk menciptakan karya yang nyata (Realistic) dan mengekspresikan diri secara kreatif (Artistic).",
+    "what_this_means": "Kamu adalah seorang seniman dalam arti yang paling fundamental. Kamu melihat dunia melalui lensa keindahan dan emosi, dan kamu memiliki dorongan yang kuat untuk menerjemahkan apa yang kamu lihat dan rasakan menjadi bentuk fisik—baik itu lukisan, musik, patung, atau kerajinan tangan. Bagimu, proses menciptakan adalah cara untuk hidup.",
+    "strengths": ["Sangat kreatif dan memiliki kepekaan estetika yang tinggi.", "Mampu menciptakan karya yang sangat personal dan menyentuh.", "Memiliki keterampilan tangan dan mampu bekerja dengan baik dengan material.", "Sangat terhubung dengan momen saat ini dalam proses kreatif."],
+    "weaknesses": ["Bisa menjadi sangat sensitif terhadap kritik.", "Cenderung menghindari perencanaan jangka panjang atau teori yang abstrak.", "Mungkin kesulitan dengan sisi bisnis atau promosi dari seni.", "Bisa kesulitan untuk mengartikulasikan makna di balik karyanya secara verbal."],
+    "recommended_majors": [
+      { "name": "Seni Rupa (Lukis, Patung, Keramik, dll.)", "reason": "Secara langsung mengasah kemampuanmu untuk berekspresi (Artistic) melalui medium fisik (Realistic)." },
+      { "name": "Desain (Produk, Mode, Grafis)", "reason": "Menerapkan kepekaan estetikamu pada objek atau komunikasi visual yang fungsional." },
+      { "name": "Musik (Pertunjukan atau Komposisi)", "reason": "Menggunakan suara sebagai medium untuk mengekspresikan perasaan dan cerita." }
+    ],
+    "career_recommendations": [
+      { "name": "Seniman (Pelukis, Pematung)", "reason": "Mendedikasikan hidupmu untuk menciptakan karya yang merupakan cerminan dari dirimu." },
+      { "name": "Desainer Mode atau Perhiasan", "reason": "Menciptakan keindahan yang bisa dipakai dan berinteraksi langsung dengan dunia fisik." },
+      { "name": "Musisi atau Penyanyi-Penulis Lagu", "reason": "Mengekspresikan emosi dan pengalamanmu melalui melodi dan lirik." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "AS",
+    "profile_title": "Sang Penghibur Empatik",
+    "profile_tagline": "Seorang penampil yang menggunakan seninya untuk terhubung dan mengangkat semangat orang lain.",
+    "reason_why": "Kamu menggabungkan doronganmu yang kuat untuk berekspresi secara kreatif (Artistic) dengan keinginan tulus untuk terhubung, membantu, dan menghibur orang lain (Social). Sebagai seorang ISFP, kamu membawa kehangatan dan keaslian pada setiap interaksi, membuatnya menjadi pengalaman yang personal.",
+    "what_this_means": "Kamu adalah seorang penampil yang berhati lembut. Kamu mungkin seorang aktor yang mampu menyentuh hati penonton, seorang musisi yang lagunya menjadi teman bagi banyak orang, atau seorang guru seni yang penuh kesabaran. Kamu berkembang saat senimu bisa menciptakan koneksi dan memberikan dampak emosional yang positif bagi orang lain.",
+    "strengths": ["Sangat ekspresif dan mampu menyampaikan emosi secara otentik.", "Empati yang mendalam, membuatnya mampu terhubung dengan audiens.", "Mampu menciptakan suasana yang hangat dan suportif.", "Karismatik dengan cara yang lembut dan tulus."],
+    "weaknesses": ["Sangat sensitif terhadap kritik atau penolakan.", "Pekerjaan bisa sangat menguras energi emosional.", "Cenderung menghindari konflik atau persaingan yang agresif.", "Bisa kesulitan menyeimbangkan antara kebutuhan artistik pribadi dan ekspektasi audiens."],
+    "recommended_majors": [
+      { "name": "Seni Peran (Acting) atau Teater Musikal", "reason": "Menggabungkan ekspresi diri (Artistic) dengan kolaborasi dan koneksi dengan audiens (Social)." },
+      { "name": "Terapi Seni atau Musik", "reason": "Menggunakan kekuatan penyembuhan dari seni (Artistic) untuk membantu orang lain (Social)." },
+      { "name": "Pendidikan Anak Usia Dini (PAUD)", "reason": "Menggunakan kreativitas dan kelembutan untuk membantu anak-anak belajar dan berkembang." }
+    ],
+    "career_recommendations": [
+      { "name": "Aktor atau Musisi", "reason": "Menggunakan panggung untuk berbagi emosi dan cerita dengan dunia." },
+      { "name": "Terapis Seni atau Musik", "reason": "Membimbing orang lain dalam proses penyembuhan melalui ekspresi kreatif." },
+      { "name": "Guru TK atau Guru Seni", "reason": "Menciptakan lingkungan belajar yang positif dan kreatif bagi anak-anak." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "RA",
+    "profile_title": "Sang Pengrajin Alam",
+    "profile_tagline": "Seorang kreator yang menemukan inspirasi dan materialnya di dunia alam.",
+    "reason_why": "Dorongan utamamu adalah bekerja dengan tangan dan material fisik (Realistic), dan kamu melakukannya dengan kepekaan estetika dan kreativitas yang tinggi (Artistic). Sebagai seorang ISFP, kamu memiliki hubungan yang mendalam dengan alam, dan ini seringkali menjadi tema utama dalam karyamu.",
+    "what_this_means": "Kamu adalah seorang seniman yang karyanya berakar pada bumi. Kamu mungkin seorang desainer lanskap, seorang pengrajin kayu, atau seorang fotografer alam. Kamu menikmati proses bekerja dengan elemen-elemen alam—tanah, kayu, cahaya matahari—dan mengubahnya menjadi sesuatu yang indah. Kamu menemukan kedamaian dan inspirasi di alam terbuka.",
+    "strengths": ["Memiliki hubungan yang kuat dan intuitif dengan alam.", "Sangat terampil dalam bekerja dengan material alami.", "Memiliki mata yang jeli untuk keindahan dalam lanskap dan detail alam.", "Sabar dan mampu bekerja sendiri di lingkungan yang tenang."],
+    "weaknesses": ["Mungkin kurang tertarik pada lingkungan perkotaan atau kantor.", "Cenderung menghindari perencanaan bisnis atau pemasaran.", "Pekerjaan bisa menuntut fisik.", "Lebih suka bekerja sendiri, bisa kesulitan dengan kolaborasi tim yang besar."],
+    "recommended_majors": [
+      { "name": "Arsitektur Lanskap atau Hortikultura", "reason": "Secara langsung bekerja dengan tanaman dan elemen alam (Realistic) untuk menciptakan ruang yang indah (Artistic)." },
+      { "name": "Kriya (dengan spesialisasi kayu, serat, atau keramik)", "reason": "Mengasah keterampilan tanganmu untuk mengubah material alami menjadi karya seni." },
+      { "name": "Fotografi (dengan fokus pada alam atau satwa liar)", "reason": "Menangkap keindahan dunia alam melalui lensa kameramu." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Lanskap atau Tukang Kebun Profesional", "reason": "Menciptakan dan merawat taman dan ruang hijau yang indah." },
+      { "name": "Pengrajin Kayu atau Pembuat Furnitur", "reason": "Bekerja dengan kayu untuk menciptakan objek fungsional yang memiliki nilai seni." },
+      { "name": "Fotografer Alam", "reason": "Menjelajahi dunia untuk mendokumentasikan keindahan alam liar." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "RS",
+    "profile_title": "Sang Perawat Hewan",
+    "profile_tagline": "Seorang penyembuh yang memberikan perawatan lembut dan intuitif kepada hewan.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan langsung (Realistic) dengan dorongan yang mendalam untuk merawat dan membantu makhluk hidup (Social). Sebagai seorang ISFP, kamu memiliki empati yang meluas ke dunia hewan, mampu merasakan kebutuhan mereka tanpa kata-kata.",
+    "what_this_means": "Kamu memiliki hubungan yang istimewa dengan hewan. Kamu sangat cocok untuk peran sebagai perawat hewan, pekerja di penampungan, atau pelatih hewan. Kamu memiliki kesabaran dan sentuhan lembut yang membuat hewan merasa aman dan nyaman. Kamu menemukan kepuasan yang mendalam dalam memberikan perawatan dan kasih sayang kepada mereka yang tidak bisa memintanya.",
+    "strengths": ["Sangat empatik dan intuitif terhadap kebutuhan hewan.", "Sabar dan lembut dalam menangani hewan.", "Praktis dan terampil dalam memberikan perawatan fisik.", "Sangat berdedikasi dan rela berkorban."],
+    "weaknesses": ["Pekerjaan bisa sangat menguras emosi, terutama saat berhadapan dengan penderitaan hewan.", "Bisa sangat marah atau sedih oleh kekejaman terhadap hewan.", "Cenderung menghindari konflik dengan pemilik hewan.", "Mungkin kesulitan dengan aspek ilmiah atau diagnostik yang kompleks dari kedokteran hewan."],
+    "recommended_majors": [
+      { "name": "Kesehatan Hewan atau Teknologi Veteriner", "reason": "Secara langsung mempersiapkanmu untuk memberikan perawatan praktis (Realistic) kepada hewan di bawah pengawasan dokter hewan (Social)." },
+      { "name": "Ilmu Perilaku Hewan (Animal Behavior)", "reason": "Mempelajari cara memahami dan berkomunikasi dengan hewan." },
+      { "name": "Zoologi", "reason": "Memberikan dasar pengetahuan yang luas tentang dunia hewan." }
+    ],
+    "career_recommendations": [
+      { "name": "Perawat atau Teknisi Veteriner", "reason": "Memberikan perawatan langsung, membantu operasi, dan menenangkan pasien hewan di klinik." },
+      { "name": "Pekerja di Penampungan Hewan (Animal Shelter)", "reason": "Merawat hewan terlantar dan membantu mereka pulih serta menemukan rumah baru." },
+      { "name": "Pelatih Anjing atau Penata Rias Hewan (Groomer)", "reason": "Bekerja secara langsung dengan hewan untuk meningkatkan kesejahteraan dan hubungan mereka dengan manusia." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "RI",
+    "profile_title": "Sang Peneliti Lapangan",
+    "profile_tagline": "Seorang pengamat yang menggunakan kepekaan inderanya untuk memahami dunia alam.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan berada di dunia nyata (Realistic) dengan rasa ingin tahu untuk mengamati dan memahami (Investigative). Sebagai seorang ISFP, kamu adalah seorang ilmuwan lapangan yang sangat baik, menggunakan kepekaanmu terhadap detail sensorik untuk mengumpulkan data yang akurat.",
+    "what_this_means": "Kamu adalah seorang ahli biologi lapangan, arkeolog, atau ahli botani. Kamu tidak suka terjebak di laboratorium atau di depan komputer; kamu harus berada di luar, di lapangan, merasakan tanah di bawah kakimu. Kamu memiliki mata yang tajam untuk melihat perbedaan halus antar spesies atau perubahan kecil di lingkungan. Kamu belajar dengan melakukan dan melihat secara langsung.",
+    "strengths": ["Pengamat yang sangat teliti dan peka terhadap detail sensorik.", "Mampu bekerja secara mandiri di lingkungan luar ruangan untuk waktu yang lama.", "Sabar dan tekun dalam mengumpulkan data.", "Memiliki apresiasi yang mendalam terhadap dunia alam."],
+    "weaknesses": ["Mungkin kurang tertarik pada analisis data statistik atau penulisan laporan yang panjang.", "Cenderung menghindari presentasi atau berbicara di depan umum tentang temuannya.", "Bisa kesulitan dengan aspek politik atau penggalangan dana dari dunia akademis.", "Lebih suka proses pengumpulan data daripada interpretasi teoretis."],
+    "recommended_majors": [
+      { "name": "Biologi (Ekologi, Botani, Zoologi)", "reason": "Mempelajari dunia alam (Investigative) melalui observasi langsung di lapangan (Realistic)." },
+      { "name": "Arkeologi atau Antropologi Fisik", "reason": "Melakukan penggalian dan menganalisis artefak atau sisa-sisa fisik dari masa lalu." },
+      { "name": "Ilmu Lingkungan", "reason": "Mempelajari interaksi antara manusia dan lingkungan melalui pengamatan dan pengukuran di lapangan." }
+    ],
+    "career_recommendations": [
+      { "name": "Ahli Biologi Lapangan atau Teknisi Riset", "reason": "Menghabiskan sebagian besar waktumu di alam untuk mengumpulkan data untuk studi ilmiah." },
+      { "name": "Arkeolog", "reason": "Menggali dan menganalisis situs-situs bersejarah untuk memahami peradaban masa lalu." },
+      { "name": "Ahli Botani atau Ahli Konservasi", "reason": "Mempelajari dan bekerja untuk melindungi spesies tanaman dan ekosistem." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "RC",
+    "profile_title": "Sang Pengrajin Presisi",
+    "profile_tagline": "Seorang kreator yang menemukan keindahan dalam keterampilan, detail, dan tradisi.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan membutuhkan keterampilan tangan (Realistic) dengan penghargaan terhadap presisi, kualitas, dan proses yang terstruktur (Conventional). Sebagai seorang ISFP, kamu adalah seorang pengrajin yang sangat berdedikasi pada penguasaan teknik.",
+    "what_this_means": "Kamu adalah seorang ahli dalam kerajinanmu. Kamu mungkin seorang pembuat jam, penjilid buku, atau koki pastry. Kamu menemukan kepuasan yang mendalam dalam mengikuti resep atau teknik yang telah teruji waktu dengan sempurna. Bagimu, keindahan tidak hanya terletak pada hasil akhir, tetapi juga pada proses yang teliti dan keterampilan yang terasah.",
+    "strengths": ["Sangat teliti dan berorientasi pada detail.", "Memiliki keterampilan motorik halus yang luar biasa.", "Sangat sabar dan mampu mengerjakan tugas yang repetitif.", "Menghasilkan karya dengan kualitas dan konsistensi yang sangat tinggi."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan kurang suka improvisasi.", "Mungkin kurang cepat dalam beradaptasi dengan teknik atau teknologi baru.", "Cenderung perfeksionis dan bisa lambat dalam bekerja.", "Lebih suka bekerja sendiri dan mengikuti instruksi yang jelas."],
+    "recommended_majors": [
+      { "name": "Seni Kuliner (dengan spesialisasi Patisserie)", "reason": "Bidang yang menuntut presisi dan konsistensi (Conventional) dalam menciptakan produk yang nyata dan lezat (Realistic)." },
+      { "name": "Kriya atau Desain Produk", "reason": "Fokus pada penguasaan teknik dan keterampilan tangan untuk menghasilkan karya berkualitas tinggi." },
+      { "name": "Konservasi dan Restorasi", "reason": "Membutuhkan presisi dan kesabaran yang luar biasa untuk merawat benda-benda berharga." }
+    ],
+    "career_recommendations": [
+      { "name": "Koki Pastry (Pastry Chef)", "reason": "Menciptakan kue dan makanan penutup yang indah, yang membutuhkan presisi dalam pengukuran dan teknik." },
+      { "name": "Pembuat Instrumen Musik (Luthier) atau Pembuat Jam", "reason": "Kerajinan yang menuntut tingkat presisi dan kesabaran tertinggi." },
+      { "name": "Penjilid Buku (Bookbinder) atau Restorator", "reason": "Bekerja dengan tangan untuk menciptakan atau memperbaiki objek dengan standar kualitas yang sangat tinggi." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "SA",
+    "profile_title": "Sang Pekerja Sosial Kreatif",
+    "profile_tagline": "Seorang advokat yang menggunakan pendekatan langsung dan kreatif untuk membantu komunitas.",
+    "reason_why": "Dorongan utamamu adalah untuk membantu dan terhubung dengan orang lain (Social), dan kamu melakukannya dengan cara yang ekspresif, langsung, dan seringkali tidak konvensional (Artistic). Sebagai seorang ISFP, kamu membawa sentuhan personal dan kreativitas pada pekerjaan sosial.",
+    "what_this_means": "Kamu adalah seorang pekerja sosial atau aktivis komunitas yang berada di garis depan. Kamu adalah tipe orang yang akan memulai sebuah kebun komunitas, mengadakan lokakarya seni untuk anak-anak kurang mampu, atau menjadi sukarelawan di dapur umum. Kamu membantu dengan tindakan nyata dan dengan membangun hubungan yang tulus, satu per satu.",
+    "strengths": ["Sangat empatik dan mampu terhubung dengan orang dari berbagai latar belakang.", "Praktis dan berorientasi pada tindakan dalam membantu.", "Kreatif dalam menemukan solusi untuk masalah sosial di tingkat komunitas.", "Mampu menciptakan suasana yang hangat dan inklusif."],
+    "weaknesses": ["Bisa sangat terpengaruh secara emosional oleh penderitaan orang lain.", "Cenderung menghindari birokrasi dan pekerjaan administratif.", "Bisa kesulitan dengan perencanaan jangka panjang atau strategi berskala besar.", "Rentan terhadap kelelahan emosional (burnout) karena sangat terlibat."],
+    "recommended_majors": [
+      { "name": "Pekerjaan Sosial (Social Work)", "reason": "Memberikan kerangka kerja untuk hasratmu membantu orang lain (Social) dengan cara-cara yang kreatif dan langsung (Artistic)." },
+      { "name": "Studi Pembangunan Komunitas", "reason": "Fokus pada bagaimana cara memberdayakan komunitas dari bawah ke atas." },
+      { "name": "Pendidikan Non-Formal", "reason": "Mempelajari cara mengajar dan memfasilitasi di luar sistem sekolah yang kaku." }
+    ],
+    "career_recommendations": [
+      { "name": "Pekerja Sosial atau Petugas Lapangan LSM", "reason": "Bekerja secara langsung dengan individu, keluarga, atau komunitas untuk membantu mereka mengatasi tantangan." },
+      { "name": "Organizator Komunitas (Community Organizer)", "reason": "Memberdayakan warga lokal untuk memperjuangkan isu-isu yang penting bagi mereka." },
+      { "name": "Koordinator Program di Pusat Komunitas atau Organisasi Nirlaba", "reason": "Merancang dan menjalankan program-program kreatif untuk melayani komunitas." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "SR",
+    "profile_title": "Sang Terapis Anak",
+    "profile_tagline": "Seorang penyembuh yang membantu anak-anak melalui permainan dan interaksi langsung.",
+    "reason_why": "Kamu menggabungkan keinginan tulus untuk membantu dan merawat (Social) dengan pendekatan yang sangat praktis, langsung, dan berorientasi pada tindakan (Realistic). Sebagai seorang ISFP, kamu sangat peka terhadap dunia anak-anak dan mampu terhubung dengan mereka pada level mereka.",
+    "what_this_means": "Kamu sangat cocok untuk menjadi seorang terapis okupasi anak, terapis wicara, atau guru pendidikan khusus. Kamu memahami bahwa anak-anak belajar dan menyembuhkan melalui permainan dan aktivitas fisik. Kamu adalah tipe orang yang akan duduk di lantai untuk bermain balok dengan seorang anak, dengan sabar membimbing mereka melalui latihan motorik, atau menggunakan permainan untuk membantu mereka mengatasi kesulitan belajar.",
+    "strengths": ["Sangat sabar, lembut, dan suportif dengan anak-anak.", "Mampu menciptakan lingkungan belajar atau terapi yang menyenangkan dan aman.", "Praktis dan pandai menggunakan alat peraga atau permainan.", "Sangat peka terhadap kebutuhan non-verbal anak."],
+    "weaknesses": ["Pekerjaan bisa sangat menuntut secara fisik dan emosional.", "Bisa frustrasi dengan kurangnya kemajuan atau tantangan perilaku.", "Cenderung menghindari konflik dengan orang tua atau administrator.", "Sangat terpengaruh oleh suasana hati anak-anak di sekitarnya."],
+    "recommended_majors": [
+      { "name": "Terapi Okupasi atau Terapi Wicara", "reason": "Secara spesifik melatihmu untuk membantu anak-anak (Social) mengatasi tantangan perkembangan melalui aktivitas praktis (Realistic)." },
+      { "name": "Pendidikan Khusus", "reason": "Fokus pada metode pengajaran untuk anak-anak dengan berbagai kebutuhan belajar." },
+      { "name": "Psikologi Perkembangan Anak", "reason": "Memberikan pemahaman mendalam tentang bagaimana anak-anak tumbuh dan belajar." }
+    ],
+    "career_recommendations": [
+      { "name": "Terapis Okupasi Anak", "reason": "Membantu anak-anak mengembangkan keterampilan yang mereka butuhkan untuk bermain, belajar, dan hidup." },
+      { "name": "Terapis Wicara", "reason": "Membantu anak-anak mengatasi kesulitan dalam komunikasi dan bahasa." },
+      { "name": "Guru Pendidikan Khusus", "reason": "Bekerja secara intensif dengan siswa yang membutuhkan dukungan belajar tambahan." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "SC",
+    "profile_title": "Sang Asisten Medis",
+    "profile_tagline": "Seorang perawat yang memberikan dukungan yang tenang, teliti, dan penuh perhatian.",
+    "reason_why": "Kamu menggabungkan keinginan untuk membantu dan merawat orang lain (Social) dengan bakat untuk mengikuti prosedur, memperhatikan detail, dan bekerja dengan teliti (Conventional). Sebagai seorang ISFP, kamu adalah kehadiran yang menenangkan di lingkungan medis yang seringkali menegangkan.",
+    "what_this_means": "Kamu adalah seorang asisten medis, perawat, atau teknisi laboratorium yang sangat baik. Kamu mungkin tidak berada di garis depan dalam membuat diagnosis yang dramatis, tetapi kamu adalah orang yang akan dengan sabar mengambil sampel darah, memastikan dosis obat akurat, atau dengan teliti mencatat tanda-tanda vital pasien. Kamu memberikan perawatan yang andal dan penuh perhatian.",
+    "strengths": ["Sangat teliti dan berorientasi pada detail.", "Sabar, tenang, dan mampu menenangkan pasien yang cemas.", "Sangat dapat diandalkan untuk mengikuti prosedur medis dengan benar.", "Empati yang tulus dalam memberikan perawatan."],
+    "weaknesses": ["Tidak suka pada situasi darurat yang kacau dan penuh tekanan tinggi.", "Cenderung menghindari konfrontasi dengan pasien atau rekan kerja yang sulit.", "Mungkin kesulitan untuk menjadi tegas atau mengambil alih dalam situasi kritis.", "Sangat terpengaruh oleh penderitaan pasien."],
+    "recommended_majors": [
+      { "name": "Keperawatan atau Asisten Medis", "reason": "Secara langsung melatihmu dalam keterampilan praktis (Conventional) untuk merawat pasien (Social)." },
+      { "name": "Teknologi Laboratorium Medis", "reason": "Fokus pada pekerjaan detail di belakang layar yang sangat penting untuk diagnosis pasien." },
+      { "name": "Administrasi Kesehatan", "reason": "Mengelola data dan jadwal di lingkungan medis untuk mendukung pelayanan pasien." }
+    ],
+    "career_recommendations": [
+      { "name": "Perawat", "reason": "Memberikan perawatan langsung kepada pasien di berbagai lingkungan, dari rumah sakit hingga klinik." },
+      { "name": "Asisten Medis", "reason": "Mendukung dokter dengan melakukan tugas-tugas klinis dan administratif." },
+      { "name": "Flebotomis atau Teknisi Lab", "reason": "Spesialisasi dalam mengambil dan menganalisis sampel, sebuah peran yang membutuhkan ketelitian dan interaksi yang menenangkan dengan pasien." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "SE",
+    "profile_title": "Sang Pembangun Komunitas",
+    "profile_tagline": "Seorang penghubung yang menggunakan pesona dan kehangatannya untuk menyatukan orang.",
+    "reason_why": "Kamu menggabungkan keinginan tulus untuk terhubung dan membantu orang lain (Social) dengan bakat alami untuk memengaruhi, menghibur, dan mengorganisir (Enterprising). Sebagai seorang ISFP, kamu memimpin bukan dengan perintah, tetapi dengan pesona, kehangatan, dan dengan membuat semua orang merasa diterima.",
+    "what_this_means": "Kamu adalah jantung dari sebuah kelompok sosial atau komunitas. Kamu adalah tipe orang yang akan mengorganisir acara amal, menjadi manajer di sebuah kafe atau toko butik, atau bekerja di bidang perhotelan. Kamu unggul dalam menciptakan suasana yang ramah dan positif di mana orang merasa nyaman dan ingin kembali lagi. Kamu menjual pengalaman yang menyenangkan.",
+    "strengths": ["Sangat ramah, menawan, dan mudah bergaul.", "Mampu membuat orang lain merasa diterima dan dihargai.", "Pandai menciptakan suasana yang positif dan menyenangkan.", "Baik dalam menangani pelanggan dan menyelesaikan masalah interpersonal."],
+    "weaknesses": ["Cenderung sangat menghindari konflik.", "Bisa kesulitan dengan aspek bisnis yang 'keras' seperti keuangan atau strategi jangka panjang.", "Sangat terpengaruh oleh umpan balik negatif dari pelanggan atau anggota tim.", "Energinya bisa terkuras oleh interaksi sosial yang konstan."],
+    "recommended_majors": [
+      { "name": "Manajemen Perhotelan atau Pariwisata", "reason": "Fokus pada seni dan bisnis menciptakan pengalaman yang luar biasa bagi tamu." },
+      { "name": "Hubungan Masyarakat (Public Relations) atau Komunikasi", "reason": "Mengasah kemampuanmu untuk membangun dan menjaga hubungan baik dengan publik." },
+      { "name": "Manajemen Acara (Event Management)", "reason": "Menggunakan bakat organisasimu untuk menciptakan acara-acara yang menyatukan orang." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Restoran atau Hotel", "reason": "Bertanggung jawab untuk menciptakan pengalaman yang tak terlupakan bagi setiap tamu." },
+      { "name": "Spesialis Hubungan Masyarakat (PR)", "reason": "Menjadi wajah yang ramah dari sebuah perusahaan, membangun hubungan baik dengan media dan publik." },
+      { "name": "Perencana Acara (Event Planner)", "reason": "Mengorganisir acara sosial, perusahaan, atau pernikahan yang menyenangkan dan berkesan." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "SI",
+    "profile_title": "Sang Penjaga Sejarah Lisan",
+    "profile_tagline": "Seorang pendengar yang mendalam, yang melestarikan cerita dan pengalaman manusia.",
+    "reason_why": "Kamu menggabungkan keinginan untuk terhubung dan memahami orang lain (Social) dengan minat pada riset, observasi, dan pemahaman yang mendalam (Investigative). Sebagai seorang ISFP, kamu tidak tertarik pada data besar; kamu tertarik pada cerita-cerita kecil yang personal yang membentuk gambaran besar kemanusiaan.",
+    "what_this_means": "Kamu adalah seorang sejarawan lisan, antropolog, atau periset kualitatif. Kamu memiliki kesabaran dan empati untuk duduk bersama seseorang selama berjam-jam, mendengarkan kisah hidup mereka, dan merekamnya dengan penuh hormat. Kamu percaya bahwa setiap orang memiliki cerita yang layak untuk didengar dan dilestarikan. Kamu adalah seorang arsiparis jiwa.",
+    "strengths": ["Pendengar yang luar biasa dan sangat empatik.", "Mampu membangun kepercayaan dengan narasumber.", "Pengamat yang tajam terhadap detail dan nuansa dalam cerita.", "Sangat berdedikasi untuk melestarikan cerita manusia secara otentik."],
+    "weaknesses": ["Pekerjaan bisa sangat menguras emosi.", "Cenderung bekerja sendiri dan terisolasi.", "Mungkin kesulitan untuk menganalisis cerita-cerita tersebut secara objektif atau teoretis.", "Kurang tertarik pada penulisan akademis yang kaku."],
+    "recommended_majors": [
+      { "name": "Sejarah (dengan fokus pada sejarah lisan)", "reason": "Secara langsung melatihmu dalam metode wawancara dan pengarsipan cerita pribadi." },
+      { "name": "Antropologi atau Sosiologi", "reason": "Memberikan kerangka kerja untuk memahami cerita individu dalam konteks budaya dan sosial yang lebih luas." },
+      { "name": "Jurnalistik", "reason": "Mengasah keterampilan wawancara dan penceritaan." }
+    ],
+    "career_recommendations": [
+      { "name": "Sejarawan Lisan (Oral Historian)", "reason": "Bekerja untuk museum, arsip, atau proyek penelitian untuk merekam dan melestarikan sejarah melalui wawancara." },
+      { "name": "Periset Kualitatif", "reason": "Melakukan wawancara mendalam untuk perusahaan riset pasar atau tim UX untuk memahami pengalaman pelanggan." },
+      { "name": "Penulis Biografi atau Pembuat Podcast Sejarah", "reason": "Menemukan dan menceritakan kembali kisah-kisah menarik dari kehidupan orang lain." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "EI",
+    "profile_title": "Sang Wirausahawan Butik",
+    "profile_tagline": "Seorang kreator yang membangun bisnis yang merupakan cerminan dari selera dan nilai-nilai pribadinya.",
+    "reason_why": "Kamu menggabungkan dorongan untuk membangun dan memimpin usaha sendiri (Enterprising) dengan minat yang mendalam pada riset tentang apa yang indah dan berkualitas (Investigative). Sebagai seorang ISFP, bisnismu akan selalu bersifat sangat personal, sebuah kurasi dari hal-hal yang kamu yakini memiliki nilai.",
+    "what_this_means": "Kamu adalah tipe orang yang akan memulai sebuah merek independen, sebuah galeri kecil, atau sebuah blog yang berpengaruh. Kamu tidak mengikuti tren; kamu menciptakannya. Kamu memiliki mata yang tajam untuk kualitas dan keaslian, dan kamu membangun bisnis dengan berbagi seleramu dengan dunia. Kamu adalah seorang penentu selera (taste-maker).",
+    "strengths": ["Memiliki visi dan selera yang sangat kuat dan unik.", "Mampu menciptakan merek yang sangat otentik dan memiliki pengikut setia.", "Sangat bersemangat dan berdedikasi pada kualitas.", "Pandai menemukan hal-hal 'tersembunyi' yang akan menjadi tren berikutnya."],
+    "weaknesses": ["Bisa menjadi sangat 'niche' dan sulit untuk berkembang.", "Mungkin kurang terampil atau tertarik pada manajemen keuangan atau operasional.", "Sangat tidak suka pada kompromi atau tuntutan pasar yang tidak sesuai dengan visinya.", "Cenderung bekerja sendiri dan kesulitan membangun tim."],
+    "recommended_majors": [
+      { "name": "Kewirausahaan (Entrepreneurship)", "reason": "Memberikan dasar-dasar yang kamu butuhkan untuk mengubah visimu menjadi bisnis." },
+      { "name": "Manajemen Merek (Brand Management) atau Pemasaran", "reason": "Mempelajari cara membangun dan mengkomunikasikan cerita di balik merekmu." },
+      { "name": "Sejarah Seni atau Studi Mode", "reason": "Mempertajam pemahaman dan seleramu, yang merupakan aset utamamu." }
+    ],
+    "career_recommendations": [
+      { "name": "Pemilik Butik atau Galeri", "reason": "Mengkurasi dan menjual produk atau karya seni yang mencerminkan seleramu." },
+      { "name": "Blogger atau Influencer (di bidang fashion, desain, atau perjalanan)", "reason": "Membangun sebuah merek personal di sekitar seleramu dan memonetisasinya." },
+      { "name": "Pembeli (Buyer) untuk Toko Departemen atau Butik", "reason": "Bepergian ke seluruh dunia untuk menemukan dan memilih produk apa yang akan dijual di musim berikutnya." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "EA",
+    "profile_title": "Sang Manajer Artis",
+    "profile_tagline": "Seorang juara bagi para seniman, yang membantu mereka menavigasi sisi bisnis dari dunia kreatif.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin, bernegosiasi, dan mempromosikan (Enterprising) dengan kecintaan dan pemahaman yang mendalam tentang dunia seni dan para seniman (Artistic). Sebagai seorang ISFP, kamu adalah advokat yang sempurna bagi para kreator, karena kamu memahami nilai karya mereka dan perjuangan mereka.",
+    "what_this_means": "Kamu adalah seorang manajer band, agen sastra, atau pemilik galeri seni. Kamu adalah jembatan antara dunia kreatif yang idealis dan dunia bisnis yang keras. Kamu berjuang untuk memastikan bahwa seniman yang kamu wakili mendapatkan kesepakatan terbaik, eksposur yang tepat, dan kebebasan untuk tetap berkarya. Kamu adalah pelindung kreativitas.",
+    "strengths": ["Memiliki hasrat dan keyakinan yang tulus pada bakat yang diwakilinya.", "Pandai membangun hubungan dan jaringan di industri kreatif.", "Negosiator yang gigih saat memperjuangkan senimannya.", "Mampu menyeimbangkan antara menjadi teman dan menjadi manajer."],
+    "weaknesses": ["Bisa menjadi terlalu terikat secara emosional pada kliennya.", "Sangat terpukul jika kliennya gagal atau dikritik.", "Mungkin kesulitan untuk menjadi 'orang jahat' dalam sebuah negosiasi.", "Cenderung bekerja dengan sekelompok kecil klien yang sangat dipercayainya."],
+    "recommended_majors": [
+      { "name": "Manajemen Seni atau Manajemen Musik", "reason": "Secara spesifik mempelajari sisi bisnis (Enterprising) dari industri kreatif (Artistic)." },
+      { "name": "Hukum (dengan spesialisasi hukum hiburan)", "reason": "Memberimu alat untuk melindungi kepentingan klienmu dalam kontrak." },
+      { "name": "Komunikasi atau Hubungan Masyarakat", "reason": "Mengasah kemampuanmu untuk mempromosikan dan membangun citra klienmu." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Artis atau Band", "reason": "Mengelola semua aspek karier seorang musisi, dari pemesanan pertunjukan hingga negosiasi kontrak rekaman." },
+      { "name": "Agen Sastra atau Seni", "reason": "Mewakili penulis atau seniman, menjual karya mereka ke penerbit atau kolektor." },
+      { "name": "Pemilik Galeri Seni", "reason": "Menemukan, memamerkan, dan membangun karier seniman-seniman baru." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "ES",
+    "profile_title": "Sang Tuan Rumah",
+    "profile_tagline": "Seorang individu yang menciptakan suasana hangat dan ramah di mana pun dia berada.",
+    "reason_why": "Dorongan utamamu adalah untuk memimpin dan memengaruhi (Enterprising), tetapi kamu melakukannya dengan cara yang sangat personal, hangat, dan berorientasi pada pelayanan (Social). Sebagai seorang ISFP, kamu memimpin dengan membuat orang lain merasa nyaman dan dihargai.",
+    "what_this_means": "Kamu adalah seorang manajer perhotelan atau pemilik kafe yang luar biasa. Kamu memiliki bakat alami untuk menciptakan sebuah 'atmosfer'. Kamu memperhatikan detail-detail kecil—musik yang tepat, pencahayaan yang hangat, senyum yang tulus—yang membuat sebuah tempat terasa istimewa. Kamu tidak hanya menjual produk; kamu menjual perasaan diterima.",
+    "strengths": ["Sangat ramah, menawan, dan pandai membuat orang merasa nyaman.", "Memiliki kepekaan estetika yang tinggi untuk menciptakan suasana.", "Pemimpin yang suportif dan dihargai oleh timnya.", "Sangat baik dalam menangani pelanggan dan membuat mereka merasa istimewa."],
+    "weaknesses": ["Bisa kesulitan untuk memberikan umpan balik negatif atau mendisiplinkan staf.", "Sangat terpengaruh oleh atmosfer emosional di tempat kerja.", "Cenderung menghindari keputusan bisnis yang 'dingin' meskipun perlu.", "Pekerjaan bisa sangat menguras energi sosial."],
+    "recommended_majors": [
+      { "name": "Manajemen Perhotelan atau Pariwisata", "reason": "Secara langsung melatihmu dalam seni dan bisnis menciptakan pengalaman tamu yang luar biasa." },
+      { "name": "Desain Interior", "reason": "Memberimu keterampilan untuk menciptakan suasana fisik yang kamu bayangkan." },
+      { "name": "Kewirausahaan", "reason": "Memberikan dasar untuk memulai bisnis perhotelanmu sendiri." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Hotel Butik atau Restoran", "reason": "Bertanggung jawab untuk menciptakan dan menjaga pengalaman tamu yang unik dan personal." },
+      { "name": "Pemilik Penginapan (Innkeeper) atau Bed & Breakfast", "reason": "Menjadi tuan rumah dalam arti yang paling sejati, menyambut tamu ke dalam bisnismu yang juga merupakan rumahmu." },
+      { "name": "Manajer Hubungan Pelanggan (Customer Relations Manager)", "reason": "Spesialisasi dalam memastikan bahwa pelanggan merasa dihargai dan masalah mereka diselesaikan dengan baik." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "EC",
+    "profile_title": "Sang Manajer Toko Ritel",
+    "profile_tagline": "Seorang pemimpin yang memastikan sebuah toko berjalan lancar dan terlihat indah.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mencapai target penjualan (Enterprising) dengan bakat untuk keteraturan, detail, dan presentasi (Conventional). Sebagai seorang ISFP, kamu membawa kepekaan estetika dan sentuhan manusiawi pada dunia ritel yang seringkali kaku dan berbasis angka.",
+    "what_this_means": "Kamu adalah seorang manajer toko ritel, visual merchandiser, atau manajer departemen yang hebat. Kamu tidak hanya peduli pada angka penjualan; kamu sangat peduli pada bagaimana tampilan toko, bagaimana produk disajikan, dan bagaimana perasaan pelanggan saat mereka masuk. Kamu adalah seorang kurator pengalaman berbelanja.",
+    "strengths": ["Memiliki mata yang jeli untuk detail visual dan presentasi produk.", "Mampu menciptakan lingkungan belanja yang menarik dan teratur.", "Baik dalam melatih dan memotivasi staf penjualan.", "Seimbang antara kreativitas dan kebutuhan operasional."],
+    "weaknesses": ["Bisa frustrasi dengan target penjualan yang terlalu agresif atau tidak realistis.", "Mungkin kurang tertarik pada pekerjaan administratif di belakang kantor.", "Sangat tidak suka pada konflik, baik dengan staf maupun pelanggan.", "Cenderung mengambil kritik terhadap toko secara personal."],
+    "recommended_majors": [
+      { "name": "Manajemen Bisnis Ritel atau Pemasaran", "reason": "Mempelajari sisi bisnis dari menjalankan sebuah toko." },
+      { "name": "Visual Merchandising atau Desain Interior", "reason": "Fokus pada seni menata produk dan ruang untuk menarik pelanggan." },
+      { "name": "Manajemen Mode (Fashion Management)", "reason": "Spesialisasi dalam bisnis ritel untuk industri fashion." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Toko atau Departemen", "reason": "Bertanggung jawab atas semua aspek operasional sebuah toko, dari staf, inventaris, hingga penjualan." },
+      { "name": "Visual Merchandiser", "reason": "Orang yang merancang tata letak toko dan tampilan jendela untuk memaksimalkan daya tarik dan penjualan." },
+      { "name": "Pembeli (Buyer)", "reason": "Memilih produk apa yang akan dijual di toko untuk musim berikutnya, membutuhkan selera dan pemahaman bisnis." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "ER",
+    "profile_title": "Sang Koki Kepala",
+    "profile_tagline": "Seorang pemimpin di dapur yang mengubah bahan-bahan sederhana menjadi pengalaman kuliner.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin sebuah tim dan sebuah usaha (Enterprising) dengan kecintaan pada proses pembuatan yang praktis, sensorik, dan membutuhkan keterampilan tangan (Realistic). Sebagai seorang ISFP, kamu adalah seorang seniman yang mediumnya adalah makanan, dan dapur adalah studionya.",
+    "what_this_means": "Kamu adalah seorang koki kepala (head chef) atau pemilik restoran. Kamu tidak hanya memasak; kamu menciptakan menu, melatih staf dapur, dan memastikan setiap piring yang keluar dari dapurmu tidak hanya lezat, tetapi juga indah dan konsisten. Kamu memimpin di lingkungan yang penuh tekanan dan berorientasi pada aksi.",
+    "strengths": ["Memiliki kepekaan rasa dan estetika yang tinggi.", "Pemimpin yang memimpin dengan memberi contoh di dapur.", "Mampu bekerja dengan baik di bawah tekanan.", "Sangat bersemangat tentang kualitas bahan dan hasil akhir."],
+    "weaknesses": ["Lingkungan dapur bisa sangat keras dan menuntut secara fisik.", "Bisa menjadi sangat sensitif terhadap kritik terhadap makanannya.", "Mungkin kurang terampil atau tertarik pada sisi manajemen keuangan dari restoran.", "Cenderung perfeksionis dan sulit mendelegasikan hidangan-hidangan penting."],
+    "recommended_majors": [
+      { "name": "Seni Kuliner (Culinary Arts)", "reason": "Secara langsung melatihmu dalam keterampilan teknis (Realistic) dan kreativitas yang dibutuhkan di dapur." },
+      { "name": "Manajemen Perhotelan dan Restoran", "reason": "Mempelajari sisi bisnis (Enterprising) dari menjalankan sebuah restoran." },
+      { "name": "Kewirausahaan", "reason": "Memberikan dasar untuk memulai bisnis kulinermu sendiri." }
+    ],
+    "career_recommendations": [
+      { "name": "Koki Kepala (Head Chef)", "reason": "Memimpin seluruh operasi dapur di sebuah restoran." },
+      { "name": "Restaurateur (Pemilik Restoran)", "reason": "Tidak hanya mengelola dapur, tetapi seluruh aspek dari bisnis restoran." },
+      { "name": "Desainer Menu atau Konsultan Kuliner", "reason": "Menggunakan kreativitas dan pengetahuanmu tentang makanan untuk membantu restoran lain." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "CI",
+    "profile_title": "Sang Peneliti Visual",
+    "profile_tagline": "Seorang pengamat yang teliti, yang menemukan dan mengorganisir informasi visual.",
+    "reason_why": "Kamu menggabungkan minat pada riset dan pemahaman (Investigative) dengan bakat untuk keteraturan, detail, dan akurasi (Conventional). Sebagai seorang ISFP, kamu memiliki mata yang sangat tajam untuk detail visual, membuatmu sangat baik dalam pekerjaan yang membutuhkan identifikasi dan klasifikasi gambar.",
+    "what_this_means": "Kamu adalah seorang peneliti foto, manajer arsip digital, atau mungkin seorang analis sidik jari. Kamu menikmati proses 'berburu' gambar atau data visual yang tepat dan kemudian mengaturnya ke dalam sistem yang logis. Kamu memiliki kesabaran untuk melihat ribuan gambar untuk menemukan satu yang sempurna, atau untuk melihat perbedaan halus yang dilewatkan orang lain.",
+    "strengths": ["Memiliki mata yang sangat jeli untuk detail visual.", "Sangat teliti, sabar, dan metodis.", "Sangat baik dalam mengkategorikan dan mengorganisir informasi visual.", "Mampu bekerja sendiri untuk waktu yang lama dengan fokus yang tinggi."],
+    "weaknesses": ["Pekerjaan bisa sangat repetitif dan soliter.", "Mungkin kurang tertarik pada analisis teoretis atau penulisan laporan yang panjang.", "Cenderung menghindari presentasi atau peran yang membutuhkan banyak komunikasi verbal.", "Bisa menjadi perfeksionis dalam pengorganisasiannya."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan dan Informasi (dengan spesialisasi arsip digital)", "reason": "Mempelajari cara mengelola dan mengkategorikan aset digital." },
+      { "name": "Sejarah Seni", "reason": "Melatih matamu untuk menganalisis dan mengidentifikasi gambar secara detail." },
+      { "name": "Fotografi atau Studi Film", "reason": "Memberikan pemahaman yang mendalam tentang media visual." }
+    ],
+    "career_recommendations": [
+      { "name": "Peneliti Foto (Photo Researcher)", "reason": "Bekerja untuk majalah, penerbit, atau rumah produksi untuk menemukan gambar yang tepat untuk sebuah cerita." },
+      { "name": "Manajer Aset Digital (Digital Asset Manager)", "reason": "Mengorganisir dan mengelola perpustakaan gambar dan video yang sangat besar untuk sebuah perusahaan." },
+      { "name": "Analis Forensik (di bidang visual seperti sidik jari atau analisis video)", "reason": "Menggunakan matamu yang tajam untuk menemukan bukti dalam investigasi kriminal." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "CE",
+    "profile_title": "Sang Koordinator Kreatif",
+    "profile_tagline": "Seorang organisator yang memastikan proyek-proyek kreatif berjalan sesuai rencana dan anggaran.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mengelola sebuah proyek (Enterprising) dengan bakat untuk perencanaan yang detail, jadwal, dan keteraturan (Conventional). Sebagai seorang ISFP, kamu membawa sentuhan kepekaan dan pemahaman tentang proses kreatif pada peran manajerial ini.",
+    "what_this_means": "Kamu adalah seorang manajer proyek di agensi kreatif, koordinator galeri, atau manajer studio. Kamu adalah jembatan antara para seniman yang 'kacau' dan klien atau manajemen yang menuntut. Kamu menikmati proses mengambil sebuah visi kreatif dan menerjemahkannya ke dalam daftar tugas, jadwal, dan anggaran yang bisa dijalankan. Kamu menciptakan keteraturan agar kreativitas bisa berkembang.",
+    "strengths": ["Sangat terorganisir dan berorientasi pada detail.", "Mampu memahami dan berempati dengan kebutuhan tim kreatif.", "Baik dalam menyeimbangkan antara visi kreatif dan batasan praktis.", "Komunikator yang baik dan mampu menjadi penengah."],
+    "weaknesses": ["Bisa kesulitan untuk menjadi sangat tegas dengan tim kreatif atau klien.", "Cenderung menghindari konflik.", "Stres karena harus terus-menerus menyeimbangkan antara dua dunia yang berbeda.", "Bisa merasa kreativitas pribadinya terkorbankan demi mengelola kreativitas orang lain."],
+    "recommended_majors": [
+      { "name": "Manajemen Proyek", "reason": "Memberikan metodologi yang terstruktur untuk mengelola proyek apa pun, termasuk proyek kreatif." },
+      { "name": "Manajemen Seni atau Industri Kreatif", "reason": "Fokus pada tantangan manajerial yang unik di dunia seni." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan dasar yang kuat dalam penganggaran, penjadwalan, dan manajemen operasional." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Proyek di Agensi Kreatif", "reason": "Memastikan proyek desain, video, atau kampanye selesai tepat waktu dan sesuai anggaran." },
+      { "name": "Manajer Galeri atau Studio", "reason": "Mengelola semua aspek operasional dari sebuah ruang kreatif, dari jadwal pameran hingga penjualan." },
+      { "name": "Koordinator Produksi", "reason": "Mengelola logistik dan jadwal untuk produksi film, teater, atau acara." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "CR",
+    "profile_title": "Sang Penata Rias Artis (Make-up Artist)",
+    "profile_tagline": "Seorang seniman yang menggunakan wajah sebagai kanvas untuk menciptakan karakter dan keindahan.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan membutuhkan keterampilan tangan yang presisi (Realistic) dengan komitmen pada prosedur, kebersihan, dan detail (Conventional). Sebagai seorang ISFP, kamu melihat penataan rias bukan hanya sebagai kosmetik, tetapi sebagai sebuah kerajinan yang membutuhkan teknik, kesabaran, dan kepekaan.",
+    "what_this_means": "Kamu adalah seorang penata rias profesional atau ahli kecantikan. Kamu menikmati proses yang metodis dalam mempersiapkan kulit, mengaplikasikan setiap produk dengan alat yang tepat, dan menciptakan hasil akhir yang sempurna. Kamu adalah seorang perfeksionis yang menemukan kepuasan dalam transformasi yang detail dan terukur.",
+    "strengths": ["Sangat teliti dan memiliki tangan yang stabil.", "Memiliki mata yang jeli untuk warna, bentuk, dan detail.", "Sangat sabar dan mampu bekerja dengan klien untuk waktu yang lama.", "Menjaga standar kebersihan dan profesionalisme yang tinggi."],
+    "weaknesses": ["Pekerjaan bisa menuntut fisik (berdiri lama).", "Bisa menjadi sangat perfeksionis.", "Industri kecantikan bisa sangat kompetitif.", "Mungkin kurang tertarik pada aspek pemasaran atau membangun klien sendiri."],
+    "recommended_majors": [
+      { "name": "Tata Rias atau Kosmetologi", "reason": "Sekolah kejuruan yang secara langsung melatihmu dalam semua teknik tata rias dan perawatan kulit." },
+      { "name": "Seni Rupa", "reason": "Memberikan dasar yang kuat dalam teori warna dan komposisi, yang sangat relevan." },
+      { "name": "Teater (dengan fokus pada tata rias panggung)", "reason": "Spesialisasi dalam menciptakan riasan karakter yang dramatis." }
+    ],
+    "career_recommendations": [
+      { "name": "Penata Rias (untuk fashion, film, atau pengantin)", "reason": "Bekerja di berbagai proyek untuk menciptakan tampilan yang sesuai dengan visi sutradara atau keinginan klien." },
+      { "name": "Ahli Kecantikan (Esthetician)", "reason": "Fokus pada perawatan kulit, memberikan facial dan perawatan lain yang membutuhkan pengetahuan dan presisi." },
+      { "name": "Seniman Efek Khusus (Special Effects Makeup Artist)", "reason": "Menciptakan luka, monster, atau efek penuaan untuk film, sebuah pekerjaan yang sangat teknis." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "CA",
+    "profile_title": "Sang Desainer Grafis",
+    "profile_tagline": "Seorang seniman visual yang menciptakan komunikasi yang indah dan teratur.",
+    "reason_why": "Kamu menggabungkan hasrat untuk berekspresi secara visual (Artistic) dengan penghargaan terhadap aturan desain, presisi, dan detail (Conventional). Sebagai seorang ISFP, kamu adalah seorang desainer grafis yang sangat terampil, mampu menciptakan layout yang seimbang, memilih tipografi yang tepat, dan menghasilkan karya yang bersih dan profesional.",
+    "what_this_means": "Kamu menikmati proses desain dari awal hingga akhir. Kamu suka bermain dengan warna, bentuk, dan teks di dalam sebuah kerangka kerja yang terstruktur. Kamu adalah tipe orang yang akan dengan senang hati menghabiskan waktu berjam-jam untuk menyempurnakan jarak antar huruf (kerning) atau memastikan semua elemen dalam sebuah poster sejajar dengan sempurna. Kamu menemukan keindahan dalam keteraturan visual.",
+    "strengths": ["Memiliki kepekaan estetika dan mata yang jeli untuk detail.", "Sangat terampil dalam menggunakan perangkat lunak desain.", "Mampu mengikuti panduan merek (brand guidelines) dengan baik.", "Menghasilkan karya yang sangat rapi, profesional, dan terpoles."],
+    "weaknesses": ["Bisa menjadi sangat perfeksionis dan lambat.", "Mungkin kurang suka pada fase brainstorming yang terlalu 'liar' atau konseptual.", "Sensitif terhadap kritik, terutama yang bersifat subjektif.", "Cenderung lebih suka mengeksekusi daripada memimpin proyek desain."],
+    "recommended_majors": [
+      { "name": "Desain Komunikasi Visual (DKV)", "reason": "Jurusan yang secara sempurna menggabungkan pelatihan kreativitas (Artistic) dengan prinsip-prinsip desain yang terstruktur (Conventional)." },
+      { "name": "Seni Grafis atau Ilustrasi", "reason": "Fokus pada pengembangan keterampilan teknis dalam menciptakan gambar." },
+      { "name": "Penerbitan (Publishing)", "reason": "Mempelajari bagaimana desain diterapkan dalam konteks buku dan majalah." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Grafis", "reason": "Bekerja di agensi, perusahaan, atau sebagai pekerja lepas untuk menciptakan berbagai materi komunikasi visual." },
+      { "name": "Desainer Layout atau Produksi", "reason": "Spesialisasi dalam menata halaman untuk majalah, buku, atau laporan tahunan." },
+      { "name": "Ilustrator", "reason": "Menciptakan gambar untuk berbagai media, dari buku anak-anak hingga situs web." }
+    ]
+  },
+  {
+    "mbti_type": "ISFP",
+    "riasec_code": "CS",
+    "profile_title": "Sang Asisten Perpustakaan",
+    "profile_tagline": "Seorang individu yang menemukan ketenangan dalam membantu orang lain di lingkungan yang teratur.",
+    "reason_why": "Kamu menggabungkan keinginan untuk membantu dan melayani orang lain (Social) dengan kecintaan pada lingkungan yang tenang, teratur, dan berbasis aturan (Conventional). Sebagai seorang ISFP, kamu adalah wajah yang ramah dan menenangkan di balik meja sirkulasi, membantu orang tanpa menghakimi.",
+    "what_this_means": "Kamu sangat cocok untuk peran pendukung di lingkungan seperti perpustakaan, sekolah, atau kantor medis. Kamu menikmati proses yang jelas dan rutinitas yang dapat diprediksi. Kamu adalah tipe orang yang akan dengan sabar membantu seorang anak menemukan buku pertamanya, dengan teliti mengelola data peminjaman, atau dengan tenang mempersiapkan ruang kelas untuk guru. Kamu menemukan kepuasan dalam pelayanan yang tenang dan andal.",
+    "strengths": ["Sangat sabar, ramah, dan membantu.", "Dapat diandalkan untuk mengikuti prosedur dengan benar.", "Teliti dan berorientasi pada detail.", "Mampu menciptakan suasana yang tenang dan teratur."],
+    "weaknesses": ["Tidak suka pada perubahan mendadak atau kekacauan.", "Cenderung menghindari konflik atau situasi yang penuh tekanan.", "Mungkin kurang proaktif dalam mengambil inisiatif di luar tugasnya.", "Bisa merasa kurang tertantang dalam peran yang terlalu rutin."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan atau Kearsipan", "reason": "Mempelajari sistem (Conventional) untuk mengelola informasi guna melayani publik (Social)." },
+      { "name": "Administrasi Perkantoran", "reason": "Memberikan keterampilan praktis untuk peran pendukung di berbagai lingkungan." },
+      { "name": "Pendidikan (sebagai asisten guru)", "reason": "Fokus pada membantu guru dan siswa di lingkungan sekolah yang terstruktur." }
+    ],
+    "career_recommendations": [
+      { "name": "Staf atau Asisten Perpustakaan", "reason": "Bekerja di meja sirkulasi, membantu pengunjung, dan mengelola koleksi." },
+      { "name": "Asisten Guru atau Staf Tata Usaha Sekolah", "reason": "Memberikan dukungan administratif dan praktis di lingkungan sekolah." },
+      { "name": "Resepsionis atau Asisten Administratif (di kantor yang tenang seperti klinik atau firma hukum)", "reason": "Menjadi titik kontak pertama yang ramah dan membantu sambil mengelola tugas-tugas yang teratur." }
+    ]
+  }
+]
