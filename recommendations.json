@@ -6,97 +6,99 @@
     "profile_tagline": "Seorang pemikir mendalam yang bisa nyambungin ide-ide abstrak ke dunia nyata.",
     "reason_why": "Hasil ini nunjukkin kalau kamu punya kombinasi keren dari Introverted Thinking (Ti) dan Extraverted Intuition (Ne) dari MBTI-mu. Makanya kamu suka banget sama sistem yang logis dan mikirin segala kemungkinan. Terus, ini nyambung banget sama minat Investigatif (I) yang bikin kamu super kepo, dan minat Realistis (R) yang bikin kamu pengen ide-idemu itu ada wujudnya.",
     "what_this_means": "Artinya, kamu itu tipe pemecah masalah alami yang nggak cuma puas tahu teori doang, tapi juga ngerasa harus banget ngebangun, ngetes, atau ngewujudin idemu di dunia nyata. Kamu bakal bersinar di lingkungan yang ngasih kamu kebebasan buat mikir, ngulik tantangan rumit, terus ngejadiin temuanmu sebagai sesuatu yang konkret.",
-    "strengths": [
-      "Pemikiran analitis dan sistematis yang tajam banget.",
-      "Jago ngehubungin konsep abstrak ke implementasi praktis.",
-      "Mandiri dan bisa diandalkan buat riset dan eksekusi.",
-      "Punya standar tinggi buat akurasi dan konsistensi logika."
-    ],
-    "weaknesses": [
-      "Kadang terlalu asyik sama teori sampe lupa take action ('analysis paralysis').",
-      "Bisa jadi super skeptis sama aturan yang udah ada kalau nggak ada bukti logisnya.",
-      "Seringnya lebih suka kerja sendiri, jadi kadang ketinggalan insight dari tim.",
-      "Agak susah ngejelasin ide-ide rumit ke orang yang nggak sepemikiran."
-    ],
+    "strengths": ["Pemikiran analitis yang tajam.", "Jago ngehubungin konsep abstrak ke implementasi praktis.", "Mandiri dalam riset dan eksekusi.", "Punya standar tinggi buat akurasi."],
+    "weaknesses": ["Kadang terlalu asyik sama teori sampe lupa take action.", "Bisa jadi super skeptis sama aturan kalau nggak logis.", "Seringnya lebih suka kerja sendiri.", "Agak susah ngejelasin ide rumit ke orang awam."],
     "recommended_majors": [
-      {
-        "name": "Ilmu Komputer (Spesialisasi AI & Robotika)",
-        "reason": "Ini pas banget! Kamu bisa muasin jiwa Investigatif-mu buat ngulik algoritma (AI) sekaligus dorongan Realistis-mu buat ngebangun sistem nyata (Robotika)."
-      },
-      {
-        "name": "Teknik Elektro",
-        "reason": "Bikin kamu bisa nerapin prinsip fisika (Investigatif) buat ngerancang sirkuit dan perangkat keren di dunia nyata (Realistis)."
-      },
-      {
-        "name": "Fisika Murni atau Terapan",
-        "reason": "Ini 'kamu banget' yang pengen ngerti hukum dasar alam semesta (Investigatif) dan nerapin itu buat mecahin masalah (Realistis)."
-      }
+      { "name": "Ilmu Komputer (Spesialisasi AI & Robotika)", "reason": "Pas banget! Kamu bisa muasin jiwa Investigatif-mu buat ngulik algoritma (AI) sekaligus dorongan Realistis-mu buat ngebangun sistem nyata (Robotika)." },
+      { "name": "Teknik Elektro", "reason": "Bikin kamu bisa nerapin prinsip fisika (Investigatif) buat ngerancang sirkuit dan perangkat keren di dunia nyata (Realistis)." },
+      { "name": "Fisika Murni atau Terapan", "reason": "Ini 'kamu banget' yang pengen ngerti hukum dasar alam semesta (Investigatif) dan nerapin itu buat mecahin masalah (Realistis)." }
     ],
     "career_recommendations": [
-      {
-        "name": "Insinyur AI/Robotika",
-        "reason": "Ini kerjaan impian buat profilmu, ngegabungin riset teori yang dalem sama pengembangan sistem cerdas yang nyata."
-      },
-      {
-        "name": "Data Scientist",
-        "reason": "Kamu bisa pakai jiwa Investigatif-mu buat nemuin pola di data dan logika INTP-mu buat bikin model prediksi yang akurat."
-      },
-      {
-        "name": "Arsitek Perangkat Lunak (Software Architect)",
-        "reason": "Di sini kamu bisa ngerancang sistem software yang logis dan kompleks (INTP) berdasarkan riset teknis yang mendalam (Investigatif)."
-      }
+      { "name": "Insinyur AI/Robotika", "reason": "Aplikasi langsung dari profilmu, ngegabungin riset teori yang dalem sama pengembangan sistem cerdas yang nyata." },
+      { "name": "Data Scientist", "reason": "Kamu bisa pakai jiwa Investigatif-mu buat nemuin pola di data dan logika INTP-mu buat bikin model prediksi yang akurat." },
+      { "name": "Arsitek Perangkat Lunak (Software Architect)", "reason": "Di sini kamu bisa ngerancang sistem software yang logis dan kompleks (INTP) berdasarkan riset teknis yang mendalam (Investigatif)." }
     ]
   },
   {
-    "mbti_type": "ESFJ",
-    "riasec_code": "SE",
-    "profile_title": "Sang Pengasuh Sosial",
-    "profile_tagline": "Seorang pilar komunitas yang hangat, yang jago menyatukan orang dan menciptakan harmoni.",
-    "reason_why": "Hasil ini nunjukkin kalau kamu punya Extraverted Feeling (Fe) yang kuat banget, bikin kamu super peka sama kebutuhan orang lain dan jago ngebangun hubungan. Dikombinasiin sama minat Sosial (S) yang tinggi, kamu itu emang dilahirin buat berinteraksi dan ngebantu orang, plus minat Usaha (E) nunjukkin kamu juga suka ngambil inisiatif dan nge-lead!",
-    "what_this_means": "Artinya, kamu itu tipe orang yang paling 'hidup' pas lagi bareng orang lain. Kamu dapet energi dari ngebantu, ngatur acara, dan mastiin semua orang di sekitar kamu ngerasa nyaman dan dihargai. Kamu itu lem perekat di kelompokmu, jago banget bikin suasana jadi positif dan produktif.",
-    "strengths": [
-      "Super empatik dan peduli sama perasaan orang lain.",
-      "Jago banget ngorganisir acara atau tim.",
-      "Komunikator yang hangat dan persuasif.",
-      "Sangat bertanggung jawab dan bisa diandalkan."
-    ],
-    "weaknesses": [
-      "Kadang terlalu mikirin kebutuhan orang lain sampe lupa sama diri sendiri.",
-      "Bisa jadi kurang suka sama kritik, apalagi yang sifatnya personal.",
-      "Cenderung ngehindarin konflik demi menjaga harmoni.",
-      "Kurang suka sama pekerjaan yang terlalu teoretis atau sendirian."
-    ],
+    "mbti_type": "INTP",
+    "riasec_code": "IA",
+    "profile_title": "Sang Konseptualis Kreatif",
+    "profile_tagline": "Seorang arsitek ide yang menggabungkan logika mendalam dengan ekspresi yang inovatif.",
+    "reason_why": "Profil ini menggabungkan kecintaanmu pada sistem logis (INTP) dengan minat yang kuat pada kegiatan Investigatif (I) dan Artistik (A). Kamu tidak hanya ingin memahami sebuah sistem, tetapi juga ingin merancangnya kembali dengan cara yang baru, unik, dan mungkin lebih efisien atau estetis.",
+    "what_this_means": "Kamu adalah tipe pemikir yang melihat dunia sebagai sebuah sistem besar yang bisa dianalisis dan diperbaiki. Kamu unggul dalam menemukan solusi 'out-of-the-box' untuk masalah yang rumit. Kamu butuh ruang untuk bereksperimen dengan ide-ide liar dan menerjemahkannya ke dalam bentuk konsep, desain, atau teori baru.",
+    "strengths": ["Kombinasi langka antara logika dan kreativitas.", "Kemampuan menghasilkan ide-ide orisinal.", "Sangat baik dalam pemecahan masalah konseptual.", "Mampu melihat pola yang tidak dilihat orang lain."],
+    "weaknesses": ["Ide-idemu mungkin terlalu abstrak atau sulit diimplementasikan.", "Cenderung tidak menyukai tugas-tugas yang repetitif atau administratif.", "Bisa frustrasi jika kreativitasmu dibatasi oleh aturan.", "Kadang sulit fokus pada satu proyek sampai selesai."],
     "recommended_majors": [
-      {
-        "name": "Ilmu Komunikasi",
-        "reason": "Ini pas banget buat kamu yang jago ngomong, ngebangun relasi, dan ngertiin audiens. Cocok buat public relations atau event management."
-      },
-      {
-        "name": "Manajemen SDM (Human Resources)",
-        "reason": "Kamu bisa gunain empati dan skill organisasimu buat ngurusin kesejahteraan karyawan dan ngebangun budaya perusahaan yang positif."
-      },
-      {
-        "name": "Pendidikan Guru Sekolah Dasar (PGSD)",
-        "reason": "Cocok banget sama sifatmu yang suka ngebantu dan ngasuh. Kamu bisa jadi guru yang inspiratif buat anak-anak."
-      }
+      { "name": "Arsitektur", "reason": "Menggabungkan pemahaman teknis dan fisika (Investigatif) dengan desain yang estetis dan fungsional (Artistik)." },
+      { "name": "Desain Produk Industri", "reason": "Memungkinkanmu merancang produk baru dari tahap riset (Investigatif) hingga menjadi prototipe yang inovatif (Artistik)." },
+      { "name": "Ilmu Komputer (Spesialisasi Desain UI/UX)", "reason": "Sangat cocok untuk merancang pengalaman pengguna yang logis dan intuitif (Investigatif) sekaligus indah secara visual (Artistik)." }
     ],
     "career_recommendations": [
-      {
-        "name": "Manajer HRD",
-        "reason": "Kombinasi skill sosial dan organisasimu bakal kepake banget di sini buat ngelola talenta dan ngebangun tim yang solid."
-      },
-      {
-        "name": "Event Organizer",
-        "reason": "Kamu bisa nyalurin energimu buat ngatur acara-acara keren dan mastiin semua orang seneng. Perfect match!"
-      },
-      {
-        "name": "Konselor Sekolah",
-        "reason": "Sifat empatik dan pedulimu bikin kamu jadi tempat curhat yang aman dan bisa ngebantu siswa nemuin jalan mereka."
-      }
+      { "name": "UI/UX Architect", "reason": "Kamu bisa merancang alur dan tampilan aplikasi yang tidak hanya fungsional tapi juga menyenangkan untuk digunakan." },
+      { "name": "Game Designer", "reason": "Menciptakan dunia, aturan, dan mekanisme permainan yang logis (Investigatif) sambil membangun pengalaman yang menarik (Artistik)." },
+      { "name": "Ahli Teori (Ilmuwan Riset)", "reason": "Mengembangkan teori-teori baru yang inovatif berdasarkan analisis data dan pemikiran konseptual yang mendalam." }
     ]
-  }
-]
-,
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "IS",
+    "profile_title": "Sang Peneliti Humanis",
+    "profile_tagline": "Seorang analis sistem sosial yang menggunakan logika untuk memahami dan membantu orang lain.",
+    "reason_why": "Kombinasi ini cukup unik. Kamu memiliki otak seorang analis sistem (INTP) dan minat yang mendalam pada riset (Investigatif), namun fokusmu tertuju pada manusia dan dinamika sosial (Sosial). Kamu ingin tahu 'mengapa' orang berperilaku seperti itu dan bagaimana sistem sosial bisa diperbaiki.",
+    "what_this_means": "Kamu adalah seorang pengamat yang tajam terhadap interaksi manusia. Kamu cenderung menganalisis hubungan, budaya, dan struktur sosial dengan pendekatan yang logis dan objektif. Kamu termotivasi untuk menggunakan pemahamanmu untuk memberikan solusi yang bisa meningkatkan kesejahteraan orang lain, meskipun kamu mungkin lebih nyaman bekerja di belakang layar.",
+    "strengths": ["Kemampuan menganalisis masalah sosial secara objektif.", "Empati yang didasari oleh pemahaman, bukan hanya perasaan.", "Mampu menemukan solusi sistemik untuk masalah manusia.", "Baik dalam memberikan nasihat yang logis dan tidak bias."],
+    "weaknesses": ["Mungkin terasa canggung dalam interaksi sosial yang sangat emosional.", "Bisa jadi terlalu teoretis dalam memberikan solusi.", "Cenderung mengabaikan 'politik kantor' atau dinamika sosial yang tidak logis.", "Membutuhkan waktu sendiri setelah banyak berinteraksi."],
+    "recommended_majors": [
+      { "name": "Sosiologi atau Antropologi", "reason": "Memungkinkanmu melakukan riset mendalam (Investigatif) tentang struktur dan perilaku masyarakat (Sosial)." },
+      { "name": "Psikologi (Jalur Riset atau Kognitif)", "reason": "Sangat cocok untuk memahami cara kerja pikiran manusia (Investigatif) dan dampaknya pada perilaku (Sosial)." },
+      { "name": "Ilmu Politik atau Kebijakan Publik", "reason": "Menganalisis sistem pemerintahan (Investigatif) dan merancang kebijakan yang bermanfaat bagi masyarakat (Sosial)." }
+    ],
+    "career_recommendations": [
+      { "name": "Analis Kebijakan Publik", "reason": "Menganalisis data untuk memberikan rekomendasi kebijakan yang efektif dan logis untuk masalah sosial." },
+      { "name": "Periset Sosial atau Pasar (Market Researcher)", "reason": "Menggunakan metode ilmiah untuk memahami tren perilaku konsumen atau masyarakat." },
+      { "name": "Psikolog Kognitif", "reason": "Mempelajari proses mental seperti memori, perhatian, dan pemecahan masalah dari sudut pandang ilmiah." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "IE",
+    "profile_title": "Sang Inovator Strategis",
+    "profile_tagline": "Seorang pemikir sistem yang mampu mengubah analisis mendalam menjadi usaha yang berpengaruh.",
+    "reason_why": "Ini adalah kombinasi seorang arsitek sistem (INTP) dengan jiwa peneliti (Investigatif) dan dorongan untuk memimpin atau menciptakan sesuatu yang berdampak (Enterprising). Kamu tidak hanya ingin menemukan sesuatu yang baru, tetapi juga ingin membangun dan memimpin implementasinya.",
+    "what_this_means": "Kamu memiliki visi untuk melihat bagaimana sebuah sistem bisa bekerja lebih baik, dan kamu punya ambisi untuk mewujudkannya. Kamu adalah tipe orang yang bisa menemukan celah di pasar atau inefisiensi dalam sebuah organisasi, lalu merancang solusi inovatif untuk mengatasinya. Kamu nyaman mengambil risiko yang sudah diperhitungkan.",
+    "strengths": ["Kemampuan melihat 'gambaran besar' dan detail teknis.", "Sangat baik dalam merancang strategi berbasis data.", "Mampu menerjemahkan ide kompleks menjadi rencana bisnis.", "Mandiri dan berani mengambil inisiatif."],
+    "weaknesses": ["Mungkin kurang sabar dengan orang yang tidak secepat dirimu dalam berpikir.", "Cenderung fokus pada visi besar dan mengabaikan detail administratif.", "Bisa terlihat terlalu kritis atau argumentatif.", "Kurang suka mengikuti perintah atau birokrasi."],
+    "recommended_majors": [
+      { "name": "Technopreneurship atau Kewirausahaan", "reason": "Langsung mengasah kemampuanmu untuk membangun bisnis (Enterprising) dari ide-ide inovatif berbasis teknologi (Investigatif)." },
+      { "name": "Sistem Informasi atau Manajemen Informatika", "reason": "Mempelajari cara merancang sistem teknologi (Investigatif) untuk memecahkan masalah bisnis dan meningkatkan efisiensi (Enterprising)." },
+      { "name": "Ekonomi atau Ilmu Keuangan (Finance)", "reason": "Menganalisis sistem pasar yang kompleks (Investigatif) dan membuat keputusan strategis untuk investasi atau pengembangan bisnis (Enterprising)." }
+    ],
+    "career_recommendations": [
+      { "name": "Pendiri Startup Teknologi (Tech Founder)", "reason": "Posisi ideal untuk membangun perusahaan dari nol berdasarkan ide inovatifmu." },
+      { "name": "Konsultan Manajemen atau Strategi", "reason": "Membantu perusahaan lain memecahkan masalah kompleks dengan analisis mendalam dan rekomendasi strategis." },
+      { "name": "Product Manager (Bidang Teknologi)", "reason": "Memimpin pengembangan sebuah produk dari tahap riset, desain, hingga peluncuran ke pasar." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "IC",
+    "profile_title": "Sang Arsitek Data",
+    "profile_tagline": "Seorang analis presisi yang menemukan kebenaran dalam sistem yang terstruktur dan rapi.",
+    "reason_why": "Profil ini adalah perpaduan sempurna antara pemikiran logis INTP, hasrat untuk riset mendalam (Investigatif), dan kecintaan pada keteraturan, akurasi, dan data yang jelas (Conventional). Kamu adalah orang yang sangat teliti dan metodis dalam mencari pengetahuan.",
+    "what_this_means": "Kamu berkembang di lingkungan di mana kamu bisa bekerja dengan data yang kompleks dan menemukan pola atau anomali di dalamnya. Kamu tidak hanya ingin tahu, tetapi kamu ingin tahu dengan pasti, berdasarkan bukti yang kuat dan terorganisir. Kamu adalah orang yang bisa diandalkan untuk menghasilkan analisis yang akurat dan bebas dari bias.",
+    "strengths": ["Sangat teliti dan berorientasi pada detail.", "Kemampuan analisis data yang luar biasa.", "Sangat terorganisir dan metodis.", "Menghasilkan pekerjaan yang akurat dan dapat diandalkan."],
+    "weaknesses": ["Cenderung tidak menyukai ambiguitas atau data yang tidak lengkap.", "Bisa jadi kaku dan kurang fleksibel jika prosedur dilanggar.", "Mungkin kurang tertarik pada aspek 'manusia' atau politik dari sebuah pekerjaan.", "Risiko 'terjebak' dalam analisis data dan lambat membuat kesimpulan."],
+    "recommended_majors": [
+      { "name": "Statistika atau Sains Data", "reason": "Secara langsung melatih kemampuanmu dalam mengolah dan menganalisis data (Conventional) untuk menemukan wawasan baru (Investigatif)." },
+      { "name": "Akuntansi atau Ilmu Aktuaria", "reason": "Menggabungkan pekerjaan dengan angka dan aturan yang jelas (Conventional) dengan analisis risiko dan prediksi yang kompleks (Investigatif)." },
+      { "name": "Bioinformatika", "reason": "Menganalisis data biologis yang sangat besar dan terstruktur (Conventional) untuk membuat penemuan ilmiah (Investigatif)." }
+    ],
+    "career_recommendations": [
+      { "name": "Analis Data (Data Analyst) atau Ilmuwan Data (Data Scientist)", "reason": "Pekerjaan inti yang sesuai dengan profilmu: membersihkan, menganalisis, dan memvisualisasikan data untuk mengambil keputusan." },
+      { "name": "Aktuaris", "reason": "Menggunakan data statistik dan model matematika untuk menganalisis risiko keuangan di industri asuransi atau dana pensiun." },
+      { "name": "Programmer (spesialisasi Backend atau Database)", "reason": "Membangun dan mengelola sistem database yang logis, efisien, dan terstruktur." }
+    ]
+  },
   {
     "mbti_type": "INTP",
     "riasec_code": "RI",
@@ -115,6 +117,86 @@
       { "name": "Insinyur Mekanik atau R&D", "reason": "Kamu bisa merancang, menganalisis, dan menguji prototipe mekanik, dari mesin mobil hingga komponen satelit." },
       { "name": "Teknisi Robotika", "reason": "Bekerja secara langsung dengan perangkat keras dan perangkat lunak robot, memastikan mereka berfungsi sesuai dengan desain teoretisnya." },
       { "name": "Spesialis Prototyping", "reason": "Menerjemahkan desain konseptual menjadi produk fisik pertama yang bisa diuji dan divalidasi." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "RA",
+    "profile_title": "Sang Perancang Fungsional",
+    "profile_tagline": "Seorang pembangun yang menggabungkan kepraktisan teknis dengan sentuhan estetika.",
+    "reason_why": "Dorongan utamamu adalah bekerja dengan hal-hal yang nyata dan mekanis (Realistic), namun kamu juga memiliki apresiasi yang kuat terhadap bentuk, desain, dan ekspresi orisinal (Artistic). Logika INTP-mu bertindak sebagai jembatan, memastikan bahwa desain kreatifmu tetap fungsional dan dapat diwujudkan.",
+    "what_this_means": "Kamu adalah tipe orang yang tidak hanya ingin membuat sesuatu bekerja, tetapi juga membuatnya terlihat bagus. Kamu menikmati proses dari sketsa ide hingga menjadi produk fisik yang elegan dan efisien. Kamu melihat keindahan dalam desain yang cerdas dan fungsional.",
+    "strengths": ["Mampu menerjemahkan konsep kreatif menjadi produk nyata.", "Keseimbangan antara estetika dan fungsionalitas.", "Berorientasi pada solusi praktis.", "Inovatif dalam penggunaan material dan mekanisme."],
+    "weaknesses": ["Bisa frustrasi jika visi artistik terbentur batasan teknis.", "Mungkin kurang tertarik pada aspek pemasaran atau penjualan produk.", "Cenderung perfeksionis pada detail desain dan teknis.", "Lebih suka bekerja pada proyek nyata daripada berteori."],
+    "recommended_majors": [
+      { "name": "Desain Produk Industri", "reason": "Secara langsung menggabungkan perancangan bentuk yang estetis (Artistic) dengan rekayasa dan manufaktur (Realistic)." },
+      { "name": "Arsitektur", "reason": "Merancang bangunan yang tidak hanya indah secara visual (Artistic) tetapi juga kokoh secara struktural dan layak huni (Realistic)." },
+      { "name": "Teknik Mesin (dengan minat pada desain industri)", "reason": "Memberikan fondasi teknis yang kuat (Realistic) yang dapat kamu terapkan untuk menciptakan mesin atau alat dengan desain yang superior (Artistic)." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Produk", "reason": "Merancang segala sesuatu mulai dari furnitur, alat elektronik, hingga kendaraan, dengan fokus pada fungsi dan bentuk." },
+      { "name": "Arsitek", "reason": "Mendesain ruang dan bangunan yang memenuhi kebutuhan manusia secara praktis dan emosional." },
+      { "name": "Insinyur Desain Mekanikal", "reason": "Spesialisasi dalam merancang komponen mekanis yang tidak hanya efisien tetapi juga memiliki desain yang ringkas dan elegan." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "RS",
+    "profile_title": "Sang Mentor Teknis",
+    "profile_tagline": "Seorang praktisi ahli yang suka berbagi pengetahuan dan keterampilan teknis.",
+    "reason_why": "Minat utamamu adalah pada pekerjaan praktis dan teknis (Realistic), tetapi kamu juga memiliki dorongan untuk membantu dan mengajar orang lain (Social). Logika INTP-mu membuatmu menjadi seorang instruktur yang sangat baik, mampu menjelaskan konsep teknis yang rumit dengan cara yang sistematis.",
+    "what_this_means": "Kamu tidak hanya puas dengan menguasai sebuah keterampilan teknis untuk dirimu sendiri; kamu merasa terpanggil untuk membagikannya. Kamu adalah tipe orang yang akan dengan sabar mengajari teman cara memperbaiki motor atau menjelaskan cara kerja sebuah program. Kamu adalah pemecah masalah yang berorientasi pada manusia.",
+    "strengths": ["Kemampuan untuk menyederhanakan topik teknis yang kompleks.", "Sabar dan metodis dalam mengajar.", "Praktis dan berorientasi pada solusi.", "Dapat diandalkan dan kompeten secara teknis."],
+    "weaknesses": ["Mungkin kurang nyaman dalam situasi yang membutuhkan dukungan emosional murni.", "Bisa jadi kurang fleksibel jika orang lain tidak mengikuti metode yang kamu ajarkan.", "Membutuhkan tujuan yang jelas dan praktis saat membantu orang.", "Bisa kehabisan energi jika terlalu banyak interaksi sosial."],
+    "recommended_majors": [
+      { "name": "Pendidikan Vokasi atau Kejuruan (misal: Pendidikan Teknik Mesin)", "reason": "Secara langsung mempersiapkanmu untuk mengajar (Social) keterampilan teknis dan praktis (Realistic) kepada siswa." },
+      { "name": "Teknik Informatika (dengan minat pada pelatihan)", "reason": "Memberikanmu keahlian teknis (Realistic) yang bisa kamu gunakan untuk melatih atau membantu pengguna lain (Social)." },
+      { "name": "Keselamatan dan Kesehatan Kerja (K3)", "reason": "Menggunakan pengetahuan teknis (Realistic) untuk menciptakan lingkungan kerja yang aman bagi orang lain (Social)." }
+    ],
+    "career_recommendations": [
+      { "name": "Guru SMK atau Instruktur Pelatihan Vokasi", "reason": "Mencetak generasi baru yang terampil dalam bidang teknis tertentu." },
+      { "name": "Spesialis Dukungan Teknis (Technical Support Specialist)", "reason": "Membantu pengguna memecahkan masalah teknis mereka dengan penjelasan yang jelas dan logis." },
+      { "name": "Pengembang Materi Pelatihan Teknis", "reason": "Merancang modul dan panduan untuk mengajarkan cara menggunakan perangkat keras atau perangkat lunak." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "RE",
+    "profile_title": "Sang Wirausahawan Teknis",
+    "profile_tagline": "Seorang pembangun yang mengubah keahlian teknis menjadi bisnis yang efisien.",
+    "reason_why": "Kamu memiliki fondasi yang kuat dalam pekerjaan praktis dan teknis (Realistic) dan dorongan untuk membangun, memimpin, dan mencapai tujuan bisnis (Enterprising). Logika INTP-mu membantumu merancang sistem bisnis yang efisien dan memecahkan masalah operasional dengan cerdas.",
+    "what_this_means": "Kamu adalah tipe orang yang tidak hanya bisa memperbaiki sesuatu, tetapi juga melihat peluang untuk mengubah keahlian itu menjadi sebuah usaha. Kamu mungkin memulai dari sebuah bengkel kecil, layanan perbaikan komputer, atau bisnis manufaktur. Kamu pandai mengoptimalkan proses untuk keuntungan maksimal.",
+    "strengths": ["Memahami bisnis dari sudut pandang teknis dan operasional.", "Sangat baik dalam efisiensi proses.", "Praktis dan berorientasi pada hasil.", "Mampu memimpin tim teknis secara efektif."],
+    "weaknesses": ["Mungkin kurang tertarik pada aspek pemasaran atau branding yang 'halus'.", "Cenderung fokus pada produk daripada hubungan dengan pelanggan.", "Bisa jadi kaku dan tidak menyukai perubahan mendadak pada rencana bisnis.", "Kurang sabar dengan karyawan yang tidak kompeten secara teknis."],
+    "recommended_majors": [
+      { "name": "Teknik Industri", "reason": "Mempelajari cara merancang dan mengoptimalkan sistem produksi dan operasional (Realistic) untuk efisiensi bisnis (Enterprising)." },
+      { "name": "Manajemen Bisnis (dengan spesialisasi Operasional)", "reason": "Memberikan kerangka bisnis (Enterprising) untuk mengelola usaha yang berbasis pada produk atau layanan teknis (Realistic)." },
+      { "name": "Agribisnis", "reason": "Menggabungkan pengetahuan teknis pertanian (Realistic) dengan strategi untuk menjual dan mendistribusikan produk (Enterprising)." }
+    ],
+    "career_recommendations": [
+      { "name": "Pemilik Usaha Manufaktur atau Bengkel", "reason": "Membangun bisnis sendiri berdasarkan keahlian teknis yang kamu miliki." },
+      { "name": "Manajer Operasional atau Manajer Pabrik", "reason": "Memastikan seluruh proses produksi di sebuah perusahaan berjalan lancar, efisien, dan menguntungkan." },
+      { "name": "Kontraktor atau Manajer Proyek Konstruksi", "reason": "Memimpin proyek pembangunan (Realistic) dari awal hingga akhir, mengelola anggaran dan tim (Enterprising)." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "RC",
+    "profile_title": "Sang Teknisi Presisi",
+    "profile_tagline": "Seorang spesialis yang memastikan sistem teknis berjalan sesuai aturan dan standar.",
+    "reason_why": "Kombinasi ini menciptakan seorang ahli yang sangat teliti. Minatmu pada pekerjaan praktis dan mekanis (Realistic) dipadukan dengan kecintaan pada keteraturan, presisi, dan kepatuhan pada prosedur (Conventional). Logika INTP-mu memastikan kamu memahami 'mengapa' di balik setiap prosedur.",
+    "what_this_means": "Kamu adalah tipe orang yang akan mengikuti manual perakitan sampai ke detail terkecil dan memastikan setiap baut terpasang dengan torsi yang tepat. Kamu unggul dalam pekerjaan yang membutuhkan konsistensi, akurasi, dan standar kualitas yang tinggi. Bagimu, melakukan sesuatu 'dengan benar' adalah segalanya.",
+    "strengths": ["Sangat teliti dan akurat dalam pekerjaan teknis.", "Dapat diandalkan untuk mengikuti prosedur dan standar kualitas.", "Sangat baik dalam quality control dan troubleshooting.", "Metodis dan terorganisir."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan tidak suka improvisasi.", "Kurang nyaman dengan lingkungan kerja yang kacau atau tidak terstruktur.", "Mungkin kurang cepat dalam beradaptasi dengan teknologi atau metode baru.", "Cenderung fokus pada tugas dan kurang pada interaksi tim."],
+    "recommended_majors": [
+      { "name": "Teknik Mesin atau Teknik Elektro", "reason": "Memberikan dasar teknis yang kuat (Realistic) di mana presisi dan kepatuhan pada standar (Conventional) sangat penting." },
+      { "name": "Manajemen Logistik atau Rantai Pasok", "reason": "Mengelola alur barang yang fisik (Realistic) dengan cara yang terorganisir, terjadwal, dan efisien (Conventional)." },
+      { "name": "Avionik (Teknisi Pesawat Terbang)", "reason": "Pekerjaan yang menuntut standar keselamatan dan presisi tertinggi (Conventional) dalam sistem mekanis yang kompleks (Realistic)." }
+    ],
+    "career_recommendations": [
+      { "name": "Spesialis Quality Control (QC) atau Quality Assurance (QA)", "reason": "Memastikan setiap produk yang dihasilkan memenuhi standar kualitas yang ditetapkan." },
+      { "name": "Teknisi atau Operator Mesin CNC", "reason": "Mengoperasikan mesin presisi tinggi yang membutuhkan pemrograman dan kalibrasi yang akurat." },
+      { "name": "Teknisi Perawatan Pesawat Terbang", "reason": "Melakukan pemeriksaan dan perbaikan pada sistem pesawat yang kompleks di mana tidak ada ruang untuk kesalahan." }
     ]
   },
   {
@@ -139,6 +221,86 @@
   },
   {
     "mbti_type": "INTP",
+    "riasec_code": "AR",
+    "profile_title": "Sang Seniman Teknis",
+    "profile_tagline": "Seorang kreator yang mewujudkan visi artistik melalui medium teknis atau fisik.",
+    "reason_why": "Dorongan utamamu adalah menciptakan sesuatu yang baru dan orisinal (Artistic), dan kamu memilih untuk melakukannya melalui medium yang nyata dan membutuhkan keterampilan tangan (Realistic). Logika INTP-mu membantumu memahami material dan teknik yang kamu gunakan secara mendalam.",
+    "what_this_means": "Kamu adalah tipe seniman yang tidak hanya melukis di kanvas, tetapi mungkin membuat patung dari logam, merancang furnitur, atau bahkan menjadi seorang chef yang inovatif. Kamu menikmati proses mengubah bahan mentah menjadi sebuah karya yang memiliki bentuk dan fungsi, didorong oleh visi kreatifmu.",
+    "strengths": ["Kreatif dan inovatif dalam medium fisik.", "Memiliki keterampilan teknis yang baik.", "Mampu memecahkan masalah desain secara praktis.", "Visi artistik yang kuat."],
+    "weaknesses": ["Bisa frustrasi jika keterampilan teknis belum bisa mengejar visi artistik.", "Mungkin kurang tertarik pada aspek komersial dari seni.", "Cenderung perfeksionis dan menghabiskan banyak waktu pada satu karya.", "Lebih suka bekerja sendiri dalam studio atau bengkel."],
+    "recommended_majors": [
+      { "name": "Seni Rupa (Peminatan Patung atau Keramik)", "reason": "Secara langsung melatih kemampuanmu untuk menciptakan karya seni (Artistic) dari bahan-bahan fisik (Realistic)." },
+      { "name": "Desain Interior", "reason": "Merancang ruang yang estetis (Artistic) yang juga mempertimbangkan aspek fungsional dan material (Realistic)." },
+      { "name": "Kriya atau Desain Produk", "reason": "Fokus pada pembuatan objek fungsional dengan nilai seni yang tinggi, seperti perhiasan, furnitur, atau tekstil." }
+    ],
+    "career_recommendations": [
+      { "name": "Seniman Patung atau Keramik", "reason": "Mengekspresikan ide-ide kreatifmu melalui karya seni tiga dimensi." },
+      { "name": "Desainer Furnitur", "reason": "Merancang dan seringkali membuat langsung perabotan yang unik dan fungsional." },
+      { "name": "Chef Pastry atau Artisan Roti", "reason": "Menggabungkan kreativitas dalam rasa dan presentasi (Artistic) dengan teknik memasak yang presisi (Realistic)." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "AS",
+    "profile_title": "Sang Kritikus Budaya",
+    "profile_tagline": "Seorang kreator ekspresif yang karyanya bertujuan untuk menginspirasi atau membantu orang lain.",
+    "reason_why": "Kamu memiliki dorongan yang kuat untuk berekspresi secara kreatif (Artistic) dan keinginan untuk terhubung dengan atau membantu orang lain (Social). Logika INTP-mu membuatmu mampu menganalisis fenomena budaya dan sosial, lalu menyampaikannya kembali melalui medium seni dengan cara yang cerdas dan menggugah pikiran.",
+    "what_this_means": "Kamu adalah tipe orang yang mungkin menulis novel yang mengkritik isu sosial, membuat film dokumenter yang membuka mata, atau menjadi guru seni yang inspiratif. Kamu percaya bahwa seni memiliki kekuatan untuk mengubah cara pandang orang dan kamu ingin menjadi bagian dari perubahan itu.",
+    "strengths": ["Mampu menyampaikan pesan sosial yang kuat melalui seni.", "Kreatif dan empatik.", "Pandai menginspirasi dan berkomunikasi secara ekspresif.", "Memiliki wawasan yang tajam tentang budaya dan manusia."],
+    "weaknesses": ["Bisa jadi sangat idealis dan kecewa jika karyanya tidak dihargai.", "Mungkin kesulitan menyeimbangkan antara visi artistik dan kebutuhan audiens.", "Rentan terhadap kritik karena karyanya bersifat personal.", "Tidak menyukai sisi bisnis dari industri kreatif."],
+    "recommended_majors": [
+      { "name": "Sastra atau Penulisan Kreatif", "reason": "Menggunakan tulisan (Artistic) sebagai cara untuk mengeksplorasi dan mengomentari kondisi manusia (Social)." },
+      { "name": "Film dan Televisi", "reason": "Menciptakan karya audiovisual (Artistic) yang dapat menjangkau dan memengaruhi audiens yang luas (Social)." },
+      { "name": "Pendidikan Seni", "reason": "Menggabungkan kecintaanmu pada seni (Artistic) dengan keinginan untuk mengajar dan membimbing orang lain (Social)." }
+    ],
+    "career_recommendations": [
+      { "name": "Penulis atau Jurnalis Budaya", "reason": "Menganalisis dan menulis tentang film, musik, sastra, dan tren sosial untuk media." },
+      { "name": "Sutradara Film Dokumenter", "reason": "Melakukan riset tentang isu sosial dan menyajikannya dalam format visual yang kuat dan persuasif." },
+      { "name": "Guru Seni atau Dosen Sastra", "reason": "Menginspirasi generasi berikutnya untuk berpikir kritis dan kreatif melalui analisis karya seni." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "AE",
+    "profile_title": "Sang Direktur Kreatif",
+    "profile_tagline": "Seorang visioner yang memimpin implementasi ide-ide kreatif yang berdampak.",
+    "reason_why": "Kombinasi ini menciptakan seorang pemimpin di dunia kreatif. Kamu memiliki dorongan untuk menciptakan sesuatu yang orisinal dan inovatif (Artistic) dan ambisi untuk memimpin, mempromosikan, dan mewujudkan ide tersebut dalam skala besar (Enterprising). Logika INTP-mu membantumu menyusun strategi kreatif yang cerdas.",
+    "what_this_means": "Kamu adalah tipe orang yang tidak hanya punya ide brilian, tetapi juga tahu bagaimana 'menjual'-nya dan memimpin tim untuk mengeksekusinya. Kamu bisa menjadi otak di balik sebuah kampanye iklan, pendiri sebuah agensi desain, atau produser sebuah film. Kamu melihat gambaran besar dari sebuah proyek kreatif.",
+    "strengths": ["Visioner dan strategis dalam bidang kreatif.", "Mampu memimpin dan menginspirasi tim kreatif.", "Pandai mempresentasikan dan mempromosikan ide.", "Kombinasi yang baik antara kreativitas dan pemikiran bisnis."],
+    "weaknesses": ["Mungkin kurang sabar dengan anggota tim yang kurang kreatif atau lambat.", "Cenderung fokus pada visi dan kurang pada detail administratif.", "Bisa menjadi sangat protektif terhadap ide kreatifnya.", "Tidak suka dibatasi oleh anggaran atau permintaan klien yang tidak sesuai visi."],
+    "recommended_majors": [
+      { "name": "Manajemen (Peminatan Pemasaran Kreatif)", "reason": "Mempelajari cara mengelola bisnis (Enterprising) dengan fokus pada strategi branding dan periklanan (Artistic)." },
+      { "name": "Desain Komunikasi Visual", "reason": "Memberikan keterampilan kreatif (Artistic) yang menjadi fondasi untuk nantinya memimpin proyek atau agensi (Enterprising)." },
+      { "name": "Produksi Film dan Televisi", "reason": "Mempelajari sisi manajerial dan bisnis (Enterprising) dari pembuatan sebuah karya audiovisual (Artistic)." }
+    ],
+    "career_recommendations": [
+      { "name": "Direktur Kreatif (Creative Director) di Agensi Periklanan", "reason": "Memimpin tim untuk menghasilkan ide-ide kampanye yang inovatif untuk berbagai merek." },
+      { "name": "Manajer Merek (Brand Manager)", "reason": "Bertanggung jawab atas keseluruhan citra dan strategi komunikasi sebuah merek." },
+      { "name": "Produser Film atau Acara TV", "reason": "Mengelola seluruh aspek produksi sebuah karya, dari ide, pendanaan, hingga distribusi." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "AC",
+    "profile_title": "Sang Desainer Sistematis",
+    "profile_tagline": "Seorang kreator yang menemukan keindahan dalam keteraturan, presisi, dan data.",
+    "reason_why": "Kamu adalah seorang seniman yang logis. Dorongan utamamu adalah untuk menciptakan sesuatu yang ekspresif (Artistic), tetapi kamu melakukannya dengan cara yang sangat terstruktur, presisi, dan seringkali berbasis data (Conventional). Logika INTP-mu menikmati proses merancang sistem yang indah dan teratur.",
+    "what_this_means": "Kamu mungkin adalah seorang desainer grafis yang terobsesi dengan grid dan tipografi, seorang musisi yang menciptakan komposisi berdasarkan pola matematika, atau seorang web designer yang menulis kode yang sangat rapi dan efisien. Bagimu, kreativitas dan keteraturan bukanlah dua hal yang berlawanan.",
+    "strengths": ["Sangat teliti dan presisi dalam pekerjaan kreatif.", "Mampu menciptakan desain yang bersih, teratur, dan fungsional.", "Baik dalam pekerjaan yang membutuhkan kreativitas dan kepatuhan pada aturan (misal: branding).", "Sangat terorganisir dalam proses kreatif."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan kurang suka pada gaya desain yang 'kacau' atau terlalu ekspresif.", "Mungkin kurang fleksibel dalam menanggapi permintaan klien yang mendadak.", "Cenderung perfeksionis dan membutuhkan waktu lama untuk menyelesaikan detail.", "Kurang nyaman dengan proyek yang tidak memiliki arahan atau batasan yang jelas."],
+    "recommended_majors": [
+      { "name": "Desain Komunikasi Visual (DKV)", "reason": "Sangat cocok untuk mendalami prinsip-prinsip desain seperti grid, tipografi (Conventional), dan komposisi visual (Artistic)." },
+      { "name": "Arsitektur", "reason": "Membutuhkan kreativitas dalam merancang bentuk (Artistic) sekaligus kepatuhan pada aturan bangunan dan presisi teknis (Conventional)." },
+      { "name": "Desain Web (Web Design)", "reason": "Menggabungkan estetika visual (Artistic) dengan penulisan kode yang terstruktur dan standar web (Conventional)." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Grafis (spesialisasi Branding atau UI/UX)", "reason": "Menciptakan sistem identitas visual yang konsisten atau antarmuka pengguna yang teratur." },
+      { "name": "Arsitek Informasi", "reason": "Mengorganisir konten sebuah situs web atau aplikasi dengan cara yang logis dan mudah dinavigasi oleh pengguna." },
+      { "name": "Motion Graphic Designer", "reason": "Menciptakan animasi yang membutuhkan presisi tinggi dalam timing dan pergerakan, seringkali untuk menyajikan data." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
     "riasec_code": "SI",
     "profile_title": "Sang Pendidik Analitis",
     "profile_tagline": "Pemikir sistem yang termotivasi untuk berbagi pengetahuan dan membantu orang lain memahami dunia.",
@@ -155,6 +317,86 @@
       { "name": "Dosen atau Guru (Bidang STEM)", "reason": "Kamu bisa melakukan riset mendalam sekaligus berbagi pengetahuan dengan generasi berikutnya." },
       { "name": "Instructional Designer", "reason": "Merancang kurikulum dan materi pembelajaran yang efektif dan logis berdasarkan teori belajar." },
       { "name": "Spesialis Pelatihan (Corporate Trainer)", "reason": "Mengajarkan keterampilan teknis atau sistem baru kepada karyawan di sebuah perusahaan." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "SR",
+    "profile_title": "Sang Pelatih Praktis",
+    "profile_tagline": "Seorang pembimbing yang membantu orang lain mengembangkan keterampilan praktis.",
+    "reason_why": "Dorongan utamamu adalah untuk membantu dan membimbing orang lain (Social), dan kamu melakukannya dengan cara yang sangat praktis dan langsung (Realistic). Logika INTP-mu membantumu mengurai keterampilan yang rumit menjadi langkah-langkah yang bisa diikuti oleh siapa saja.",
+    "what_this_means": "Kamu adalah tipe orang yang akan menjadi pelatih olahraga, instruktur outbound, atau terapis fisik. Kamu menikmati proses melihat orang lain berkembang dan berhasil menguasai sebuah keterampilan fisik atau praktis berkat bimbinganmu. Kamu memberikan instruksi yang jelas dan berorientasi pada hasil.",
+    "strengths": ["Sabar dan suportif dalam melatih.", "Mampu memberikan instruksi yang jelas dan praktis.", "Berorientasi pada pengembangan keterampilan nyata.", "Mampu membangun kepercayaan dengan orang yang dibimbing."],
+    "weaknesses": ["Mungkin kurang tertarik pada aspek teoretis atau administratif dari pekerjaan.", "Bisa frustrasi jika orang yang dibimbing tidak menunjukkan kemajuan nyata.", "Membutuhkan hasil yang terlihat dan terukur.", "Energi sosial terbatas, perlu waktu untuk sendiri setelah melatih."],
+    "recommended_majors": [
+      { "name": "Ilmu Keolahragaan atau Pendidikan Kepelatihan Olahraga", "reason": "Secara langsung mempersiapkanmu untuk melatih (Social) kemampuan fisik dan teknik atlet (Realistic)." },
+      { "name": "Fisioterapi atau Terapi Okupasi", "reason": "Membantu pasien (Social) untuk memulihkan kemampuan gerak dan fungsi fisik mereka (Realistic) melalui latihan." },
+      { "name": "Manajemen Pariwisata (Peminatan Ekowisata/Petualangan)", "reason": "Memimpin dan memandu orang lain (Social) dalam kegiatan di alam terbuka (Realistic)." }
+    ],
+    "career_recommendations": [
+      { "name": "Pelatih Olahraga", "reason": "Mengembangkan potensi atlet melalui latihan fisik dan strategi yang sistematis." },
+      { "name": "Fisioterapis", "reason": "Membantu orang pulih dari cedera dengan merancang program latihan fisik yang terukur." },
+      { "name": "Pemandu Petualangan (Adventure Guide)", "reason": "Memimpin kelompok dalam kegiatan seperti mendaki gunung, arung jeram, atau panjat tebing." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "SA",
+    "profile_title": "Sang Terapis Ekspresif",
+    "profile_tagline": "Seorang konselor yang menggunakan media kreatif untuk membantu orang lain.",
+    "reason_why": "Kamu memiliki kombinasi langka antara keinginan untuk membantu dan memahami orang lain (Social) dengan minat yang kuat pada ekspresi diri dan kreativitas (Artistic). Logika INTP-mu memberikan kedalaman analisis pada pemahamanmu tentang masalah manusia, yang kemudian kamu fasilitasi melalui seni.",
+    "what_this_means": "Kamu percaya bahwa kadang-kadang, kata-kata saja tidak cukup untuk menyembuhkan atau mengekspresikan diri. Kamu tertarik pada bidang seperti terapi seni, terapi musik, atau drama. Kamu membantu orang lain menemukan suara mereka dan memproses emosi mereka melalui medium kreatif.",
+    "strengths": ["Empati dan kreatif.", "Mampu menciptakan ruang yang aman untuk berekspresi.", "Pendengar yang baik dan tidak menghakimi.", "Memiliki pemahaman yang mendalam tentang simbolisme dan metafora."],
+    "weaknesses": ["Bisa ikut terbawa emosi oleh masalah klien.", "Pekerjaan bisa sangat menguras energi emosional.", "Mungkin kesulitan dengan aspek administratif atau bisnis dari praktik terapi.", "Sangat idealis tentang potensi penyembuhan melalui seni."],
+    "recommended_majors": [
+      { "name": "Psikologi (dengan minat pada terapi seni/ekspresif)", "reason": "Memberikan fondasi pemahaman tentang kejiwaan manusia (Social) yang dapat digabungkan dengan teknik-teknik kreatif (Artistic)." },
+      { "name": "Seni Musik atau Seni Rupa (dengan fokus pada terapi)", "reason": "Menguasai medium artistik (Artistic) dengan tujuan untuk membantu proses terapi dan konseling (Social)." },
+      { "name": "Pekerjaan Sosial", "reason": "Jurusan yang luas untuk membantu komunitas (Social), di mana kamu bisa menerapkan pendekatan-pendekatan kreatif (Artistic)." }
+    ],
+    "career_recommendations": [
+      { "name": "Terapis Seni (Art Therapist)", "reason": "Menggunakan proses pembuatan seni untuk membantu klien mengeksplorasi perasaan, mengurangi stres, dan meningkatkan kesadaran diri." },
+      { "name": "Konselor Sekolah", "reason": "Membantu siswa dengan masalah pribadi dan akademik, seringkali menggunakan metode-metode kreatif untuk berkomunikasi." },
+      { "name": "Pekerja Sosial", "reason": "Bekerja dengan individu atau komunitas untuk membantu mereka mengatasi tantangan hidup, terkadang melalui program berbasis seni." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "SE",
+    "profile_title": "Sang Manajer Komunitas",
+    "profile_tagline": "Seorang pemimpin yang membangun dan memberdayakan kelompok untuk tujuan bersama.",
+    "reason_why": "Dorongan utamamu adalah untuk berinteraksi, membantu, dan menyatukan orang (Social), dan kamu melakukannya dengan cara memimpin, mengorganisir, dan memengaruhi mereka (Enterprising). Logika INTP-mu membantumu merancang struktur organisasi atau program yang efektif untuk komunitasmu.",
+    "what_this_means": "Kamu adalah seorang organisator alami. Kamu adalah tipe orang yang akan menjadi ketua OSIS, kepala departemen di sebuah UKM, atau manajer di sebuah organisasi nirlaba. Kamu menikmati proses mengambil sebuah kelompok dan membuatnya lebih baik, lebih terarah, dan lebih berdampak.",
+    "strengths": ["Mampu memotivasi dan menginspirasi orang lain.", "Pandai mengorganisir dan mendelegasikan tugas.", "Komunikator yang persuasif dan empatik.", "Fokus pada tujuan kelompok dan kesejahteraan anggota."],
+    "weaknesses": ["Bisa kesulitan mengambil keputusan yang tidak populer tetapi perlu.", "Cenderung menghindari konflik untuk menjaga keharmonisan tim.", "Mungkin terlalu banyak mengambil tanggung jawab.", "Pekerjaan bisa sangat menguras energi sosial dan emosional."],
+    "recommended_majors": [
+      { "name": "Manajemen SDM (Sumber Daya Manusia)", "reason": "Mempelajari cara mengelola dan mengembangkan potensi orang (Social) dalam sebuah organisasi untuk mencapai tujuan bisnis (Enterprising)." },
+      { "name": "Ilmu Komunikasi", "reason": "Mengasah kemampuanmu untuk menyampaikan pesan secara efektif (Enterprising) untuk membangun hubungan dan komunitas (Social)." },
+      { "name": "Administrasi Publik atau Pekerjaan Sosial", "reason": "Fokus pada pengelolaan organisasi yang bertujuan untuk melayani dan memberdayakan masyarakat." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer SDM (HR Manager)", "reason": "Bertanggung jawab atas rekrutmen, pelatihan, dan kesejahteraan karyawan dalam sebuah perusahaan." },
+      { "name": "Manajer Nirlaba (Non-Profit Manager)", "reason": "Memimpin sebuah organisasi untuk mencapai misi sosialnya, mengelola sukarelawan dan program." },
+      { "name": "Spesialis Hubungan Masyarakat (Public Relations)", "reason": "Membangun dan menjaga citra positif sebuah organisasi di mata publik." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "SC",
+    "profile_title": "Sang Administrator Pelayanan",
+    "profile_tagline": "Seorang organisator yang memastikan sistem pendukung untuk orang lain berjalan lancar.",
+    "reason_why": "Kamu memiliki keinginan tulus untuk membantu orang (Social) dan melakukannya dengan cara yang sangat teratur, efisien, dan andal (Conventional). Logika INTP-mu membuatmu sangat baik dalam merancang dan menjalankan sistem administratif yang mendukung layanan kepada manusia.",
+    "what_this_means": "Kamu adalah tulang punggung dari setiap organisasi yang berorientasi pada layanan. Kamu mungkin bekerja di administrasi rumah sakit, perpustakaan, atau bagian tata usaha sekolah. Kamu memastikan bahwa semua data akurat, jadwal teratur, dan proses berjalan sesuai aturan, sehingga para profesional lain bisa melakukan pekerjaan mereka dengan baik.",
+    "strengths": ["Sangat terorganisir dan dapat diandalkan.", "Teliti dan akurat dalam mengelola data.", "Fokus pada proses dan efisiensi.", "Sabar dan suportif dalam lingkungan kerja."],
+    "weaknesses": ["Kurang menyukai perubahan mendadak atau kekacauan.", "Bisa menjadi kaku dalam mengikuti prosedur.", "Mungkin tidak nyaman dalam peran yang membutuhkan banyak improvisasi.", "Cenderung bekerja di belakang layar dan kurang menonjol."],
+    "recommended_majors": [
+      { "name": "Administrasi Rumah Sakit atau Manajemen Informasi Kesehatan", "reason": "Mengelola data dan sistem (Conventional) yang sangat penting untuk pelayanan pasien (Social)." },
+      { "name": "Ilmu Perpustakaan", "reason": "Mengorganisir informasi dan sumber daya (Conventional) untuk membantu para pencari pengetahuan (Social)." },
+      { "name": "Administrasi Pendidikan", "reason": "Menjalankan sistem operasional sebuah institusi pendidikan untuk mendukung siswa dan guru." }
+    ],
+    "career_recommendations": [
+      { "name": "Staf Administrasi (di Rumah Sakit, Sekolah, atau Kantor Hukum)", "reason": "Memastikan semua operasional kantor berjalan lancar, mulai dari data, jadwal, hingga korespondensi." },
+      { "name": "Pustakawan", "reason": "Mengelola koleksi perpustakaan dan membantu pengunjung menemukan informasi yang mereka butuhkan." },
+      { "name": "Asisten Eksekutif atau Manajer Kantor", "reason": "Memberikan dukungan administratif tingkat tinggi kepada seorang eksekutif atau seluruh tim." }
     ]
   },
   {
@@ -179,10 +421,90 @@
   },
   {
     "mbti_type": "INTP",
+    "riasec_code": "ER",
+    "profile_title": "Sang Manajer Lapangan",
+    "profile_tagline": "Seorang pemimpin yang menerjemahkan strategi menjadi aksi nyata di lapangan.",
+    "reason_why": "Dorongan utamamu adalah untuk memimpin dan mencapai hasil (Enterprising), dan kamu melakukannya dengan cara yang sangat praktis dan langsung (Realistic). Logika INTP-mu membantumu memecahkan masalah operasional di lapangan dengan cepat dan efisien.",
+    "what_this_means": "Kamu adalah tipe pemimpin yang tidak suka hanya duduk di belakang meja. Kamu harus turun langsung ke lokasi proyek, baik itu di lokasi konstruksi, pabrik, atau perkebunan. Kamu memimpin dengan memberi contoh dan memastikan bahwa rencana dieksekusi dengan benar di dunia nyata.",
+    "strengths": ["Berorientasi pada tindakan dan hasil.", "Pemecah masalah yang praktis.", "Mampu memimpin tim di lingkungan kerja yang menantang.", "Memahami detail teknis dari pekerjaan di lapangan."],
+    "weaknesses": ["Mungkin kurang sabar dengan perencanaan jangka panjang atau rapat yang bertele-tele.", "Bisa jadi terlalu blak-blakan atau menuntut bagi sebagian anggota tim.", "Cenderung kurang fokus pada aspek administratif atau paperwork.", "Tidak suka dibatasi oleh birokrasi yang menghambat aksi."],
+    "recommended_majors": [
+      { "name": "Manajemen Konstruksi", "reason": "Mempelajari cara mengelola (Enterprising) proyek pembangunan fisik dari awal hingga akhir (Realistic)." },
+      { "name": "Teknik Industri", "reason": "Fokus pada optimalisasi proses di lantai produksi (Realistic) untuk mencapai target bisnis (Enterprising)." },
+      { "name": "Agribisnis", "reason": "Mengelola operasi pertanian atau perkebunan (Realistic) sebagai sebuah usaha yang menguntungkan (Enterprising)." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Proyek Konstruksi atau Site Manager", "reason": "Bertanggung jawab penuh atas kelancaran proyek pembangunan di lokasi." },
+      { "name": "Supervisor Produksi atau Manajer Pabrik", "reason": "Memimpin tim produksi untuk memastikan target kualitas dan kuantitas tercapai." },
+      { "name": "Manajer Logistik atau Gudang", "reason": "Mengelola operasi harian dari penerimaan, penyimpanan, hingga pengiriman barang secara fisik." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "EA",
+    "profile_title": "Sang Impresario",
+    "profile_tagline": "Seorang promotor yang mengubah kreativitas menjadi sebuah pertunjukan atau bisnis.",
+    "reason_why": "Kamu memiliki dorongan yang kuat untuk memimpin dan mempromosikan (Enterprising) sesuatu yang inovatif dan ekspresif (Artistic). Logika INTP-mu membantumu melihat sisi bisnis dari dunia seni dan menyusun strategi untuk membuatnya sukses secara komersial.",
+    "what_this_means": "Kamu adalah tipe orang di balik layar yang membuat sebuah pameran seni, konser musik, atau pertunjukan teater menjadi kenyataan. Kamu adalah penghubung antara para seniman dan audiens. Kamu pandai mengemas kreativitas agar menarik dan laku di pasaran.",
+    "strengths": ["Mampu melihat potensi komersial dari sebuah karya seni.", "Pandai bernegosiasi dan membangun jaringan di industri kreatif.", "Antusias dan persuasif dalam mempromosikan sesuatu.", "Kombinasi yang baik antara visi kreatif dan strategi bisnis."],
+    "weaknesses": ["Mungkin lebih fokus pada penjualan daripada nilai artistik murni.", "Bisa jadi kurang sabar dengan seniman yang idealis dan tidak praktis.", "Pekerjaan bisa sangat kompetitif dan penuh tekanan.", "Cenderung mengambil risiko finansial yang besar."],
+    "recommended_majors": [
+      { "name": "Manajemen Seni atau Industri Kreatif", "reason": "Jurusan yang secara spesifik mempelajari sisi bisnis (Enterprising) dari dunia seni (Artistic)." },
+      { "name": "Pemasaran (Marketing) dengan fokus pada industri hiburan", "reason": "Mengasah kemampuanmu untuk mempromosikan (Enterprising) produk-produk kreatif seperti film, musik, atau game." },
+      { "name": "Kewirausahaan (Entrepreneurship)", "reason": "Memberikan dasar untuk membangun bisnis sendiri di sektor kreatif yang kamu minati." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Galeri Seni atau Kurator", "reason": "Mengelola sebuah galeri, memilih seniman untuk dipamerkan, dan menjual karya-karya mereka." },
+      { "name": "Promotor Musik atau Manajer Band", "reason": "Mengorganisir konser dan tur, serta mengelola karier seorang musisi atau band." },
+      { "name": "Agen Bakat (Talent Agent)", "reason": "Mewakili aktor, penulis, atau sutradara, dan menegosiasikan kontrak kerja untuk mereka." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "ES",
+    "profile_title": "Sang Penggerak Sosial",
+    "profile_tagline": "Seorang pemimpin yang memobilisasi orang untuk mencapai tujuan sosial.",
+    "reason_why": "Dorongan utamamu adalah untuk memimpin dan memengaruhi (Enterprising), dan kamu mengarahkan energi itu untuk tujuan membantu dan memberdayakan masyarakat (Social). Logika INTP-mu membantumu merancang program atau kampanye sosial yang efektif dan berdampak.",
+    "what_this_means": "Kamu adalah seorang aktivis atau pemimpin komunitas yang karismatik. Kamu tidak hanya peduli, tetapi kamu mengambil tindakan. Kamu pandai berbicara di depan umum, menggalang dana, dan menginspirasi orang lain untuk ikut bergerak demi sebuah tujuan yang lebih besar dari diri mereka sendiri.",
+    "strengths": ["Sangat persuasif dan mampu menginspirasi.", "Pandai membangun jaringan dan koalisi.", "Bersemangat dan berdedikasi pada tujuan sosial.", "Strategis dalam merancang kampanye atau program."],
+    "weaknesses": ["Bisa menjadi terlalu idealis dan mengabaikan hambatan praktis.", "Rentan terhadap kelelahan emosional (burnout) karena sifat pekerjaan.", "Mungkin kesulitan dengan birokrasi atau politik internal organisasi.", "Cenderung mengambil alih terlalu banyak peran."],
+    "recommended_majors": [
+      { "name": "Ilmu Politik atau Hubungan Internasional", "reason": "Mempelajari sistem kekuasaan (Enterprising) untuk menciptakan perubahan sosial (Social) di tingkat nasional atau global." },
+      { "name": "Pekerjaan Sosial atau Pembangunan Sosial", "reason": "Fokus pada cara-cara praktis untuk memberdayakan komunitas dan mengadvokasi kebijakan yang lebih baik." },
+      { "name": "Manajemen Nirlaba (Non-Profit Management)", "reason": "Memberikan keterampilan manajerial (Enterprising) untuk menjalankan organisasi yang berfokus pada misi sosial (Social)." }
+    ],
+    "career_recommendations": [
+      { "name": "Politisi atau Staf Legislatif", "reason": "Berjuang untuk perubahan sosial melalui sistem politik." },
+      { "name": "Direktur Kampanye (Campaign Director) untuk LSM", "reason": "Merancang dan memimpin kampanye publik untuk meningkatkan kesadaran tentang isu-isu penting." },
+      { "name": "Penggalang Dana Profesional (Fundraiser)", "reason": "Meyakinkan individu atau perusahaan untuk mendonasikan dana bagi sebuah tujuan sosial." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "EC",
+    "profile_title": "Sang Eksekutif Efisiensi",
+    "profile_tagline": "Seorang pemimpin yang membangun sistem yang teratur, efisien, dan menguntungkan.",
+    "reason_why": "Kamu adalah seorang manajer klasik. Dorongan utamamu adalah untuk memimpin, mengorganisir, dan mencapai hasil (Enterprising), dan kamu melakukannya dengan cara yang sangat terstruktur, berbasis data, dan patuh pada aturan (Conventional). Logika INTP-mu membuatmu sangat baik dalam merancang proses bisnis yang efisien.",
+    "what_this_means": "Kamu unggul dalam lingkungan korporat yang terstruktur. Kamu adalah tipe orang yang bisa mengambil alih sebuah departemen yang kacau dan mengubahnya menjadi mesin yang berjalan lancar. Kamu percaya pada data, prosedur, dan hasil yang terukur. Kamu adalah seorang pemimpin yang andal dan dapat diprediksi.",
+    "strengths": ["Sangat terorganisir dan efisien.", "Mampu membuat keputusan yang logis dan berbasis data.", "Pandai merancang dan menerapkan prosedur.", "Dapat diandalkan untuk mencapai target dan deadline."],
+    "weaknesses": ["Bisa menjadi kurang fleksibel dan resisten terhadap perubahan yang tidak terencana.", "Mungkin kurang inovatif atau 'out-of-the-box'.", "Cenderung lebih fokus pada proses dan hasil daripada pada pengembangan personil.", "Tidak suka ambiguitas atau ketidakpastian."],
+    "recommended_majors": [
+      { "name": "Manajemen Bisnis atau Administrasi Bisnis", "reason": "Memberikan dasar yang kuat dalam semua aspek pengelolaan bisnis (Enterprising) secara terstruktur (Conventional)." },
+      { "name": "Akuntansi atau Keuangan", "reason": "Fokus pada pengelolaan data keuangan yang sangat teratur (Conventional) untuk pengambilan keputusan bisnis (Enterprising)." },
+      { "name": "Teknik Industri", "reason": "Mempelajari cara mengoptimalkan proses bisnis yang kompleks untuk mencapai efisiensi dan keuntungan maksimal." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer (Operasional, Keuangan, atau Umum)", "reason": "Posisi manajemen klasik yang bertanggung jawab atas kinerja sebuah departemen atau perusahaan." },
+      { "name": "Analis Bisnis (Business Analyst)", "reason": "Menganalisis proses bisnis saat ini dan merekomendasikan perbaikan untuk meningkatkan efisiensi dan profitabilitas." },
+      { "name": "Auditor atau Konsultan Manajemen Risiko", "reason": "Memastikan sebuah perusahaan beroperasi sesuai dengan aturan dan prosedur untuk meminimalkan risiko." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
     "riasec_code": "CI",
     "profile_title": "Sang Pengelola Sistem Informasi",
     "profile_tagline": "Analis yang presisi, yang menciptakan keteraturan dan efisiensi melalui data.",
-    "reason_why": "Dorongan utamamu adalah pada keteraturan, struktur, dan akurasi (Conventional), yang kamu terapkan pada sistem informasi kompleks yang suka kamu analisis (Investigative & INTP). Kamu mengorganisir data untuk mengoptimalkan sistem.",
+    "reason_why": "Dorongan utamamu adalah untuk bekerja dengan sistem yang teratur dan data yang akurat (Conventional), dan kamu termotivasi oleh keinginan untuk memahami sistem tersebut secara mendalam (Investigative). Logika INTP-mu menikmati proses merancang dan mengoptimalkan database dan alur informasi.",
     "what_this_means": "Kamu adalah seorang master dalam mengelola data yang rumit. Kamu menemukan kepuasan mendalam saat membuat database yang efisien, menulis kode yang bersih, dan memastikan informasi mengalir secara logis tanpa kesalahan. Kamu adalah fondasi dari setiap organisasi yang berbasis data.",
     "strengths": ["Sangat akurat dan teliti.", "Hebat dalam menemukan kesalahan atau anomali dalam data.", "Mampu merancang sistem yang sangat efisien.", "Sangat terorganisir dan dapat diandalkan."],
     "weaknesses": ["Tidak menyukai data yang berantakan atau tidak terstruktur.", "Bisa menjadi kurang fleksibel jika ada perubahan mendadak pada sistem.", "Cenderung fokus pada data dan proses, bukan pada orang.", "Membutuhkan lingkungan kerja yang tenang dan dapat diprediksi."],
@@ -195,6 +517,86 @@
       { "name": "Database Administrator", "reason": "Bertanggung jawab untuk merancang, mengelola, dan menjaga keamanan database yang menjadi tulang punggung perusahaan." },
       { "name": "Analis Sistem (Systems Analyst)", "reason": "Menganalisis kebutuhan bisnis dan merancang solusi sistem IT yang efisien dan terstruktur." },
       { "name": "Auditor IT", "reason": "Memastikan sistem informasi sebuah perusahaan aman, akurat, dan sesuai dengan regulasi (Conventional & Investigative)." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "CR",
+    "profile_title": "Sang Pengelola Inventaris",
+    "profile_tagline": "Seorang organisator yang memastikan aset fisik terkelola dengan rapi dan efisien.",
+    "reason_why": "Dorongan utamamu adalah pada keteraturan, data, dan prosedur (Conventional), dan kamu menerapkannya pada dunia fisik yang nyata (Realistic). Logika INTP-mu membantumu merancang sistem pelacakan dan pengelolaan yang sangat efisien untuk barang atau peralatan.",
+    "what_this_means": "Kamu adalah tipe orang yang akan sangat baik dalam mengelola gudang, logistik, atau inventaris sebuah toko. Kamu tahu persis di mana setiap barang berada, berapa jumlahnya, dan kapan harus memesan ulang. Kamu menemukan kepuasan dalam sistem yang berjalan lancar dan data yang akurat.",
+    "strengths": ["Sangat terorganisir dan berorientasi pada detail.", "Efisien dan andal.", "Baik dalam bekerja dengan sistem dan prosedur.", "Praktis dan membumi."],
+    "weaknesses": ["Tidak menyukai perubahan mendadak pada jadwal atau sistem.", "Bisa menjadi kaku dan kurang fleksibel.", "Mungkin kurang tertarik pada interaksi sosial yang intens di tempat kerja.", "Lebih suka tugas yang dapat diprediksi daripada yang membutuhkan kreativitas."],
+    "recommended_majors": [
+      { "name": "Manajemen Logistik atau Rantai Pasok", "reason": "Secara langsung mempelajari cara mengelola (Conventional) aliran barang secara fisik (Realistic) dari pemasok hingga pelanggan." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan keterampilan administratif dan organisasional yang luas yang dapat diterapkan dalam pengelolaan aset." },
+      { "name": "Teknik Industri", "reason": "Fokus pada optimalisasi sistem, termasuk sistem inventaris dan pergudangan." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Gudang atau Staf Logistik", "reason": "Bertanggung jawab atas seluruh operasi gudang, mulai dari penerimaan, penyimpanan, hingga pengiriman barang." },
+      { "name": "Spesialis Kontrol Inventaris (Inventory Control)", "reason": "Memastikan data inventaris akurat dan melakukan pemesanan ulang untuk menjaga tingkat stok yang optimal." },
+      { "name": "Purchasing Officer", "reason": "Bertugas membeli barang atau bahan baku untuk perusahaan, membutuhkan ketelitian dan organisasi yang baik." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "CA",
+    "profile_title": "Sang Juru Gambar Teknis (Drafter)",
+    "profile_tagline": "Seorang seniman presisi yang menerjemahkan ide menjadi gambar teknis yang akurat.",
+    "reason_why": "Kamu memiliki minat pada keteraturan, presisi, dan detail (Conventional) yang kamu salurkan melalui medium visual atau kreatif (Artistic). Logika INTP-mu membuatmu sangat baik dalam memahami dan menerapkan aturan-aturan teknis dalam desain, seperti dalam gambar arsitektur atau rekayasa.",
+    "what_this_means": "Kamu adalah tipe orang yang unggul dalam menggunakan perangkat lunak seperti AutoCAD atau Revit. Kamu bisa mengambil sketsa kasar dari seorang arsitek atau insinyur dan mengubahnya menjadi gambar teknis yang detail, akurat, dan sesuai dengan semua standar yang berlaku. Kamu adalah jembatan penting antara ide dan realisasi.",
+    "strengths": ["Sangat teliti dan presisi.", "Memiliki mata yang jeli untuk detail visual.", "Mampu bekerja dengan perangkat lunak desain yang kompleks.", "Sangat baik dalam mengikuti standar dan spesifikasi teknis."],
+    "weaknesses": ["Mungkin kurang menikmati fase konseptual atau brainstorming yang 'bebas'.", "Bisa menjadi frustrasi jika standar atau spesifikasi terus berubah.", "Cenderung fokus pada aspek teknis daripada visi artistik besar.", "Lebih suka bekerja sendiri dengan tugas yang jelas."],
+    "recommended_majors": [
+      { "name": "Teknik Sipil atau Arsitektur (dengan fokus pada drafting)", "reason": "Memberikan pelatihan formal dalam membuat gambar teknis (Conventional) untuk desain bangunan (Artistic)." },
+      { "name": "Desain Grafis (dengan fokus pada DTP/Layout)", "reason": "Menggunakan kreativitas (Artistic) dalam kerangka kerja yang sangat terstruktur seperti layout majalah atau buku (Conventional)." },
+      { "name": "Sistem Informasi Geografis (GIS)", "reason": "Menggabungkan pembuatan peta digital yang akurat (Conventional) dengan visualisasi data spasial (Artistic)." }
+    ],
+    "career_recommendations": [
+      { "name": "Drafter atau Teknisi CAD", "reason": "Membuat gambar teknis detail untuk proyek arsitektur, rekayasa, atau manufaktur." },
+      { "name": "Desainer Layout (Layout Artist)", "reason": "Menata teks dan gambar dalam sebuah publikasi (majalah, koran, buku) sesuai dengan panduan gaya." },
+      { "name": "Spesialis GIS", "reason": "Membuat dan menganalisis peta digital untuk berbagai keperluan, dari perencanaan kota hingga analisis lingkungan." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "CS",
+    "profile_title": "Sang Arsiparis",
+    "profile_tagline": "Seorang penjaga informasi yang membantu orang menemukan data yang mereka butuhkan.",
+    "reason_why": "Dorongan utamamu adalah untuk bekerja dengan sistem yang teratur dan data yang akurat (Conventional), dan kamu termotivasi oleh keinginan untuk membantu orang lain (Social). Logika INTP-mu membuatmu sangat baik dalam merancang sistem klasifikasi dan pengarsipan yang logis dan mudah digunakan.",
+    "what_this_means": "Kamu adalah tipe orang yang akan berkembang sebagai pustakawan, pengelola catatan medis, atau arsiparis. Kamu menemukan kepuasan dalam mengambil informasi yang tampaknya kacau dan mengaturnya ke dalam sistem yang rapi, sehingga orang lain dapat dengan mudah mengaksesnya saat dibutuhkan. Kamu adalah pahlawan di balik layar dalam dunia informasi.",
+    "strengths": ["Sangat terorganisir dan metodis.", "Teliti dan dapat diandalkan.", "Berorientasi pada pelayanan dan suka membantu.", "Sabar dalam menangani data dalam jumlah besar."],
+    "weaknesses": ["Tidak menyukai pekerjaan yang tidak terstruktur atau penuh improvisasi.", "Bisa menjadi frustrasi dengan sistem yang tidak efisien.", "Mungkin kurang nyaman dalam peran yang membutuhkan banyak persuasi atau penjualan.", "Cenderung pendiam dan lebih suka bekerja di lingkungan yang tenang."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan dan Kearsipan", "reason": "Jurusan yang secara langsung melatihmu untuk mengelola informasi (Conventional) untuk melayani kebutuhan pengguna (Social)." },
+      { "name": "Manajemen Informasi Kesehatan", "reason": "Spesialisasi dalam mengelola rekam medis pasien yang sangat rahasia dan terstruktur." },
+      { "name": "Administrasi Publik", "reason": "Mempelajari cara kerja sistem administrasi di pemerintahan, yang berfokus pada pengelolaan data untuk pelayanan publik." }
+    ],
+    "career_recommendations": [
+      { "name": "Pustakawan atau Arsiparis", "reason": "Mengklasifikasikan, menyimpan, dan membantu orang menemukan buku, dokumen, atau catatan bersejarah." },
+      { "name": "Spesialis Rekam Medis", "reason": "Memastikan data pasien di rumah sakit atau klinik akurat, lengkap, dan terjaga kerahasiaannya." },
+      { "name": "Manajer Data (Data Manager)", "reason": "Bertanggung jawab atas pengorganisasian dan pemeliharaan database internal sebuah perusahaan." }
+    ]
+  },
+  {
+    "mbti_type": "INTP",
+    "riasec_code": "CE",
+    "profile_title": "Sang Analis Kepatuhan (Compliance Analyst)",
+    "profile_tagline": "Seorang ahli yang memastikan sebuah bisnis berjalan sesuai aturan dan regulasi.",
+    "reason_why": "Kamu memiliki minat yang kuat pada aturan, prosedur, dan data yang akurat (Conventional), dan kamu menggunakannya dalam konteks bisnis untuk memengaruhi dan mengarahkan (Enterprising). Logika INTP-mu membuatmu sangat baik dalam menafsirkan regulasi yang kompleks dan menerapkannya pada proses bisnis.",
+    "what_this_means": "Kamu adalah tipe orang yang akan bekerja di departemen hukum, keuangan, atau kepatuhan sebuah perusahaan. Kamu memastikan bahwa perusahaan tidak melanggar hukum atau peraturan industri. Kamu menikmati proses menganalisis aturan yang rumit dan membangun sistem untuk memastikannya diikuti, sehingga bisnis bisa berjalan dengan aman dan efisien.",
+    "strengths": ["Sangat teliti dan berorientasi pada detail.", "Memiliki pemahaman yang kuat tentang aturan dan prosedur.", "Mampu berpikir kritis dan analitis.", "Dapat diandalkan dan berintegritas tinggi."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan tidak fleksibel.", "Mungkin dilihat sebagai 'polisi' di tempat kerja.", "Kurang tertarik pada tugas-tugas yang membutuhkan kreativitas atau inovasi radikal.", "Cenderung menghindari risiko."],
+    "recommended_majors": [
+      { "name": "Hukum", "reason": "Mempelajari sistem hukum dan regulasi (Conventional) yang menjadi dasar operasi bisnis dan masyarakat (Enterprising)." },
+      { "name": "Akuntansi atau Perpajakan", "reason": "Fokus pada aturan keuangan dan pajak (Conventional) yang harus dipatuhi oleh semua entitas bisnis (Enterprising)." },
+      { "name": "Manajemen Risiko", "reason": "Mempelajari cara mengidentifikasi dan memitigasi risiko bisnis sesuai dengan standar dan prosedur yang berlaku." }
+    ],
+    "career_recommendations": [
+      { "name": "Analis Kepatuhan (Compliance Analyst)", "reason": "Bekerja di industri seperti perbankan atau farmasi untuk memastikan perusahaan mematuhi semua peraturan pemerintah." },
+      { "name": "Auditor Internal", "reason": "Memeriksa proses internal perusahaan untuk memastikan tidak ada penipuan dan semua berjalan sesuai prosedur." },
+      { "name": "Konsultan Pajak atau Pengacara Korporat", "reason": "Memberikan nasihat kepada perusahaan tentang cara beroperasi secara legal dan efisien dalam kerangka hukum." }
     ]
   }
 ]
