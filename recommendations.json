@@ -5653,3 +5653,364 @@
     ]
   }
 ]
+{
+    "mbti_type": "ESFJ",
+    "riasec_code": "SE",
+    "profile_title": "Sang Bintang Komunitas",
+    "profile_tagline": "Seorang pemimpin sosial yang menyatukan orang dan menciptakan pengalaman yang tak terlupakan.",
+    "reason_why": "Ini adalah kombinasi ESFJ yang paling murni. Kemampuanmu untuk terhubung dengan dan mengelola emosi kelompok (Fe) serta mengingat detail tentang orang (Si) sangat selaras dengan minat untuk memimpin (Enterprising) dan membantu orang lain (Social).",
+    "what_this_means": "Kamu adalah lem perekat sosial. Kamu terlahir untuk menjadi seorang perencana acara, manajer humas, atau pemimpin organisasi. Kamu memiliki energi yang tak ada habisnya untuk mengorganisir orang, menciptakan keharmonisan, dan memastikan semua orang merasa disertakan dan bersenang-senang. Kamu adalah jantung dari setiap acara atau komunitas.",
+    "strengths": ["Sangat karismatik dan pandai bergaul.", "Luar biasa dalam mengorganisir acara dan kelompok.", "Sangat baik dalam membangun dan memelihara jaringan sosial.", "Pemimpin yang hangat, suportif, dan memotivasi."],
+    "weaknesses": ["Bisa menjadi terlalu peduli dengan apa yang dipikirkan orang lain.", "Cenderung menghindari konflik demi menjaga keharmonisan.", "Mungkin kesulitan untuk mengatakan 'tidak' dan mengambil terlalu banyak tanggung jawab.", "Sangat sensitif terhadap kritik atau penolakan sosial."],
+    "recommended_majors": [
+      { "name": "Hubungan Masyarakat (Public Relations) atau Komunikasi", "reason": "Secara langsung mengasah bakat alamimu untuk membangun citra (Enterprising) dan terhubung dengan publik (Social)." },
+      { "name": "Manajemen Acara (Event Management)", "reason": "Menyalurkan energimu untuk merencanakan dan mengeksekusi acara yang menyatukan orang." },
+      { "name": "Manajemen Perhotelan atau Pariwisata", "reason": "Fokus pada penciptaan pengalaman yang luar biasa bagi orang lain." }
+    ],
+    "career_recommendations": [
+      { "name": "Perencana Acara atau Pernikahan", "reason": "Mengorganisir momen-momen terpenting dalam hidup orang dengan perhatian dan kehangatan." },
+      { "name": "Manajer Hubungan Masyarakat (PR Manager)", "reason": "Menjadi wajah dan suara yang ramah dari sebuah organisasi." },
+      { "name": "Manajer Penjualan atau Akun", "reason": "Membangun hubungan jangka panjang dengan klien melalui pelayanan yang luar biasa." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "SC",
+    "profile_title": "Sang Koordinator Utama",
+    "profile_tagline": "Seorang organisator yang andal, yang memastikan semua kebutuhan orang lain terpenuhi di belakang layar.",
+    "reason_why": "Kamu menggabungkan doronganmu yang kuat untuk membantu dan melayani orang lain (Social) dengan bakat untuk keteraturan, detail, dan mengikuti prosedur (Conventional). Sebagai seorang ESFJ, kamu adalah perencana yang peduli, menggunakan keterampilan organisasimu untuk kebaikan orang lain.",
+    "what_this_means": "Kamu adalah tulang punggung administratif dari setiap tim atau organisasi. Kamu adalah seorang manajer kantor, asisten eksekutif, atau koordinator pasien. Kamu menikmati proses menciptakan sistem yang teratur yang membuat hidup lebih mudah bagi semua orang. Kamu adalah orang yang akan mengingat hari ulang tahun semua orang dan memastikan semua persediaan kantor selalu terisi.",
+    "strengths": ["Sangat terorganisir, teliti, dan dapat diandalkan.", "Sangat baik dalam mengelola jadwal dan logistik.", "Sangat suportif dan penuh perhatian terhadap kebutuhan rekan kerja.", "Komunikator yang jelas dan efisien."],
+    "weaknesses": ["Bisa menjadi sangat resisten terhadap perubahan mendadak pada rencana.", "Cenderung terlalu banyak mengambil tugas administratif.", "Mungkin kesulitan untuk berimprovisasi di luar prosedur.", "Bisa sangat stres jika terjadi kekacauan atau ketidakteraturan."],
+    "recommended_majors": [
+      { "name": "Administrasi Bisnis atau Perkantoran", "reason": "Secara langsung melatih keterampilan organisasi (Conventional) untuk mendukung sebuah tim (Social)." },
+      { "name": "Manajemen Sumber Daya Manusia (SDM)", "reason": "Fokus pada sistem dan prosedur untuk mengelola data dan kesejahteraan karyawan." },
+      { "name": "Manajemen Informasi Kesehatan", "reason": "Mengelola data pasien yang detail (Conventional) untuk mendukung pelayanan kesehatan (Social)." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Kantor (Office Manager)", "reason": "Bertanggung jawab atas kelancaran semua operasional harian di sebuah kantor." },
+      { "name": "Asisten Eksekutif", "reason": "Memberikan dukungan administratif tingkat tinggi kepada seorang pemimpin." },
+      { "name": "Koordinator Pasien di Rumah Sakit atau Klinik", "reason": "Mengelola jadwal, pendaftaran, dan semua kebutuhan administratif pasien." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "SR",
+    "profile_title": "Sang Perawat Utama",
+    "profile_tagline": "Seorang pemberi perawatan yang berdedikasi, yang memberikan kenyamanan praktis dan emosional.",
+    "reason_why": "Dorongan utamamu adalah untuk membantu dan merawat orang lain (Social), dan kamu melakukannya dengan cara yang sangat praktis, langsung, dan penuh perhatian (Realistic). Sebagai seorang ESFJ, kamu adalah perawat alami, menemukan kepuasan dalam memberikan perawatan langsung yang membuat perbedaan nyata.",
+    "what_this_means": "Kamu terlahir untuk berada di profesi perawatan. Kamu adalah seorang perawat, guru TK, atau terapis fisik. Kamu memiliki kombinasi langka antara kekuatan emosional untuk menangani penderitaan dengan kelembutan untuk memberikan kenyamanan. Kamu adalah orang yang akan memegang tangan seorang pasien, membacakan cerita untuk seorang anak, atau dengan sabar membimbing seseorang melalui latihan rehabilitasi.",
+    "strengths": ["Sangat empatik, peduli, dan penuh perhatian.", "Sangat terampil dalam memberikan perawatan praktis.", "Mampu menciptakan lingkungan yang aman dan menenangkan.", "Sangat dapat diandalkan dan berdedikasi pada kesejahteraan orang lain."],
+    "weaknesses": ["Pekerjaan bisa sangat menguras energi fisik dan emosional.", "Bisa menyerap terlalu banyak stres dan penderitaan dari orang lain.", "Cenderung mengabaikan kebutuhan diri sendiri demi pasien atau murid.", "Sangat sulit untuk menjaga jarak emosional yang sehat."],
+    "recommended_majors": [
+      { "name": "Keperawatan", "reason": "Profesi yang secara sempurna menggabungkan perawatan langsung (Realistic) dengan pelayanan manusia (Social)." },
+      { "name": "Pendidikan Anak Usia Dini (PAUD)", "reason": "Fokus pada perawatan dan pendidikan anak-anak kecil melalui interaksi langsung." },
+      { "name": "Fisioterapi atau Terapi Okupasi", "reason": "Membantu orang lain secara fisik untuk meningkatkan kualitas hidup mereka." }
+    ],
+    "career_recommendations": [
+      { "name": "Perawat", "reason": "Memberikan perawatan langsung dan dukungan emosional kepada pasien di rumah sakit, klinik, atau panti jompo." },
+      { "name": "Guru Taman Kanak-Kanak", "reason": "Menjadi sosok yang merawat dan mendidik bagi anak-anak kecil." },
+      { "name": "Terapis Fisik", "reason": "Secara langsung membantu pasien memulihkan kekuatan dan gerakan setelah cedera." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "SA",
+    "profile_title": "Sang Tuan Rumah Pesta",
+    "profile_tagline": "Seorang individu yang menggunakan kreativitas dan kehangatannya untuk menciptakan perayaan yang indah.",
+    "reason_why": "Kamu menggabungkan keinginanmu yang kuat untuk menyatukan dan membahagiakan orang lain (Social) dengan apresiasi yang mendalam terhadap estetika, dekorasi, dan suasana (Artistic). Sebagai seorang ESFJ, kamu adalah perencana acara yang sempurna, memperhatikan setiap detail untuk menciptakan pengalaman yang tak terlupakan.",
+    "what_this_means": "Kamu adalah seorang perencana pernikahan, dekorator, atau manajer katering. Kamu tidak hanya mengorganisir sebuah acara; kamu menciptakan sebuah atmosfer. Kamu memiliki mata yang jeli untuk detail—dari skema warna, pilihan bunga, hingga playlist musik—dan kamu menggunakan semua itu untuk memastikan bahwa setiap tamu merasa istimewa dan acara berjalan dengan indah.",
+    "strengths": ["Sangat baik dalam menciptakan suasana yang hangat dan ramah.", "Memiliki kepekaan estetika yang tinggi.", "Sangat terorganisir dan memperhatikan detail.", "Pandai memahami keinginan klien dan mewujudkannya."],
+    "weaknesses": ["Bisa menjadi sangat stres untuk memastikan semuanya sempurna.", "Sangat terpengaruh oleh umpan balik atau keluhan dari tamu.", "Cenderung terlalu banyak bekerja untuk menyenangkan semua orang.", "Mungkin kesulitan menyeimbangkan antara visi kreatif dan batasan anggaran."],
+    "recommended_majors": [
+      { "name": "Manajemen Acara (Event Management) atau Perhotelan", "reason": "Mempelajari cara merancang (Artistic) dan mengelola (Social) acara-acara yang berkesan." },
+      { "name": "Desain Interior", "reason": "Mengasah kepekaan estetikamu dalam menciptakan ruang dan suasana." },
+      { "name": "Seni Kuliner (dengan fokus pada katering atau pastry)", "reason": "Menggunakan makanan sebagai medium kreatif untuk perayaan." }
+    ],
+    "career_recommendations": [
+      { "name": "Perencana Pernikahan (Wedding Planner)", "reason": "Membantu pasangan merancang dan mengeksekusi hari terpenting dalam hidup mereka." },
+      { "name": "Dekorator Acara atau Desainer Bunga", "reason": "Mengubah sebuah ruang menjadi tempat perayaan yang indah." },
+      { "name": "Manajer Katering", "reason": "Bertanggung jawab atas aspek kuliner dari sebuah acara, memastikan makanan lezat dan disajikan dengan indah." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "CS",
+    "profile_title": "Sang Manajer Komunitas",
+    "profile_tagline": "Seorang organisator yang andal, yang membangun dan memelihara keharmonisan dalam sebuah kelompok.",
+    "reason_why": "Dorongan utamamu adalah untuk bekerja dengan cara yang teratur dan sistematis (Conventional), dan kamu termotivasi oleh keinginan yang tulus untuk membantu dan menjaga keharmonisan kelompok (Social). Sebagai seorang ESFJ, kamu adalah penjaga tradisi dan stabilitas komunitas.",
+    "what_this_means": "Kamu adalah seorang manajer komunitas, administrator gereja, atau sekretaris di sebuah klub atau organisasi. Kamu adalah orang yang akan mengingat nama semua anggota, mengatur jadwal pertemuan, dan mengirimkan buletin mingguan. Kamu menemukan kepuasan dalam menciptakan struktur yang memungkinkan sebuah komunitas untuk berkembang dan tetap terhubung.",
+    "strengths": ["Sangat terorganisir dan dapat diandalkan.", "Sangat baik dalam memelihara hubungan dan tradisi.", "Komunikator yang jelas dan konsisten.", "Setia dan berdedikasi pada komunitasnya."],
+    "weaknesses": ["Bisa menjadi sangat resisten terhadap perubahan atau cara-cara baru.", "Cenderung menghindari konflik yang diperlukan untuk pertumbuhan.", "Mungkin terlalu fokus pada aturan dan kurang pada spontanitas.", "Bisa merasa bertanggung jawab secara personal atas kebahagiaan setiap anggota."],
+    "recommended_majors": [
+      { "name": "Administrasi Publik atau Manajemen Nirlaba", "reason": "Mempelajari cara mengelola (Conventional) organisasi yang berorientasi pada pelayanan komunitas (Social)." },
+      { "name": "Sosiologi", "reason": "Memberikan pemahaman tentang bagaimana kelompok dan komunitas berfungsi." },
+      { "name": "Komunikasi", "reason": "Mengasah kemampuanmu untuk menjaga agar semua anggota komunitas tetap terinformasi." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Komunitas (untuk perumahan, merek, atau online)", "reason": "Menjadi titik kontak utama, mengorganisir acara, dan menjaga keharmonisan." },
+      { "name": "Direktur Keanggotaan di sebuah Klub atau Asosiasi", "reason": "Mengelola data anggota, menyambut anggota baru, dan memastikan mereka tetap terlibat." },
+      { "name": "Administrator di Lembaga Keagamaan atau Komunitas", "reason": "Mengurus semua aspek operasional di belakang layar." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "CE",
+    "profile_title": "Sang Manajer Personalia",
+    "profile_tagline": "Seorang pemimpin yang memastikan kesejahteraan karyawan melalui kebijakan yang adil dan terstruktur.",
+    "reason_why": "Kamu menggabungkan minat pada aturan, data, dan proses yang teratur (Conventional) dengan dorongan yang kuat untuk memimpin dan menjaga keharmonisan tim (Enterprising & Fe). Sebagai seorang ESFJ, kamu adalah manajer HR yang sempurna, menyeimbangkan antara kebutuhan perusahaan dan kebutuhan karyawan.",
+    "what_this_means": "Kamu adalah seorang manajer sumber daya manusia yang berhati besar. Kamu unggul dalam mengelola proses orientasi karyawan baru, menangani administrasi tunjangan, dan memastikan bahwa kebijakan perusahaan diterapkan secara adil. Kamu adalah orang yang akan didekati karyawan jika mereka memiliki masalah, dan kamu akan menanganinya dengan empati dan sesuai dengan prosedur.",
+    "strengths": ["Sangat baik dalam merancang dan menerapkan kebijakan HR.", "Mampu menyeimbangkan antara empati dan kepatuhan pada aturan.", "Sangat terorganisir dan dapat diandalkan.", "Pemimpin yang suportif dan menciptakan lingkungan kerja yang positif."],
+    "weaknesses": ["Bisa menjadi sangat kaku dengan kebijakan dan kurang fleksibel.", "Sangat kesulitan saat harus menyampaikan berita buruk (misalnya, PHK).", "Cenderung menghindari konflik antara manajemen dan karyawan.", "Bisa menjadi terlalu terlibat secara emosional dalam masalah karyawan."],
+    "recommended_majors": [
+      { "name": "Manajemen Sumber Daya Manusia (SDM)", "reason": "Jurusan yang secara sempurna menggabungkan studi tentang manusia di tempat kerja dengan perancangan sistem dan kebijakan (Conventional & Enterprising)." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan dasar yang kuat dalam semua aspek manajemen." },
+      { "name": "Hukum (dengan minat pada hukum ketenagakerjaan)", "reason": "Memberikan pemahaman tentang kerangka hukum yang mengatur tempat kerja." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Sumber Daya Manusia (HR Manager)", "reason": "Bertanggung jawab atas seluruh siklus hidup karyawan di sebuah perusahaan." },
+      { "name": "Spesialis Hubungan Karyawan (Employee Relations)", "reason": "Menjadi mediator dan penasihat untuk masalah-masalah interpersonal di tempat kerja." },
+      { "name": "Spesialis Rekrutmen", "reason": "Menemukan bakat yang tepat dan memastikan mereka memiliki pengalaman orientasi yang positif." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "CR",
+    "profile_title": "Sang Kepala Perawat",
+    "profile_tagline": "Seorang organisator yang teliti, yang memastikan sebuah unit medis berjalan dengan lancar dan aman.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang teratur dan berbasis prosedur (Conventional) dengan fokus pada dunia perawatan kesehatan yang praktis (Realistic). Sebagai seorang ESFJ, kamu adalah pemimpin yang peduli di lingkungan ini, memastikan bahwa standar tertinggi perawatan dan keselamatan selalu dipatuhi.",
+    "what_this_means": "Kamu adalah seorang kepala perawat, manajer klinik, atau teknisi bedah senior. Kamu memiliki ketelitian untuk memastikan semua persediaan medis tersedia, jadwal staf diatur dengan adil, dan setiap protokol diikuti dengan sempurna. Kamu adalah orang yang menjaga keteraturan di tengah lingkungan yang berisiko tinggi, semua demi keselamatan pasien.",
+    "strengths": ["Sangat terorganisir dan berorientasi pada detail.", "Memiliki rasa tanggung jawab yang sangat tinggi.", "Sangat baik dalam menerapkan dan mengawasi prosedur.", "Pemimpin yang suportif dan menjadi panutan bagi timnya."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan tidak suka penyimpangan dari protokol.", "Sangat stres oleh kesalahan atau situasi yang tidak terduga.", "Cenderung 'micromanage' untuk memastikan semuanya sempurna.", "Mungkin kesulitan untuk beradaptasi dengan teknologi atau metode baru dengan cepat."],
+    "recommended_majors": [
+      { "name": "Manajemen Keperawatan atau Administrasi Kesehatan", "reason": "Mempersiapkanmu untuk peran kepemimpinan dalam mengelola (Conventional) unit perawatan kesehatan (Realistic)." },
+      { "name": "Keperawatan (dengan jalur manajerial)", "reason": "Memberikan dasar klinis yang kuat sebelum beralih ke peran manajemen." },
+      { "name": "Teknologi Bedah", "reason": "Profesi yang menuntut tingkat presisi dan kepatuhan pada prosedur yang sangat tinggi." }
+    ],
+    "career_recommendations": [
+      { "name": "Kepala Perawat atau Manajer Unit Perawatan", "reason": "Memimpin tim perawat dan bertanggung jawab atas semua operasional di sebuah bangsal atau unit." },
+      { "name": "Manajer Klinik", "reason": "Mengelola semua aspek operasional dari sebuah praktik medis." },
+      { "name": "Spesialis Pengendalian Infeksi", "reason": "Merancang dan memastikan kepatuhan terhadap protokol untuk menjaga lingkungan medis tetap aman." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "CA",
+    "profile_title": "Sang Penata Interior",
+    "profile_tagline": "Seorang desainer yang menciptakan ruang yang indah, teratur, dan harmonis.",
+    "reason_why": "Kamu menggabungkan minat pada estetika dan kreativitas (Artistic) dengan bakat untuk perencanaan yang detail, keteraturan, dan mengikuti aturan (Conventional). Sebagai seorang ESFJ, kamu adalah seorang desainer yang sangat berempati, fokus pada penciptaan ruang yang tidak hanya indah, tetapi juga mencerminkan kebutuhan dan kepribadian klien.",
+    "what_this_means": "Kamu adalah seorang desainer interior atau dekorator yang sangat baik. Kamu menikmati proses berinteraksi dengan klien, memahami gaya hidup mereka, dan kemudian menerjemahkannya ke dalam sebuah rencana desain yang terperinci. Kamu adalah orang yang akan membuat papan mood (mood board), memilih sampel kain, dan memastikan setiap elemen dalam sebuah ruangan saling melengkapi secara harmonis.",
+    "strengths": ["Memiliki mata yang baik untuk warna, komposisi, dan harmoni.", "Sangat terorganisir dan baik dalam merencanakan proyek.", "Sangat baik dalam memahami dan mewujudkan visi klien.", "Teliti dan memperhatikan detail-detail kecil dalam dekorasi."],
+    "weaknesses": ["Bisa menjadi terlalu terikat pada aturan desain tradisional.", "Mungkin kurang berani dalam bereksperimen dengan gaya yang tidak konvensional.", "Sangat sensitif terhadap kritik dari klien.", "Bisa kesulitan menyeimbangkan antara selera pribadi dan selera klien."],
+    "recommended_majors": [
+      { "name": "Desain Interior", "reason": "Secara langsung mempelajari seni (Artistic) dan ilmu (Conventional) menata ruang." },
+      { "name": "Sejarah Seni", "reason": "Memberikan dasar pengetahuan yang luas tentang berbagai gaya dekorasi." },
+      { "name": "Manajemen Proyek", "reason": "Mengasah kemampuanmu untuk mengelola proyek desain dari awal hingga akhir." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Interior", "reason": "Bekerja dengan klien untuk merancang dan mendekorasi rumah atau ruang komersial mereka." },
+      { "name": "Konsultan Dekorasi", "reason": "Memberikan nasihat kepada klien tentang pemilihan warna, furnitur, dan aksesori." },
+      { "name": "Visual Merchandiser", "reason": "Menggunakan prinsip desain untuk menata produk di toko ritel agar terlihat menarik." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "CI",
+    "profile_title": "Sang Pustakawan Komunitas",
+    "profile_tagline": "Seorang ahli informasi yang berdedikasi untuk menghubungkan orang dengan pengetahuan.",
+    "reason_why": "Kamu menggabungkan minat pada riset dan pengetahuan (Investigative) dengan keahlian dalam sistem yang terstruktur dan berbasis aturan (Conventional). Sebagai seorang ESFJ, kamu tidak hanya mencintai keteraturan; kamu menggunakannya sebagai cara untuk melayani dan terhubung dengan komunitasmu.",
+    "what_this_means": "Kamu adalah seorang pustakawan yang sangat ramah dan membantu. Kamu menikmati proses mengkatalogkan buku dengan benar, tetapi bagian favoritmu dari pekerjaan adalah saat seseorang datang ke meja referensi dan kamu bisa membantunya menemukan buku atau informasi yang tepat. Kamu adalah pemandu yang sabar di dunia pengetahuan.",
+    "strengths": ["Sangat terorganisir dan memiliki pengetahuan yang luas.", "Sangat ramah, mudah didekati, dan sabar.", "Sangat baik dalam memahami kebutuhan informasi pengguna.", "Dapat diandalkan dan berdedikasi pada pelayanan publik."],
+    "weaknesses": ["Bisa menjadi sangat kaku dengan aturan perpustakaan.", "Mungkin kurang tertarik pada aspek teknologi atau inovasi yang disruptif.", "Cenderung menghindari konfrontasi dengan pengunjung yang sulit.", "Bisa frustrasi jika perpustakaan tidak dihargai oleh komunitas."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan dan Informasi", "reason": "Jurusan yang secara sempurna mempersiapkanmu untuk mengelola (Conventional) informasi (Investigative) untuk publik." },
+      { "name": "Sejarah", "reason": "Memberikan dasar pengetahuan yang kuat untuk bekerja di perpustakaan referensi atau arsip." },
+      { "name": "Pendidikan", "reason": "Mengasah kemampuanmu untuk membantu orang lain belajar dan menemukan informasi." }
+    ],
+    "career_recommendations": [
+      { "name": "Pustakawan (di perpustakaan umum atau sekolah)", "reason": "Menjadi jantung dari sebuah komunitas, menghubungkan orang dengan buku dan sumber daya." },
+      { "name": "Peneliti Referensi", "reason": "Spesialisasi dalam menjawab pertanyaan-pertanyaan penelitian yang sulit dari publik atau akademisi." },
+      { "name": "Arsiparis", "reason": "Mengelola dan membantu orang mengakses koleksi dokumen bersejarah." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "IA",
+    "profile_title": "Sang Sejarawan Seni",
+    "profile_tagline": "Seorang peneliti yang menemukan dan menceritakan kisah di balik karya seni.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada riset, sejarah, dan pemahaman (Investigative) dengan kecintaan pada keindahan dan ekspresi budaya (Artistic). Sebagai seorang ESFJ, kamu tidak hanya mempelajari seni; kamu ingin membagikan keindahannya dan ceritanya dengan orang lain, membuatnya dapat diakses dan dihargai.",
+    "what_this_means": "Kamu adalah seorang sejarawan seni, dosen, atau pemandu museum. Kamu menikmati proses meneliti kehidupan seorang seniman, menganalisis makna di balik sebuah lukisan, dan kemudian menyusun semua informasi itu menjadi sebuah cerita yang menarik. Kamu adalah seorang penerjemah antara dunia seni yang kompleks dan audiens yang ingin belajar.",
+    "strengths": ["Memiliki pengetahuan yang luas dan mendalam tentang seni.", "Pencerita yang sangat menarik dan antusias.", "Mampu membuat topik yang akademis terasa hidup dan relevan.", "Sangat baik dalam berinteraksi dengan mahasiswa atau pengunjung museum."],
+    "weaknesses": ["Bisa menjadi terlalu fokus pada narasi yang populer dan kurang pada analisis kritis.", "Mungkin kurang tertarik pada teori seni yang sangat abstrak atau filosofis.", "Sangat terpengaruh oleh reaksi audiens.", "Cenderung menghindari interpretasi seni yang kontroversial."],
+    "recommended_majors": [
+      { "name": "Sejarah Seni", "reason": "Secara langsung mempelajari cara meneliti (Investigative) dan mengapresiasi (Artistic) karya seni." },
+      { "name": "Museologi (Studi Museum)", "reason": "Fokus pada bagaimana cara mengkurasi dan mengkomunikasikan seni kepada publik." },
+      { "name": "Sejarah atau Antropologi", "reason": "Memberikan konteks yang lebih luas untuk memahami penciptaan seni." }
+    ],
+    "career_recommendations": [
+      { "name": "Dosen atau Guru Sejarah Seni", "reason": "Berbagi kecintaan dan pengetahuanmu tentang seni dengan mahasiswa." },
+      { "name": "Pemandu Museum atau Dosen Galeri", "reason": "Memimpin tur dan memberikan presentasi yang membuat koleksi museum menjadi hidup." },
+      { "name": "Penulis atau Peneliti untuk Katalog Seni atau Buku", "reason": "Menyumbangkan pengetahuanmu pada publikasi tentang seni dan seniman." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "AS",
+    "profile_title": "Sang Aktor Pendukung",
+    "profile_tagline": "Seorang penampil yang unggul dalam menciptakan keharmonisan dan mendukung pemeran utama.",
+    "reason_why": "Dorongan utamamu adalah untuk tampil dan berekspresi secara kreatif (Artistic), tetapi kamu melakukannya dengan fokus yang kuat pada dinamika kelompok dan membantu orang lain bersinar (Social). Sebagai seorang ESFJ, kamu adalah pemain tim yang sempurna di atas panggung.",
+    "what_this_means": "Kamu adalah seorang aktor karakter atau anggota dari sebuah grup musik atau teater. Kamu mungkin bukan bintang utamanya, tetapi kamu adalah orang yang membuat bintang utama terlihat bagus. Kamu sangat peka terhadap rekan-rekanmu di atas panggung, mampu berimprovisasi dan beradaptasi untuk mendukung penampilan mereka. Kamu menemukan kegembiraan dalam kesuksesan kolektif.",
+    "strengths": ["Pemain tim yang sangat baik dan suportif.", "Sangat peka terhadap dinamika panggung.", "Mampu beradaptasi dengan berbagai peran pendukung.", "Kehadiran yang hangat dan positif di ruang latihan."],
+    "weaknesses": ["Bisa jadi kurang memiliki dorongan untuk menjadi bintang utama.", "Cenderung menghindari peran yang terlalu gelap atau konfrontatif.", "Sangat terpengaruh oleh moral atau konflik dalam sebuah kelompok.", "Bisa mengorbankan kebutuhan artistiknya sendiri demi keharmonisan kelompok."],
+    "recommended_majors": [
+      { "name": "Teater", "reason": "Mempelajari seni kolaborasi (Social) dalam pertunjukan (Artistic)." },
+      { "name": "Musik (dengan fokus pada ansambel atau paduan suara)", "reason": "Melatihmu untuk menjadi bagian dari sebuah kesatuan musik yang harmonis." },
+      { "name": "Tari", "reason": "Seringkali merupakan bentuk seni yang sangat kolaboratif." }
+    ],
+    "career_recommendations": [
+      { "name": "Aktor Karakter", "reason": "Spesialisasi dalam peran-peran pendukung yang penting yang memberikan kedalaman pada sebuah cerita." },
+      { "name": "Anggota Grup Musik, Paduan Suara, atau Orkestra", "reason": "Menyumbangkan bakatmu untuk menciptakan suara kolektif yang indah." },
+      { "name": "Pemeran dalam Teater Improvisasi", "reason": "Bentuk seni yang sepenuhnya didasarkan pada mendengarkan dan mendukung rekan mainmu." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "AR",
+    "profile_title": "Sang Dekorator Rumah",
+    "profile_tagline": "Seorang kreator yang menggunakan keterampilan praktis untuk menciptakan rumah yang hangat dan ramah.",
+    "reason_why": "Kamu menggabungkan minat pada ekspresi kreatif dan estetika (Artistic) dengan fokus pada dunia fisik yang nyata dan praktis (Realistic). Sebagai seorang ESFJ, kamu tidak hanya ingin sebuah rumah terlihat bagus; kamu ingin rumah itu terasa seperti sebuah pelukan hangat, tempat di mana keluarga dan teman bisa berkumpul.",
+    "what_this_means": "Kamu adalah seorang dekorator interior, penata bunga, atau bahkan seorang koki rumahan yang hebat. Kamu memiliki bakat alami untuk menciptakan kenyamanan. Kamu menikmati proses-proses praktis—mengecat dinding, menata bantal, merangkai bunga, atau memasak makanan yang lezat—semua dengan tujuan untuk membuat orang lain merasa bahagia dan diterima.",
+    "strengths": ["Memiliki 'sentuhan' alami untuk menciptakan kehangatan dan kenyamanan.", "Sangat praktis dan pandai bekerja dengan tangan.", "Sangat baik dalam memahami dan menciptakan suasana yang diinginkan.", "Sangat berorientasi pada pelayanan dan suka membahagiakan orang lain."],
+    "weaknesses": ["Gaya desainnya bisa cenderung sangat tradisional atau 'aman'.", "Mungkin kurang tertarik pada teori desain yang abstrak.", "Bisa menjadi sangat terikat pada hasil karyanya.", "Cenderung bekerja terlalu keras untuk memastikan semuanya sempurna bagi orang lain."],
+    "recommended_majors": [
+      { "name": "Desain Interior atau Dekorasi", "reason": "Secara langsung mengasah bakatmu dalam menata (Artistic) ruang fisik (Realistic)." },
+      { "name": "Seni Kuliner", "reason": "Menggunakan makanan sebagai cara untuk merawat dan menciptakan kebersamaan." },
+      { "name": "Hortikultura", "reason": "Fokus pada penggunaan tanaman dan bunga untuk memperindah lingkungan." }
+    ],
+    "career_recommendations": [
+      { "name": "Dekorator Interior", "reason": "Membantu klien menciptakan rumah yang indah dan nyaman." },
+      { "name": "Penata Bunga (Florist)", "reason": "Menciptakan rangkaian bunga untuk berbagai acara dan perayaan." },
+      { "name": "Blogger atau Vlogger Gaya Hidup/Dekorasi Rumah", "reason": "Berbagi tips dan inspirasi tentang cara menciptakan rumah yang hangat dan ramah." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "AC",
+    "profile_title": "Sang Perencana Pernikahan",
+    "profile_tagline": "Seorang organisator yang teliti, yang mengubah impian menjadi perayaan yang sempurna.",
+    "reason_why": "Kamu menggabungkan minat pada keindahan, tradisi, dan perayaan (Artistic) dengan bakat yang luar biasa untuk perencanaan yang detail, jadwal, dan keteraturan (Conventional). Sebagai seorang ESFJ, kamu adalah orang yang sempurna untuk dipercaya dalam mengelola hari terpenting dalam hidup seseorang.",
+    "what_this_means": "Kamu adalah seorang perencana pernikahan atau acara yang ulung. Kamu memiliki kemampuan untuk mendengarkan visi romantis klien dan kemudian menerjemahkannya menjadi daftar tugas, anggaran, dan jadwal yang sangat detail. Kamu adalah orang yang akan memastikan setiap detail kecil—dari warna serbet hingga waktu pemotongan kue—sesuai dengan rencana. Kamu menciptakan keajaiban melalui organisasi.",
+    "strengths": ["Sangat terorganisir dan berorientasi pada detail.", "Mampu menyeimbangkan antara visi kreatif dan realitas logistik.", "Sangat baik dalam berkomunikasi dan menenangkan klien yang stres.", "Sangat dapat diandalkan dan memastikan semuanya berjalan sesuai rencana."],
+    "weaknesses": ["Bisa menjadi sangat stres karena tekanan untuk kesempurnaan.", "Sangat terpengaruh secara emosional oleh kebahagiaan (atau ketidakpuasan) klien.", "Cenderung bekerja terlalu keras dan mengabaikan keseimbangan hidup.", "Mungkin kurang fleksibel jika ada permintaan perubahan di menit-menit terakhir."],
+    "recommended_majors": [
+      { "name": "Manajemen Acara (Event Management) atau Perhotelan", "reason": "Secara langsung melatihmu dalam semua aspek perencanaan (Conventional) dan eksekusi acara (Artistic)." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan dasar yang kuat dalam penganggaran, negosiasi, dan manajemen proyek." },
+      { "name": "Komunikasi", "reason": "Mengasah kemampuanmu untuk berkoordinasi dengan klien, vendor, dan semua pihak lain yang terlibat." }
+    ],
+    "career_recommendations": [
+      { "name": "Perencana Pernikahan (Wedding Planner)", "reason": "Mengkhususkan diri dalam merancang dan mengkoordinasikan hari pernikahan." },
+      { "name": "Perencana Acara Sosial (ulang tahun, perayaan, dll.)", "reason": "Mengorganisir berbagai macam perayaan personal." },
+      { "name": "Manajer Acara di Hotel atau Venue", "reason": "Bekerja di satu lokasi untuk mengkoordinasikan semua acara yang diadakan di sana." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "AE",
+    "profile_title": "Sang Manajer Butik",
+    "profile_tagline": "Seorang pemimpin yang menciptakan pengalaman berbelanja yang personal dan menyenangkan.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin, menjual, dan menyenangkan pelanggan (Enterprising) dengan kepekaan estetika yang kuat dan kecintaan pada produk-produk yang indah (Artistic). Sebagai seorang ESFJ, kamu adalah seorang penjual yang membangun hubungan, bukan hanya transaksi.",
+    "what_this_means": "Kamu adalah seorang manajer atau pemilik butik fashion, toko dekorasi rumah, atau galeri seni. Kamu tidak hanya menjual produk; kamu menjual sebuah gaya hidup. Kamu memiliki selera yang sangat baik dan menikmati proses menata tokomu agar terlihat menarik. Kekuatan terbesarmu adalah kemampuanmu untuk terhubung dengan pelanggan, memahami selera mereka, dan membuat mereka merasa seperti sedang berbelanja dengan seorang teman.",
+    "strengths": ["Sangat baik dalam membangun hubungan dengan pelanggan.", "Memiliki selera estetika yang baik dan pandai menata produk.", "Pemimpin yang hangat dan memotivasi bagi staf penjualan.", "Sangat persuasif dengan cara yang ramah dan tulus."],
+    "weaknesses": ["Bisa kesulitan untuk menjadi agresif dalam penjualan.", "Sangat terpengaruh oleh umpan balik negatif dari pelanggan.", "Mungkin terlalu banyak memberikan diskon demi menyenangkan pelanggan.", "Cenderung lebih fokus pada pengalaman di dalam toko daripada strategi bisnis jangka panjang."],
+    "recommended_majors": [
+      { "name": "Manajemen Bisnis Ritel atau Pemasaran", "reason": "Mempelajari sisi bisnis (Enterprising) dari dunia ritel yang estetis (Artistic)." },
+      { "name": "Manajemen Mode (Fashion Management) atau Merchandising", "reason": "Spesialisasi dalam bisnis fashion." },
+      { "name": "Desain Interior", "reason": "Mengasah kepekaan estetikamu, yang bisa kamu terapkan dalam bisnis ritel." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer atau Pemilik Toko Butik", "reason": "Mengkurasi koleksi produk dan menciptakan pengalaman berbelanja yang unik." },
+      { "name": "Penata Gaya Pribadi (Personal Shopper)", "reason": "Bekerja satu lawan satu dengan klien untuk membantu mereka menemukan gaya mereka." },
+      { "name": "Manajer Merek (Brand Manager) untuk merek gaya hidup", "reason": "Bertanggung jawab atas citra dan pengalaman keseluruhan dari sebuah merek." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "EI",
+    "profile_title": "Sang Penggalang Dana",
+    "profile_tagline": "Seorang komunikator yang persuasif, yang menghubungkan orang-orang baik dengan tujuan yang baik.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin, memengaruhi, dan mencapai target (Enterprising) dengan minat yang tulus untuk memahami dan terhubung dengan orang lain (Investigative & Fe). Sebagai seorang ESFJ, kamu adalah seorang penggalang dana yang ideal karena kamu tidak hanya meminta uang; kamu membangun hubungan dan menginspirasi orang untuk menjadi bagian dari sebuah misi.",
+    "what_this_means": "Kamu adalah seorang direktur pengembangan atau penggalang dana profesional untuk sebuah organisasi nirlaba, universitas, atau rumah sakit. Kamu unggul dalam meneliti calon donor, memahami apa yang mereka pedulikan, dan kemudian membangun hubungan jangka panjang dengan mereka. Kamu adalah seorang pencerita yang mampu menerjemahkan pekerjaan baik sebuah organisasi menjadi narasi yang menggerakkan hati dan membuka dompet.",
+    "strengths": ["Sangat baik dalam membangun dan memelihara hubungan.", "Komunikator yang sangat persuasif dan tulus.", "Terorganisir dan gigih dalam mencapai target penggalangan dana.", "Benar-benar percaya pada misi organisasi yang diwakilinya."],
+    "weaknesses": ["Sangat tidak suka pada penolakan.", "Bisa kesulitan untuk meminta donasi secara agresif.", "Cenderung mengambil penolakan secara personal.", "Pekerjaan bisa sangat menuntut dan berbasis pada target yang membuat stres."],
+    "recommended_majors": [
+      { "name": "Komunikasi atau Hubungan Masyarakat", "reason": "Mengasah kemampuanmu untuk membangun hubungan dan menyampaikan pesan secara persuasif." },
+      { "name": "Manajemen Nirlaba", "reason": "Mempelajari semua aspek dari menjalankan organisasi nirlaba, termasuk penggalangan dana." },
+      { "name": "Pemasaran (Marketing)", "reason": "Menerapkan prinsip-prinsip pemasaran untuk tujuan sosial." }
+    ],
+    "career_recommendations": [
+      { "name": "Direktur Pengembangan atau Penggalang Dana", "reason": "Bertanggung jawab untuk merancang dan melaksanakan strategi penggalangan dana untuk sebuah organisasi." },
+      { "name": "Manajer Hubungan Donor", "reason": "Fokus pada membangun dan memelihara hubungan dengan para donatur utama." },
+      { "name": "Konsultan Penggalangan Dana", "reason": "Membantu berbagai organisasi nirlaba meningkatkan kemampuan mereka untuk menggalang dana." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "ER",
+    "profile_title": "Sang Manajer Perhotelan",
+    "profile_tagline": "Seorang pemimpin yang memastikan setiap tamu merasa disambut dan dirawat dengan sempurna.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mengelola sebuah operasi (Enterprising) dengan fokus pada dunia pelayanan yang nyata dan praktis (Realistic). Sebagai seorang ESFJ, kamu adalah manajer yang sempurna untuk lingkungan seperti hotel atau restoran, di mana kesuksesan diukur dari kebahagiaan dan kenyamanan tamu.",
+    "what_this_means": "Kamu adalah seorang manajer hotel, manajer restoran, atau direktur pelayanan tamu. Kamu adalah orang yang memastikan bahwa setiap aspek dari pengalaman tamu—dari kebersihan kamar, keramahan staf, hingga kualitas makanan—berjalan sesuai standar tertinggi. Kamu memimpin dengan turun langsung ke lapangan, menyapa tamu, dan memecahkan masalah saat itu juga.",
+    "strengths": ["Sangat berorientasi pada pelayanan pelanggan.", "Pemimpin yang sangat baik dan motivator bagi staf.", "Sangat baik dalam menangani keluhan dan situasi sulit dengan diplomasi.", "Memiliki perhatian yang tinggi pada detail-detail operasional."],
+    "weaknesses": ["Pekerjaan bisa sangat menuntut dengan jam kerja yang panjang dan tidak teratur.", "Bisa kesulitan untuk menjaga jarak emosional dan membawa pulang stres kerja.", "Sangat terpengaruh oleh moral staf dan ulasan tamu.", "Cenderung terlalu banyak bekerja untuk memastikan semuanya sempurna."],
+    "recommended_majors": [
+      { "name": "Manajemen Perhotelan atau Pariwisata", "reason": "Secara langsung mempersiapkanmu untuk memimpin (Enterprising) di industri pelayanan (Realistic)." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan dasar yang kuat dalam manajemen, keuangan, dan operasional." },
+      { "name": "Komunikasi", "reason": "Mengasah kemampuanmu untuk berinteraksi dengan tamu dan memimpin staf." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Umum Hotel", "reason": "Bertanggung jawab atas seluruh operasional dari sebuah hotel." },
+      { "name": "Manajer Makanan dan Minuman (F&B Manager)", "reason": "Mengawasi semua operasi restoran, bar, dan katering di sebuah hotel." },
+      { "name": "Pemilik Penginapan atau Restoran", "reason": "Membangun bisnis perhotelanmu sendiri dari nol." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "IC",
+    "profile_title": "Sang Pustakawan Referensi",
+    "profile_tagline": "Seorang ahli informasi yang ramah, yang menemukan kegembiraan dalam membantu orang lain menemukan jawaban.",
+    "reason_why": "Kamu menggabungkan minat pada riset dan pengetahuan (Investigative) dengan bakat untuk bekerja dengan sistem yang teratur dan berbasis aturan (Conventional). Sebagai seorang ESFJ, kamu adalah wajah manusiawi dari dunia informasi. Kamu tidak hanya tahu di mana menemukan jawaban; kamu melakukannya dengan senyum.",
+    "what_this_means": "Kamu adalah seorang pustakawan referensi atau peneliti. Kamu adalah orang di balik meja informasi yang akan dengan sabar mendengarkan pertanyaan yang paling rumit sekalipun dan kemudian dengan metodis menelusuri database untuk menemukan jawabannya. Kamu menikmati proses memecahkan teka-teki informasi demi membantu orang lain.",
+    "strengths": ["Sangat baik dalam melakukan riset di database.", "Sangat sabar dan ramah dalam membantu pengguna.", "Terorganisir dan metodis dalam pendekatan penelitian.", "Memiliki pengetahuan yang luas di berbagai bidang."],
+    "weaknesses": ["Bisa frustrasi dengan pengguna yang tidak bisa menjelaskan apa yang mereka cari.", "Mungkin kurang tertarik pada inovasi teknologi yang mengganggu sistem yang sudah dikenal.", "Cenderung menghindari topik penelitian yang sangat kontroversial.", "Pekerjaan bisa menjadi sangat rutin."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan dan Informasi", "reason": "Jurusan yang sempurna untuk menjadi seorang ahli informasi." },
+      { "name": "Sejarah atau Sastra", "reason": "Memberikanmu dasar pengetahuan yang luas untuk membantu dalam penelitian." },
+      { "name": "Jurnalistik", "reason": "Mengasah kemampuanmu dalam melakukan riset dan verifikasi fakta." }
+    ],
+    "career_recommendations": [
+      { "name": "Pustakawan Referensi (di perpustakaan umum atau akademik)", "reason": "Secara langsung membantu orang menemukan informasi yang mereka butuhkan." },
+      { "name": "Peneliti (untuk jurnalis, penulis, atau firma hukum)", "reason": "Melakukan riset latar belakang yang detail untuk mendukung pekerjaan orang lain." },
+      { "name": "Spesialis Dukungan Teknis (untuk produk perangkat lunak)", "reason": "Membantu pengguna memecahkan masalah dengan mengikuti database pengetahuan." }
+    ]
+  },
+  {
+    "mbti_type": "ESFJ",
+    "riasec_code": "IR",
+    "profile_title": "Sang Terapis Okupasi",
+    "profile_tagline": "Seorang penyembuh yang secara praktis dan sistematis membantu orang kembali ke kehidupan sehari-hari.",
+    "reason_why": "Kamu menggabungkan minat pada riset tentang tubuh dan pikiran manusia (Investigative) dengan fokus pada aplikasi yang sangat praktis dan nyata (Realistic). Sebagai seorang ESFJ, kamu didorong oleh kepedulian yang mendalam untuk melihat orang lain pulih dan kembali mandiri.",
+    "what_this_means": "Kamu sangat cocok untuk menjadi seorang terapis okupasi. Kamu adalah tipe orang yang akan bekerja dengan korban stroke untuk mengajari mereka cara memegang sendok lagi, atau membantu seorang anak dengan autisme untuk belajar cara mengikat tali sepatu. Kamu memiliki kesabaran, kreativitas, dan pemahaman metodis untuk memecah tugas yang rumit menjadi langkah-langkah kecil yang bisa dicapai.",
+    "strengths": ["Sangat sabar, suportif, dan memotivasi.", "Praktis dan pandai menemukan solusi kreatif untuk tantangan sehari-hari.", "Sangat baik dalam menganalisis tugas dan memecahnya menjadi langkah-langkah.", "Sangat berorientasi pada tujuan dan kemajuan pasien."],
+    "weaknesses": ["Pekerjaan bisa sangat menuntut secara emosional dan fisik.", "Bisa frustrasi dengan lambatnya kemajuan pasien.", "Cenderung membawa pulang kekhawatiran tentang pasiennya.", "Mungkin kesulitan bekerja dengan pasien yang tidak kooperatif."],
+    "recommended_majors": [
+      { "name": "Terapi Okupasi", "reason": "Jurusan yang secara langsung mempersiapkanmu untuk peran ini, menggabungkan psikologi, anatomi, dan praktik klinis." },
+      { "name": "Fisioterapi", "reason": "Fokus pada pemulihan gerakan dan kekuatan fisik." },
+      { "name": "Pendidikan Khusus", "reason": "Mempelajari cara membantu anak-anak dengan berbagai tantangan perkembangan." }
+    ],
+    "career_recommendations": [
+      { "name": "Terapis Okupasi", "reason": "Bekerja di rumah sakit, sekolah, atau klinik untuk membantu pasien dari segala usia mendapatkan kembali kemandirian." },
+      { "name": "Asisten Fisioterapis", "reason": "Secara langsung membimbing pasien melalui latihan rehabilitasi mereka." },
+      { "name": "Spesialis Kehidupan Anak (Child Life Specialist) di rumah sakit", "reason": "Membantu anak-anak dan keluarga mereka mengatasi tantangan dari penyakit dan rawat inap." }
+    ]
+  }
+]
