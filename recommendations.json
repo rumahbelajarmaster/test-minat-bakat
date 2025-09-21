@@ -4328,3 +4328,324 @@
     ]
   }
 ]
+{
+    "mbti_type": "ESFP",
+    "riasec_code": "SA",
+    "profile_title": "Sang Bintang Panggung Alami",
+    "profile_tagline": "Seorang penampil karismatik yang hidup untuk menghibur dan terhubung dengan orang lain.",
+    "reason_why": "Ini adalah kombinasi ESFP yang paling murni. Kemampuanmu untuk hidup di saat ini dan berinteraksi dengan dunia fisik (Se) serta terhubung dengan nilai-nilai pribadimu (Fi) sangat selaras dengan minat untuk menghibur (Artistic) dan berinteraksi dengan orang banyak (Social).",
+    "what_this_means": "Kamu adalah pusat perhatian alami. Kamu memiliki energi yang menular dan kemampuan untuk membuat suasana menjadi hidup. Kamu terlahir untuk menjadi seorang aktor, musisi, pembawa acara, atau penampil dalam bentuk apa pun. Kamu berkembang di atas panggung, di depan kamera, atau di mana pun kamu bisa berbagi energi dan kegembiraanmu dengan audiens.",
+    "strengths": ["Sangat karismatik dan menawan.", "Penampil yang alami dan ekspresif.", "Mampu terhubung dengan audiens secara instan.", "Sangat baik dalam improvisasi dan berpikir cepat."],
+    "weaknesses": ["Bisa kesulitan dengan perencanaan jangka panjang atau persiapan yang membosankan.", "Cenderung menghindari konflik atau kritik.", "Sangat membutuhkan perhatian dan validasi dari orang lain.", "Bisa jadi kurang terorganisir dan mudah teralihkan."],
+    "recommended_majors": [
+      { "name": "Seni Peran (Acting) atau Teater Musikal", "reason": "Secara langsung mengasah bakat alamimu untuk tampil di atas panggung (Artistic) dan memikat penonton (Social)." },
+      { "name": "Ilmu Komunikasi (Penyiaran)", "reason": "Memberimu platform untuk menjadi pembawa acara atau penyiar, di mana karismamu bisa bersinar." },
+      { "name": "Musik (Pertunjukan)", "reason": "Jalan yang sempurna untuk menyalurkan energimu dan terhubung dengan audiens melalui lagu dan pertunjukan." }
+    ],
+    "career_recommendations": [
+      { "name": "Aktor atau Aktris", "reason": "Menghidupkan berbagai karakter di film, TV, atau teater." },
+      { "name": "Musisi atau Bintang Pop", "reason": "Tampil di depan ribuan orang, berbagi musik dan energimu." },
+      { "name": "Pembawa Acara (Host) atau Vlogger", "reason": "Menjadi wajah dari sebuah acara atau kanal, berinteraksi langsung dengan audiens." }
+    ]
+  },
+  {
+    "mbti_type": "ESFP",
+    "riasec_code": "SE",
+    "profile_title": "Sang Penggerak Acara",
+    "profile_tagline": "Seorang pemimpin sosial yang menciptakan pengalaman tak terlupakan yang menyatukan orang.",
+    "reason_why": "Kamu menggabungkan doronganmu untuk berinteraksi dan membantu orang lain (Social) dengan bakat untuk memimpin, mempromosikan, dan mengorganisir (Enterprising). Sebagai seorang ESFP, kamu adalah pemimpin yang energik dan pandai membuat acara menjadi seru dan berkesan.",
+    "what_this_means": "Kamu adalah seorang perencana pesta, manajer acara, atau promotor alami. Kamu memiliki kemampuan untuk membayangkan sebuah acara yang hebat dan kemudian menggunakan energimu untuk mewujudkannya. Kamu pandai berjejaring, meyakinkan orang, dan memastikan semua orang bersenang-senang. Kamu adalah nyawa dari setiap acara.",
+    "strengths": ["Sangat energik dan antusias.", "Pandai berjejaring dan membangun hubungan.", "Sangat baik dalam mempromosikan dan menciptakan 'hype'.", "Pemecah masalah yang cepat dan adaptif di tengah acara."],
+    "weaknesses": ["Bisa mengabaikan detail-detail perencanaan yang membosankan.", "Cenderung terlalu fokus pada keseruan dan kurang pada anggaran.", "Sulit untuk mengatakan 'tidak' dan bisa mengambil terlalu banyak proyek.", "Sangat terpengaruh oleh atmosfer acara; jika acara gagal, kamu sangat terpukul."],
+    "recommended_majors": [
+      { "name": "Manajemen Acara (Event Management)", "reason": "Secara langsung melatihmu dalam seni dan bisnis merencanakan dan mengeksekusi acara." },
+      { "name": "Hubungan Masyarakat (Public Relations)", "reason": "Mengasah kemampuanmu untuk membangun citra positif (Enterprising) dan terhubung dengan publik (Social)." },
+      { "name": "Manajemen Perhotelan dan Pariwisata", "reason": "Fokus pada penciptaan pengalaman yang menyenangkan dan tak terlupakan bagi pelanggan." }
+    ],
+    "career_recommendations": [
+      { "name": "Perencana Acara atau Pernikahan", "reason": "Merancang dan mengkoordinasikan acara-acara yang menjadi momen terpenting dalam hidup orang." },
+      { "name": "Promotor Konser atau Klub", "reason": "Menciptakan dan mempromosikan acara hiburan yang menarik banyak orang." },
+      { "name": "Manajer Hubungan Masyarakat (PR Manager)", "reason": "Menjadi wajah perusahaan, mengorganisir acara pers, dan membangun hubungan dengan media." }
+    ]
+  },
+  {
+    "mbti_type": "ESFP",
+    "riasec_code": "AS",
+    "profile_title": "Sang Desainer Trendi",
+    "profile_tagline": "Seorang kreator yang memiliki mata jeli untuk estetika dan kemampuan untuk membuat orang lain merasa hebat.",
+    "reason_why": "Dorongan utamamu adalah untuk menciptakan keindahan (Artistic), dan kamu melakukannya dengan cara yang sangat sosial dan berorientasi pada orang (Social). Sebagai seorang ESFP yang hidup di saat ini (Se), kamu memiliki insting yang tajam tentang apa yang sedang tren dan terlihat bagus.",
+    "what_this_means": "Kamu adalah seorang desainer mode, penata rias, atau desainer interior. Kamu tidak hanya menciptakan sesuatu yang indah; kamu membantu orang lain menemukan gaya mereka dan merasa percaya diri. Kamu menikmati proses berinteraksi dengan klien, memahami selera mereka, dan kemudian menggunakan kreativitasmu untuk menciptakan sesuatu yang personal untuk mereka.",
+    "strengths": ["Memiliki selera estetika yang sangat baik dan selalu up-to-date.", "Sangat pandai dalam berinteraksi dengan klien.", "Mampu membuat orang lain merasa nyaman dan percaya diri.", "Kreatif dan praktis dalam menemukan solusi desain."],
+    "weaknesses": ["Bisa jadi kurang tertarik pada aspek teknis atau teoretis dari desain.", "Cenderung mengikuti tren daripada menciptakan sesuatu yang benar-benar baru.", "Sangat sensitif terhadap kritik terhadap hasil karyanya.", "Bisa kesulitan dengan manajemen bisnis atau keuangan."],
+    "recommended_majors": [
+      { "name": "Desain Mode (Fashion Design) atau Penataan Gaya (Styling)", "reason": "Secara langsung menerapkan kecintaanmu pada estetika (Artistic) untuk membantu orang lain (Social)." },
+      { "name": "Desain Interior", "reason": "Menciptakan ruang yang indah dan fungsional yang mencerminkan kepribadian klien." },
+      { "name": "Tata Rias (Cosmetology)", "reason": "Menggunakan wajah sebagai kanvas untuk meningkatkan kepercayaan diri orang lain." }
+    ],
+    "career_recommendations": [
+      { "name": "Penata Gaya Pribadi (Personal Stylist) atau Desainer Mode", "reason": "Membantu individu menemukan dan mengekspresikan gaya pribadi mereka melalui pakaian." },
+      { "name": "Penata Rias (Makeup Artist)", "reason": "Bekerja di industri fashion, film, atau dengan klien pribadi untuk menciptakan tampilan yang memukau." },
+      { "name": "Desainer Interior", "reason": "Merancang rumah atau ruang komersial yang indah dan nyaman bagi penghuninya." }
+    ]
+  },
+  {
+    "mbti_type": "ESFP",
+    "riasec_code": "AE",
+    "profile_title": "Sang Wirausahawan Kreatif",
+    "profile_tagline": "Seorang penggagas yang mengubah hasrat kreatif menjadi sebuah merek yang menarik.",
+    "reason_why": "Kamu menggabungkan doronganmu yang kuat untuk berekspresi secara kreatif dan orisinal (Artistic) dengan bakat alami untuk mempromosikan, menjual, dan membangun sebuah usaha (Enterprising). Sebagai seorang ESFP, kamu tidak hanya membuat; kamu juga tahu cara membuat orang lain menginginkannya.",
+    "what_this_means": "Kamu adalah tipe orang yang akan memulai sebuah merek pakaian, membuka sebuah galeri yang trendi, atau menjadi seorang influencer. Kamu memiliki kemampuan untuk melihat apa yang menarik secara visual dan kemudian mengemasnya menjadi sebuah merek yang memiliki cerita. Kamu adalah seorang promotor alami untuk kreativitasmu sendiri (dan orang lain).",
+    "strengths": ["Sangat baik dalam membangun merek yang menarik secara visual.", "Pandai berjejaring dan mempromosikan produk.", "Memiliki energi dan antusiasme yang menular.", "Selalu penuh dengan ide-ide baru untuk bisnis kreatif."],
+    "weaknesses": ["Bisa menjadi kurang fokus dan melompat dari satu proyek ke proyek lain.", "Cenderung mengabaikan aspek keuangan atau operasional yang membosankan.", "Sangat membutuhkan validasi dan kesuksesan yang cepat.", "Bisa kesulitan untuk tetap setia pada satu visi jangka panjang."],
+    "recommended_majors": [
+      { "name": "Kewirausahaan (Entrepreneurship)", "reason": "Memberikan dasar-dasar bisnis yang kamu butuhkan untuk mengubah ide kreatifmu menjadi kenyataan." },
+      { "name": "Manajemen Merek (Brand Management) atau Pemasaran", "reason": "Mengasah kemampuanmu untuk membangun dan mempromosikan sebuah merek (Enterprising) dengan cara yang kreatif (Artistic)." },
+      { "name": "Desain Grafis atau Komunikasi Visual", "reason": "Memberikan keterampilan praktis untuk menciptakan aset visual untuk merekmu." }
+    ],
+    "career_recommendations": [
+      { "name": "Pendiri Merek Fashion atau Gaya Hidup", "reason": "Membangun sebuah bisnis yang merupakan cerminan dari seleramu." },
+      { "name": "Pemilik Galeri Seni atau Toko Konsep", "reason": "Mengkurasi dan menjual produk-produk kreatif yang kamu yakini akan menjadi tren." },
+      { "name": "Influencer atau Pembuat Konten", "reason": "Membangun sebuah merek personal dan berkolaborasi dengan merek lain untuk promosi." }
+    ]
+  },
+  {
+    "mbti_type": "ESFP",
+    "riasec_code": "AR",
+    "profile_title": "Sang Pengrajin Ekspresif",
+    "profile_tagline": "Seorang seniman yang menemukan kegembiraan dalam proses menciptakan sesuatu dengan tangan.",
+    "reason_why": "Dorongan utamamu adalah untuk menciptakan sesuatu yang indah dan orisinal (Artistic), dan kamu melakukannya melalui medium yang nyata, praktis, dan membutuhkan keterampilan tangan (Realistic). Sebagai seorang ESFP, proses menciptakan itu sendiri adalah sebuah petualangan yang menyenangkan.",
+    "what_this_means": "Kamu adalah seorang seniman yang karyanya sangat terhubung dengan dunia fisik. Kamu mungkin seorang pelukis dengan sapuan kuas yang energik, seorang pematung, seorang koki, atau seorang desainer bunga. Kamu menikmati sensasi material di tanganmu dan kepuasan langsung saat melihat idemu terwujud menjadi bentuk fisik. Kamu menciptakan dengan spontanitas dan energi.",
+    "strengths": ["Sangat terampil dalam bekerja dengan tangan.", "Memiliki kepekaan estetika yang kuat dan spontan.", "Menikmati proses kreatif itu sendiri.", "Energik dan produktif dalam menciptakan karya."],
+    "weaknesses": ["Bisa jadi kurang sabar dengan teknik yang membutuhkan perencanaan detail.", "Cenderung kurang tertarik pada teori atau konsep di balik seni.", "Mungkin kesulitan untuk tetap konsisten dalam satu gaya.", "Lebih suka menciptakan daripada memasarkan atau menjual karyanya."],
+    "recommended_majors": [
+      { "name": "Seni Rupa (Lukis, Patung, Keramik)", "reason": "Secara langsung menyalurkan hasratmu untuk menciptakan (Artistic) objek fisik (Realistic)." },
+      { "name": "Seni Kuliner (Culinary Arts)", "reason": "Menggunakan makanan sebagai medium untuk kreativitas, melibatkan semua indra." },
+      { "name": "Desain Bunga (Floral Design) atau Hortikultura", "reason": "Bekerja dengan elemen alam untuk menciptakan keindahan." }
+    ],
+    "career_recommendations": [
+      { "name": "Pelukis atau Pematung", "reason": "Mengekspresikan dirimu melalui karya seni visual yang taktil." },
+      { "name": "Koki (Chef)", "reason": "Menciptakan hidangan yang tidak hanya lezat tetapi juga indah, sebuah bentuk seni yang bisa dinikmati." },
+      { "name": "Desainer Bunga atau Dekorator", "reason": "Menggunakan kepekaan estetikamu untuk mengubah ruang dengan elemen-elemen alam." }
+    ]
+  },
+  {
+    "mbti_type": "ESFP",
+    "riasec_code": "SR",
+    "profile_title": "Sang Pendidik Anak Usia Dini",
+    "profile_tagline": "Seorang guru yang menciptakan lingkungan belajar yang menyenangkan, aktif, dan penuh kasih.",
+    "reason_why": "Kamu menggabungkan keinginan tulus untuk membantu dan merawat orang lain (Social) dengan pendekatan yang sangat praktis, langsung, dan berbasis pada aktivitas fisik (Realistic). Sebagai seorang ESFP, kamu adalah guru yang sempurna untuk anak-anak kecil, karena kamu memahami dunia mereka yang penuh dengan permainan dan pengalaman sensorik.",
+    "what_this_means": "Kamu adalah seorang guru TK atau sekolah dasar yang luar biasa. Kamu tidak akan hanya duduk di depan kelas; kamu akan bernyanyi, menari, dan bermain bersama murid-muridmu. Kamu percaya bahwa anak-anak belajar dengan melakukan, dan kamu unggul dalam menciptakan kegiatan-kegiatan langsung yang membuat belajar menjadi sebuah petualangan yang menyenangkan.",
+    "strengths": ["Sangat energik, antusias, dan menyenangkan.", "Mampu terhubung dengan anak-anak pada level mereka.", "Sangat baik dalam menciptakan lingkungan belajar yang aktif dan suportif.", "Sabar dan penuh kasih dalam membimbing."],
+    "weaknesses": ["Bisa kesulitan dengan pekerjaan administratif atau perencanaan kurikulum yang detail.", "Cenderung menghindari konflik dengan orang tua atau sesama guru.", "Sangat terpengaruh oleh atmosfer emosional di kelas.", "Pekerjaan bisa sangat menuntut secara fisik dan emosional."],
+    "recommended_majors": [
+      { "name": "Pendidikan Anak Usia Dini (PAUD) atau Pendidikan Guru Sekolah Dasar (PGSD)", "reason": "Secara langsung mempersiapkanmu untuk mengajar (Social) anak-anak melalui permainan dan aktivitas praktis (Realistic)." },
+      { "name": "Terapi Rekreasi", "reason": "Menggunakan aktivitas rekreasi dan permainan untuk tujuan terapeutik." },
+      { "name": "Psikologi Perkembangan", "reason": "Memberikan pemahaman tentang bagaimana anak-anak tumbuh dan belajar." }
+    ],
+    "career_recommendations": [
+      { "name": "Guru Taman Kanak-Kanak atau Sekolah Dasar", "reason": "Menjadi pengaruh positif pertama dalam perjalanan pendidikan seorang anak." },
+      { "name": "Terapis Bermain (Play Therapist)", "reason": "Menggunakan permainan sebagai cara untuk membantu anak-anak memproses emosi dan mengatasi masalah." },
+      { "name": "Instruktur (untuk anak-anak, misal: renang, gimnastik, musik)", "reason": "Mengajarkan keterampilan praktis kepada anak-anak dengan cara yang menyenangkan dan aktif." }
+    ]
+  },
+  {
+    "mbti_type": "ESFP",
+    "riasec_code": "RA",
+    "profile_title": "Sang Penata Ruang",
+    "profile_tagline": "Seorang desainer yang memiliki bakat alami untuk membuat ruang terasa hidup dan nyaman.",
+    "reason_why": "Dorongan utamamu adalah untuk bekerja dengan dunia fisik yang nyata (Realistic), dan kamu melakukannya dengan kepekaan estetika dan kreativitas yang tinggi (Artistic). Sebagai seorang ESFP yang hidup di saat ini, kamu memiliki insting yang tajam tentang bagaimana menata furnitur, warna, dan cahaya untuk menciptakan atmosfer yang sempurna.",
+    "what_this_means": "Kamu adalah seorang desainer interior atau penata visual (visual merchandiser) yang sangat berbakat. Kamu tidak hanya mengikuti aturan desain; kamu merasakannya. Kamu bisa masuk ke dalam sebuah ruangan kosong dan langsung tahu apa yang dibutuhkan untuk membuatnya terasa ramah dan terlihat indah. Kamu menciptakan pengalaman melalui penataan ruang.",
+    "strengths": ["Memiliki mata yang sangat baik untuk warna, komposisi, dan tata letak.", "Sangat praktis dan pandai bekerja dengan tangan.", "Mampu menciptakan atmosfer yang spesifik melalui desain.", "Selalu mengikuti tren terbaru dalam desain interior."],
+    "weaknesses": ["Bisa jadi kurang tertarik pada aspek teknis atau struktural dari arsitektur.", "Cenderung bekerja secara impulsif dan kurang terencana.", "Mungkin kesulitan untuk mengartikulasikan alasan teoretis di balik pilihan desainnya.", "Sangat membutuhkan hasil yang terlihat dengan cepat."],
+    "recommended_majors": [
+      { "name": "Desain Interior", "reason": "Secara langsung mengasah bakat alamimu dalam menata (Artistic) ruang fisik (Realistic)." },
+      { "name": "Visual Merchandising", "reason": "Spesialisasi dalam menata toko ritel untuk memaksimalkan daya tarik dan penjualan." },
+      { "name": "Manajemen Perhotelan", "reason": "Mempelajari bagaimana desain interior berkontribusi pada pengalaman tamu secara keseluruhan." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Interior", "reason": "Membantu klien mengubah rumah atau ruang komersial mereka menjadi tempat yang indah dan fungsional." },
+      { "name": "Visual Merchandiser", "reason": "Bertanggung jawab atas tampilan visual dari sebuah toko, dari etalase hingga tata letak produk." },
+      { "name": "Penata Properti (Home Stager)", "reason": "Menata sebuah rumah agar terlihat semenarik mungkin bagi calon pembeli." }
+    ]
+  },
+  {
+    "mbti_type": "ESFP",
+    "riasec_code": "RS",
+    "profile_title": "Sang Perawat Ceria",
+    "profile_tagline": "Seorang pemberi perawatan yang membawa kehangatan dan semangat positif ke lingkungan medis.",
+    "reason_why": "Kamu menggabungkan keinginan tulus untuk membantu dan merawat orang lain (Social) dengan pendekatan yang sangat praktis dan langsung (Realistic). Sebagai seorang ESFP, kamu adalah sinar matahari di bangsal rumah sakit. Kamu tidak hanya memberikan perawatan; kamu memberikan semangat.",
+    "what_this_means": "Kamu adalah seorang perawat, asisten medis, atau fisioterapis yang luar biasa. Kamu memiliki kemampuan untuk membuat pasien yang paling cemas sekalipun merasa sedikit lebih baik hanya dengan kehadiranmu. Kamu pandai dalam membangun hubungan dengan pasien, mendengarkan cerita mereka, dan memberikan perawatan dengan sentuhan manusiawi yang hangat.",
+    "strengths": ["Sangat ramah, positif, dan mampu mengangkat semangat.", "Empati yang tulus terhadap kondisi pasien.", "Praktis dan terampil dalam melakukan tugas-tugas medis.", "Sangat baik dalam komunikasi tatap muka dengan pasien dan keluarga."],
+    "weaknesses": ["Bisa sangat terpengaruh oleh penderitaan atau kematian pasien.", "Mungkin kesulitan dengan aspek administratif atau dokumentasi yang detail.", "Cenderung menghindari konflik dengan pasien atau rekan kerja yang sulit.", "Pekerjaan bisa sangat menguras energi emosional dan fisik."],
+    "recommended_majors": [
+      { "name": "Keperawatan", "reason": "Profesi yang secara sempurna menggabungkan perawatan praktis (Realistic) dengan interaksi manusia yang mendalam (Social)." },
+      { "name": "Fisioterapi", "reason": "Membantu pasien secara langsung untuk memulihkan gerakan dan kekuatan mereka." },
+      { "name": "Pendidikan Kesehatan", "reason": "Mengajar orang lain tentang cara menjaga kesehatan dengan cara yang menarik dan praktis." }
+    ],
+    "career_recommendations": [
+      { "name": "Perawat (khususnya di bidang pediatri, geriatri, atau rehabilitasi)", "reason": "Peran di mana sentuhan personal dan semangat positifmu sangat dibutuhkan." },
+      { "name": "Asisten Medis", "reason": "Menjadi wajah ramah pertama yang ditemui pasien di sebuah klinik." },
+      { "name": "Terapis Rekreasi", "reason": "Menggunakan aktivitas yang menyenangkan untuk membantu pasien meningkatkan kesehatan fisik dan mental mereka." }
+    ]
+  },
+  {
+    "mbti_type": "ESFP",
+    "riasec_code": "RE",
+    "profile_title": "Sang Pemandu Petualangan",
+    "profile_tagline": "Seorang pemimpin yang berbagi kecintaannya pada alam dan petualangan dengan orang lain.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan menciptakan pengalaman (Enterprising) dengan kecintaan yang mendalam pada aktivitas fisik di dunia nyata (Realistic). Sebagai seorang ESFP, kamu adalah seorang petualang yang suka mengajak orang lain untuk ikut serta dalam keseruan.",
+    "what_this_means": "Kamu adalah seorang pemandu arung jeram, instruktur selancar, atau pemilik perusahaan pariwisata petualangan. Kamu tidak bisa diam di belakang meja; kamu harus berada di luar, di tengah-tengah aksi. Kamu menikmati tantangan untuk memimpin sebuah kelompok melalui lingkungan yang tidak dapat diprediksi dan memastikan bahwa semua orang tidak hanya aman, tetapi juga bersenang-senang.",
+    "strengths": ["Sangat energik, antusias, dan berani.", "Pemimpin yang mampu memotivasi dan menjaga semangat kelompok.", "Sangat terampil dalam aktivitas fisik tertentu.", "Adaptif dan mampu berpikir cepat dalam situasi yang berubah."],
+    "weaknesses": ["Bisa jadi kurang memperhatikan perencanaan keselamatan yang detail.", "Cenderung mengambil risiko yang tidak perlu.", "Mungkin kurang sabar dengan anggota kelompok yang lambat atau penakut.", "Sulit untuk menangani aspek administratif dari bisnis."],
+    "recommended_majors": [
+      { "name": "Manajemen Pariwisata Petualangan atau Rekreasi Luar Ruang", "reason": "Secara langsung mempelajari cara mengubah hasratmu pada petualangan (Realistic) menjadi sebuah bisnis (Enterprising)." },
+      { "name": "Pendidikan Jasmani", "reason": "Memberikan dasar dalam ilmu gerakan dan metodologi pengajaran aktivitas fisik." },
+      { "name": "Ilmu Lingkungan", "reason": "Memberikan pemahaman yang lebih dalam tentang alam tempat kamu berpetualang." }
+    ],
+    "career_recommendations": [
+      { "name": "Pemandu Petualangan (arung jeram, pendakian gunung, menyelam, dll.)", "reason": "Dibayar untuk melakukan apa yang kamu sukai dan berbagi pengalaman itu dengan orang lain." },
+      { "name": "Instruktur Olahraga Ekstrem (selancar, panjat tebing, ski)", "reason": "Mengajarkan keterampilan yang kamu kuasai kepada para pemula." },
+      { "name": "Pemilik Perusahaan Pariwisata Petualangan", "reason": "Membangun sebuah bisnis di sekitar kecintaanmu pada alam dan petualangan." }
+    ]
+  },
+  {
+    "mbti_type": "ESFP",
+    "riasec_code": "RC",
+    "profile_title": "Sang Koki Andal",
+    "profile_tagline": "Seorang praktisi kuliner yang menemukan kegembiraan dalam menyajikan hidangan yang lezat dan konsisten.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan sensorik (Realistic) dengan penghargaan terhadap resep, teknik, dan konsistensi (Conventional). Sebagai seorang ESFP, kamu adalah seorang koki yang handal, mampu bekerja dengan cepat dan efisien di dapur yang sibuk sambil tetap menjaga semangat tim.",
+    "what_this_means": "Kamu adalah tulang punggung dari sebuah dapur profesional. Kamu mungkin bukan koki kepala yang menciptakan menu, tetapi kamu adalah orang yang bisa diandalkan untuk mengeksekusi setiap hidangan dengan sempurna, berulang kali. Kamu menikmati ritme dan energi dari dapur yang sibuk dan menemukan kepuasan dalam kerja tim yang terkoordinasi untuk menghasilkan makanan yang enak.",
+    "strengths": ["Sangat efisien dan mampu bekerja cepat di bawah tekanan.", "Dapat diandalkan untuk mengikuti resep dan menjaga konsistensi.", "Pemain tim yang baik di lingkungan dapur.", "Memiliki stamina fisik yang baik."],
+    "weaknesses": ["Mungkin kurang inovatif atau kreatif dalam menciptakan hidangan baru.", "Cenderung kurang suka pada pekerjaan perencanaan atau administratif di luar jam sibuk.", "Bisa frustrasi dengan perubahan mendadak pada menu atau proses.", "Sangat membutuhkan lingkungan kerja yang energik dan positif."],
+    "recommended_majors": [
+      { "name": "Seni Kuliner (Culinary Arts)", "reason": "Mempelajari semua teknik dasar (Conventional) yang dibutuhkan untuk menjadi seorang koki profesional (Realistic)." },
+      { "name": "Manajemen Restoran", "reason": "Memberikan pemahaman tentang bagaimana sebuah dapur beroperasi sebagai bagian dari bisnis yang lebih besar." },
+      { "name": "Ilmu Pangan (Food Science)", "reason": "Fokus pada aspek kimia dan fisika dari memasak, untuk pemahaman yang lebih dalam." }
+    ],
+    "career_recommendations": [
+      { "name": "Koki Lini (Line Cook) atau Sous Chef", "reason": "Posisi penting di dapur yang bertanggung jawab untuk mengeksekusi hidangan selama jam pelayanan." },
+      { "name": "Koki Katering", "reason": "Bekerja dalam tim untuk memproduksi makanan dalam jumlah besar untuk acara-acara." },
+      { "name": "Pengembang Resep (Recipe Developer)", "reason": "Bekerja untuk perusahaan makanan untuk menguji dan menyempurnakan resep agar konsisten dan mudah diikuti." }
+    ]
+  },
+  {
+    "mbti_type": "ESFP",
+    "riasec_code": "EI",
+    "profile_title": "Sang Juru Bicara Merek",
+    "profile_tagline": "Seorang komunikator yang antusias, yang menjadi wajah dan suara dari sebuah ide atau produk.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin, menjual, dan memengaruhi (Enterprising) dengan minat yang mendalam pada riset tentang apa yang sedang tren dan diinginkan orang (Investigative). Sebagai seorang ESFP, kamu memiliki kemampuan langka untuk memahami sebuah produk atau ide dan kemudian menjelaskannya kepada dunia dengan cara yang sangat menarik dan meyakinkan.",
+    "what_this_means": "Kamu adalah seorang spesialis humas, brand ambassador, atau pembawa acara pameran dagang. Kamu adalah orang yang akan berdiri di depan kerumunan dan dengan penuh semangat mendemonstrasikan sebuah produk baru. Kamu pandai menyerap informasi kompleks dengan cepat dan kemudian menyajikannya kembali dalam bahasa yang sederhana, menarik, dan mudah dipahami.",
+    "strengths": ["Sangat persuasif dan pandai berbicara di depan umum.", "Mampu mempelajari informasi baru dengan cepat.", "Antusiasme yang menular.", "Sangat baik dalam membangun hubungan dan berjejaring."],
+    "weaknesses": ["Bisa jadi kurang tertarik pada riset yang sangat mendalam atau jangka panjang.", "Cenderung lebih fokus pada presentasi daripada substansi.", "Membutuhkan banyak variasi dan tidak suka pada tugas yang sama berulang kali.", "Sangat bergantung pada umpan balik positif dari audiens."],
+    "recommended_majors": [
+      { "name": "Hubungan Masyarakat (Public Relations) atau Komunikasi Pemasaran", "reason": "Secara langsung mengasah kemampuanmu untuk menjadi juru bicara yang efektif." },
+      { "name": "Pemasaran (Marketing)", "reason": "Mempelajari cara memahami pasar (Investigative) dan mempromosikan produk (Enterprising)." },
+      { "name": "Jurnalistik (Penyiaran)", "reason": "Melatihmu untuk tampil percaya diri di depan kamera dan menyampaikan informasi secara jelas." }
+    ],
+    "career_recommendations": [
+      { "name": "Spesialis Hubungan Masyarakat (PR Specialist)", "reason": "Menjadi juru bicara resmi perusahaan, menangani media, dan membangun citra publik." },
+      { "name": "Brand Ambassador atau Product Evangelist", "reason": "Bepergian dan mempromosikan sebuah produk atau merek dengan penuh semangat." },
+      { "name": "Presenter atau Pembawa Acara untuk Acara Perusahaan/Industri", "reason": "Memandu acara dan mendemonstrasikan produk di pameran dagang atau konferensi." }
+    ]
+  },
+  {
+    "mbti_type": "ESFP",
+    "riasec_code": "EC",
+    "profile_title": "Sang Manajer Penjualan",
+    "profile_tagline": "Seorang pemimpin yang memotivasi tim untuk mencapai target dengan energi dan semangat positif.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin, bersaing, dan mencapai target (Enterprising) dengan bakat untuk keteraturan, mengikuti proses, dan mengelola detail (Conventional). Sebagai seorang ESFP, kamu adalah manajer penjualan yang ideal karena kamu tidak hanya fokus pada angka, tetapi juga pada semangat dan motivasi timmu.",
+    "what_this_means": "Kamu adalah seorang pemimpin tim penjualan. Kamu menikmati energi dari lantai penjualan yang sibuk, sensasi mengejar target, dan kegembiraan saat merayakan kemenangan bersama tim. Kamu pandai dalam melatih anggota tim baru, melacak kinerja, dan menciptakan kompetisi yang sehat dan menyenangkan. Kamu memimpin dengan memberi semangat.",
+    "strengths": ["Sangat baik dalam memotivasi dan memberi semangat pada tim.", "Berorientasi pada target dan kompetitif.", "Terorganisir dalam melacak kinerja dan proses penjualan.", "Pandai membangun hubungan baik dengan tim dan pelanggan."],
+    "weaknesses": ["Bisa menjadi terlalu fokus pada target jangka pendek.", "Cenderung menghindari konfrontasi atau memberikan umpan balik negatif kepada anggota tim.", "Mungkin kurang tertarik pada analisis data penjualan yang mendalam.", "Sangat terpengaruh oleh moral tim; jika tim sedang lesu, kamu juga ikut lesu."],
+    "recommended_majors": [
+      { "name": "Manajemen Bisnis atau Pemasaran (dengan spesialisasi penjualan)", "reason": "Secara langsung mempelajari seni dan ilmu penjualan dan manajemen tim." },
+      { "name": "Komunikasi", "reason": "Mengasah kemampuanmu untuk memotivasi dan berkomunikasi secara efektif dengan tim." },
+      { "name": "Psikologi", "reason": "Memberikan wawasan tentang apa yang memotivasi orang, baik itu pelanggan maupun anggota tim penjualan." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Penjualan (Sales Manager)", "reason": "Memimpin sebuah tim penjualan untuk mencapai target bulanan dan tahunan." },
+      { "name": "Manajer Toko Ritel", "reason": "Bertanggung jawab atas semua aspek operasional dan penjualan dari sebuah toko." },
+      { "name": "Account Executive atau Manajer Akun", "reason": "Membangun dan memelihara hubungan dengan klien-klien penting." }
+    ]
+  },
+  {
+    "mbti_type": "ESFP",
+    "riasec_code": "IA",
+    "profile_title": "Sang Jurnalis Gaya Hidup",
+    "profile_tagline": "Seorang pencerita yang menjelajahi dan berbagi tentang hal-hal terbaik dalam hidup.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada riset dan penemuan (Investigative) dengan hasrat untuk berekspresi secara kreatif dan estetis (Artistic). Sebagai seorang ESFP, kamu tidak tertarik pada riset yang kering; kamu ingin meneliti tentang hal-hal yang indah, menyenangkan, dan memperkaya hidup—dan kemudian membagikannya dengan dunia.",
+    "what_this_means": "Kamu adalah seorang jurnalis atau blogger di bidang gaya hidup, makanan, atau perjalanan. Kamu memiliki rasa ingin tahu yang tulus untuk menemukan kafe tersembunyi terbaik, tren fashion terbaru, atau destinasi liburan yang sempurna. Kamu menikmati proses mengalami hal-hal baru, mempelajarinya, dan kemudian menceritakannya kembali dengan tulisan atau foto yang menarik.",
+    "strengths": ["Memiliki selera yang baik dan mata yang jeli untuk kualitas.", "Pencerita yang menarik dan antusias.", "Rasa ingin tahu yang tulus dan menular.", "Pandai membuat riset terasa seperti sebuah petualangan yang menyenangkan."],
+    "weaknesses": ["Bisa jadi kurang kritis atau analitis secara mendalam.", "Cenderung fokus pada aspek positif dan mengabaikan yang negatif.", "Sulit untuk tetap fokus pada satu 'niche' untuk waktu yang lama.", "Pekerjaan bisa terasa kurang stabil atau dangkal."],
+    "recommended_majors": [
+      { "name": "Jurnalistik", "reason": "Melatihmu dalam keterampilan riset (Investigative) dan penceritaan (Artistic)." },
+      { "name": "Studi Media atau Komunikasi", "reason": "Mempelajari cara kerja industri media dan bagaimana cara menciptakan konten yang menarik." },
+      { "name": "Manajemen Perhotelan atau Seni Kuliner", "reason": "Memberimu pengetahuan mendalam di bidang spesifik yang bisa kamu tulis." }
+    ],
+    "career_recommendations": [
+      { "name": "Penulis atau Editor untuk Majalah/Situs Gaya Hidup", "reason": "Meliput dan menulis tentang topik-topik seperti makanan, perjalanan, fashion, atau desain." },
+      { "name": "Kritikus Makanan atau Restoran", "reason": "Mengunjungi berbagai restoran dan berbagi pengalamanmu dengan pembaca." },
+      { "name": "Blogger atau Influencer Perjalanan/Gaya Hidup", "reason": "Membangun sebuah merek personal di sekitar seleramu dan pengalamanmu." }
+    ]
+  },
+  {
+    "mbti_type": "ESFP",
+    "riasec_code": "IC",
+    "profile_title": "Sang Peneliti Pasar",
+    "profile_tagline": "Seorang pengamat tren yang menggunakan data untuk memahami apa yang diinginkan orang.",
+    "reason_why": "Kamu menggabungkan minat pada riset dan pemahaman (Investigative) dengan penghargaan terhadap data yang jelas, proses yang teratur, dan hasil yang konkret (Conventional). Sebagai seorang ESFP, kamu membawa sentuhan manusiawi pada dunia data, selalu bertanya, 'Tapi apa artinya ini bagi orang sungguhan?'",
+    "what_this_means": "Kamu adalah seorang peneliti pasar atau analis data junior. Kamu menikmati proses mengumpulkan informasi—baik melalui survei, wawancara, atau data penjualan—dan kemudian mencoba menemukan pola yang menarik. Kamu tidak terlalu tertarik pada teori statistik yang rumit, tetapi kamu sangat baik dalam melihat cerita sederhana di balik angka-angka.",
+    "strengths": ["Pandai melihat pola dan tren yang jelas dalam data.", "Mampu menerjemahkan data menjadi wawasan yang mudah dipahami.", "Sangat baik dalam melakukan riset lapangan seperti survei atau wawancara.", "Praktis dan berorientasi pada hasil."],
+    "weaknesses": ["Mungkin kurang tertarik pada analisis statistik yang sangat kompleks atau abstrak.", "Bisa cepat bosan dengan tugas pembersihan atau pengelolaan data yang repetitif.", "Cenderung lebih suka tahap pengumpulan data daripada analisis mendalam.", "Membutuhkan hasil yang bisa dilihat dengan cepat."],
+    "recommended_majors": [
+      { "name": "Pemasaran (Marketing) dengan spesialisasi Riset Pasar", "reason": "Secara langsung mempelajari cara mengumpulkan (Conventional) dan menganalisis (Investigative) data konsumen." },
+      { "name": "Sosiologi atau Psikologi", "reason": "Memberikan dasar dalam metode penelitian tentang perilaku manusia." },
+      { "name": "Statistika atau Bisnis", "reason": "Memberikan keterampilan kuantitatif yang diperlukan untuk peran ini." }
+    ],
+    "career_recommendations": [
+      { "name": "Analis Riset Pasar (Market Research Analyst)", "reason": "Membantu perusahaan memahami pelanggan mereka dan membuat keputusan yang lebih baik melalui data." },
+      { "name": "Analis Data Pemasaran", "reason": "Fokus pada analisis data dari kampanye pemasaran untuk mengukur efektivitasnya." },
+      { "name": "Spesialis Survei", "reason": "Merancang, mendistribusikan, dan menganalisis hasil dari survei konsumen." }
+    ]
+  },
+  {
+    "mbti_type": "ESFP",
+    "riasec_code": "IS",
+    "profile_title": "Sang Konselor Lapangan",
+    "profile_tagline": "Seorang pembimbing yang menggunakan observasi tajam untuk membantu orang dalam konteks nyata mereka.",
+    "reason_why": "Kamu menggabungkan keinginan tulus untuk membantu dan memahami orang lain (Social) dengan minat pada observasi, pengumpulan informasi, dan pemahaman (Investigative). Sebagai seorang ESFP, kamu tidak hanya ingin berbicara dengan orang di kantor; kamu ingin melihat dan memahami kehidupan mereka secara langsung.",
+    "what_this_means": "Kamu adalah seorang pekerja sosial, konselor sekolah, atau antropolog terapan. Kamu adalah seorang peneliti manusia yang praktis. Kamu belajar dengan mengamati dan berinteraksi. Kamu akan unggul dalam peran di mana kamu bisa mengunjungi rumah klien, mengamati dinamika di ruang kelas, atau melakukan penelitian partisipatif di sebuah komunitas.",
+    "strengths": ["Pengamat yang sangat tajam terhadap perilaku dan interaksi manusia.", "Mampu membangun hubungan kepercayaan dengan cepat di lingkungan apa pun.", "Praktis dan berorientasi pada solusi.", "Empati yang didasarkan pada pemahaman konteks nyata."],
+    "weaknesses": ["Bisa menjadi sangat terpengaruh oleh lingkungan yang negatif atau penuh penderitaan.", "Mungkin kesulitan untuk menjaga jarak profesional dan objektivitas.", "Cenderung kurang terorganisir dalam pencatatan atau pelaporan.", "Pekerjaan bisa sangat tidak terduga dan menguras energi."],
+    "recommended_majors": [
+      { "name": "Pekerjaan Sosial (Social Work)", "reason": "Profesi yang secara fundamental adalah tentang membantu orang (Social) berdasarkan pemahaman mendalam tentang situasi mereka (Investigative)." },
+      { "name": "Antropologi atau Sosiologi", "reason": "Memberikan metode untuk melakukan penelitian observasional dan partisipatif." },
+      { "name": "Pendidikan atau Psikologi Perkembangan", "reason": "Fokus pada pemahaman anak-anak dan remaja dalam lingkungan alami mereka." }
+    ],
+    "career_recommendations": [
+      { "name": "Pekerja Sosial Lapangan", "reason": "Bekerja secara langsung di komunitas, mengunjungi keluarga, dan menghubungkan mereka dengan sumber daya." },
+      { "name": "Konselor Sekolah", "reason": "Tidak hanya berbicara dengan siswa di kantor, tetapi juga mengamati mereka di kelas dan saat bermain untuk memahami mereka sepenuhnya." },
+      { "name": "Periset Etnografi untuk Perusahaan", "reason": "Mengamati bagaimana orang menggunakan produk dalam kehidupan nyata untuk memberikan wawasan bagi tim desain." }
+    ]
+  },
+  {
+    "mbti_type": "ESFP",
+    "riasec_code": "IR",
+    "profile_title": "Sang Pelatih Kebugaran",
+    "profile_tagline": "Seorang ahli gerak yang menggunakan pengetahuan dan semangat untuk memotivasi orang lain.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada ilmu di balik tubuh manusia (Investigative) dengan kecintaan pada aktivitas fisik yang praktis (Realistic). Sebagai seorang ESFP, kamu tidak hanya ingin tahu tentang kebugaran; kamu ingin mengalaminya dan membagikan energi itu dengan orang lain.",
+    "what_this_means": "Kamu adalah seorang pelatih pribadi, instruktur kebugaran, atau pelatih olahraga. Kamu memiliki pengetahuan tentang anatomi dan fisiologi, tetapi kekuatan utamamu adalah kemampuanmu untuk membuat olahraga menjadi menyenangkan dan memotivasi klienmu untuk melewati batasan mereka. Kamu adalah seorang ilmuwan dan pemandu sorak dalam satu paket.",
+    "strengths": ["Sangat energik dan memotivasi.", "Memiliki pemahaman yang baik tentang tubuh manusia.", "Mampu menciptakan rutinitas latihan yang efektif dan menyenangkan.", "Sangat suportif dan pandai membangun hubungan dengan klien."],
+    "weaknesses": ["Bisa menjadi kurang sabar dengan klien yang tidak termotivasi atau tidak konsisten.", "Mungkin kurang tertarik pada aspek bisnis atau administratif dari kebugaran.", "Cenderung fokus pada latihan yang 'terasa' menyenangkan daripada yang paling optimal secara ilmiah.", "Jadwal kerja bisa tidak teratur dan menuntut fisik."],
+    "recommended_majors": [
+      { "name": "Ilmu Keolahragaan atau Kinesiologi", "reason": "Memberikan dasar ilmiah (Investigative) tentang gerakan dan kebugaran tubuh manusia (Realistic)." },
+      { "name": "Pendidikan Jasmani", "reason": "Fokus pada cara mengajar dan memotivasi orang lain dalam aktivitas fisik." },
+      { "name": "Ilmu Gizi", "reason": "Melengkapi pengetahuanmu tentang kebugaran dengan pemahaman tentang nutrisi." }
+    ],
+    "career_recommendations": [
+      { "name": "Pelatih Pribadi (Personal Trainer)", "reason": "Bekerja satu lawan satu dengan klien untuk membantu mereka mencapai tujuan kebugaran." },
+      { "name": "Instruktur Kebugaran Kelompok (Group Fitness Instructor)", "reason": "Memimpin kelas yang energik seperti aerobik, Zumba, atau bersepeda dalam ruangan." },
+      { "name": "Pelatih Kekuatan dan Kondisi (Strength and Conditioning Coach)", "reason": "Bekerja dengan atlet atau tim untuk meningkatkan kinerja fisik mereka." }
+    ]
+  }
+]
