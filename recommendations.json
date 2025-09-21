@@ -1,48 +1,48 @@
 {
   "mbti_type": "INTP",
   "riasec_code": "IR",
-  "profile_title": "The Analytical Theorist",
-  "profile_tagline": "A deep thinker who grounds abstract ideas in tangible reality.",
-  "profile_summary": "This profile combines the INTP's love for logical systems and theoretical models with the RIASEC 'Investigative' drive for research and the 'Realistic' preference for practical, hands-on application. You are likely someone who isn't just satisfied with knowing *how* something works in theory, but also feels compelled to build, test, or apply it in the real world.",
+  "profile_title": "Sang Teoris Analitis",
+  "profile_tagline": "Seorang pemikir mendalam yang mendasarkan ide-ide abstrak pada realitas yang nyata.",
+  "reason_why": "Hasil ini menunjukkan kombinasi kuat dari Introverted Thinking (Ti) dan Extraverted Intuition (Ne) dari MBTI Anda, yang mengarah pada kecintaan pada sistem logis dan kemungkinan. Ini dipasangkan dengan minat dominan Investigatif (I), yang mendorong rasa ingin tahu Anda, dan minat Realistis (R) yang kuat, yang membumikan teori-teori Anda dalam hal-hal yang praktis dan nyata.",
+  "what_this_means": "Anda kemungkinan besar adalah seorang pemecah masalah alami yang tidak hanya puas dengan mengetahui *bagaimana* sesuatu bekerja secara teori, tetapi juga merasa terdorong untuk membangun, menguji, atau menerapkannya di dunia nyata. Anda berkembang di lingkungan yang memberi Anda otonomi intelektual untuk mengeksplorasi tantangan kompleks dan kemudian menerjemahkan temuan Anda menjadi hasil yang konkret.",
   "strengths": [
-    "Deep analytical and problem-solving skills.",
-    "Ability to bridge the gap between abstract concepts and practical implementation.",
-    "Independent and self-sufficient in research and execution.",
-    "High standard for accuracy and logical consistency."
+    "Pemikiran analitis dan sistematis yang mendalam.",
+    "Kemampuan untuk menjembatani konsep abstrak dengan implementasi praktis.",
+    "Mandiri dan berdikari dalam riset dan eksekusi.",
+    "Standar tinggi untuk akurasi dan konsistensi logis."
   ],
-  "potential_challenges": [
-    "May become overly focused on theoretical details, delaying practical action.",
-    "Can be skeptical of established procedures without logical proof.",
-    "May prefer working alone, sometimes missing collaborative insights.",
-    "Struggles with emotionally-driven or subjective decision-making."
+  "weaknesses": [
+    "Bisa menjadi terlalu fokus pada detail teoretis, yang menunda tindakan ('analysis paralysis').",
+    "Bisa sangat skeptis terhadap prosedur yang sudah ada tanpa bukti logis yang cukup.",
+    "Mungkin lebih suka bekerja sendiri, terkadang kehilangan wawasan kolaboratif.",
+    "Potensi kesulitan dalam mengkomunikasikan ide-ide kompleks kepada audiens non-teknis."
   ],
-  "career_recommendations": {
-    "title": "Profesi yang Direkomendasikan",
-    "list": [
-      "AI/Robotics Engineer",
-      "Data Scientist",
-      "Astrophysicist",
-      "Software Architect",
-      "Biomedical Engineer",
-      "Systems Analyst"
-    ]
-  },
-  "major_recommendations": {
-    "title": "Jurusan Kuliah yang Sesuai",
-    "list": [
-      "Ilmu Komputer (Spesialisasi AI & Machine Learning)",
-      "Teknik Elektro (Spesialisasi Robotika)",
-      "Fisika Murni atau Terapan",
-      "Matematika",
-      "Bioinformatika"
-    ]
-  },
-  "development_tips": {
-    "title": "Saran Pengembangan Diri",
-    "list": [
-      "Practice communicating complex ideas in simpler terms to non-technical audiences.",
-      "Set practical deadlines for research phases to avoid 'analysis paralysis'.",
-      "Schedule collaborative sessions to gain different perspectives, even if you prefer to work alone."
-    ]
-  }
+  "recommended_majors": [
+    {
+      "name": "Ilmu Komputer (Spesialisasi AI & Robotika)",
+      "reason": "Sangat selaras dengan keinginan Investigatif Anda untuk memahami algoritma kompleks (AI) dengan dorongan Realistis Anda untuk membangun sistem nyata (Robotika)."
+    },
+    {
+      "name": "Teknik Elektro",
+      "reason": "Memungkinkan Anda menerapkan prinsip-prinsip teoretis fisika (Investigatif) untuk merancang dan membuat sirkuit dan perangkat fisik (Realistis)."
+    },
+    {
+      "name": "Fisika Murni atau Terapan",
+      "reason": "Memenuhi keinginan inti Anda untuk memahami hukum dasar alam semesta (Investigatif) dan menerapkannya untuk memecahkan masalah dunia nyata (Realistis)."
+    }
+  ],
+  "career_recommendations": [
+    {
+      "name": "Insinyur AI/Robotika",
+      "reason": "Aplikasi langsung dari profil Anda, menggabungkan riset teoretis yang mendalam dengan pengembangan sistem cerdas secara langsung."
+    },
+    {
+      "name": "Data Scientist",
+      "reason": "Memanfaatkan sifat Investigatif Anda untuk menemukan pola dalam data dan kerangka logis INTP Anda untuk membangun model prediktif."
+    },
+    {
+      "name": "Arsitek Perangkat Lunak (Software Architect)",
+      "reason": "Memungkinkan Anda merancang sistem perangkat lunak yang kompleks dan logis (INTP) berdasarkan riset dan pemahaman teknis yang mendalam (Investigatif)."
+    }
+  ]
 }
