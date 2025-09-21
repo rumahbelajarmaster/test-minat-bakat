@@ -3526,3 +3526,384 @@
     ]
   }
 ]
+{
+    "mbti_type": "ENFP",
+    "riasec_code": "AS",
+    "profile_title": "Sang Bintang Panggung",
+    "profile_tagline": "Seorang pencerita karismatik yang menginspirasi dan terhubung dengan audiens melalui ekspresi kreatif.",
+    "reason_why": "Ini adalah kombinasi ENFP yang paling murni. Kemampuanmu untuk menjelajahi berbagai kemungkinan (Ne) dan terhubung dengan nilai-nilai otentik (Fi) sangat selaras dengan minat untuk berekspresi secara kreatif (Artistic) dan berinteraksi dengan orang lain (Social).",
+    "what_this_means": "Kamu terlahir untuk berada di atas panggung, baik secara harfiah maupun kiasan. Kamu memiliki energi yang menular dan kemampuan untuk membuat orang lain merasa terlibat dalam ceritamu. Kamu adalah seorang aktor, musisi, pembicara motivasi, atau guru yang dinamis. Kamu berkembang saat bisa menyalurkan ide-ide dan empatimu ke dalam sebuah pertunjukan yang menggerakkan orang lain.",
+    "strengths": ["Sangat karismatik dan ekspresif.", "Mampu terhubung dengan audiens pada tingkat emosional.", "Penuh dengan ide-ide kreatif dan cerita.", "Sangat baik dalam improvisasi dan berpikir cepat."],
+    "weaknesses": ["Bisa kesulitan dengan persiapan yang detail dan repetitif.", "Cenderung kurang terorganisir.", "Sangat membutuhkan umpan balik dan validasi dari audiens.", "Bisa cepat bosan dengan satu proyek dan beralih ke yang lain."],
+    "recommended_majors": [
+      { "name": "Teater atau Seni Peran (Acting)", "reason": "Secara langsung mengasah bakat alamimu untuk berekspresi (Artistic) dan terhubung dengan audiens (Social)." },
+      { "name": "Jurnalistik (Penyiaran) atau Ilmu Komunikasi", "reason": "Memberimu platform untuk menceritakan kisah dan terhubung dengan audiens yang luas." },
+      { "name": "Pendidikan (terutama Drama atau Sastra)", "reason": "Menggunakan panggung kelas untuk menginspirasi dan mendidik generasi berikutnya." }
+    ],
+    "career_recommendations": [
+      { "name": "Aktor, Musisi, atau Penampil", "reason": "Karier di mana kamu bisa sepenuhnya menggunakan karisma dan kreativitasmu untuk menghibur dan menginspirasi." },
+      { "name": "Pembawa Acara (Host) TV atau Podcast", "reason": "Peran yang memungkinkanmu untuk berinteraksi dengan banyak orang menarik dan berbagi cerita mereka." },
+      { "name": "Guru Drama atau Pembicara Motivasi", "reason": "Menggunakan energimu untuk menginspirasi dan mengeluarkan potensi terbaik dari orang lain." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "AE",
+    "profile_title": "Sang Visioner Kreatif",
+    "profile_tagline": "Seorang penggagas ide yang mengubah kemungkinan-kemungkinan liar menjadi usaha yang inovatif.",
+    "reason_why": "Kamu menggabungkan kemampuanmu untuk melihat berbagai kemungkinan (Ne) dan nilai-nilai otentik (Fi) dengan minat yang kuat pada ekspresi kreatif (Artistic) dan dorongan untuk memimpin sebuah usaha baru (Enterprising). Kamu adalah seorang wirausahawan kreatif.",
+    "what_this_means": "Kamu adalah mesin ide untuk bisnis-bisnis baru. Kamu tidak hanya melihat satu produk; kamu melihat seluruh ekosistem kemungkinan di sekitarnya. Kamu adalah tipe orang yang akan memulai sebuah agensi periklanan, sebuah startup media, atau sebuah merek fashion. Kamu berkembang dalam fase awal sebuah usaha, di mana brainstorming, branding, dan 'menjual' visi adalah segalanya.",
+    "strengths": ["Luar biasa dalam brainstorming dan menghasilkan ide-ide baru.", "Sangat persuasif dan pandai 'menjual' sebuah visi.", "Mampu melihat tren masa depan.", "Pemimpin yang karismatik dan mampu menginspirasi tim."],
+    "weaknesses": ["Sangat tidak suka pada detail administratif dan operasional.", "Bisa kesulitan untuk fokus dan cenderung melompat dari satu ide ke ide lain.", "Cenderung terlalu optimis dan meremehkan rintangan.", "Membutuhkan tim yang terstruktur untuk mengeksekusi idenya."],
+    "recommended_majors": [
+      { "name": "Kewirausahaan (Entrepreneurship) atau Pemasaran (Marketing)", "reason": "Mengasah kemampuanmu untuk mengubah ide kreatif (Artistic) menjadi model bisnis yang layak (Enterprising)." },
+      { "name": "Desain Komunikasi Visual atau Periklanan", "reason": "Memberikan keterampilan praktis untuk membangun merek dan kampanye yang inovatif." },
+      { "name": "Studi Media", "reason": "Mempelajari lanskap media yang terus berubah, memberimu wawasan untuk menciptakan usaha media baru." }
+    ],
+    "career_recommendations": [
+      { "name": "Pendiri Startup (terutama di bidang media, kreatif, atau teknologi)", "reason": "Peran di mana kamu bisa sepenuhnya mengejar ide-ide inovatifmu." },
+      { "name": "Direktur Kreatif (Creative Director)", "reason": "Memimpin visi kreatif untuk sebuah merek atau agensi, selalu mendorong batasan-batasan baru." },
+      { "name": "Konsultan Inovasi atau Merek", "reason": "Membantu perusahaan lain menemukan ide-ide besar berikutnya dan bagaimana cara mengkomunikasikannya." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "SA",
+    "profile_title": "Sang Konselor Inspiratif",
+    "profile_tagline": "Seorang pembimbing yang menggunakan kreativitas dan koneksi tulus untuk membantu orang lain bertumbuh.",
+    "reason_why": "Dorongan utamamu adalah untuk membantu dan terhubung dengan orang lain (Social), dan kamu melakukannya dengan cara yang sangat kreatif, empatik, dan penuh kemungkinan (Artistic & Ne). Kamu adalah seorang konselor alami yang melihat setiap individu sebagai sebuah cerita yang unik dan penuh potensi.",
+    "what_this_means": "Kamu adalah tipe terapis atau konselor yang disukai semua orang. Kamu mampu menciptakan ruang yang aman, hangat, dan tidak menghakimi di mana orang merasa nyaman untuk menjadi diri mereka sendiri. Kamu tidak memberikan solusi yang kaku; sebaliknya, kamu membantu orang lain menjelajahi berbagai kemungkinan jalan hidup mereka dan menemukan mana yang paling otentik bagi mereka.",
+    "strengths": ["Sangat empatik dan mampu membangun hubungan kepercayaan dengan cepat.", "Kreatif dalam pendekatan terapeutik.", "Pendengar yang sangat baik dan suportif.", "Mampu melihat dan meyakinkan orang lain akan potensi mereka."],
+    "weaknesses": ["Bisa menyerap emosi klien secara berlebihan (emotional burnout).", "Sangat tidak suka pada konflik atau konfrontasi dalam sesi terapi.", "Mungkin kesulitan dengan aspek administratif dan penagihan dari praktik swasta.", "Cenderung terlalu fleksibel dan kurang terstruktur dalam pendekatan terapinya."],
+    "recommended_majors": [
+      { "name": "Psikologi (Konseling)", "reason": "Memberikan kerangka kerja untuk hasrat alamimu dalam membantu orang lain (Social) melalui dialog dan eksplorasi diri (Artistic)." },
+      { "name": "Pekerjaan Sosial (Social Work)", "reason": "Fokus pada membantu individu dan keluarga dalam konteks sosial mereka, seringkali dengan pendekatan yang kreatif." },
+      { "name": "Pendidikan (Bimbingan dan Konseling)", "reason": "Mempersiapkanmu untuk membimbing siswa dalam perjalanan pribadi dan akademik mereka." }
+    ],
+    "career_recommendations": [
+      { "name": "Terapis atau Konselor", "reason": "Membimbing individu, pasangan, atau keluarga untuk mengatasi tantangan dan bertumbuh." },
+      { "name": "Konselor Sekolah", "reason": "Menjadi sosok yang suportif dan inspiratif bagi siswa saat mereka menavigasi masa remaja." },
+      { "name": "Pelatih Kehidupan (Life Coach)", "reason": "Membantu klien menjelajahi berbagai kemungkinan karier dan gaya hidup yang sesuai dengan nilai-nilai mereka." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "SE",
+    "profile_title": "Sang Penggerak Komunitas",
+    "profile_tagline": "Seorang pemimpin yang menyatukan dan memberdayakan orang untuk menciptakan perubahan positif.",
+    "reason_why": "Kamu menggabungkan doronganmu yang kuat untuk membantu dan menyatukan orang (Social) dengan bakat alami untuk memimpin, memengaruhi, dan mengorganisir (Enterprising). Sebagai seorang ENFP, kamu memimpin dengan karisma, antusiasme, dan visi yang tulus untuk kebaikan bersama.",
+    "what_this_means": "Kamu adalah seorang aktivis, manajer kampanye, atau pemimpin organisasi nirlaba. Kamu memiliki kemampuan langka untuk melihat sebuah masalah sosial, merasakan dampaknya pada manusia, dan kemudian menginspirasi sekelompok besar orang untuk mengambil tindakan. Kamu adalah jantung dan suara dari sebuah gerakan.",
+    "strengths": ["Sangat karismatik dan pandai membangun jaringan.", "Mampu menginspirasi dan memobilisasi orang untuk sebuah tujuan.", "Sangat bersemangat dan menularkan antusiasme.", "Pandai berkomunikasi dan membangun konsensus."],
+    "weaknesses": ["Bisa menjadi kurang terorganisir dan melupakan detail-detail penting.", "Cenderung terlalu optimis dan meremehkan rintangan.", "Sangat sensitif terhadap konflik internal dalam sebuah gerakan.", "Bisa kesulitan untuk tetap fokus pada satu tujuan jangka panjang."],
+    "recommended_majors": [
+      { "name": "Ilmu Politik atau Sosiologi", "reason": "Memberikan pemahaman tentang sistem sosial (Social) yang ingin kamu ubah melalui kepemimpinan (Enterprising)." },
+      { "name": "Manajemen Nirlaba (Non-Profit Management)", "reason": "Mempelajari cara membangun dan memimpin organisasi yang efektif untuk misi sosial." },
+      { "name": "Hubungan Masyarakat (Public Relations)", "reason": "Mengasah kemampuanmu untuk membangun dukungan publik untuk sebuah tujuan." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Kampanye (untuk isu politik atau sosial)", "reason": "Merancang dan memimpin strategi untuk memenangkan dukungan publik." },
+      { "name": "Direktur atau Manajer Komunitas di Organisasi Nirlaba", "reason": "Membangun dan mengelola basis sukarelawan dan pendukung." },
+      { "name": "Spesialis Hubungan Masyarakat (PR) untuk Sektor Publik", "reason": "Menjadi juru bicara dan membangun citra positif untuk organisasi yang berorientasi pada misi." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "AI",
+    "profile_title": "Sang Jurnalis Humanis",
+    "profile_tagline": "Seorang penjelajah yang menemukan dan menceritakan kisah-kisah manusia yang tersembunyi.",
+    "reason_why": "Kamu menggabungkan hasrat untuk berekspresi secara kreatif (Artistic) dengan rasa ingin tahu yang mendalam tentang ide, budaya, dan pengalaman manusia (Investigative). Sebagai seorang ENFP, kamu adalah seorang pencerita yang didorong oleh keinginan untuk memahami dan berbagi kebenaran tentang dunia.",
+    "what_this_means": "Kamu adalah seorang jurnalis, penulis perjalanan, atau pembuat film dokumenter. Kamu memiliki rasa ingin tahu yang tak terpuaskan dan kemampuan untuk terhubung dengan orang dari berbagai latar belakang. Kamu menikmati proses bepergian ke tempat baru, mewawancarai orang, dan kemudian menenun semua pengalaman itu menjadi sebuah narasi yang kuat dan mencerahkan.",
+    "strengths": ["Pencerita yang sangat menarik dan empatik.", "Rasa ingin tahu yang luas dan tulus.", "Mampu membuat orang merasa nyaman untuk berbagi cerita mereka.", "Kreatif dalam menemukan sudut pandang yang unik."],
+    "weaknesses": ["Bisa kesulitan untuk tetap fokus pada satu topik untuk waktu yang lama.", "Cenderung kurang terorganisir dalam proses riset.", "Sangat terpengaruh secara emosional oleh cerita yang diliputnya.", "Mungkin kurang suka pada proses pengeditan yang detail dan membosankan."],
+    "recommended_majors": [
+      { "name": "Jurnalistik atau Penulisan Kreatif Non-Fiksi", "reason": "Secara langsung melatihmu dalam seni riset (Investigative) dan penceritaan (Artistic)." },
+      { "name": "Antropologi", "reason": "Memberikan metode untuk memahami budaya lain secara mendalam, yang merupakan bahan bakar yang bagus untuk tulisanmu." },
+      { "name": "Studi Film (dengan fokus pada dokumenter)", "reason": "Mempelajari cara menceritakan kisah nyata melalui medium visual." }
+    ],
+    "career_recommendations": [
+      { "name": "Jurnalis (khususnya feature, perjalanan, atau budaya)", "reason": "Bepergian, bertemu orang, dan menulis cerita-cerita mendalam." },
+      { "name": "Pembuat Film Dokumenter", "reason": "Menggunakan film untuk menjelajahi isu-isu yang kamu pedulikan dan menceritakan kisah-kisah manusia." },
+      { "name": "Penulis Perjalanan (Travel Writer) atau Blogger", "reason": "Berbagi pengalaman dan wawasanmu tentang berbagai tempat dan budaya di dunia." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "IA",
+    "profile_title": "Sang Filsuf Kreatif",
+    "profile_tagline": "Seorang penjelajah ide yang menggunakan seni untuk bertanya 'bagaimana jika?'.",
+    "reason_why": "Dorongan utamamu adalah untuk memahami ide-ide besar dan kemungkinan-kemungkinan (Investigative & Ne), dan kamu mengekspresikannya melalui cara-cara yang imajinatif dan tidak konvensional (Artistic). Kamu adalah seorang seniman yang karyanya lebih tentang pertanyaan daripada jawaban.",
+    "what_this_means": "Kamu adalah seorang penulis fiksi ilmiah, seorang seniman konseptual, atau seorang desainer game eksperimental. Kamu tidak terlalu tertarik untuk menggambarkan dunia apa adanya; kamu tertarik untuk membayangkan dunia seperti apa yang mungkin ada. Kamu menggunakan kreativitasmu sebagai laboratorium untuk mengeksplorasi ide-ide tentang masyarakat, teknologi, dan kesadaran.",
+    "strengths": ["Sangat imajinatif dan konseptual.", "Mampu menghubungkan ide-ide yang tampaknya tidak berhubungan.", "Karyanya seringkali memprovokasi pemikiran dan orisinal.", "Selalu belajar dan mengeksplorasi topik-topik baru."],
+    "weaknesses": ["Karyanya bisa menjadi terlalu abstrak atau sulit dipahami.", "Cenderung melompat dari satu ide besar ke ide besar lainnya tanpa menyelesaikannya.", "Bisa kesulitan dengan aspek teknis atau kerajinan dari seninya.", "Sangat tidak suka pada batasan atau ekspektasi komersial."],
+    "recommended_majors": [
+      { "name": "Filsafat atau Sastra", "reason": "Memberimu amunisi intelektual (Investigative) untuk dieksplorasi melalui karya-karya kreatifmu (Artistic)." },
+      { "name": "Penulisan Kreatif (Fiksi Spekulatif)", "reason": "Fokus pada genre yang secara eksplisit adalah tentang menjelajahi kemungkinan-kemungkinan baru." },
+      { "name": "Seni Rupa Konseptual", "reason": "Di mana ide di balik sebuah karya lebih penting daripada objek itu sendiri." }
+    ],
+    "career_recommendations": [
+      { "name": "Penulis Fiksi Ilmiah atau Fantasi", "reason": "Membangun dunia dan cerita yang digunakan sebagai alegori untuk mengeksplorasi ide-ide filosofis." },
+      { "name": "Seniman Konseptual", "reason": "Menciptakan karya seni yang menantang audiens untuk berpikir tentang sebuah konsep atau pertanyaan." },
+      { "name": "Desainer Game Independen", "reason": "Menciptakan pengalaman interaktif yang mengeksplorasi mekanika atau narasi yang tidak konvensional." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "IE",
+    "profile_title": "Sang Peramal Tren",
+    "profile_tagline": "Seorang analis yang melihat ke masa depan dan mengubah wawasan menjadi peluang.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada riset dan pemahaman pola (Investigative) dengan dorongan untuk memimpin dan berinovasi dalam dunia bisnis (Enterprising). Sebagai seorang ENFP, kamu tidak hanya melihat data; kamu melihat cerita dan kemungkinan di baliknya, memberimu kemampuan unik untuk memprediksi 'the next big thing'.",
+    "what_this_means": "Kamu adalah seorang futuris atau ahli strategi inovasi. Kamu unggul dalam menyerap sejumlah besar informasi—tentang teknologi baru, perubahan budaya, tren pasar—dan kemudian menghubungkan titik-titik yang tidak dilihat orang lain untuk melihat ke mana arah dunia bergerak. Kamu kemudian menggunakan wawasan ini untuk menasihati perusahaan atau memulai usahamu sendiri.",
+    "strengths": ["Sangat baik dalam melihat pola dan memprediksi tren masa depan.", "Mampu menyintesis informasi dari berbagai bidang.", "Komunikator wawasan yang sangat menarik dan persuasif.", "Penuh dengan ide-ide bisnis yang inovatif."],
+    "weaknesses": ["Bisa menjadi terlalu fokus pada ide-ide besar dan mengabaikan kelayakan praktis.", "Cenderung melompat ke 'tren' berikutnya sebelum yang sebelumnya membuahkan hasil.", "Tidak suka pada analisis data yang detail dan membosankan.", "Prediksinya bisa terlalu optimis atau idealis."],
+    "recommended_majors": [
+      { "name": "Pemasaran (Marketing) dengan fokus pada riset pasar", "reason": "Mempelajari cara menganalisis (Investigative) perilaku konsumen untuk menciptakan strategi bisnis (Enterprising)." },
+      { "name": "Studi Media atau Sosiologi", "reason": "Memberimu lensa untuk memahami perubahan budaya yang lebih luas, yang mendorong tren." },
+      { "name": "Kewirausahaan (Entrepreneurship)", "reason": "Memberimu kerangka kerja untuk mengubah wawasanmu tentang tren menjadi sebuah bisnis." }
+    ],
+    "career_recommendations": [
+      { "name": "Analis Tren (Trend Forecaster) atau Futuris", "reason": "Bekerja untuk agensi atau sebagai konsultan untuk membantu merek memahami dan beradaptasi dengan masa depan." },
+      { "name": "Ahli Strategi Inovasi", "reason": "Bekerja di dalam perusahaan besar untuk membantu mereka menemukan produk dan pasar baru." },
+      { "name": "Pendiri Startup", "reason": "Bertaruh pada visimu tentang masa depan dengan membangun sebuah perusahaan di sekitarnya." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "IS",
+    "profile_title": "Sang Antropolog",
+    "profile_tagline": "Seorang penjelajah budaya yang mendedikasikan hidupnya untuk memahami 'mengapa' di balik perilaku manusia.",
+    "reason_why": "Dorongan utamamu adalah untuk memahami manusia secara mendalam (Investigative & Fi), dan kamu melakukannya dengan cara membenamkan diri dalam budaya mereka dan terhubung dengan mereka secara tulus (Social). Kamu adalah seorang ilmuwan sosial yang menggunakan empati sebagai alat penelitian utamanya.",
+    "what_this_means": "Kamu adalah seorang antropolog, etnografer, atau periset kualitatif. Kamu tidak puas hanya dengan membaca tentang orang lain; kamu harus pergi ke sana, tinggal bersama mereka, dan mendengarkan cerita mereka. Kamu memiliki rasa ingin tahu yang tak terbatas tentang berbagai cara hidup di dunia dan kemampuan untuk menjelaskannya dengan wawasan dan empati.",
+    "strengths": ["Sangat baik dalam membangun hubungan dan kepercayaan dengan orang dari budaya yang berbeda.", "Pengamat yang sangat tajam terhadap nuansa sosial.", "Didorong oleh rasa ingin tahu yang tulus dan tidak menghakimi.", "Mampu menceritakan kembali temuan penelitiannya dengan cara yang sangat manusiawi."],
+    "weaknesses": ["Bisa menjadi terlalu terikat secara emosional pada komunitas yang ditelitinya.", "Mungkin kesulitan untuk menjaga objektivitas ilmiah.", "Pekerjaan lapangan bisa sangat menantang dan menguras energi.", "Cenderung kurang tertarik pada analisis statistik atau kuantitatif."],
+    "recommended_majors": [
+      { "name": "Antropologi atau Sosiologi", "reason": "Jurusan yang secara fundamental adalah tentang memahami masyarakat (Social) melalui penelitian yang mendalam (Investigative)." },
+      { "name": "Psikologi (khususnya psikologi lintas budaya)", "reason": "Fokus pada bagaimana budaya membentuk pikiran dan perilaku manusia." },
+      { "name": "Jurnalistik", "reason": "Memberikan keterampilan untuk melakukan wawancara dan observasi, yang merupakan inti dari etnografi." }
+    ],
+    "career_recommendations": [
+      { "name": "Antropolog atau Etnografer (di bidang akademis atau korporat)", "reason": "Melakukan penelitian mendalam tentang budaya atau kelompok konsumen untuk menghasilkan wawasan." },
+      { "name": "Periset Pengalaman Pengguna (UX Researcher)", "reason": "Menggunakan metode etnografi untuk memahami bagaimana orang menggunakan teknologi dalam kehidupan sehari-hari mereka." },
+      { "name": "Jurnalis atau Pembuat Film Dokumenter", "reason": "Bepergian ke berbagai tempat untuk mendokumentasikan dan menjelaskan berbagai cara hidup." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "IR",
+    "profile_title": "Sang Dokter Hewan Empatik",
+    "profile_tagline": "Seorang penyembuh yang menggunakan intuisi dan ilmu pengetahuan untuk merawat hewan.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada ilmu biologi (Investigative) dan aplikasi medis praktis (Realistic) dengan nilai-nilai INFP yang sangat empatik, yang dalam kasus ini meluas ke dunia hewan. Kamu memiliki hubungan yang mendalam dan intuitif dengan makhluk non-manusia.",
+    "what_this_means": "Kamu adalah seorang dokter hewan atau ilmuwan satwa liar yang luar biasa. Kamu tidak hanya melihat hewan sebagai sistem biologis; kamu merasakan kepribadian, ketakutan, dan rasa sakit mereka. Kamu adalah seorang advokat yang bersemangat untuk kesejahteraan hewan, didukung oleh pengetahuan ilmiah yang kuat. Kamu adalah jembatan antara dunia manusia dan dunia hewan.",
+    "strengths": ["Memiliki hubungan intuitif yang kuat dengan hewan.", "Menggabungkan pengetahuan ilmiah dengan perawatan yang penuh kasih.", "Sangat berdedikasi dan rela berkorban untuk pasien hewannya.", "Sangat baik dalam menenangkan hewan yang cemas dan berkomunikasi dengan pemiliknya."],
+    "weaknesses": ["Pekerjaan bisa sangat menguras emosi, terutama saat menghadapi penderitaan hewan.", "Bisa menjadi sangat marah atau frustrasi dengan kekejaman atau kelalaian terhadap hewan.", "Cenderung memprioritaskan hewan di atas segalanya, termasuk kesejahteraan diri sendiri.", "Mungkin kesulitan dengan sisi bisnis yang 'dingin' dari praktik veteriner."],
+    "recommended_majors": [
+      { "name": "Kedokteran Hewan", "reason": "Jalan yang paling langsung untuk menerapkan ilmu (Investigative & Realistic) untuk menyembuhkan hewan." },
+      { "name": "Biologi (dengan spesialisasi Zoologi atau Konservasi Satwa Liar)", "reason": "Fokus pada studi dan perlindungan hewan di habitat alami mereka." },
+      { "name": "Ilmu Perilaku Hewan (Animal Behavior)", "reason": "Mempelajari pikiran dan emosi hewan untuk meningkatkan kesejahteraan mereka." }
+    ],
+    "career_recommendations": [
+      { "name": "Dokter Hewan (terutama untuk hewan peliharaan atau satwa eksotis)", "reason": "Mendiagnosis dan mengobati penyakit pada hewan sambil membangun hubungan dengan mereka dan pemiliknya." },
+      { "name": "Ahli Biologi Satwa Liar", "reason": "Mempelajari dan bekerja untuk melindungi hewan di alam liar." },
+      { "name": "Pekerja di Pusat Rehabilitasi Satwa Liar", "reason": "Merawat hewan liar yang terluka atau yatim piatu dengan tujuan untuk melepaskan mereka kembali ke alam." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "IC",
+    "profile_title": "Sang Pustakawan Kreatif",
+    "profile_tagline": "Seorang organisator yang mengubah perpustakaan menjadi pusat komunitas yang hidup.",
+    "reason_why": "Kamu menggabungkan minat pada riset dan pengetahuan (Investigative) dengan penghargaan terhadap sistem dan keteraturan (Conventional). Sebagai seorang ENFP, kamu tidak melihat perpustakaan sebagai tempat yang sunyi dan berdebu; kamu melihatnya sebagai pusat kemungkinan yang tak terbatas, dan kamu ingin mengaturnya dengan cara yang paling menarik dan mudah diakses.",
+    "what_this_means": "Kamu adalah seorang pustakawan generasi baru. Kamu adalah tipe orang yang tidak hanya akan mengkatalogkan buku, tetapi juga akan memulai klub buku, mengadakan lokakarya penulisan, atau merancang ulang tata letak perpustakaan agar lebih ramah dan kolaboratif. Kamu menggunakan keterampilan organisasimu untuk memicu kreativitas dan pembelajaran pada orang lain.",
+    "strengths": ["Mampu membuat informasi dan pengetahuan terasa menarik dan mudah diakses.", "Kreatif dalam merancang program dan layanan perpustakaan.", "Sangat baik dalam membantu orang menemukan apa yang mereka cari.", "Menggabungkan antusiasme dengan keterampilan organisasi."],
+    "weaknesses": ["Bisa frustrasi dengan birokrasi atau aturan perpustakaan yang kaku.", "Mungkin kurang tertarik pada tugas-tugas pengarsipan yang sangat detail dan repetitif.", "Cenderung memulai terlalu banyak program baru sekaligus.", "Bisa kesulitan untuk menyeimbangkan antara menjadi 'penjaga' aturan dan menjadi fasilitator yang fleksibel."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan dan Informasi", "reason": "Memberikan dasar-dasar dalam mengelola informasi (Conventional & Investigative), yang bisa kamu padukan dengan gaya kreatifmu." },
+      { "name": "Pendidikan", "reason": "Fokus pada bagaimana cara menciptakan lingkungan belajar yang menarik, yang sangat relevan untuk perpustakaan modern." },
+      { "name": "Sastra atau Sejarah", "reason": "Memberimu kecintaan dan pengetahuan yang mendalam tentang materi yang akan kamu kelola." }
+    ],
+    "career_recommendations": [
+      { "name": "Pustakawan (terutama di perpustakaan umum atau sekolah)", "reason": "Peran di mana kamu bisa secara langsung berinteraksi dengan komunitas dan mempromosikan literasi." },
+      { "name": "Arsitek Informasi", "reason": "Mengorganisir konten di situs web atau database agar intuitif dan mudah digunakan." },
+      { "name": "Manajer Pengetahuan (Knowledge Manager)", "reason": "Membantu sebuah organisasi mengumpulkan dan berbagi pengetahuan internalnya dengan cara yang kreatif." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "RE",
+    "profile_title": "Sang Wirausahawan Pengalaman",
+    "profile_tagline": "Seorang penggagas yang membangun bisnis di sekitar penciptaan pengalaman nyata yang tak terlupakan.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan membangun sebuah usaha (Enterprising) dengan kecintaan pada dunia fisik yang nyata dan penuh aksi (Realistic). Sebagai seorang ENFP, kamu tidak menjual produk; kamu menjual sebuah pengalaman. Kamu menggunakan antusiasme dan kreativitasmu untuk membuat dunia nyata terasa lebih ajaib.",
+    "what_this_means": "Kamu adalah tipe orang yang akan memulai sebuah perusahaan pariwisata petualangan, membuka sebuah 'escape room' yang imersif, atau merancang dan menjalankan sebuah festival musik. Kamu unggul dalam memvisualisasikan sebuah pengalaman yang kompleks dari awal hingga akhir dan kemudian mengorganisir semua bagian yang bergerak untuk mewujudkannya. Kamu adalah seorang sutradara realitas.",
+    "strengths": ["Sangat baik dalam menciptakan dan menjual sebuah visi pengalaman.", "Energik, antusias, dan mampu menginspirasi tim dan pelanggan.", "Pemecah masalah yang cepat dan adaptif di lapangan.", "Pandai membangun merek yang didasarkan pada keseruan dan petualangan."],
+    "weaknesses": ["Bisa menjadi kurang fokus pada detail logistik dan keamanan yang membosankan.", "Cenderung terlalu optimis tentang anggaran dan jadwal.", "Membutuhkan banyak variasi dan rangsangan baru, bisa cepat bosan.", "Sangat bergantung pada energi dan umpan balik positif dari orang lain."],
+    "recommended_majors": [
+      { "name": "Manajemen Pariwisata atau Perhotelan (dengan spesialisasi pariwisata petualangan)", "reason": "Secara langsung mempelajari cara merancang dan menjual pengalaman (Enterprising & Realistic)." },
+      { "name": "Kewirausahaan (Entrepreneurship)", "reason": "Memberikan dasar-dasar untuk membangun jenis bisnis apa pun yang kamu impikan." },
+      { "name": "Manajemen Acara (Event Management)", "reason": "Fokus pada keterampilan logistik dan organisasi yang diperlukan untuk menjalankan acara berskala besar." }
+    ],
+    "career_recommendations": [
+      { "name": "Pemilik atau Manajer Perusahaan Pariwisata Petualangan", "reason": "Merancang dan memimpin tur seperti arung jeram, pendakian gunung, atau menyelam." },
+      { "name": "Perancang Pengalaman (Experience Designer)", "reason": "Bekerja untuk taman hiburan, museum, atau merek untuk menciptakan instalasi atau acara yang imersif dan interaktif." },
+      { "name": "Produser Festival atau Acara Besar", "reason": "Mengorganisir semua aspek dari sebuah acara berskala besar, dari pemilihan artis hingga logistik lapangan." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "RA",
+    "profile_title": "Sang Desainer Interaktif",
+    "profile_tagline": "Seorang kreator yang menggunakan teknologi dan seni untuk menciptakan instalasi fisik yang menarik.",
+    "reason_why": "Kamu menggabungkan minat pada dunia fisik yang nyata (Realistic) dengan hasrat untuk ekspresi kreatif yang imajinatif (Artistic). Sebagai seorang ENFP, kamu ingin karyamu menjadi sesuatu yang bisa disentuh, dirasakan, dan berinteraksi dengan orang lain, memicu rasa ingin tahu dan keajaiban.",
+    "what_this_means": "Kamu adalah seorang seniman media baru atau desainer pameran. Kamu adalah tipe orang yang akan menciptakan instalasi seni interaktif di sebuah museum, merancang etalase toko yang memukau, atau membangun set untuk sebuah pertunjukan teater. Kamu menikmati proses menggabungkan berbagai elemen—cahaya, suara, material, teknologi—untuk menciptakan sebuah pengalaman yang utuh.",
+    "strengths": ["Sangat kreatif dan inovatif dalam penggunaan material dan teknologi.", "Mampu berpikir secara spasial dan imajinatif.", "Baik dalam menciptakan pengalaman yang menarik dan berkesan.", "Antusias dan pandai mempresentasikan ide-ide desainnya."],
+    "weaknesses": ["Bisa menjadi kurang terorganisir dalam proses produksi yang kompleks.", "Cenderung meremehkan tantangan teknis atau batasan anggaran.", "Membutuhkan banyak kebebasan kreatif dan tidak suka dibatasi.", "Cepat bosan dengan satu proyek setelah fase konseptual selesai."],
+    "recommended_majors": [
+      { "name": "Desain Pameran (Exhibition Design) atau Desain Interior", "reason": "Fokus pada perancangan ruang (Realistic) untuk tujuan komunikasi dan pengalaman (Artistic)." },
+      { "name": "Seni Media Baru (New Media Art)", "reason": "Mengeksplorasi penggunaan teknologi seperti sensor dan proyeksi dalam instalasi seni fisik." },
+      { "name": "Desain Set (untuk Teater atau Film)", "reason": "Mempelajari cara membangun dunia fisik untuk sebuah narasi." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Pameran (di museum atau pusat sains)", "reason": "Merancang pameran interaktif yang membuat belajar menjadi menyenangkan." },
+      { "name": "Seniman Instalasi", "reason": "Menciptakan karya seni berskala besar yang mengubah sebuah ruang dan mengajak audiens untuk berinteraksi." },
+      { "name": "Desainer Tata Panggung (Set Designer)", "reason": "Membangun dunia fisik di atas panggung atau di lokasi syuting." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "RS",
+    "profile_title": "Sang Terapis Gerak",
+    "profile_tagline": "Seorang penyembuh yang membantu orang lain terhubung kembali dengan tubuh mereka melalui gerakan.",
+    "reason_why": "Kamu menggabungkan minat pada dunia fisik dan tubuh manusia (Realistic) dengan dorongan yang mendalam untuk membantu dan menyembuhkan orang lain (Social). Sebagai seorang ENFP, kamu percaya bahwa tubuh dan pikiran tidak dapat dipisahkan, dan kamu menggunakan gerakan sebagai cara untuk memfasilitasi penyembuhan emosional dan psikologis.",
+    "what_this_means": "Kamu sangat cocok untuk peran sebagai terapis tari/gerak, instruktur yoga, atau terapis okupasi. Kamu memiliki kepekaan untuk merasakan di mana seseorang menyimpan ketegangan atau emosi di dalam tubuh mereka, dan kamu menggunakan keahlianmu untuk membantu mereka melepaskannya melalui gerakan. Kamu adalah seorang fasilitator kesadaran tubuh.",
+    "strengths": ["Sangat empatik dan intuitif terhadap kondisi fisik dan emosional orang lain.", "Mampu menciptakan lingkungan yang aman dan tidak menghakimi untuk bergerak.", "Komunikator yang hangat dan memotivasi.", "Kreatif dalam merancang sesi terapi atau kelas."],
+    "weaknesses": ["Pekerjaan bisa sangat menuntut secara fisik dan emosional.", "Bisa kesulitan dengan klien yang resisten atau tidak terhubung dengan tubuh mereka.", "Cenderung mengabaikan batasan fisik atau emosionalnya sendiri.", "Mungkin kesulitan dengan sisi bisnis dari praktik swasta."],
+    "recommended_majors": [
+      { "name": "Terapi Tari/Gerak (Dance/Movement Therapy)", "reason": "Jurusan pascasarjana yang secara spesifik menggabungkan studi psikologi dengan praktik gerakan terapeutik." },
+      { "name": "Terapi Okupasi", "reason": "Fokus membantu orang untuk berpartisipasi dalam aktivitas kehidupan sehari-hari, yang seringkali melibatkan gerakan fungsional." },
+      { "name": "Ilmu Keolahragaan atau Pendidikan Jasmani", "reason": "Memberikan dasar ilmiah tentang tubuh manusia, yang bisa kamu padukan dengan pendekatan yang lebih holistik." }
+    ],
+    "career_recommendations": [
+      { "name": "Terapis Tari/Gerak", "reason": "Menggunakan gerakan dan tarian sebagai alat psikoterapi untuk meningkatkan kesehatan kognitif, emosional, dan fisik." },
+      { "name": "Instruktur Yoga atau Pilates (dengan fokus terapeutik)", "reason": "Membimbing orang lain untuk terhubung dengan tubuh dan napas mereka untuk mengurangi stres dan meningkatkan kesadaran." },
+      { "name": "Terapis Okupasi", "reason": "Membantu orang dengan berbagai tantangan fisik atau mental untuk dapat hidup semandiri mungkin." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "RC",
+    "profile_title": "Sang Koordinator Acara",
+    "profile_tagline": "Seorang organisator yang antusias, yang memastikan sebuah acara berjalan lancar dan menyenangkan.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan nyata (Realistic) dengan bakat untuk perencanaan, detail, dan keteraturan (Conventional). Sebagai seorang ENFP, kamu membawa energi, kreativitas, dan sentuhan manusiawi pada pekerjaan logistik yang seringkali kaku. Kamu adalah seorang manajer acara yang membuat semua orang merasa diperhatikan.",
+    "what_this_means": "Kamu adalah seorang perencana acara, perencana pernikahan, atau manajer panggung. Kamu memiliki kemampuan langka untuk melihat gambaran besar dari sebuah acara—suasana, pengalaman tamu—sekaligus mengelola semua detail kecil yang membosankan yang diperlukan untuk mewujudkannya. Kamu adalah orang yang akan berlari-lari di belakang panggung dengan clipboard, memastikan semuanya sempurna, sambil tetap tersenyum.",
+    "strengths": ["Menggabungkan antusiasme dan kreativitas dengan keterampilan organisasi.", "Sangat baik dalam multitasking dan bekerja di bawah tekanan.", "Pandai berkomunikasi dan berkoordinasi dengan banyak vendor dan klien.", "Pemecah masalah yang cepat dan adaptif saat terjadi krisis."],
+    "weaknesses": ["Bisa menjadi sangat stres karena sifat pekerjaan yang penuh tekanan.", "Cenderung mengambil terlalu banyak tugas dan kesulitan untuk mengatakan 'tidak'.", "Bisa mengabaikan kesejahteraan diri sendiri demi kesuksesan acara.", "Sangat terpukul jika acara tidak berjalan sesuai dengan visinya."],
+    "recommended_majors": [
+      { "name": "Manajemen Acara (Event Management) atau Manajemen Pariwisata & Perhotelan", "reason": "Secara langsung melatihmu dalam semua aspek perencanaan dan eksekusi acara." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan dasar yang kuat dalam penganggaran dan manajemen proyek." },
+      { "name": "Komunikasi", "reason": "Mengasah kemampuanmu untuk berkoordinasi dengan banyak pihak, yang merupakan inti dari pekerjaan ini." }
+    ],
+    "career_recommendations": [
+      { "name": "Perencana Acara atau Pernikahan", "reason": "Membantu klien merancang dan mengeksekusi hari-hari terpenting dalam hidup mereka." },
+      { "name": "Manajer Produksi atau Manajer Panggung", "reason": "Bertanggung jawab atas semua aspek teknis dan logistik di belakang layar dari sebuah pertunjukan atau acara." },
+      { "name": "Manajer Konferensi atau Pameran Perdagangan", "reason": "Mengorganisir acara berskala besar untuk industri atau perusahaan." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "CI",
+    "profile_title": "Sang Jurnalis Investigasi",
+    "profile_tagline": "Seorang pencari kebenaran yang menggunakan riset teliti untuk menceritakan kisah-kisah penting.",
+    "reason_why": "Kamu menggabungkan minat pada riset yang mendalam dan metodis (Investigative) dengan penghargaan terhadap fakta, detail, dan akurasi (Conventional). Sebagai seorang ENFP, kamu tidak hanya ingin tahu; kamu didorong oleh nilai-nilai (Fi) untuk mengungkap kebenaran dan membagikannya kepada dunia (Ne), terutama jika itu menyangkut ketidakadilan.",
+    "what_this_means": "Kamu adalah seorang jurnalis investigasi atau peneliti di hati. Kamu memiliki kesabaran untuk menelusuri dokumen-dokumen yang membosankan, melakukan wawancara yang sulit, dan menghubungkan titik-titik untuk mengungkap sebuah cerita yang tersembunyi. Kamu adalah seorang detektif yang senjatanya adalah informasi, dan misimu adalah untuk menciptakan transparansi.",
+    "strengths": ["Sangat gigih dan tidak mudah menyerah dalam mencari kebenaran.", "Sangat teliti dan berorientasi pada detail dalam riset.", "Didorong oleh rasa keadilan yang kuat.", "Mampu menyusun informasi yang rumit menjadi sebuah narasi yang jelas."],
+    "weaknesses": ["Bisa menjadi terobsesi dengan sebuah kasus atau cerita.", "Pekerjaan bisa sangat soliter dan menguras mental.", "Bisa frustrasi dengan rintangan atau pihak-pihak yang mencoba menutupi kebenaran.", "Cenderung mengambil risiko pribadi demi sebuah cerita."],
+    "recommended_majors": [
+      { "name": "Jurnalistik (dengan spesialisasi investigasi)", "reason": "Secara langsung melatihmu dalam etika dan metode jurnalisme mendalam." },
+      { "name": "Ilmu Hukum atau Kriminologi", "reason": "Memberikan pemahaman tentang sistem hukum dan kriminal, yang sering menjadi subjek investigasi." },
+      { "name": "Sejarah", "reason": "Mengasah kemampuanmu untuk melakukan riset arsip dan menganalisis sumber-sumber primer." }
+    ],
+    "career_recommendations": [
+      { "name": "Jurnalis Investigasi", "reason": "Bekerja untuk surat kabar, majalah, atau stasiun TV untuk menghasilkan laporan-laporan mendalam." },
+      { "name": "Peneliti untuk Organisasi Nirlaba atau Advokasi", "reason": "Melakukan riset untuk mendukung kampanye tentang isu-isu seperti korupsi atau hak asasi manusia." },
+      { "name": "Penulis Buku Non-Fiksi", "reason": "Menghabiskan waktu bertahun-tahun untuk meneliti dan menulis sebuah buku tentang satu topik investigasi." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "CE",
+    "profile_title": "Sang Manajer Kampanye Politik",
+    "profile_tagline": "Seorang ahli strategi yang mengorganisir dan menginspirasi orang untuk memenangkan pemilihan.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan memengaruhi (Enterprising) dengan bakat untuk perencanaan yang detail, penjadwalan, dan organisasi (Conventional). Sebagai seorang ENFP, kamu membawa energi, karisma, dan kemampuan untuk terhubung dengan pemilih pada pekerjaan di balik layar yang sangat terstruktur ini.",
+    "what_this_means": "Kamu adalah seorang manajer kampanye atau ahli strategi politik. Kamu adalah orang yang menerjemahkan visi seorang kandidat menjadi sebuah rencana operasional yang bisa dijalankan: mengatur jadwal, mengorganisir sukarelawan, merencanakan acara, dan memastikan pesan kampanye konsisten. Kamu adalah mesin di balik seorang politisi.",
+    "strengths": ["Menggabungkan visi strategis dengan eksekusi yang terorganisir.", "Sangat baik dalam memotivasi dan mengelola tim sukarelawan.", "Komunikator yang energik dan persuasif.", "Mampu bekerja di bawah tekanan dan jadwal yang ketat."],
+    "weaknesses": ["Bisa menjadi sangat stres karena sifat pekerjaan yang sangat kompetitif.", "Cenderung mengabaikan kesejahteraan pribadi selama masa kampanye.", "Sangat terikat secara emosional pada hasil pemilihan.", "Bisa frustrasi dengan kandidat atau tim yang tidak disiplin."],
+    "recommended_majors": [
+      { "name": "Ilmu Politik atau Komunikasi Politik", "reason": "Secara langsung mempelajari strategi dan taktik kampanye politik." },
+      { "name": "Hubungan Masyarakat (Public Relations)", "reason": "Mengasah kemampuanmu dalam membentuk opini publik dan mengelola pesan." },
+      { "name": "Manajemen atau Administrasi Bisnis", "reason": "Memberikan dasar yang kuat dalam penganggaran, perencanaan, dan manajemen proyek." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Kampanye", "reason": "Orang yang bertanggung jawab penuh atas seluruh operasional dari sebuah kampanye politik." },
+      { "name": "Ahli Strategi Politik atau Konsultan", "reason": "Memberikan nasihat kepada berbagai kandidat tentang cara terbaik untuk memenangkan pemilihan." },
+      { "name": "Direktur Lapangan (Field Director)", "reason": "Bertanggung jawab untuk mengorganisir semua upaya di lapangan, seperti kampanye dari pintu ke pintu dan pendaftaran pemilih." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "CR",
+    "profile_title": "Sang Koordinator Produksi",
+    "profile_tagline": "Seorang organisator yang memastikan visi kreatif terwujud di dunia nyata, tepat waktu.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang teratur dan berbasis jadwal (Conventional) dengan fokus pada dunia produksi yang nyata dan praktis (Realistic). Sebagai seorang ENFP, kamu membawa sentuhan manusiawi dan kemampuan pemecahan masalah yang fleksibel pada peran yang seringkali kaku ini. Kamu adalah perekat yang menyatukan semua bagian produksi.",
+    "what_this_means": "Kamu adalah seorang koordinator produksi untuk film, manajer panggung untuk teater, atau manajer proyek untuk sebuah acara. Kamu adalah orang yang memastikan bahwa lokasi syuting sudah siap, properti ada di tempatnya, dan semua orang tahu jadwal mereka. Kamu adalah pemecah masalah di lapangan, memastikan semuanya berjalan sesuai rencana, dan jika tidak, kamu adalah orang pertama yang menemukan solusi.",
+    "strengths": ["Sangat terorganisir dan mampu melacak banyak detail.", "Pemecah masalah yang cepat dan adaptif di lapangan.", "Sangat baik dalam berkomunikasi dan berkoordinasi dengan berbagai departemen.", "Menjaga semangat tim tetap tinggi di tengah tekanan."],
+    "weaknesses": ["Bisa menjadi sangat stres karena harus menangani banyak masalah tak terduga.", "Cenderung mengambil terlalu banyak tanggung jawab.", "Mungkin kesulitan untuk menjadi 'orang jahat' dan menegakkan aturan dengan tegas.", "Jam kerja yang panjang dan tidak teratur."],
+    "recommended_majors": [
+      { "name": "Manajemen Produksi (untuk Film atau Teater)", "reason": "Secara langsung melatihmu dalam semua aspek logistik dan organisasi di balik sebuah produksi." },
+      { "name": "Manajemen Acara (Event Management)", "reason": "Memberikan keterampilan yang dapat ditransfer dalam mengelola proyek-proyek yang kompleks dan berbasis waktu." },
+      { "name": "Komunikasi", "reason": "Mengasah kemampuanmu untuk menjadi pusat komunikasi yang efektif untuk seluruh tim." }
+    ],
+    "career_recommendations": [
+      { "name": "Koordinator Produksi atau Manajer Produksi", "reason": "Bertanggung jawab atas semua aspek logistik dan jadwal dari sebuah produksi film atau TV." },
+      { "name": "Manajer Panggung (Stage Manager)", "reason": "Orang yang 'menjalankan' sebuah pertunjukan teater setiap malam, memastikan setiap isyarat dan perubahan adegan terjadi tepat waktu." },
+      { "name": "Manajer Proyek (di agensi kreatif atau acara)", "reason": "Memastikan proyek-proyek kreatif dikirimkan tepat waktu dan sesuai anggaran." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "CA",
+    "profile_title": "Sang Direktur Seni",
+    "profile_tagline": "Seorang pemimpin visual yang memastikan sebuah pesan disampaikan secara konsisten dan kreatif.",
+    "reason_why": "Kamu menggabungkan dorongan untuk menciptakan sesuatu yang indah dan ekspresif (Artistic) dengan bakat untuk keteraturan, konsistensi, dan detail (Conventional). Sebagai seorang ENFP, kamu menggunakan kemampuanmu untuk terhubung dengan orang lain untuk memimpin sebuah tim desain dan memastikan bahwa visi kreatif mereka tetap sejalan dengan tujuan yang lebih besar.",
+    "what_this_means": "Kamu adalah seorang direktur seni (art director) di sebuah majalah, agensi periklanan, atau tim desain. Kamu adalah orang yang menetapkan 'tampilan dan nuansa' dari sebuah proyek dan kemudian membimbing desainer lain untuk bekerja dalam kerangka tersebut. Kamu adalah seorang kurator dan pemimpin visual, memastikan bahwa semua bagian bekerja sama secara harmonis.",
+    "strengths": ["Memiliki visi estetika yang kuat dan jelas.", "Mampu memimpin dan membimbing tim kreatif.", "Sangat baik dalam memberikan umpan balik yang konstruktif.", "Memperhatikan detail dan konsistensi visual."],
+    "weaknesses": ["Bisa menjadi frustrasi jika desainer lain tidak 'menangkap' visinya.", "Mungkin kesulitan untuk melepaskan kontrol kreatif.", "Sangat sensitif terhadap kritik terhadap hasil akhir visual.", "Cenderung memulai banyak arah kreatif sebelum menetap pada satu."],
+    "recommended_majors": [
+      { "name": "Desain Komunikasi Visual (DKV)", "reason": "Memberikan dasar yang kuat dalam semua aspek desain visual, dari tipografi hingga komposisi." },
+      { "name": "Periklanan (Advertising)", "reason": "Fokus pada bagaimana visual digunakan untuk tujuan persuasi dan branding." },
+      { "name": "Manajemen Desain", "reason": "Jurusan yang menggabungkan keterampilan desain dengan prinsip-prinsip manajemen dan kepemimpinan." }
+    ],
+    "career_recommendations": [
+      { "name": "Direktur Seni (Art Director)", "reason": "Bertanggung jawab atas kualitas dan konsistensi visual dari sebuah proyek, publikasi, atau kampanye." },
+      { "name": "Desainer Grafis Senior", "reason": "Mengambil peran utama dalam proyek-proyek desain yang kompleks dan seringkali membimbing desainer junior." },
+      { "name": "Manajer Merek (Brand Manager)", "reason": "Mengawasi semua aspek dari sebuah merek, termasuk identitas visualnya." }
+    ]
+  },
+  {
+    "mbti_type": "ENFP",
+    "riasec_code": "CS",
+    "profile_title": "Sang Manajer Komunitas Online",
+    "profile_tagline": "Seorang pembangun hubungan yang menciptakan ruang online yang teratur, aman, dan menarik.",
+    "reason_why": "Kamu menggabungkan keinginan tulus untuk membantu dan menghubungkan orang (Social) dengan bakat untuk organisasi, moderasi, dan mengikuti aturan (Conventional). Sebagai seorang ENFP, kamu adalah manajer komunitas yang ideal: kamu tidak hanya menegakkan aturan, tetapi kamu melakukannya dengan cara yang hangat, empatik, dan bertujuan untuk membangun budaya yang positif.",
+    "what_this_means": "Kamu sangat cocok untuk mengelola forum online, grup media sosial, atau server Discord untuk sebuah merek atau komunitas. Kamu adalah orang yang akan menyambut anggota baru, memicu percakapan yang menarik, menengahi konflik, dan memastikan semua orang merasa aman dan dihargai. Kamu adalah seorang perawat untuk komunitas digital.",
+    "strengths": ["Sangat baik dalam membangun dan memelihara komunitas online.", "Komunikator yang hangat, empatik, dan menarik.", "Mampu menengahi konflik dengan diplomasi.", "Terorganisir dalam merencanakan konten dan acara komunitas."],
+    "weaknesses": ["Pekerjaan bisa sangat menguras emosi karena harus berurusan dengan konflik dan negativitas online.", "Batasan antara pekerjaan dan kehidupan pribadi bisa menjadi kabur.", "Bisa kesulitan untuk menjadi sangat tegas atau memblokir anggota.", "Sangat terpengaruh oleh atmosfer emosional komunitas."],
+    "recommended_majors": [
+      { "name": "Komunikasi atau Studi Media Digital", "reason": "Mempelajari cara kerja platform online dan cara berkomunikasi secara efektif di dalamnya." },
+      { "name": "Hubungan Masyarakat (Public Relations)", "reason": "Fokus pada pembangunan dan pemeliharaan hubungan antara sebuah organisasi dan publiknya." },
+      { "name": "Psikologi atau Sosiologi", "reason": "Memberikan pemahaman tentang dinamika kelompok dan perilaku online." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Komunitas (Community Manager)", "reason": "Menjadi wajah dan suara dari sebuah merek di platform online, membangun hubungan dengan pelanggan." },
+      { "name": "Manajer Media Sosial (Social Media Manager)", "reason": "Merencanakan dan mempublikasikan konten, serta berinteraksi dengan pengikut di berbagai platform." },
+      { "name": "Spesialis Dukungan Pelanggan (Customer Support)", "reason": "Membantu pelanggan memecahkan masalah mereka dengan cara yang empatik dan terstruktur." }
+    ]
+  }
+]
