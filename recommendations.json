@@ -1642,3 +1642,504 @@
     ]
   }
 ]
+{
+    "mbti_type": "ENTJ",
+    "riasec_code": "EI",
+    "profile_title": "Sang Panglima Visioner",
+    "profile_tagline": "Seorang pemimpin strategis yang merancang masa depan dan memobilisasi orang untuk membangunnya.",
+    "reason_why": "Ini adalah kombinasi ENTJ yang paling murni. Kemampuanmu untuk mengorganisir dan mengeksekusi secara logis (Te) serta melihat visi jangka panjang (Ni) sangat cocok dengan minat untuk memimpin usaha (Enterprising) dan melakukan riset untuk strategi (Investigative). Kamu adalah mesin pencapaian.",
+    "what_this_means": "Kamu terlahir untuk memimpin. Kamu melihat dunia sebagai serangkaian sistem yang bisa dioptimalkan untuk mencapai tujuan. Kamu tidak takut mengambil keputusan sulit dan unggul dalam mengubah rencana yang ambisius menjadi kenyataan. Kamu berkembang saat diberi tanggung jawab besar dan wewenang untuk membuat perubahan.",
+    "strengths": ["Pemimpin alami yang karismatik dan tegas.", "Sangat strategis dan berorientasi pada masa depan.", "Luar biasa dalam mengorganisir sumber daya (orang, waktu, uang).", "Sangat efisien dan fokus pada hasil."],
+    "weaknesses": ["Bisa menjadi tidak sabaran dan terlalu menuntut.", "Cenderung mengabaikan perasaan atau masukan emosional dari orang lain.", "Bisa terlihat arogan atau terlalu mengontrol.", "Tidak suka pada inefisiensi atau orang yang dianggap tidak kompeten."],
+    "recommended_majors": [
+      { "name": "Manajemen Bisnis atau Administrasi Bisnis (MBA Track)", "reason": "Secara langsung melatihmu untuk memimpin (Enterprising) organisasi yang kompleks berdasarkan analisis strategis (Investigative)." },
+      { "name": "Hukum", "reason": "Mengasah kemampuanmu untuk membangun argumen yang logis dan terstruktur (Te) untuk memenangkan kasus atau negosiasi (Enterprising)." },
+      { "name": "Ilmu Politik", "reason": "Mempelajari sistem kekuasaan dan cara memengaruhinya, yang merupakan arena alami bagi seorang ENTJ." }
+    ],
+    "career_recommendations": [
+      { "name": "CEO atau Eksekutif Perusahaan", "reason": "Peran puncak di mana kamu bisa menetapkan visi, menyusun strategi, dan memimpin seluruh organisasi." },
+      { "name": "Konsultan Manajemen", "reason": "Menggunakan ketajaman analitismu untuk memecahkan masalah strategis dari berbagai perusahaan." },
+      { "name": "Pengacara atau Jaksa", "reason": "Memimpin sebuah kasus dengan menyusun argumen yang tak terbantahkan untuk mencapai kemenangan." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "EC",
+    "profile_title": "Sang Eksekutif Operasional",
+    "profile_tagline": "Seorang pemimpin yang membangun kerajaan bisnis melalui efisiensi dan sistem yang sempurna.",
+    "reason_why": "Kamu menggabungkan dorongan alami untuk memimpin dan mencapai target (Enterprising) dengan kecintaan pada struktur, data, dan proses yang efisien (Conventional). Logika (Te) dan visi (Ni) milikmu kamu gunakan untuk merancang dan menjalankan organisasi yang berjalan seperti mesin yang diminyaki dengan baik.",
+    "what_this_means": "Kamu adalah seorang master dalam eksekusi. Kamu unggul dalam peran manajerial di mana kamu bisa mengendalikan proses, mengukur kinerja dengan data, dan memastikan semuanya berjalan sesuai rencana untuk mencapai keuntungan maksimal. Kamu adalah tipe pemimpin yang akan merestrukturisasi sebuah departemen untuk efisiensi yang brutal.",
+    "strengths": ["Sangat baik dalam merancang dan mengelola sistem.", "Pemimpin yang sangat terorganisir dan dapat diandalkan.", "Membuat keputusan berdasarkan data yang keras.", "Luar biasa dalam mencapai target operasional."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan resisten terhadap perubahan yang tidak terencana.", "Mungkin kurang inovatif dan lebih fokus pada optimalisasi daripada penciptaan.", "Cenderung kurang sabar dengan kesalahan atau penyimpangan dari prosedur.", "Bisa terlihat birokratis atau terlalu fokus pada angka."],
+    "recommended_majors": [
+      { "name": "Teknik Industri", "reason": "Jurusan yang secara esensial adalah tentang merancang dan mengoptimalkan sistem (Conventional) untuk tujuan bisnis (Enterprising)." },
+      { "name": "Akuntansi atau Keuangan", "reason": "Memberikanmu kendali atas data dan aturan (Conventional) yang menjadi dasar dari semua keputusan bisnis strategis (Enterprising)." },
+      { "name": "Manajemen Operasional atau Rantai Pasok", "reason": "Fokus pada pengelolaan proses internal perusahaan untuk mencapai efisiensi dan profitabilitas." }
+    ],
+    "career_recommendations": [
+      { "name": "Chief Operating Officer (COO)", "reason": "Orang nomor dua di perusahaan yang bertanggung jawab memastikan semua mesin internal berjalan sempurna." },
+      { "name": "Manajer Pabrik atau Operasional", "reason": "Memimpin operasi harian di fasilitas produksi atau layanan, fokus pada target dan efisiensi." },
+      { "name": "Auditor atau Konsultan Proses Bisnis", "reason": "Menganalisis sistem perusahaan lain dan memberikan rekomendasi untuk perbaikan struktural." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "ES",
+    "profile_title": "Sang Pemimpin Publik",
+    "profile_tagline": "Seorang visioner karismatik yang menginspirasi dan memobilisasi orang untuk tujuan besar.",
+    "reason_why": "Kombinasi ini menyatukan doronganmu yang kuat untuk memimpin (Enterprising) dengan fokus pada pemberdayaan dan kesejahteraan masyarakat (Social). Visi (Ni) dan kemampuan komunikasimu yang tegas (Te) membuatmu menjadi seorang orator dan penggerak massa yang sangat efektif.",
+    "what_this_means": "Kamu terlahir untuk berada di panggung publik. Kamu adalah tipe politisi, pemimpin organisasi nirlaba, atau aktivis yang mampu mengartikulasikan sebuah visi untuk masa depan yang lebih baik dan menginspirasi ribuan orang untuk mengikutimu. Kamu memimpin dengan ide dan persuasi.",
+    "strengths": ["Sangat karismatik dan persuasif.", "Mampu menginspirasi dan memobilisasi massa.", "Visioner dan bersemangat tentang tujuan sosial.", "Pemimpin yang kuat dan tegas."],
+    "weaknesses": ["Bisa terlihat mendominasi atau tidak mau mendengar pendapat berbeda.", "Mungkin menjanjikan lebih dari yang bisa direalisasikan.", "Cenderung fokus pada visi besar dan mengabaikan detail kecil.", "Bisa menjadi tidak sabar dengan lambatnya proses perubahan politik atau sosial."],
+    "recommended_majors": [
+      { "name": "Ilmu Politik atau Pemerintahan", "reason": "Mempelajari seni dan ilmu memimpin di arena publik dan memengaruhi kebijakan." },
+      { "name": "Hubungan Internasional atau Diplomasi", "reason": "Mengasah kemampuanmu untuk bernegosiasi dan mewakili kepentingan dalam skala global." },
+      { "name": "Ilmu Komunikasi (spesialisasi Komunikasi Publik)", "reason": "Secara formal melatih kemampuanmu untuk berbicara di depan umum dan membangun argumen yang meyakinkan." }
+    ],
+    "career_recommendations": [
+      { "name": "Politisi atau Pejabat Publik", "reason": "Peran di mana kamu bisa secara langsung memperjuangkan dan mengimplementasikan visimu untuk masyarakat." },
+      { "name": "Direktur Organisasi Nirlaba atau Advokasi", "reason": "Memimpin sebuah gerakan untuk memperjuangkan sebuah isu sosial atau lingkungan." },
+      { "name": "Pengacara", "reason": "Menggunakan panggung ruang sidang untuk memperjuangkan keadilan bagi klien atau masyarakat." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "EA",
+    "profile_title": "Sang Produser Eksekutif",
+    "profile_tagline": "Seorang maestro yang mengubah visi kreatif menjadi sebuah kerajaan hiburan.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin, membangun, dan menjual (Enterprising) dengan apresiasi terhadap kreativitas, gaya, dan dampak budaya (Artistic). Visi (Ni) dan logika (Te) milikmu membuatmu sangat baik dalam melihat potensi komersial dari sebuah ide kreatif dan membangun sebuah mesin untuk memproduksinya secara massal.",
+    "what_this_means": "Kamu adalah seorang taipan media atau produser film di hati. Kamu adalah tipe orang yang akan membangun sebuah studio film, label musik, atau agensi periklanan. Kamu memiliki kemampuan langka untuk memahami apa yang diinginkan audiens dan kemudian mengorganisir bakat-bakat kreatif untuk menyajikannya dalam sebuah paket yang sukses secara komersial.",
+    "strengths": ["Mampu melihat potensi bisnis dalam kreativitas.", "Sangat baik dalam memimpin dan mengelola proyek kreatif berskala besar.", "Visioner dan pandai menciptakan tren.", "Negosiator yang tangguh di industri kreatif."],
+    "weaknesses": ["Bisa berbenturan dengan talenta kreatif yang dianggapnya tidak efisien.", "Cenderung lebih memprioritaskan kesuksesan komersial daripada integritas artistik.", "Sangat menuntut dan bisa terlihat eksploitatif.", "Tidak sabar dengan proses kreatif yang lambat."],
+    "recommended_majors": [
+      { "name": "Manajemen Industri Kreatif atau Manajemen Seni", "reason": "Secara spesifik mempelajari sisi bisnis (Enterprising) dari dunia seni dan hiburan (Artistic)." },
+      { "name": "Produksi Film dan Televisi", "reason": "Fokus pada aspek manajerial, finansial, dan logistik dari pembuatan sebuah karya hiburan." },
+      { "name": "Pemasaran (Marketing)", "reason": "Memberikan dasar yang kuat untuk memahami audiens dan mempromosikan produk kreatif." }
+    ],
+    "career_recommendations": [
+      { "name": "Produser Eksekutif Film atau TV", "reason": "Orang yang memiliki visi bisnis dan mengumpulkan semua sumber daya untuk membuat sebuah produksi menjadi kenyataan." },
+      { "name": "CEO Label Musik atau Studio Film", "reason": "Memimpin sebuah perusahaan di industri hiburan, membuat keputusan besar tentang proyek apa yang akan didanai." },
+      { "name": "Direktur Kreatif (Creative Director) di agensi besar", "reason": "Menetapkan visi kreatif untuk merek-merek global dan memimpin tim untuk mengeksekusinya." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "ER",
+    "profile_title": "Sang Industrialis Modern",
+    "profile_tagline": "Seorang pemimpin yang membangun dan menguasai industri di dunia nyata.",
+    "reason_why": "Kamu menggabungkan dorongan yang kuat untuk memimpin dan membangun sebuah kerajaan bisnis (Enterprising) dengan fokus pada dunia fisik: manufaktur, konstruksi, dan rekayasa (Realistic). Visi (Ni) dan kemampuan eksekusi (Te) milikmu membuatmu menjadi ahli strategi yang mampu mendominasi sebuah sektor industri.",
+    "what_this_means": "Kamu adalah seorang kapten industri. Kamu berpikir dalam skala besar—membangun pabrik, mengelola rantai pasok global, atau memimpin proyek infrastruktur raksasa. Kamu unggul dalam lingkungan yang menantang secara fisik dan logistik, di mana kamu bisa menerapkan rencanamu untuk mengubah sumber daya mentah menjadi produk nyata dan keuntungan.",
+    "strengths": ["Memiliki visi strategis untuk industri skala besar.", "Sangat baik dalam mengelola operasi yang kompleks.", "Pemimpin yang tegas dan berorientasi pada hasil.", "Memahami baik aspek teknis di lapangan maupun keuangan di ruang rapat."],
+    "weaknesses": ["Bisa jadi kurang peduli pada dampak lingkungan atau sosial dari operasinya.", "Sangat tidak sabar dengan birokrasi atau regulasi pemerintah.", "Cenderung sangat menuntut dan kurang empatik terhadap pekerja.", "Bisa menjadi terlalu fokus pada persaingan dan pertumbuhan."],
+    "recommended_majors": [
+      { "name": "Teknik Industri", "reason": "Mempelajari cara merancang dan mengoptimalkan sistem industri (Realistic) untuk tujuan bisnis (Enterprising)." },
+      { "name": "Manajemen Konstruksi", "reason": "Mempersiapkanmu untuk memimpin proyek pembangunan fisik berskala besar." },
+      { "name": "Teknik Perminyakan, Pertambangan, atau Sipil", "reason": "Memberikan dasar teknis yang kuat di industri-industri besar yang membutuhkan kepemimpinan yang tangguh." }
+    ],
+    "career_recommendations": [
+      { "name": "CEO Perusahaan Manufaktur, Konstruksi, atau Energi", "reason": "Memimpin sebuah perusahaan besar di sektor industri." },
+      { "name": "Manajer Proyek Infrastruktur", "reason": "Bertanggung jawab atas proyek-proyek raksasa seperti pembangunan jalan tol, bandara, atau pembangkit listrik." },
+      { "name": "Konsultan Operasional untuk Industri Berat", "reason": "Membantu perusahaan industri meningkatkan efisiensi, keamanan, dan profitabilitas mereka." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "IE",
+    "profile_title": "Sang Ahli Strategi Intelektual",
+    "profile_tagline": "Seorang pemimpin pemikiran yang mengubah analisis mendalam menjadi strategi yang tak terkalahkan.",
+    "reason_why": "Kombinasi ini menonjolkan sisi analitis dari ENTJ. Minat utamamu adalah pada riset dan pemahaman sistem yang kompleks (Investigative), yang kemudian kamu gunakan sebagai senjata untuk merancang strategi, memimpin, dan memenangkan persaingan (Enterprising). Kamu memimpin dengan superioritas intelektual.",
+    "what_this_means": "Kamu adalah seorang ahli strategi murni. Kamu berkembang dalam peran di mana kamu bisa menganalisis medan perang—baik itu pasar, politik, atau bahkan militer—dan merumuskan rencana yang brilian. Kamu adalah tipe orang yang akan menjadi konsultan papan atas, ahli strategi kampanye politik, atau seorang jenderal. Kamu mengubah pengetahuan menjadi kekuatan.",
+    "strengths": ["Kemampuan analisis dan sintesis yang luar biasa.", "Sangat strategis dan mampu berpikir beberapa langkah ke depan.", "Mampu menjelaskan ide-ide kompleks dengan sangat meyakinkan.", "Pemimpin yang didasarkan pada kompetensi dan pengetahuan."],
+    "weaknesses": ["Bisa terlihat arogan atau meremehkan orang yang dianggapnya kurang cerdas.", "Cenderung terlalu teoretis dan kurang memperhatikan detail praktis.", "Mungkin kurang fleksibel begitu sebuah strategi telah ditetapkan.", "Bisa menjadi sangat argumentatif dan tidak suka jika analisisnya dipertanyakan."],
+    "recommended_majors": [
+      { "name": "Ekonomi atau Keuangan", "reason": "Menganalisis sistem pasar yang kompleks (Investigative) untuk merumuskan strategi investasi atau bisnis (Enterprising)." },
+      { "name": "Studi Strategis atau Hubungan Internasional", "reason": "Mempelajari teori permainan, strategi militer, dan diplomasi." },
+      { "name": "Filsafat, Politik, dan Ekonomi (PPE)", "reason": "Program interdisipliner yang melatihmu untuk menganalisis sistem sosial dari berbagai sudut pandang strategis." }
+    ],
+    "career_recommendations": [
+      { "name": "Konsultan Strategi (di firma papan atas seperti McKinsey, BCG)", "reason": "Pekerjaanmu adalah menjadi otak eksternal untuk memecahkan masalah paling sulit dari perusahaan-perusahaan terbesar." },
+      { "name": "Chief Strategy Officer (CSO)", "reason": "Peran eksekutif yang bertanggung jawab untuk memikirkan arah jangka panjang perusahaan." },
+      { "name": "Analis Intelijen atau Ahli Strategi Militer", "reason": "Menganalisis informasi untuk memberikan rekomendasi strategis di tingkat tertinggi." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "IC",
+    "profile_title": "Sang Arsitek Organisasi",
+    "profile_tagline": "Seorang perancang sistem yang membangun struktur organisasi yang logis dan efisien.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada riset dan analisis (Investigative) dengan kecintaan pada data, struktur, dan keteraturan (Conventional). Sebagai seorang ENTJ, kamu menggunakan kemampuan ini untuk merancang dan membangun sebuah 'mesin' organisasi yang sempurna, di mana setiap bagian memiliki fungsi yang jelas dan bekerja secara efisien.",
+    "what_this_means": "Kamu adalah seorang ahli dalam desain organisasi dan proses. Kamu unggul dalam peran yang membutuhkanmu untuk merancang alur kerja, struktur departemen, atau sistem manajemen kinerja. Kamu adalah tipe orang yang akan membuat bagan organisasi yang paling logis dan deskripsi pekerjaan yang paling jelas. Kamu menciptakan efisiensi melalui desain yang cerdas.",
+    "strengths": ["Sangat baik dalam merancang sistem dan proses yang kompleks.", "Berpikir secara sangat logis dan terstruktur.", "Mampu menerjemahkan strategi besar menjadi detail operasional.", "Sangat teliti dan berorientasi pada data."],
+    "weaknesses": ["Bisa menjadi sangat birokratis dan tidak fleksibel.", "Mungkin kurang memperhatikan budaya atau aspek 'manusia' dari sebuah organisasi.", "Sangat kritis terhadap penyimpangan dari sistem yang telah dirancang.", "Cenderung tidak menyukai peran yang membutuhkan banyak improvisasi."],
+    "recommended_majors": [
+      { "name": "Teknik Industri", "reason": "Secara fundamental, jurusan ini adalah tentang merancang dan mengoptimalkan sistem." },
+      { "name": "Sistem Informasi", "reason": "Fokus pada perancangan sistem berbasis teknologi untuk mendukung operasi bisnis." },
+      { "name": "Psikologi Industri dan Organisasi", "reason": "Mempelajari perilaku manusia di tempat kerja untuk merancang struktur organisasi yang lebih efektif." }
+    ],
+    "career_recommendations": [
+      { "name": "Analis Sistem (Systems Analyst) atau Analis Bisnis", "reason": "Menganalisis kebutuhan organisasi dan merancang solusi berbasis sistem atau proses." },
+      { "name": "Konsultan Desain Organisasi", "reason": "Membantu perusahaan merestrukturisasi departemen dan alur kerja mereka untuk efisiensi yang lebih tinggi." },
+      { "name": "Arsitek Perusahaan (Enterprise Architect)", "reason": "Merancang 'cetak biru' keseluruhan dari proses bisnis dan sistem IT sebuah perusahaan." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "IR",
+    "profile_title": "Sang Insinyur Kepala",
+    "profile_tagline": "Seorang pemimpin teknis yang mengubah riset canggih menjadi produk nyata.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada sains dan riset (Investigative) dengan fokus pada aplikasi di dunia nyata yang praktis (Realistic). Sebagai seorang ENTJ, kamu tidak hanya puas melakukan riset di lab; kamu memiliki dorongan untuk memimpin tim, mengelola proyek, dan memastikan penemuan itu menjadi produk yang bisa diproduksi dan dijual.",
+    "what_this_means": "Kamu adalah pemimpin alami di dunia rekayasa. Kamu adalah tipe orang yang akan menjadi kepala departemen R&D, manajer proyek teknik, atau CTO di sebuah perusahaan teknologi. Kamu mampu berbicara dalam bahasa para ilmuwan dan insinyur, sekaligus bahasa para eksekutif dan pemasar. Kamu adalah jembatan antara lab dan pasar.",
+    "strengths": ["Mampu memimpin tim teknis yang sangat kompeten.", "Memiliki pemahaman yang mendalam dari teori hingga produksi.", "Sangat baik dalam manajemen proyek rekayasa.", "Strategis dalam menentukan arah pengembangan produk."],
+    "weaknesses": ["Bisa menjadi tidak sabar dengan proses riset yang panjang dan tidak pasti.", "Mungkin terlalu cepat mendorong sebuah teknologi ke pasar sebelum benar-benar matang.", "Sangat menuntut standar yang tinggi dari tim teknisnya.", "Cenderung kurang fleksibel terhadap pendekatan teknis yang berbeda dari visinya."],
+    "recommended_majors": [
+      { "name": "Gelar ganda di bidang Teknik (misal: Teknik Elektro) dan Manajemen", "reason": "Memberikan kombinasi sempurna antara kompetensi teknis dan keterampilan kepemimpinan." },
+      { "name": "Fisika Teknik atau Teknik Material", "reason": "Berada di perbatasan antara sains murni dan aplikasi rekayasa, cocok untuk peran R&D." },
+      { "name": "Ilmu Komputer", "reason": "Dasar yang kuat untuk memimpin proyek pengembangan perangkat lunak yang kompleks." }
+    ],
+    "career_recommendations": [
+      { "name": "Chief Technology Officer (CTO) atau VP of Engineering", "reason": "Memimpin seluruh strategi dan eksekusi teknis di sebuah perusahaan." },
+      { "name": "Manajer Proyek Teknik (Engineering Project Manager)", "reason": "Bertanggung jawab atas proyek rekayasa yang kompleks, dari awal hingga akhir." },
+      { "name": "Manajer Riset dan Pengembangan (R&D Manager)", "reason": "Memimpin tim ilmuwan dan insinyur untuk menciptakan produk dan teknologi generasi berikutnya." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "IA",
+    "profile_title": "Sang Arsitek Visioner",
+    "profile_tagline": "Seorang perancang utama yang visinya membentuk lingkungan dan pengalaman kita.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada analisis dan sistem (Investigative) dengan hasrat untuk menciptakan bentuk dan pengalaman yang orisinal dan estetis (Artistic). Sebagai seorang ENTJ, kamu tidak hanya merancang; kamu memimpin sebuah visi, berjuang untuknya, dan mengorganisir tim besar untuk mewujudkannya.",
+    "what_this_means": "Kamu adalah seorang arsitek bintang (starchitect) atau seorang desainer produk ikonik di hati. Kamu memiliki visi yang sangat kuat tentang bagaimana sesuatu seharusnya terlihat dan terasa, dan kamu memiliki ketegasan dan kemampuan organisasi untuk memastikan visi itu terwujud tanpa kompromi. Karyamu tidak hanya fungsional, tetapi juga membuat sebuah pernyataan.",
+    "strengths": ["Memiliki visi desain yang sangat kuat dan koheren.", "Mampu memimpin proyek desain berskala besar.", "Sangat persuasif dalam 'menjual' visinya kepada klien dan tim.", "Standar kualitas yang sangat tinggi, baik secara teknis maupun estetis."],
+    "weaknesses": ["Bisa menjadi sangat tidak mau berkompromi dengan visinya (my way or the highway).", "Sangat kritis terhadap karya lain dan juga karya timnya.", "Mungkin kurang mempertimbangkan batasan anggaran atau kepraktisan.", "Proses kerjanya bisa sangat intens dan menuntut bagi orang di sekitarnya."],
+    "recommended_majors": [
+      { "name": "Arsitektur", "reason": "Bidang yang secara inheren menggabungkan perancangan sistem yang kompleks (Investigative) dengan ekspresi artistik (Artistic) dan manajemen proyek." },
+      { "name": "Desain Industri atau Desain Produk", "reason": "Fokus pada perancangan objek fungsional yang memiliki identitas visual dan pengalaman pengguna yang kuat." },
+      { "name": "Perencanaan Kota", "reason": "Merancang sistem kota dalam skala yang lebih besar, menggabungkan analisis data dengan visi tentang kualitas hidup." }
+    ],
+    "career_recommendations": [
+      { "name": "Arsitek Utama (Principal Architect)", "reason": "Memimpin sebuah firma arsitektur, menetapkan gaya dan filosofi desain, dan mengelola proyek-proyek terbesar." },
+      { "name": "Kepala Desain (Head of Design) di Perusahaan Teknologi", "reason": "Menetapkan visi desain untuk seluruh lini produk sebuah perusahaan." },
+      { "name": "Perencana Kota (Urban Planner)", "reason": "Merancang 'cetak biru' untuk pengembangan kota atau wilayah di masa depan." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "IS",
+    "profile_title": "Sang Rektor Reformis",
+    "profile_tagline": "Seorang pemimpin akademis yang merancang dan menerapkan sistem pendidikan yang lebih baik.",
+    "reason_why": "Kamu menggabungkan minat pada riset dan pengetahuan (Investigative) dengan misi untuk melayani dan mengembangkan potensi manusia (Social). Sebagai seorang ENTJ, kamu tidak hanya akan menjadi seorang profesor; kamu akan menjadi dekan, rektor, atau menteri pendidikan. Kamu didorong untuk memimpin dan mereformasi sistem pendidikan itu sendiri.",
+    "what_this_means": "Kamu adalah seorang pemimpin di dunia pendidikan atau kesehatan. Kamu melihat bagaimana institusi-institusi ini berjalan dan langsung berpikir tentang cara membuatnya lebih efisien, lebih efektif, dan lebih berdampak. Kamu unggul dalam memimpin fakultas, mengelola rumah sakit, atau merancang kebijakan pendidikan nasional.",
+    "strengths": ["Visioner dalam hal reformasi institusional.", "Mampu memimpin para profesional yang sangat cerdas (dokter, profesor).", "Sangat baik dalam perencanaan strategis untuk institusi.", "Mampu membuat keputusan sulit untuk kebaikan jangka panjang organisasi."],
+    "weaknesses": ["Bisa menjadi tidak sabar dengan tradisi atau birokrasi akademik.", "Mungkin terlihat terlalu 'bisnis' atau kurang personal bagi staf.", "Cenderung fokus pada metrik dan hasil daripada proses belajar-mengajar itu sendiri.", "Bisa berbenturan dengan staf yang menolak perubahan."],
+    "recommended_majors": [
+      { "name": "Administrasi Pendidikan Tinggi", "reason": "Secara spesifik mempelajari cara mengelola universitas atau institusi pendidikan." },
+      { "name": "Administrasi Rumah Sakit atau Manajemen Layanan Kesehatan", "reason": "Fokus pada sisi manajerial dari memimpin institusi kesehatan yang kompleks." },
+      { "name": "Kebijakan Publik", "reason": "Memberikan alat untuk menganalisis dan merancang reformasi kebijakan di sektor publik seperti pendidikan atau kesehatan." }
+    ],
+    "career_recommendations": [
+      { "name": "Dekan, Rektor, atau Pimpinan Universitas", "reason": "Memimpin sebuah institusi akademik, menetapkan arah penelitian dan pengajaran." },
+      { "name": "Direktur Rumah Sakit", "reason": "Bertanggung jawab atas seluruh operasional dan strategi dari sebuah rumah sakit." },
+      { "name": "Pejabat Tinggi di Kementerian Pendidikan atau Kesehatan", "reason": "Merancang dan mengimplementasikan kebijakan yang memengaruhi jutaan orang." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "RI",
+    "profile_title": "Sang Insinyur Manajer",
+    "profile_tagline": "Seorang pemimpin teknis yang unggul dalam eksekusi proyek rekayasa.",
+    "reason_why": "Minat utamamu adalah pada dunia fisik yang praktis dan nyata (Realistic), dan kamu menggabungkannya dengan hasrat untuk menganalisis dan memahaminya secara mendalam (Investigative). Sebagai seorang ENTJ, kamu adalah pemimpin alami di lingkungan ini, mampu mengelola tim insinyur dan memastikan proyek selesai sesuai standar tertinggi.",
+    "what_this_means": "Kamu adalah seorang manajer teknik yang sangat efektif. Kamu tidak hanya memahami prinsip-prinsip rekayasa, tetapi kamu juga tahu bagaimana cara mengelola orang, anggaran, dan jadwal untuk mewujudkan sebuah proyek teknis. Kamu adalah orang yang akan memastikan rig minyak lepas pantai dibangun dengan aman atau lini produksi mobil berjalan tanpa hambatan.",
+    "strengths": ["Pemimpin yang sangat kompeten di bidang teknis.", "Sangat baik dalam manajemen proyek rekayasa.", "Mampu membuat keputusan teknis yang sulit dengan cepat.", "Berorientasi pada hasil dan standar kualitas yang tinggi."],
+    "weaknesses": ["Bisa menjadi sangat menuntut dan tidak sabar dengan kesalahan teknis.", "Cenderung kurang fleksibel dan 'saklek' dengan rencana.", "Mungkin kurang tertarik pada aspek manusiawi dan lebih fokus pada mesin dan proses.", "Bisa menjadi 'micromanager' pada detail-detail teknis."],
+    "recommended_majors": [
+      { "name": "Teknik (Sipil, Mesin, Elektro, Perminyakan)", "reason": "Memberikan dasar teknis (Realistic & Investigative) yang kuat untuk karier di bidang rekayasa." },
+      { "name": "Manajemen Rekayasa (Engineering Management)", "reason": "Jurusan yang secara spesifik menggabungkan keterampilan teknik dengan keterampilan manajemen dan kepemimpinan." },
+      { "name": "Manajemen Proyek", "reason": "Mengajarkan metodologi untuk mengelola proyek-proyek teknis yang kompleks." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Teknik (Engineering Manager)", "reason": "Memimpin sebuah departemen atau tim insinyur dalam sebuah perusahaan." },
+      { "name": "Manajer Proyek Konstruksi atau Manufaktur", "reason": "Bertanggung jawab penuh atas keberhasilan proyek di lapangan." },
+      { "name": "Insinyur Kepala (Chief Engineer)", "reason": "Posisi teknis tertinggi dalam sebuah proyek besar, membuat keputusan teknis akhir." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "RA",
+    "profile_title": "Sang Arsitek Industrial",
+    "profile_tagline": "Seorang pemimpin yang visinya membentuk lanskap fisik dunia modern.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang nyata, berskala besar, dan praktis (Realistic) dengan apresiasi yang kuat terhadap desain, bentuk, dan dampak visual (Artistic). Sebagai seorang ENTJ, kamu tidak hanya ingin membangun sesuatu; kamu ingin membangun sesuatu yang ikonik dan mengesankan.",
+    "what_this_means": "Kamu adalah seorang arsitek atau pengembang properti visioner. Kamu berpikir dalam skala kota. Kamu adalah tipe orang yang akan memimpin proyek pembangunan sebuah bandara baru, sebuah gedung pencakar langit yang menjadi landmark, atau sebuah distrik perkotaan yang terencana. Kamu menggabungkan rekayasa yang ambisius dengan visi estetika yang kuat.",
+    "strengths": ["Memiliki visi yang besar dan berani untuk proyek fisik.", "Mampu memimpin tim besar yang terdiri dari arsitek, insinyur, dan kontraktor.", "Sangat baik dalam menyeimbangkan antara ambisi desain dan kelayakan komersial.", "Negosiator yang tangguh dengan pemerintah dan investor."],
+    "weaknesses": ["Proyek-proyeknya bisa menjadi sangat mahal dan berisiko tinggi.", "Bisa menjadi tidak sabar dengan proses perizinan atau regulasi yang lambat.", "Sangat tidak mau berkompromi dengan visi besarnya.", "Cenderung fokus pada skala monumental dan mungkin mengabaikan detail skala manusia."],
+    "recommended_majors": [
+      { "name": "Arsitektur", "reason": "Jurusan klasik untuk merancang (Artistic) bangunan fisik (Realistic)." },
+      { "name": "Perencanaan Kota dan Wilayah (Urban Planning)", "reason": "Merancang dalam skala yang lebih besar, membentuk keseluruhan lingkungan perkotaan." },
+      { "name": "Pengembangan Properti (Real Estate Development)", "reason": "Fokus pada sisi bisnis dan manajerial dari mengubah lahan kosong menjadi bangunan yang bernilai." }
+    ],
+    "career_recommendations": [
+      { "name": "Arsitek Utama atau Pemilik Firma Arsitektur", "reason": "Memimpin perancangan proyek-proyek berskala besar dan ikonik." },
+      { "name": "Pengembang Properti (Property Developer)", "reason": "Otak di balik sebuah proyek properti, mulai dari pembelian tanah, perancangan, konstruksi, hingga penjualan." },
+      { "name": "Perencana Kota", "reason": "Bekerja untuk pemerintah atau perusahaan swasta untuk merancang masa depan sebuah kota." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "RS",
+    "profile_title": "Sang Pelatih Kepala (Head Coach)",
+    "profile_tagline": "Seorang ahli strategi yang membangun tim juara dan mengembangkan potensi atlet.",
+    "reason_why": "Kamu menggabungkan minat pada dunia fisik, kompetisi, dan kinerja (Realistic) dengan hasrat untuk mengajar, membimbing, dan memimpin sekelompok orang (Social). Sebagai seorang ENTJ, kamu adalah pelatih yang sempurna: visioner, strategis, tegas, dan sangat termotivasi untuk menang.",
+    "what_this_means": "Kamu adalah seorang pelatih kepala atau manajer tim olahraga. Kamu tidak hanya mengajarkan teknik; kamu merancang sistem permainan, menganalisis lawan, mengelola ego para pemain bintang, dan membuat keputusan sulit di bawah tekanan. Kamu membangun sebuah budaya kemenangan.",
+    "strengths": ["Ahli strategi yang brilian.", "Pemimpin yang mampu memotivasi dan menuntut yang terbaik dari timnya.", "Sangat kompetitif dan berorientasi pada kemenangan.", "Mampu membuat keputusan cepat dan logis di tengah pertandingan."],
+    "weaknesses": ["Bisa menjadi terlalu keras atau tidak empatik terhadap pemain.", "Sangat tidak suka pada kekalahan dan bisa bereaksi dengan buruk.", "Cenderung 'memakai' pemainnya hingga batas kemampuan mereka.", "Mungkin kurang sabar dengan proses pengembangan pemain muda."],
+    "recommended_majors": [
+      { "name": "Ilmu Keolahragaan atau Pendidikan Kepelatihan Olahraga", "reason": "Memberikan dasar ilmiah tentang kinerja fisik (Realistic) dan metodologi untuk melatih orang (Social)." },
+      { "name": "Manajemen Olahraga (Sports Management)", "reason": "Fokus pada sisi bisnis dan manajerial dari sebuah tim atau organisasi olahraga." },
+      { "name": "Psikologi (dengan fokus pada psikologi olahraga)", "reason": "Mempelajari aspek mental dari kompetisi dan cara membangun mental juara." }
+    ],
+    "career_recommendations": [
+      { "name": "Pelatih Kepala (untuk tim profesional atau universitas)", "reason": "Bertanggung jawab penuh atas strategi dan kinerja sebuah tim olahraga." },
+      { "name": "Manajer Umum (General Manager) Tim Olahraga", "reason": "Orang yang membangun tim, bertanggung jawab atas pemilihan pemain, negosiasi kontrak, dan strategi jangka panjang." },
+      { "name": "Direktur Atletik di Universitas", "reason": "Memimpin seluruh program olahraga di sebuah institusi pendidikan." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "RC",
+    "profile_title": "Sang Manajer Kualitas Total",
+    "profile_tagline": "Seorang pemimpin yang menerapkan standar tertinggi untuk mencapai efisiensi dan kesempurnaan.",
+    "reason_why": "Kamu menggabungkan minat pada dunia fisik yang praktis (Realistic) dengan dedikasi pada standar, prosedur, dan akurasi (Conventional). Sebagai seorang ENTJ, kamu tidak hanya mengikuti standar; kamu menciptakannya, menerapkannya, dan secara sistematis memastikan seluruh organisasi mematuhinya untuk mencapai hasil yang superior.",
+    "what_this_means": "Kamu adalah seorang ahli dalam manajemen kualitas atau Six Sigma. Kamu adalah tipe pemimpin yang akan merevolusi sebuah lini produksi, mengurangi cacat produk hingga mendekati nol, dan mengoptimalkan setiap langkah dalam proses. Kamu percaya bahwa kualitas bukanlah sebuah kebetulan, melainkan hasil dari sistem yang dirancang dengan brilian.",
+    "strengths": ["Sangat baik dalam merancang dan mengimplementasikan sistem manajemen kualitas.", "Sangat teliti dan berorientasi pada data.", "Pemimpin yang tegas dalam menerapkan standar.", "Berorientasi pada perbaikan berkelanjutan."],
+    "weaknesses": ["Bisa menjadi sangat birokratis dan tidak fleksibel.", "Mungkin menghambat inovasi karena terlalu fokus pada standar yang ada.", "Kurang sabar dengan kesalahan manusia atau penyimpangan sekecil apa pun.", "Cenderung melihat orang sebagai bagian dari sistem, bukan sebagai individu."],
+    "recommended_majors": [
+      { "name": "Teknik Industri", "reason": "Jurusan yang secara langsung mengajarkan metodologi untuk peningkatan kualitas dan efisiensi seperti Six Sigma dan Lean Manufacturing." },
+      { "name": "Manajemen Kualitas (Quality Management)", "reason": "Spesialisasi dalam merancang dan mengaudit sistem untuk memastikan kualitas produk atau layanan." },
+      { "name": "Manajemen Operasional", "reason": "Fokus pada pengelolaan proses internal untuk mencapai standar kualitas dan efisiensi tertinggi." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Kualitas (Quality Manager) atau Direktur Kualitas", "reason": "Bertanggung jawab atas seluruh sistem manajemen mutu di sebuah perusahaan." },
+      { "name": "Konsultan Lean Six Sigma", "reason": "Membantu perusahaan lain menerapkan metodologi peningkatan kualitas untuk mengurangi pemborosan dan meningkatkan profitabilitas." },
+      { "name": "Manajer Pabrik", "reason": "Memimpin operasi harian di sebuah pabrik dengan fokus yang tajam pada kualitas dan efisiensi." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "AI",
+    "profile_title": "Sang Kurator Visioner",
+    "profile_tagline": "Seorang pemimpin pemikiran yang membentuk wacana budaya melalui seleksi dan presentasi yang cerdas.",
+    "reason_why": "Kamu menggabungkan minat pada analisis mendalam (Investigative) dengan hasrat untuk menciptakan narasi dan pengalaman yang kuat melalui seni (Artistic). Sebagai seorang ENTJ, kamu tidak hanya menikmati seni; kamu ingin mengaturnya, memberinya konteks, dan menyajikannya kepada publik dengan cara yang memiliki dampak intelektual yang kuat.",
+    "what_this_means": "Kamu adalah seorang kurator museum, direktur festival film, atau editor majalah budaya. Kamu memiliki visi tentang tema atau ide apa yang penting saat ini, dan kamu menggunakan platformmu untuk mengumpulkan karya-karya yang relevan dan menyajikannya dalam sebuah pameran atau publikasi yang koheren. Kamu adalah seorang arsitek wacana.",
+    "strengths": ["Memiliki visi intelektual dan artistik yang kuat.", "Sangat baik dalam mengorganisir pameran atau publikasi yang kompleks.", "Mampu mengidentifikasi tren budaya dan artistik yang penting.", "Komunikator yang persuasif tentang pentingnya sebuah karya atau ide."],
+    "weaknesses": ["Bisa terlihat elitis atau terlalu akademis.", "Sangat kritis dan memiliki selera yang sangat spesifik.", "Mungkin kurang sabar dengan seniman atau penulis yang dianggapnya tidak memiliki kedalaman intelektual.", "Cenderung memaksakan visinya pada sebuah pameran atau publikasi."],
+    "recommended_majors": [
+      { "name": "Sejarah Seni atau Studi Kuratorial", "reason": "Secara langsung mempelajari cara menganalisis (Investigative) dan menyajikan (Artistic) karya seni dalam konteks historis dan tematis." },
+      { "name": "Studi Film atau Studi Sastra", "reason": "Memberikan dasar analitis yang kuat untuk memahami dan mengkurasi karya-karya di bidang tersebut." },
+      { "name": "Jurnalistik (dengan fokus pada seni dan budaya)", "reason": "Melatihmu untuk menulis dan mengedit konten tentang dunia seni." }
+    ],
+    "career_recommendations": [
+      { "name": "Kurator Museum atau Galeri Seni", "reason": "Merancang dan mengorganisir pameran, memilih karya, dan menulis teks yang menyertainya." },
+      { "name": "Direktur Artistik Festival (Film, Musik, Sastra)", "reason": "Menentukan tema dan memilih karya yang akan ditampilkan dalam sebuah festival." },
+      { "name": "Editor Kepala Majalah Budaya atau Jurnal Akademik", "reason": "Menetapkan arah editorial dan memilih tulisan yang akan diterbitkan." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "AS",
+    "profile_title": "Sang Dekan Universitas",
+    "profile_tagline": "Seorang pemimpin akademis yang membangun institusi untuk memberdayakan dan mencerahkan.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin sebuah organisasi (Enterprising) dengan misi untuk mendidik dan melayani komunitas (Social), sambil tetap mempertahankan standar intelektual dan artistik yang tinggi (Artistic). Kamu adalah seorang pemimpin di dunia akademis atau seni.",
+    "what_this_means": "Kamu adalah tipe orang yang akan menjadi dekan fakultas seni dan humaniora, direktur sebuah sekolah seni bergengsi, atau kepala sebuah yayasan pendidikan. Kamu tidak hanya peduli pada pendidikan; kamu ingin membangun institusi terbaik yang menghasilkan lulusan terbaik. Kamu adalah seorang pembangun warisan intelektual.",
+    "strengths": ["Visioner untuk masa depan sebuah institusi.", "Mampu memimpin dan menginspirasi para akademisi atau seniman.", "Sangat baik dalam menggalang dana dan membangun reputasi.", "Menyeimbangkan antara keunggulan akademik/artistik dan kesehatan finansial."],
+    "weaknesses": ["Bisa berbenturan dengan fakultas yang menolak visinya.", "Mungkin terlihat terlalu fokus pada 'bisnis' pendidikan daripada misi murninya.", "Sangat tidak sabar dengan birokrasi akademik.", "Cenderung mengambil alih dan kurang kolaboratif."],
+    "recommended_majors": [
+      { "name": "Administrasi Pendidikan Tinggi", "reason": "Secara spesifik mempelajari cara memimpin dan mengelola sebuah universitas." },
+      { "name": "Manajemen Seni", "reason": "Fokus pada pengelolaan organisasi di sektor seni, seperti teater, museum, atau orkestra." },
+      { "name": "Gelar lanjutan (PhD) di bidang yang kamu minati", "reason": "Memberikan kredibilitas akademik yang diperlukan untuk memimpin di lingkungan tersebut." }
+    ],
+    "career_recommendations": [
+      { "name": "Dekan atau Rektor Universitas", "reason": "Memimpin sebuah institusi pendidikan tinggi, menetapkan visi, dan mengelola operasinya." },
+      { "name": "Direktur Museum atau Institusi Seni", "reason": "Bertanggung jawab atas visi artistik dan kesehatan finansial dari sebuah lembaga budaya." },
+      { "name": "Kepala Sekolah (untuk sekolah swasta bergengsi)", "reason": "Menetapkan standar dan arah pendidikan untuk sebuah sekolah." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "AR",
+    "profile_title": "Sang Pengembang Properti Butik",
+    "profile_tagline": "Seorang wirausahawan yang menciptakan ruang hidup yang fungsional dan berkarakter.",
+    "reason_why": "Kamu menggabungkan dorongan untuk membangun bisnis (Enterprising) dengan minat pada desain dan konstruksi fisik (Realistic), sambil memiliki visi estetika yang kuat (Artistic). Kamu tidak hanya membangun rumah; kamu menciptakan sebuah gaya hidup.",
+    "what_this_means": "Kamu adalah seorang pengembang properti yang fokus pada kualitas dan desain. Kamu tidak tertarik membangun perumahan massal yang seragam. Sebaliknya, kamu akan mencari sebidang tanah yang unik, bekerja sama dengan arsitek hebat, dan menciptakan sebuah bangunan atau kompleks yang memiliki karakter dan visi. Kamu menjual sebuah produk yang indah dan dibuat dengan baik.",
+    "strengths": ["Memiliki visi yang jelas untuk sebuah proyek properti.", "Memahami baik aspek desain, konstruksi, maupun bisnis.", "Negosiator yang tangguh dengan kontraktor, arsitek, dan pembeli.", "Berorientasi pada kualitas dan keuntungan."],
+    "weaknesses": ["Bisa menjadi sangat tidak mau berkompromi dengan visi desainnya.", "Proyeknya bisa memakan waktu lama dan berisiko tinggi.", "Sangat menuntut standar yang tinggi dari semua pihak yang terlibat.", "Mungkin kurang tertarik pada properti yang 'biasa saja' meskipun menguntungkan."],
+    "recommended_majors": [
+      { "name": "Pengembangan Properti (Real Estate Development)", "reason": "Jurusan yang secara langsung menggabungkan aspek keuangan, desain, dan manajemen dari bisnis properti." },
+      { "name": "Arsitektur (dengan minat pada bisnis)", "reason": "Memberikan dasar desain yang kuat yang bisa kamu kembangkan menjadi bisnis developer." },
+      { "name": "Bisnis (dengan spesialisasi keuangan atau kewirausahaan)", "reason": "Memberikan fondasi bisnis yang kuat untuk memasuki industri properti." }
+    ],
+    "career_recommendations": [
+      { "name": "Pengembang Properti (Property Developer)", "reason": "Otak di balik sebuah proyek, dari akuisisi lahan hingga penjualan unit terakhir." },
+      { "name": "Arsitek-Developer", "reason": "Seorang arsitek yang tidak hanya merancang untuk klien, tetapi juga membangun dan menjual proyeknya sendiri." },
+      { "name": "Manajer Proyek untuk Properti Mewah", "reason": "Mengawasi pembangunan properti kelas atas yang menuntut perhatian tertinggi pada kualitas dan detail." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "AC",
+    "profile_title": "Sang Manajer Merek Global",
+    "profile_tagline": "Seorang ahli strategi yang membangun dan menjaga konsistensi merek di seluruh dunia.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mempromosikan sebuah merek (Enterprising) dengan apresiasi yang mendalam terhadap kreativitas (Artistic) dan kebutuhan akan aturan dan konsistensi yang ketat (Conventional). Kamu adalah seorang penjaga gerbang identitas sebuah merek.",
+    "what_this_means": "Kamu sangat cocok untuk peran sebagai manajer merek di perusahaan multinasional. Kamu adalah orang yang akan memastikan bahwa logo, pesan, dan pengalaman merek tetap konsisten, dari iklan di TV hingga kemasan produk di toko. Kamu merancang 'panduan merek' (brand guidelines) dan secara tegas memastikan semua orang mematuhinya.",
+    "strengths": ["Sangat strategis dalam membangun citra merek.", "Mampu mengelola kampanye pemasaran yang kompleks dan konsisten.", "Sangat terorganisir dan berorientasi pada detail.", "Tegas dalam menjaga integritas merek."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan menolak ide-ide kreatif yang 'di luar merek'.", "Mungkin menghambat kreativitas tim lokal demi konsistensi global.", "Cenderung kurang fleksibel terhadap tren pasar yang cepat berubah.", "Bisa terlihat birokratis bagi tim kreatif."],
+    "recommended_majors": [
+      { "name": "Manajemen Merek (Brand Management) atau Pemasaran", "reason": "Secara langsung mempelajari cara membangun, mengelola, dan melindungi aset tak berwujud yang paling berharga dari sebuah perusahaan." },
+      { "name": "Komunikasi", "reason": "Fokus pada bagaimana pesan sebuah merek disampaikan secara konsisten melalui berbagai saluran." },
+      { "name": "Desain Komunikasi Visual (dengan minat pada strategi)", "reason": "Memahami dasar-dasar visual dari sebuah merek, yang penting untuk dikelola." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Merek (Brand Manager) atau Direktur Merek", "reason": "Bertanggung jawab atas kesehatan dan strategi jangka panjang sebuah merek." },
+      { "name": "Ahli Strategi Periklanan (Advertising Strategist)", "reason": "Merancang kerangka kerja strategis untuk kampanye periklanan, memastikan semua materi kreatif sesuai dengan tujuan merek." },
+      { "name": "Manajer Pemasaran Global", "reason": "Mengadaptasi dan mengelola strategi pemasaran sebuah merek di berbagai negara dan budaya." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "SI",
+    "profile_title": "Sang Kepala Sekolah Transformasional",
+    "profile_tagline": "Seorang pemimpin pendidikan yang menerapkan sistem inovatif untuk memaksimalkan potensi siswa.",
+    "reason_why": "Kamu menggabungkan keinginan tulus untuk membantu dan mengembangkan orang lain (Social) dengan minat yang mendalam pada riset dan analisis (Investigative). Sebagai seorang ENTJ, kamu didorong untuk memimpin dan mengimplementasikan visi ini. Kamu adalah seorang reformis pendidikan yang berbasis bukti.",
+    "what_this_means": "Kamu adalah tipe pemimpin yang akan mengambil alih sebuah sekolah atau distrik pendidikan dan mengubahnya secara fundamental. Kamu akan menganalisis data kinerja siswa, meneliti metode pengajaran terbaik dari seluruh dunia, dan kemudian secara sistematis menerapkan kurikulum dan program pelatihan guru yang baru. Kamu memimpin perubahan dari atas.",
+    "strengths": ["Visioner dan strategis dalam bidang pendidikan.", "Mampu membuat keputusan berdasarkan data dan riset.", "Pemimpin yang kuat dan mampu mengimplementasikan perubahan berskala besar.", "Berkomitmen tinggi untuk meningkatkan hasil belajar siswa."],
+    "weaknesses": ["Bisa berbenturan dengan guru atau orang tua yang resisten terhadap perubahan.", "Mungkin terlihat terlalu fokus pada data dan tes, dan kurang pada kesejahteraan emosional siswa.", "Sangat tidak sabar dengan birokrasi atau guru yang dianggap tidak efektif.", "Cenderung menerapkan solusi 'satu ukuran untuk semua'."],
+    "recommended_majors": [
+      { "name": "Kepemimpinan Pendidikan atau Administrasi Pendidikan", "reason": "Jurusan yang secara spesifik mempersiapkanmu untuk menjadi pemimpin di institusi pendidikan." },
+      { "name": "Kebijakan Publik (dengan fokus pada pendidikan)", "reason": "Mempelajari cara merancang dan mengadvokasi reformasi kebijakan pendidikan di tingkat yang lebih tinggi." },
+      { "name": "Psikologi Pendidikan", "reason": "Memberikan dasar ilmiah tentang bagaimana siswa belajar, yang penting untuk membuat kebijakan yang efektif." }
+    ],
+    "career_recommendations": [
+      { "name": "Kepala Sekolah atau Pengawas Sekolah (Superintendent)", "reason": "Memimpin dan menetapkan arah untuk satu atau beberapa sekolah." },
+      { "name": "Pejabat di Kementerian Pendidikan", "reason": "Merancang dan mengimplementasikan kebijakan pendidikan dalam skala nasional." },
+      { "name": "Pendiri Jaringan Sekolah Inovatif", "reason": "Membangun model sekolah baru dari nol berdasarkan filosofi pendidikan yang unik." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "SA",
+    "profile_title": "Sang Direktur Teater",
+    "profile_tagline": "Seorang pemimpin artistik yang menyatukan bakat untuk menciptakan pertunjukan yang kuat.",
+    "reason_why": "Kamu menggabungkan hasrat untuk memimpin dan mengorganisir (Enterprising) dengan kecintaan pada ekspresi artistik (Artistic) dan kolaborasi manusia (Social). Kamu adalah seorang sutradara dalam arti yang paling lengkap: memiliki visi, mampu mengkomunikasikannya, dan menyatukan semua elemen—aktor, desainer, penulis—untuk mewujudkannya.",
+    "what_this_means": "Kamu adalah seorang pemimpin di dunia seni pertunjukan. Kamu adalah tipe orang yang akan menjadi direktur artistik sebuah perusahaan teater, sutradara opera, atau koreografer. Kamu menikmati proses kolaboratif, tetapi pada akhirnya, kamulah yang memiliki visi akhir dan membuat keputusan sulit untuk memastikan pertunjukan tersebut berhasil.",
+    "strengths": ["Memiliki visi artistik yang jelas dan kuat.", "Mampu memimpin dan menginspirasi sekelompok besar seniman.", "Komunikator yang sangat baik dan motivator yang ulung.", "Sangat baik dalam mengelola proyek yang kompleks dengan banyak bagian yang bergerak."],
+    "weaknesses": ["Bisa menjadi sangat dominan dan kurang mau menerima masukan dari kolaborator.", "Sangat menuntut dan bisa menciptakan lingkungan kerja yang penuh tekanan.", "Mungkin kesulitan menyeimbangkan antara visi artistik dan batasan anggaran.", "Sangat kritis terhadap pertunjukan yang tidak memenuhi standarnya."],
+    "recommended_majors": [
+      { "name": "Teater (Peminatan Penyutradaraan)", "reason": "Secara langsung melatihmu dalam seni dan kerajinan memimpin sebuah produksi teater." },
+      { "name": "Manajemen Seni", "reason": "Memberikan keterampilan bisnis dan manajerial yang diperlukan untuk memimpin sebuah organisasi seni." },
+      { "name": "Musik (Peminatan Konduktor atau Komposisi)", "reason": "Mengasah kemampuanmu untuk menafsirkan sebuah karya dan memimpin sekelompok musisi." }
+    ],
+    "career_recommendations": [
+      { "name": "Sutradara Teater atau Opera", "reason": "Orang yang memiliki visi kreatif utama untuk sebuah pertunjukan dan memimpin seluruh tim." },
+      { "name": "Direktur Artistik (Artistic Director) Perusahaan Teater", "reason": "Bertanggung jawab atas visi artistik keseluruhan dari sebuah perusahaan, termasuk memilih repertoar dan sutradara." },
+      { "name": "Konduktor Orkestra", "reason": "Memimpin sekelompok besar musisi untuk menafsirkan dan menampilkan sebuah karya musik." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "SR",
+    "profile_title": "Sang Manajer Rumah Sakit",
+    "profile_tagline": "Seorang pemimpin yang merancang sistem agar para profesional medis dapat menyelamatkan nyawa.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin sebuah organisasi yang kompleks (Enterprising) dengan misi untuk memberikan pelayanan kepada orang lain (Social) dalam lingkungan yang sangat teknis dan nyata (Realistic). Kamu adalah seorang administrator layanan kesehatan yang ulung.",
+    "what_this_means": "Kamu adalah tipe orang yang akan menjadi direktur rumah sakit atau manajer klinik. Kamu mungkin bukan seorang dokter, tetapi kamu adalah orang yang memastikan para dokter memiliki semua yang mereka butuhkan—peralatan terbaik, staf yang cukup, alur kerja yang efisien—untuk melakukan pekerjaan mereka. Kamu mengelola bisnis menyelamatkan nyawa.",
+    "strengths": ["Sangat baik dalam mengelola sistem yang kompleks dan berisiko tinggi.", "Pemimpin yang tegas dan mampu membuat keputusan sulit di bawah tekanan.", "Mampu menyeimbangkan antara kualitas pelayanan pasien dan kesehatan finansial institusi.", "Sangat terorganisir dan efisien."],
+    "weaknesses": ["Bisa terlihat terlalu fokus pada 'bisnis' dan kurang pada sisi kemanusiaan dari perawatan kesehatan.", "Sangat tidak sabar dengan inefisiensi atau kesalahan prosedur.", "Mungkin berbenturan dengan dokter yang merasa otonominya terganggu.", "Pekerjaan bisa sangat penuh tekanan dan menuntut."],
+    "recommended_majors": [
+      { "name": "Administrasi Rumah Sakit atau Manajemen Layanan Kesehatan", "reason": "Jurusan yang secara spesifik mempersiapkanmu untuk memimpin di industri layanan kesehatan." },
+      { "name": "Administrasi Publik (dengan fokus pada kesehatan)", "reason": "Mempelajari cara mengelola sistem layanan kesehatan dari perspektif kebijakan publik." },
+      { "name": "Manajemen Bisnis (MBA dengan konsentrasi kesehatan)", "reason": "Menerapkan prinsip-prinsip bisnis terbaik pada industri layanan kesehatan." }
+    ],
+    "career_recommendations": [
+      { "name": "Direktur atau CEO Rumah Sakit", "reason": "Bertanggung jawab penuh atas operasional dan strategi dari sebuah institusi layanan kesehatan." },
+      { "name": "Manajer Klinik atau Departemen Medis", "reason": "Memimpin operasi harian dari sebuah unit spesialis di dalam rumah sakit." },
+      { "name": "Konsultan Manajemen untuk Industri Kesehatan", "reason": "Membantu rumah sakit dan klinik lain meningkatkan efisiensi dan kualitas pelayanan mereka." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "SC",
+    "profile_title": "Sang Kepala Staf",
+    "profile_tagline": "Seorang organisator ulung yang memastikan visi seorang pemimpin dieksekusi dengan sempurna.",
+    "reason_why": "Kamu menggabungkan dorongan untuk membantu dan melayani seorang pemimpin atau sebuah tim (Social) dengan keahlian dalam menciptakan keteraturan, jadwal, dan proses yang efisien (Conventional). Sebagai seorang ENTJ, kamu adalah 'tangan kanan' yang sangat kuat, mampu menerjemahkan visi besar menjadi rencana harian yang bisa dijalankan.",
+    "what_this_means": "Kamu adalah seorang manajer proyek atau kepala staf yang sangat efektif. Kamu adalah orang yang memastikan kereta api berjalan tepat waktu. Kamu unggul dalam peran pendukung tingkat tinggi, di mana kamu bisa mengelola jadwal yang kompleks, mengatur pertemuan penting, dan memastikan semua orang di tim tahu apa yang harus mereka lakukan. Kamu adalah kekuatan di balik takhta.",
+    "strengths": ["Sangat terorganisir dan efisien.", "Luar biasa dalam perencanaan dan eksekusi.", "Sangat loyal dan dapat diandalkan.", "Mampu mengelola informasi dan komunikasi yang kompleks."],
+    "weaknesses": ["Bisa menjadi frustrasi jika pemimpin atau timnya tidak terorganisir.", "Mungkin kurang nyaman dalam peran yang membutuhkan untuk menjadi pusat perhatian.", "Cenderung kaku dan kurang fleksibel dengan perubahan rencana mendadak.", "Bisa menjadi terlalu mengontrol detail-detail kecil."],
+    "recommended_majors": [
+      { "name": "Administrasi Bisnis atau Manajemen", "reason": "Memberikan dasar yang kuat dalam semua aspek pengorganisasian dan pengelolaan." },
+      { "name": "Manajemen Proyek", "reason": "Secara spesifik melatihmu untuk menjadi ahli dalam merencanakan dan mengeksekusi proyek." },
+      { "name": "Komunikasi atau Administrasi Publik", "reason": "Mengasah kemampuanmu untuk mengelola komunikasi dan proses dalam sebuah organisasi." }
+    ],
+    "career_recommendations": [
+      { "name": "Kepala Staf (Chief of Staff) untuk seorang eksekutif atau pejabat", "reason": "Bertindak sebagai manajer proyek dan penasihat strategis untuk seorang pemimpin." },
+      { "name": "Manajer Proyek (Project Manager)", "reason": "Bertanggung jawab untuk memastikan proyek-proyek penting selesai tepat waktu dan sesuai anggaran." },
+      { "name": "Asisten Eksekutif Tingkat Tinggi", "reason": "Memberikan dukungan administratif dan operasional yang sangat kompleks kepada seorang CEO atau pejabat tinggi." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "CR",
+    "profile_title": "Sang Pengawas Konstruksi",
+    "profile_tagline": "Seorang manajer lapangan yang memastikan proyek dibangun sesuai rencana, tepat waktu, dan aman.",
+    "reason_why": "Kamu menggabungkan minat pada aturan, jadwal, dan efisiensi (Conventional) dengan fokus pada dunia konstruksi yang nyata dan praktis (Realistic). Sebagai seorang ENTJ, kamu adalah pemimpin alami di lokasi proyek, mampu menegakkan standar dan memastikan semua kontraktor bekerja sesuai dengan cetak biru yang telah disetujui.",
+    "what_this_means": "Kamu adalah seorang manajer konstruksi atau pengawas lapangan yang sangat efektif. Kamu menikmati berada di lokasi, melihat sebuah bangunan tumbuh dari tanah, dan memastikan setiap fase diselesaikan dengan benar. Kamu adalah orang yang akan membaca setiap baris kontrak dan spesifikasi teknis dan memastikan tidak ada jalan pintas yang diambil.",
+    "strengths": ["Sangat terorganisir dan berorientasi pada jadwal.", "Memiliki perhatian yang tajam pada detail dan standar kualitas.", "Pemimpin yang tegas dan dapat diandalkan di lapangan.", "Sangat baik dalam mengelola anggaran dan sumber daya proyek."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan tidak suka pada perubahan desain di tengah jalan.", "Sangat tidak sabar dengan penundaan atau pekerjaan yang tidak berkualitas.", "Mungkin kurang fleksibel dalam bernegosiasi dengan kontraktor.", "Cenderung fokus pada jadwal dan anggaran daripada hubungan dengan tim."],
+    "recommended_majors": [
+      { "name": "Manajemen Konstruksi", "reason": "Jurusan yang secara langsung mempersiapkanmu untuk mengelola semua aspek dari sebuah proyek pembangunan." },
+      { "name": "Teknik Sipil", "reason": "Memberikan dasar teknis yang kuat untuk memahami setiap detail dari sebuah proyek konstruksi." },
+      { "name": "Manajemen Proyek", "reason": "Mengajarkan prinsip-prinsip umum dalam mengelola proyek yang kompleks." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Konstruksi", "reason": "Bertanggung jawab penuh atas sebuah proyek pembangunan, dari perencanaan hingga serah terima." },
+      { "name": "Pengawas Lapangan (Site Supervisor)", "reason": "Mengawasi aktivitas harian di lokasi konstruksi untuk memastikan kepatuhan pada rencana dan standar keselamatan." },
+      { "name": "Estimator atau Manajer Kontrak", "reason": "Fokus pada aspek keuangan dan legal dari sebuah proyek konstruksi, menghitung biaya dan mengelola kontrak." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "CA",
+    "profile_title": "Sang Penerbit",
+    "profile_tagline": "Seorang pemimpin yang mengelola proses kreatif untuk menghasilkan produk yang konsisten dan berkualitas.",
+    "reason_why": "Kamu menggabungkan minat pada aturan, jadwal, dan presisi (Conventional) dengan apresiasi terhadap dunia kreativitas dan ekspresi (Artistic). Sebagai seorang ENTJ, kamu adalah manajer yang sempurna untuk lingkungan kreatif seperti rumah penerbitan atau studio desain. Kamu memastikan keajaiban kreatif terjadi tepat waktu dan sesuai anggaran.",
+    "what_this_means": "Kamu adalah seorang editor kepala, manajer produksi, atau penerbit. Kamu adalah orang yang mengambil naskah mentah dari seorang penulis atau desain dari seorang seniman, dan kemudian mengelola seluruh proses—pengeditan, layout, pencetakan, distribusi—untuk mengubahnya menjadi produk jadi yang dipoles. Kamu adalah seorang organisator kreativitas.",
+    "strengths": ["Sangat baik dalam mengelola alur kerja kreatif yang kompleks.", "Mampu menyeimbangkan antara kualitas artistik dan tenggat waktu.", "Sangat terorganisir dan berorientasi pada detail.", "Tegas dalam menjaga standar kualitas editorial atau desain."],
+    "weaknesses": ["Bisa berbenturan dengan talenta kreatif yang tidak disiplin.", "Mungkin terlihat lebih fokus pada jadwal dan proses daripada pada visi artistik.", "Cenderung kurang fleksibel jika ada permintaan perubahan di menit-menit terakhir.", "Bisa menjadi sangat kritis terhadap kesalahan sekecil apa pun."],
+    "recommended_majors": [
+      { "name": "Jurnalistik atau Penerbitan (Publishing)", "reason": "Secara langsung mempelajari proses dan bisnis di balik pembuatan buku, majalah, atau konten digital." },
+      { "name": "Manajemen Produksi (untuk media atau desain)", "reason": "Fokus pada pengelolaan jadwal, anggaran, dan sumber daya untuk proyek-proyek kreatif." },
+      { "name": "Desain Grafis (dengan minat pada manajemen)", "reason": "Memahami proses kreatif dari dalam, yang penting untuk bisa mengelolanya dengan baik." }
+    ],
+    "career_recommendations": [
+      { "name": "Editor Kepala atau Manajer Editorial", "reason": "Memimpin tim editor dan mengawasi seluruh proses editorial di sebuah rumah penerbitan atau media." },
+      { "name": "Manajer Produksi di Agensi Desain atau Percetakan", "reason": "Bertanggung jawab untuk memastikan proyek desain selesai tepat waktu dan sesuai spesifikasi." },
+      { "name": "Penerbit (Publisher)", "reason": "Orang yang memiliki visi bisnis dan membuat keputusan akhir tentang apa yang akan diterbitkan oleh sebuah perusahaan." }
+    ]
+  },
+  {
+    "mbti_type": "ENTJ",
+    "riasec_code": "CS",
+    "profile_title": "Sang Administrator Utama",
+    "profile_tagline": "Seorang pemimpin yang merancang dan menjalankan sistem organisasi yang sempurna untuk melayani orang.",
+    "reason_why": "Kamu menggabungkan dorongan untuk efisiensi, data, dan keteraturan (Conventional) dengan misi untuk melayani dan membantu orang lain (Social). Sebagai seorang ENTJ, kamu adalah pemimpin alami di bidang administrasi, mampu merancang sistem yang tidak hanya efisien tetapi juga benar-benar membantu orang yang dilayaninya.",
+    "what_this_means": "Kamu adalah tipe orang yang akan menjadi kepala administrasi universitas, manajer kantor hukum, atau kepala bagian tata usaha di sebuah lembaga pemerintah. Kamu unggul dalam memastikan bahwa semua operasional di belakang layar—pendaftaran, penjadwalan, manajemen data—berjalan tanpa cela, sehingga para profesional di garis depan dapat fokus melayani publik.",
+    "strengths": ["Luar biasa dalam merancang dan mengelola sistem administrasi.", "Sangat terorganisir, efisien, dan dapat diandalkan.", "Pemimpin yang tegas dan memastikan prosedur diikuti.", "Berorientasi pada pelayanan dengan pendekatan yang sistematis."],
+    "weaknesses": ["Bisa menjadi sangat birokratis dan tidak fleksibel.", "Mungkin kurang sabar dengan permintaan individu yang menyimpang dari prosedur.", "Cenderung lebih fokus pada efisiensi sistem daripada hubungan personal.", "Sangat tidak suka pada kekacauan atau ketidakteraturan."],
+    "recommended_majors": [
+      { "name": "Administrasi Publik atau Administrasi Bisnis", "reason": "Memberikan dasar yang kuat dalam ilmu pengelolaan organisasi dan sistem." },
+      { "name": "Manajemen Informasi", "reason": "Fokus pada bagaimana data dan informasi dikelola secara efisien dalam sebuah organisasi." },
+      { "name": "Hukum (dengan minat pada administrasi peradilan)", "reason": "Mempelajari sistem administrasi yang sangat terstruktur di dunia hukum." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Administrasi (di berbagai sektor: pendidikan, hukum, kesehatan)", "reason": "Bertanggung jawab atas kelancaran semua operasional non-inti dari sebuah organisasi." },
+      { "name": "Panitera Pengadilan (Court Clerk/Administrator)", "reason": "Mengelola semua aspek administratif dari sebuah pengadilan, dari penjadwalan hingga manajemen berkas." },
+      { "name": "Registrar di Universitas", "reason": "Memimpin departemen yang mengelola semua data akademik mahasiswa, dari pendaftaran hingga kelulusan." }
+    ]
+  }
+]
