@@ -2604,3 +2604,424 @@
     ]
   }
 ]
+{
+    "mbti_type": "ENFJ",
+    "riasec_code": "SE",
+    "profile_title": "Sang Pemimpin Karismatik",
+    "profile_tagline": "Seorang motivator alami yang menginspirasi individu dan kelompok untuk mencapai potensi tertinggi mereka.",
+    "reason_why": "Ini adalah kombinasi ENFJ yang paling murni. Kemampuanmu untuk memahami dan terhubung dengan emosi orang lain (Fe) dan melihat potensi masa depan mereka (Ni) sangat selaras dengan minat untuk memimpin (Enterprising) dan membantu orang lain (Social).",
+    "what_this_means": "Kamu terlahir untuk memimpin orang. Kamu memiliki kemampuan luar biasa untuk menginspirasi, memotivasi, dan menyatukan orang di bawah satu tujuan bersama. Kamu berkembang dalam peran di mana kamu bisa menjadi mentor, guru, atau pemimpin komunitas, menggunakan karismamu untuk mengeluarkan yang terbaik dari setiap orang.",
+    "strengths": ["Sangat karismatik, persuasif, dan inspiratif.", "Empati yang mendalam dan mampu memahami orang lain.", "Pemimpin dan pembangun tim yang alami.", "Sangat baik dalam komunikasi dan berbicara di depan umum."],
+    "weaknesses": ["Bisa menjadi terlalu idealis dan mudah kecewa pada orang lain.", "Cenderung terlalu memikirkan kebutuhan orang lain dan mengabaikan diri sendiri.", "Bisa kesulitan mengambil keputusan yang akan menyakiti perasaan seseorang, meskipun itu perlu.", "Sangat sensitif terhadap kritik atau konflik."],
+    "recommended_majors": [
+      { "name": "Ilmu Komunikasi atau Hubungan Masyarakat (Public Relations)", "reason": "Secara langsung mengasah kemampuan alamimu untuk terhubung dengan audiens (Social) dan menyampaikan pesan secara persuasif (Enterprising)." },
+      { "name": "Manajemen Sumber Daya Manusia (SDM)", "reason": "Fokus pada pengelolaan dan pengembangan potensi manusia (Social) dalam sebuah organisasi untuk mencapai tujuan bersama (Enterprising)." },
+      { "name": "Ilmu Politik", "reason": "Memberikanmu panggung untuk menggunakan karismamu untuk memimpin dan menciptakan perubahan dalam skala yang lebih luas." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer SDM atau Spesialis Pelatihan dan Pengembangan", "reason": "Peran di mana kamu bisa secara langsung membimbing dan mengembangkan karier karyawan." },
+      { "name": "Politisi atau Manajer Kampanye", "reason": "Menggunakan kemampuanmu untuk menginspirasi dan memobilisasi orang demi sebuah tujuan politik atau sosial." },
+      { "name": "Konsultan atau Pembicara Publik", "reason": "Menjadi seorang ahli yang berbagi wawasan dan memotivasi audiens yang luas." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "SA",
+    "profile_title": "Sang Guru Kreatif",
+    "profile_tagline": "Seorang pendidik yang menggunakan seni dan ekspresi untuk menginspirasi dan menyembuhkan.",
+    "reason_why": "Kamu menggabungkan doronganmu yang kuat untuk membantu dan membimbing orang lain (Social) dengan hasrat untuk berekspresi secara kreatif, imajinatif, dan simbolis (Artistic). Visimu (Ni) dan empatimu (Fe) membuatmu menjadi seorang guru atau terapis yang sangat dinamis dan inspiratif.",
+    "what_this_means": "Kamu percaya pada kekuatan kreativitas untuk membuka potensi manusia. Kamu adalah tipe guru drama yang mengubah anak pemalu menjadi percaya diri, seorang terapis seni yang membantu orang memproses trauma, atau seorang penulis yang karyanya menginspirasi jutaan orang. Kamu mengajar dan menyembuhkan melalui medium seni.",
+    "strengths": ["Sangat inspiratif dan kreatif dalam metode pengajaran.", "Mampu menciptakan lingkungan yang aman dan suportif untuk berekspresi.", "Empati yang mendalam terhadap perjuangan emosional orang lain.", "Komunikator yang sangat baik, baik secara verbal maupun non-verbal."],
+    "weaknesses": ["Pekerjaan bisa sangat menguras energi emosional.", "Bisa menjadi terlalu terlibat secara personal dengan masalah siswa atau klien.", "Sangat idealis dan bisa frustrasi dengan sistem yang kaku (misalnya, birokrasi sekolah).", "Cenderung menempatkan kebutuhan orang lain jauh di atas kebutuhan artistik atau pribadi."],
+    "recommended_majors": [
+      { "name": "Pendidikan Seni, Drama, atau Musik", "reason": "Secara langsung mempersiapkanmu untuk mengajar (Social) melalui medium kreatif (Artistic)." },
+      { "name": "Psikologi (dengan spesialisasi terapi seni/ekspresif)", "reason": "Menggabungkan pemahaman ilmiah tentang jiwa manusia dengan aplikasi terapeutik dari seni." },
+      { "name": "Penulisan Kreatif atau Sastra", "reason": "Mengasah kemampuanmu untuk bercerita dan terhubung dengan pembaca pada tingkat emosional yang dalam." }
+    ],
+    "career_recommendations": [
+      { "name": "Guru (Seni, Drama, Sastra)", "reason": "Menginspirasi dan membentuk generasi berikutnya melalui kekuatan kreativitas." },
+      { "name": "Terapis Seni atau Drama", "reason": "Menggunakan seni sebagai alat untuk membantu klien mengatasi masalah psikologis dan emosional." },
+      { "name": "Direktur Artistik untuk Teater Komunitas atau Organisasi Nirlaba", "reason": "Menggunakan seni untuk mencapai misi sosial dan memberdayakan komunitas." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "SI",
+    "profile_title": "Sang Psikolog Peneliti",
+    "profile_tagline": "Seorang ilmuwan sosial yang mendedikasikan risetnya untuk meningkatkan kesejahteraan manusia.",
+    "reason_why": "Kamu menggabungkan keinginanmu yang mendalam untuk membantu orang (Social) dengan minat pada riset, teori, dan pemahaman yang mendalam (Investigative). Visi (Ni) dan empatimu (Fe) memberimu wawasan yang unik dalam merumuskan pertanyaan penelitian yang relevan dengan kondisi manusia.",
+    "what_this_means": "Kamu adalah seorang akademisi atau peneliti yang berhati emas. Kamu tidak puas hanya dengan teori; kamu ingin penelitianmu memiliki dampak nyata pada kehidupan orang. Kamu adalah tipe orang yang akan mempelajari efektivitas berbagai metode terapi, meneliti dampak kebijakan sosial terhadap komunitas, atau menulis buku yang menerjemahkan ilmu psikologi yang rumit untuk masyarakat awam.",
+    "strengths": ["Memiliki wawasan yang tajam tentang perilaku manusia.", "Mampu melakukan riset yang kompleks dengan tujuan yang jelas.", "Sangat baik dalam mengkomunikasikan temuan penelitian kepada audiens yang luas.", "Didorong oleh keinginan tulus untuk memberikan kontribusi."],
+    "weaknesses": ["Bisa frustrasi dengan proses riset yang lambat dan impersonal.", "Mungkin kesulitan menyeimbangkan antara rigor ilmiah dan keinginan untuk segera membantu.", "Cenderung mengambil hasil penelitian secara personal.", "Bisa menjadi terlalu idealis tentang bagaimana penelitiannya seharusnya digunakan."],
+    "recommended_majors": [
+      { "name": "Psikologi (Jalur Riset atau Sosial)", "reason": "Memberikan alat ilmiah (Investigative) untuk mempelajari interaksi dan kesejahteraan manusia (Social)." },
+      { "name": "Sosiologi atau Antropologi", "reason": "Fokus pada penelitian tentang kelompok sosial dan budaya untuk memahami masalah sosial yang lebih besar." },
+      { "name": "Pendidikan", "reason": "Melakukan riset tentang metode pengajaran dan pembelajaran yang paling efektif." }
+    ],
+    "career_recommendations": [
+      { "name": "Dosen atau Profesor Psikologi/Sosiologi", "reason": "Melakukan penelitian orisinal dan mengajar mahasiswa tentang perilaku manusia." },
+      { "name": "Peneliti di Lembaga Think Tank atau Nirlaba", "reason": "Melakukan riset tentang isu-isu sosial untuk menginformasikan kebijakan dan program." },
+      { "name": "Penulis Sains Populer (di bidang psikologi atau sosiologi)", "reason": "Menjembatani antara dunia akademis dan publik dengan menjelaskan penelitian yang kompleks secara menarik." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "SR",
+    "profile_title": "Sang Terapis Fisik Inspiratif",
+    "profile_tagline": "Seorang penyembuh yang memotivasi orang lain untuk mengatasi batasan fisik mereka.",
+    "reason_why": "Kamu menggabungkan doronganmu yang kuat untuk membantu dan merawat orang lain (Social) dengan minat pada tubuh manusia dan proses pemulihan yang praktis (Realistic). Visi (Ni) dan empatimu (Fe) membuatmu menjadi seorang terapis yang tidak hanya kompeten secara teknis, tetapi juga seorang motivator yang luar biasa.",
+    "what_this_means": "Kamu adalah seorang penyembuh di dunia fisik. Kamu unggul dalam peran seperti fisioterapis, terapis okupasi, atau pelatih pribadi. Kamu memiliki kemampuan langka untuk tidak hanya merancang program latihan yang efektif, tetapi juga untuk menginspirasi dan memberikan dukungan emosional kepada klienmu saat mereka berjuang melalui proses pemulihan yang sulit. Kamu menyembuhkan tubuh dan semangat.",
+    "strengths": ["Sangat memotivasi dan suportif.", "Empati yang mendalam terhadap rasa sakit dan perjuangan fisik orang lain.", "Mampu membangun hubungan kepercayaan yang kuat dengan klien.", "Komunikator yang jelas dan sabar."],
+    "weaknesses": ["Bisa menyerap terlalu banyak emosi negatif dari klien.", "Sangat terpukul jika klien tidak mengalami kemajuan atau menyerah.", "Cenderung bekerja terlalu keras dan mengabaikan kesejahteraan fisiknya sendiri.", "Mungkin kesulitan untuk tetap objektif dan tidak terlalu terikat secara personal."],
+    "recommended_majors": [
+      { "name": "Fisioterapi atau Terapi Okupasi", "reason": "Secara langsung melatihmu untuk membantu orang (Social) memulihkan fungsi fisik dan kemandirian mereka (Realistic)." },
+      { "name": "Ilmu Keolahragaan atau Kinesiologi", "reason": "Mempelajari ilmu gerakan manusia untuk membantu orang mencapai tujuan kebugaran mereka." },
+      { "name": "Keperawatan", "reason": "Profesi yang secara fundamental adalah tentang merawat (Social) kesehatan fisik pasien (Realistic)." }
+    ],
+    "career_recommendations": [
+      { "name": "Fisioterapis", "reason": "Membantu pasien pulih dari cedera atau penyakit melalui latihan dan terapi manual." },
+      { "name": "Terapis Okupasi", "reason": "Membantu orang dengan berbagai tantangan untuk dapat berpartisipasi dalam aktivitas kehidupan sehari-hari." },
+      { "name": "Pelatih Pribadi (Personal Trainer) atau Pelatih Kesehatan (Health Coach)", "reason": "Membimbing dan memotivasi individu untuk mencapai tujuan kesehatan dan kebugaran mereka." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "SC",
+    "profile_title": "Sang Koordinator Pelayanan",
+    "profile_tagline": "Seorang organisator yang memastikan orang lain mendapatkan bantuan yang mereka butuhkan secara efisien.",
+    "reason_why": "Kamu menggabungkan hasratmu untuk membantu dan melayani orang lain (Social) dengan bakat untuk keteraturan, perencanaan, dan mengikuti prosedur (Conventional). Visi (Ni) dan empatimu (Fe) kamu gunakan untuk merancang dan menjalankan sistem yang benar-benar melayani kebutuhan manusia dengan cara yang andal.",
+    "what_this_means": "Kamu adalah jantung operasional dari sebuah organisasi pelayanan. Kamu adalah tipe orang yang akan menjadi manajer kasus di sebuah lembaga sosial, koordinator sukarelawan, atau kepala administrasi di sekolah atau rumah sakit. Kamu unggul dalam memastikan bahwa semua orang mendapatkan informasi yang tepat, jadwal terpenuhi, dan proses berjalan lancar, sehingga mereka bisa mendapatkan bantuan yang mereka butuhkan.",
+    "strengths": ["Sangat terorganisir dan dapat diandalkan.", "Empati yang dikombinasikan dengan efisiensi.", "Sangat baik dalam mengelola banyak detail dan jadwal.", "Komunikator yang jelas dan sabar."],
+    "weaknesses": ["Bisa frustrasi dengan sistem yang tidak efisien atau birokratis.", "Mungkin kesulitan untuk berimprovisasi atau menyimpang dari prosedur.", "Cenderung terlalu banyak mengambil pekerjaan administratif.", "Bisa merasa bersalah jika tidak mampu membantu semua orang."],
+    "recommended_majors": [
+      { "name": "Pekerjaan Sosial atau Administrasi Publik", "reason": "Mempelajari cara kerja sistem pelayanan sosial dan bagaimana mengelolanya secara efektif." },
+      { "name": "Manajemen Informasi Kesehatan", "reason": "Fokus pada pengelolaan data pasien (Conventional) untuk mendukung pelayanan kesehatan (Social)." },
+      { "name": "Manajemen Nirlaba", "reason": "Memberikan keterampilan untuk mengelola operasional organisasi yang berorientasi pada misi sosial." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Kasus (Case Manager)", "reason": "Mengkoordinasikan berbagai layanan (kesehatan, sosial, hukum) untuk seorang klien." },
+      { "name": "Koordinator Sukarelawan (Volunteer Coordinator)", "reason": "Merekrut, melatih, dan menjadwalkan sukarelawan untuk sebuah organisasi nirlaba." },
+      { "name": "Staf Admisi (Penerimaan) di Universitas atau Rumah Sakit", "reason": "Membimbing calon mahasiswa atau pasien melalui proses pendaftaran yang seringkali rumit." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "AE",
+    "profile_title": "Sang Produser Inspiratif",
+    "profile_tagline": "Seorang pemimpin yang menyatukan bakat kreatif untuk menyebarkan pesan yang positif.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mempromosikan (Enterprising) dengan hasrat yang mendalam untuk ekspresi kreatif yang bermakna (Artistic). Sebagai seorang ENFJ, kamu tidak hanya ingin menciptakan seni; kamu ingin menciptakan seni yang menginspirasi, menyatukan, dan mengangkat semangat manusia.",
+    "what_this_means": "Kamu adalah seorang pemimpin di industri kreatif yang didorong oleh sebuah misi. Kamu adalah tipe produser film yang membuat film-film yang menginspirasi, seorang direktur kreatif yang membangun kampanye untuk tujuan sosial, atau seorang pendiri perusahaan media yang fokus pada konten positif. Kamu menggunakan kekuatan bisnis dan media untuk membuat dunia menjadi tempat yang lebih baik.",
+    "strengths": ["Sangat visioner dan mampu menginspirasi tim kreatif.", "Pandai 'menjual' sebuah visi atau ide yang idealis.", "Sangat baik dalam membangun jaringan dan menyatukan orang.", "Didorong oleh tujuan yang kuat dan mampu menularkannya."],
+    "weaknesses": ["Bisa menjadi terlalu idealis dan mengabaikan realitas komersial.", "Sangat terikat secara personal pada proyeknya, sulit menerima kritik.", "Mungkin kesulitan menyeimbangkan antara menjadi pemimpin dan menjadi teman bagi timnya.", "Cenderung mengambil terlalu banyak tanggung jawab emosional."],
+    "recommended_majors": [
+      { "name": "Produksi Film dan Televisi", "reason": "Memberimu alat untuk memimpin (Enterprising) sebuah tim untuk menciptakan karya audiovisual (Artistic)." },
+      { "name": "Manajemen Industri Kreatif", "reason": "Mempelajari sisi bisnis dari dunia seni, sehingga kamu bisa membangun usaha yang berkelanjutan." },
+      { "name": "Komunikasi Pemasaran (Marketing Communications)", "reason": "Mengasah kemampuanmu untuk mengemas dan menyebarkan pesan-pesan yang inspiratif kepada audiens yang luas." }
+    ],
+    "career_recommendations": [
+      { "name": "Produser (Film, TV, Teater)", "reason": "Orang yang memiliki visi dan menyatukan semua elemen untuk membuat sebuah produksi menjadi kenyataan." },
+      { "name": "Direktur Kreatif (Creative Director)", "reason": "Memimpin visi kreatif untuk sebuah merek atau kampanye yang memiliki misi positif." },
+      { "name": "Pendiri Perusahaan Media atau Agensi Kreatif", "reason": "Membangun sebuah bisnis yang didedikasikan untuk menciptakan konten yang bermakna." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "AS",
+    "profile_title": "Sang Aktor Karakter",
+    "profile_tagline": "Seorang seniman yang menggunakan empati mendalam untuk menghidupkan karakter dan cerita.",
+    "reason_why": "Dorongan utamamu adalah untuk menciptakan dan berekspresi (Artistic), dan kamu melakukannya dengan cara mendalami dan memahami kondisi manusia (Social). Sebagai seorang ENFJ, kamu adalah seorang aktor atau penampil alami, mampu menggunakan empati (Fe) dan intuisimu (Ni) untuk benar-benar 'menjadi' orang lain dan menceritakan kisah mereka dengan otentik.",
+    "what_this_means": "Kamu adalah seorang penjelajah jiwa manusia. Kamu berkembang di atas panggung atau di depan kamera, di mana kamu bisa menggunakan seluruh dirimu—suara, tubuh, dan emosi—untuk menceritakan sebuah kisah. Kamu tidak hanya menghafal baris; kamu berusaha memahami 'mengapa' di balik setiap kata karaktermu. Kamu terhubung dengan audiens pada tingkat emosional yang dalam.",
+    "strengths": ["Sangat ekspresif dan mampu menyampaikan emosi yang kompleks.", "Memiliki empati yang mendalam yang membuatnya menjadi aktor yang meyakinkan.", "Karismatik dan mampu memikat perhatian audiens.", "Sangat berdedikasi dan pekerja keras dalam seninya."],
+    "weaknesses": ["Bisa menjadi terlalu larut dalam peran dan kesulitan untuk melepaskannya.", "Sangat sensitif terhadap penolakan atau kritik.", "Industri pertunjukan bisa sangat keras dan kompetitif.", "Cenderung membutuhkan validasi dan pengakuan dari orang lain."],
+    "recommended_majors": [
+      { "name": "Teater atau Seni Peran (Acting)", "reason": "Secara langsung melatihmu dalam seni dan kerajinan akting." },
+      { "name": "Sastra", "reason": "Memberimu pemahaman yang mendalam tentang karakter, narasi, dan motivasi manusia, yang merupakan bahan bakar bagi seorang aktor." },
+      { "name": "Psikologi", "reason": "Mempelajari jiwa manusia dari sudut pandang ilmiah, yang dapat memperkaya kemampuanmu dalam membangun karakter." }
+    ],
+    "career_recommendations": [
+      { "name": "Aktor (Teater, Film, atau Televisi)", "reason": "Menghidupkan berbagai macam karakter dan cerita." },
+      { "name": "Guru Drama", "reason": "Menggunakan kecintaanmu pada teater untuk mengajar dan menginspirasi orang lain." },
+      { "name": "Pengisi Suara (Voice Actor)", "reason": "Menggunakan suaramu untuk menghidupkan karakter dalam animasi, video game, atau buku audio." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "AI",
+    "profile_title": "Sang Desainer Empatik",
+    "profile_tagline": "Seorang perancang yang menciptakan solusi inovatif yang berakar pada pemahaman mendalam tentang manusia.",
+    "reason_why": "Kamu menggabungkan hasrat untuk menciptakan sesuatu yang baru dan orisinal (Artistic) dengan minat pada riset dan pemahaman yang mendalam (Investigative). Sebagai seorang ENFJ, fokus dari semua ini adalah untuk menciptakan sesuatu yang benar-benar meningkatkan kehidupan orang lain, didasarkan pada empati yang tulus.",
+    "what_this_means": "Kamu adalah seorang desainer yang berpusat pada manusia (human-centered designer). Kamu unggul dalam proses 'design thinking', di mana kamu memulai dengan benar-benar merasakan dan memahami masalah pengguna, kemudian melakukan brainstorming ide-ide kreatif, dan akhirnya menciptakan solusi. Kamu adalah tipe orang yang akan merancang aplikasi kesehatan mental, sebuah produk untuk lansia, atau sebuah ruang publik yang inklusif.",
+    "strengths": ["Sangat empatik dan mampu memahami kebutuhan pengguna yang tidak terucapkan.", "Kreatif dan inovatif dalam menemukan solusi.", "Mampu memimpin lokakarya desain dan brainstorming secara efektif.", "Sangat baik dalam menerjemahkan riset kualitatif menjadi wawasan desain."],
+    "weaknesses": ["Bisa menjadi terlalu terikat secara emosional pada pengguna dan masalah mereka.", "Sangat idealis dan bisa frustrasi dengan batasan teknis atau bisnis.", "Mungkin kesulitan untuk membuat keputusan desain yang 'mematikan' fitur yang disukai pengguna tetapi tidak efisien.", "Cenderung lebih menikmati fase riset dan ideasi daripada produksi detail."],
+    "recommended_majors": [
+      { "name": "Desain Pengalaman Pengguna (UX Design) atau Desain Interaksi", "reason": "Secara langsung melatihmu untuk melakukan riset tentang pengguna (Investigative) dan merancang solusi digital yang kreatif dan empatik (Artistic)." },
+      { "name": "Desain Produk Industri", "reason": "Fokus pada perancangan produk fisik yang memecahkan masalah nyata bagi manusia." },
+      { "name": "Antropologi (dengan minat pada desain)", "reason": "Menggunakan metode etnografi untuk memahami budaya dan perilaku manusia, yang merupakan fondasi dari desain yang baik." }
+    ],
+    "career_recommendations": [
+      { "name": "Periset UX (UX Researcher)", "reason": "Menjadi 'suara pengguna' dalam sebuah tim produk, melakukan wawancara dan observasi untuk memahami kebutuhan mereka." },
+      { "name": "Desainer Produk atau Layanan (Product/Service Designer)", "reason": "Merancang keseluruhan pengalaman dari sebuah produk atau layanan, dari awal hingga akhir." },
+      { "name": "Ahli Strategi Desain (Design Strategist)", "reason": "Membantu perusahaan mengidentifikasi peluang untuk inovasi berdasarkan pemahaman yang mendalam tentang pelanggan mereka." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "AR",
+    "profile_title": "Sang Arsitek Komunitas",
+    "profile_tagline": "Seorang perancang yang menciptakan ruang fisik yang menyatukan dan memberdayakan orang.",
+    "reason_why": "Kamu menggabungkan dorongan untuk menciptakan sesuatu yang indah dan bermakna (Artistic) dengan fokus pada dunia fisik yang nyata (Realistic). Sebagai seorang ENFJ, kamu tidak hanya melihat bangunan; kamu melihat 'rumah'. Kamu tidak hanya melihat taman; kamu melihat tempat berkumpulnya komunitas. Desainmu selalu memiliki tujuan sosial.",
+    "what_this_means": "Kamu adalah seorang arsitek atau perencana kota yang berjiwa sosial. Kamu adalah tipe orang yang akan merancang pusat komunitas, sekolah yang inspiratif, atau perumahan yang terjangkau dan manusiawi. Kamu percaya bahwa desain yang baik memiliki kekuatan untuk meningkatkan interaksi sosial dan membangun komunitas yang lebih kuat. Kamu merancang untuk kebersamaan.",
+    "strengths": ["Memiliki visi yang kuat tentang bagaimana desain dapat meningkatkan kehidupan sosial.", "Mampu berkomunikasi dan berkolaborasi dengan baik dengan klien dan komunitas.", "Kreatif dan empatik dalam pendekatan desainnya.", "Sangat peduli pada dampak sosial dan lingkungan dari karyanya."],
+    "weaknesses": ["Bisa menjadi sangat idealis dan sulit menerima batasan anggaran atau regulasi.", "Mungkin kesulitan menyeimbangkan antara visi sosialnya dan kebutuhan komersial dari sebuah proyek.", "Sangat terpengaruh oleh umpan balik dari komunitas, bisa kesulitan membuat keputusan akhir.", "Cenderung mengambil terlalu banyak tanggung jawab emosional untuk sebuah proyek."],
+    "recommended_majors": [
+      { "name": "Arsitektur atau Perencanaan Kota", "reason": "Memberimu alat untuk merancang (Artistic) lingkungan fisik (Realistic) dengan mempertimbangkan dampaknya pada masyarakat." },
+      { "name": "Arsitektur Lanskap", "reason": "Fokus pada perancangan ruang publik luar ruangan yang mendorong interaksi dan kesejahteraan komunitas." },
+      { "name": "Desain Interior", "reason": "Menciptakan ruang interior yang tidak hanya indah tetapi juga mendukung fungsi sosial, seperti di sekolah atau perpustakaan." }
+    ],
+    "career_recommendations": [
+      { "name": "Arsitek (dengan spesialisasi pada bangunan publik atau perumahan sosial)", "reason": "Merancang bangunan yang memiliki misi untuk melayani komunitas." },
+      { "name": "Perencana Kota (Urban Planner)", "reason": "Bekerja dengan pemerintah dan komunitas untuk merancang lingkungan perkotaan yang lebih baik dan lebih adil." },
+      { "name": "Desainer Partisipatif", "reason": "Spesialisasi dalam melibatkan komunitas secara langsung dalam proses perancangan ruang mereka sendiri." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "AC",
+    "profile_title": "Sang Kurator Cerita",
+    "profile_tagline": "Seorang organisator yang menyusun dan menyajikan karya kreatif untuk dampak emosional yang maksimal.",
+    "reason_why": "Kamu menggabungkan hasrat untuk seni dan ekspresi (Artistic) dengan bakat untuk keteraturan, perencanaan, dan presisi (Conventional). Sebagai seorang ENFJ, kamu menggunakan kemampuan organisasimu untuk melayani sebuah visi artistik, memastikan bahwa sebuah cerita atau koleksi karya disajikan dengan cara yang paling kuat dan koheren.",
+    "what_this_means": "Kamu adalah seorang editor, kurator, atau direktur seni yang sangat efektif. Kamu adalah tipe orang yang bisa mengambil naskah yang berantakan dan menyusunnya menjadi novel yang mengalir, atau mengambil ratusan karya seni dan mengaturnya menjadi sebuah pameran yang menceritakan sebuah kisah yang kuat. Kamu menciptakan makna melalui penyusunan.",
+    "strengths": ["Memiliki visi artistik dan kemampuan organisasi untuk mewujudkannya.", "Sangat baik dalam mengedit dan menyusun materi kreatif.", "Teliti dan berorientasi pada detail dalam presentasi.", "Mampu berkolaborasi dengan baik dengan para seniman sambil menjaga struktur proyek."],
+    "weaknesses": ["Bisa menjadi sangat perfeksionis dan kaku dengan visinya.", "Mungkin kesulitan untuk melepaskan kontrol atas detail-detail kecil.", "Sangat sensitif terhadap kritik terhadap hasil kurasinya.", "Bisa frustrasi dengan seniman yang tidak disiplin atau tidak teratur."],
+    "recommended_majors": [
+      { "name": "Studi Kuratorial atau Manajemen Seni", "reason": "Secara langsung mempelajari cara mengelola (Conventional) dan menyajikan (Artistic) karya seni." },
+      { "name": "Jurnalistik atau Penerbitan", "reason": "Melatihmu dalam seni mengedit, menyusun, dan mempresentasikan tulisan dan gambar." },
+      { "name": "Sejarah Seni", "reason": "Memberikan dasar pengetahuan yang kuat untuk menjadi seorang kurator di museum atau galeri." }
+    ],
+    "career_recommendations": [
+      { "name": "Kurator Seni", "reason": "Merancang dan mengorganisir pameran di museum atau galeri." },
+      { "name": "Editor Buku atau Majalah", "reason": "Bekerja sama dengan penulis untuk membentuk dan menyempurnakan naskah mereka menjadi produk akhir." },
+      { "name": "Direktur Seni (Art Director)", "reason": "Bertanggung jawab atas tampilan visual keseluruhan dari sebuah proyek, seperti majalah, film, atau kampanye iklan." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "IE",
+    "profile_title": "Sang Konsultan Pengembangan Manusia",
+    "profile_tagline": "Seorang ahli strategi yang menggunakan wawasan psikologis untuk membangun organisasi yang lebih baik.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada riset tentang manusia (Investigative) dengan dorongan untuk memimpin dan menciptakan perubahan yang berdampak (Enterprising). Sebagai seorang ENFJ, kamu tidak hanya ingin memahami orang; kamu ingin menggunakan pemahaman itu untuk membangun tim dan budaya perusahaan yang unggul.",
+    "what_this_means": "Kamu sangat cocok untuk peran sebagai konsultan manajemen, psikolog organisasi, atau kepala departemen SDM. Kamu memiliki kemampuan langka untuk mendiagnosis masalah 'manusia' dalam sebuah organisasi—seperti komunikasi yang buruk, moral yang rendah, atau struktur tim yang tidak efektif—dan kemudian merancang dan mengimplementasikan solusi strategis untuk memperbaikinya.",
+    "strengths": ["Memiliki pemahaman yang mendalam tentang dinamika organisasi.", "Sangat baik dalam merancang program pelatihan dan pengembangan.", "Mampu 'menjual' ide-ide tentang budaya perusahaan kepada para eksekutif.", "Kombinasi kuat antara analisis (otak) dan empati (hati)."],
+    "weaknesses": ["Bisa frustrasi dengan perusahaan yang resisten terhadap perubahan budaya.", "Mungkin kesulitan untuk membuktikan dampak 'lunak' dari intervensinya dengan angka yang 'keras'.", "Sangat idealis tentang seperti apa seharusnya sebuah tempat kerja yang baik.", "Bisa menyerap terlalu banyak masalah dan politik kantor."],
+    "recommended_majors": [
+      { "name": "Psikologi Industri dan Organisasi (PIO)", "reason": "Jurusan yang secara sempurna menggabungkan studi tentang perilaku manusia (Investigative) dengan aplikasi di dunia bisnis (Enterprising)." },
+      { "name": "Manajemen Sumber Daya Manusia (SDM)", "reason": "Fokus pada perancangan sistem dan strategi untuk mengelola dan mengembangkan karyawan." },
+      { "name": "Sosiologi (dengan fokus pada organisasi)", "reason": "Memberikan perspektif yang luas tentang bagaimana struktur dan budaya organisasi terbentuk." }
+    ],
+    "career_recommendations": [
+      { "name": "Konsultan Manajemen atau Pengembangan Organisasi", "reason": "Membantu perusahaan meningkatkan efektivitas mereka dengan memperbaiki aspek manusiawi." },
+      { "name": "Psikolog Industri dan Organisasi", "reason": "Bekerja di dalam perusahaan untuk meningkatkan seleksi, pelatihan, dan kesejahteraan karyawan." },
+      { "name": "Kepala Departemen SDM atau People & Culture", "reason": "Memimpin strategi yang berhubungan dengan manusia di sebuah perusahaan." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "IS",
+    "profile_title": "Sang Peneliti Empatik",
+    "profile_tagline": "Seorang ilmuwan yang memilih topik penelitiannya berdasarkan kepedulian mendalam terhadap manusia.",
+    "reason_why": "Kombinasi ini menciptakan seorang peneliti yang sangat berempati. Dorongan utamamu adalah untuk membantu orang lain (Social), dan kamu melakukannya melalui riset yang teliti dan mendalam (Investigative). Sebagai seorang ENFJ, kamu akan selalu memastikan bahwa penelitianmu etis dan bertujuan untuk meringankan penderitaan atau meningkatkan pemahaman.",
+    "what_this_means": "Kamu adalah tipe peneliti kualitatif yang ulung. Kamu unggul dalam melakukan wawancara mendalam, studi etnografi, atau penelitian studi kasus. Kamu memiliki kemampuan untuk membuat subjek penelitianmu merasa nyaman dan terbuka, memungkinkanmu untuk mendapatkan wawasan yang tidak bisa didapatkan oleh peneliti lain. Kamu menceritakan kisah orang melalui data.",
+    "strengths": ["Sangat baik dalam melakukan penelitian kualitatif.", "Mampu membangun hubungan kepercayaan dengan subjek penelitian.", "Memiliki wawasan yang tajam tentang nuansa emosional dan sosial.", "Sangat etis dan berintegritas dalam penelitian."],
+    "weaknesses": ["Bisa menjadi terlalu terikat secara emosional pada subjek penelitiannya.", "Mungkin kesulitan untuk tetap objektif dalam menganalisis data.", "Cenderung kurang tertarik pada penelitian kuantitatif atau statistik murni.", "Proses riset bisa sangat menguras energi emosional."],
+    "recommended_majors": [
+      { "name": "Antropologi atau Sosiologi", "reason": "Jurusan yang sangat mengandalkan metode penelitian kualitatif untuk memahami manusia dan budaya." },
+      { "name": "Psikologi (Kualitatif atau Klinis)", "reason": "Fokus pada pemahaman mendalam tentang pengalaman individu." },
+      { "name": "Pekerjaan Sosial (dengan jalur riset)", "reason": "Melakukan penelitian yang secara langsung bertujuan untuk menginformasikan praktik pekerjaan sosial yang lebih baik." }
+    ],
+    "career_recommendations": [
+      { "name": "Periset Kualitatif (Qualitative Researcher)", "reason": "Bekerja untuk perusahaan riset pasar, lembaga think tank, atau tim UX untuk memahami 'mengapa' di balik perilaku manusia." },
+      { "name": "Etnografer", "reason": "Menghabiskan waktu yang lama tinggal bersama sebuah komunitas untuk memahami budaya mereka secara mendalam." },
+      { "name": "Dosen atau Peneliti di bidang Ilmu Sosial", "reason": "Melakukan dan mempublikasikan penelitian kualitatif." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "IR",
+    "profile_title": "Sang Dokter Keluarga",
+    "profile_tagline": "Seorang praktisi medis yang menggabungkan keahlian diagnostik dengan kepedulian yang mendalam.",
+    "reason_why": "Kamu menggabungkan minat pada ilmu pengetahuan dan tubuh manusia (Investigative & Realistic) dengan doronganmu yang paling kuat: untuk merawat dan menyembuhkan orang (visi ENFJ). Kamu adalah seorang dokter yang melihat pasien, bukan hanya penyakit.",
+    "what_this_means": "Kamu adalah tipe dokter yang akan diidolakan oleh pasiennya. Kamu tidak hanya ahli dalam mendiagnosis penyakit, tetapi kamu juga meluangkan waktu untuk mendengarkan, menjelaskan dengan sabar, dan memahami kehidupan pasienmu secara keseluruhan. Kamu percaya bahwa hubungan antara dokter dan pasien adalah bagian penting dari proses penyembuhan.",
+    "strengths": ["Mampu membangun hubungan kepercayaan yang kuat dengan pasien.", "Komunikator yang sangat baik dan empatik.", "Memiliki keahlian diagnostik yang baik, seringkali dibantu oleh intuisi.", "Sangat berdedikasi dan peduli pada kesejahteraan pasien."],
+    "weaknesses": ["Bisa menjadi terlalu terlibat secara emosional dalam kasus pasien.", "Sangat terpukul oleh hasil yang buruk atau kematian pasien.", "Cenderung bekerja terlalu keras dan mengabaikan kesehatan diri sendiri.", "Bisa frustrasi dengan sistem layanan kesehatan yang tidak personal."],
+    "recommended_majors": [
+      { "name": "Kedokteran", "reason": "Jalan yang paling langsung untuk menjadi seorang penyembuh yang berbasis ilmu pengetahuan." },
+      { "name": "Keperawatan", "reason": "Profesi yang sangat menekankan pada aspek perawatan dan hubungan dengan pasien." },
+      { "name": "Psikiatri", "reason": "Spesialisasi yang secara langsung menangani hubungan antara kesehatan fisik (otak) dan mental." }
+    ],
+    "career_recommendations": [
+      { "name": "Dokter (khususnya Dokter Keluarga, Dokter Anak, atau Psikiater)", "reason": "Spesialisasi yang memungkinkanmu untuk membangun hubungan jangka panjang dengan pasien dan keluarga mereka." },
+      { "name": "Perawat Praktisi (Nurse Practitioner)", "reason": "Peran lanjutan dalam keperawatan yang seringkali memiliki fokus yang kuat pada perawatan holistik." },
+      { "name": "Direktur Medis di Klinik atau Rumah Sakit", "reason": "Memimpin tim medis sambil tetap menjaga budaya yang berpusat pada pasien." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "IC",
+    "profile_title": "Sang Penasihat Akademik",
+    "profile_tagline": "Seorang pembimbing yang membantu siswa menavigasi sistem pendidikan untuk mencapai tujuan mereka.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada riset dan pemahaman (Investigative) dengan bakat untuk keteraturan dan pemahaman aturan (Conventional). Sebagai seorang ENFJ, kamu menggunakan keahlian ini untuk tujuan yang lebih tinggi: untuk membimbing dan membantu siswa membuat rencana yang terbaik bagi masa depan mereka.",
+    "what_this_means": "Kamu adalah seorang penasihat akademik atau konselor penerimaan mahasiswa yang ideal. Kamu tidak hanya memahami semua persyaratan kurikulum, peraturan, dan tenggat waktu; kamu juga meluangkan waktu untuk benar-benar memahami setiap siswa—impian, kekuatan, dan kekhawatiran mereka. Kamu adalah seorang ahli strategi untuk kesuksesan siswa.",
+    "strengths": ["Sangat terorganisir dan memiliki pengetahuan yang mendalam tentang sistem akademik.", "Mampu menerjemahkan aturan yang rumit menjadi rencana yang jelas bagi siswa.", "Sangat empatik dan mampu memahami kebutuhan individu setiap siswa.", "Sangat baik dalam membantu siswa melihat gambaran besar dari perjalanan pendidikan mereka."],
+    "weaknesses": ["Bisa menjadi frustrasi dengan siswa yang tidak mengikuti rencana atau tidak disiplin.", "Mungkin kesulitan untuk mengatakan 'tidak' atau memberikan berita buruk kepada siswa.", "Cenderung terlalu banyak mengambil beban emosional dari kekhawatiran siswa.", "Bisa menjadi kaku jika ada permintaan yang menyimpang dari aturan standar."],
+    "recommended_majors": [
+      { "name": "Pendidikan (dengan spesialisasi Administrasi atau Konseling)", "reason": "Secara langsung mempersiapkanmu untuk bekerja dalam sistem pendidikan." },
+      { "name": "Psikologi", "reason": "Memberikan pemahaman tentang perkembangan remaja dan dewasa muda, yang penting untuk konseling." },
+      { "name": "Ilmu Perpustakaan dan Informasi", "reason": "Mengasah kemampuanmu dalam mengorganisir informasi dan membimbing orang lain." }
+    ],
+    "career_recommendations": [
+      { "name": "Penasihat Akademik atau Konselor Bimbingan", "reason": "Membantu siswa merencanakan jadwal kuliah, memilih jurusan, dan mengatasi tantangan akademik." },
+      { "name": "Petugas Penerimaan Mahasiswa (Admissions Officer)", "reason": "Mengevaluasi aplikasi dan membimbing calon mahasiswa melalui proses penerimaan." },
+      { "name": "Registrar atau Administrator Akademik", "reason": "Mengelola data akademik dan memastikan semua siswa memenuhi persyaratan kelulusan." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "RI",
+    "profile_title": "Sang Terapis Rehabilitasi",
+    "profile_tagline": "Seorang penyembuh yang secara sistematis memandu orang lain kembali ke kesehatan fisik.",
+    "reason_why": "Minat utamamu adalah pada dunia fisik yang praktis (Realistic) dan kamu didorong oleh keinginan untuk memahami cara kerjanya (Investigative). Sebagai seorang ENFJ, kamu menerapkan pengetahuan ini dengan empati dan dorongan yang kuat untuk membimbing orang lain menuju pemulihan.",
+    "what_this_means": "Kamu adalah seorang terapis fisik atau okupasi yang sangat berdedikasi. Kamu memiliki kombinasi langka antara pemahaman teknis tentang anatomi dan biomekanik dengan kemampuan untuk memotivasi dan terhubung secara emosional dengan pasien. Kamu tidak hanya memperbaiki tubuh; kamu membangun kembali kepercayaan diri dan harapan.",
+    "strengths": ["Menggabungkan keahlian teknis dengan kepedulian yang tulus.", "Sangat memotivasi dan pandai memberi semangat.", "Sabar dan metodis dalam memandu latihan.", "Mampu merancang rencana rehabilitasi yang dipersonalisasi."],
+    "weaknesses": ["Bisa sangat terpukul jika pasien tidak menunjukkan kemajuan.", "Cenderung menyerap rasa sakit dan frustrasi pasien.", "Pekerjaan bisa sangat menuntut secara fisik dan emosional.", "Mungkin kesulitan untuk menjaga jarak profesional yang sehat."],
+    "recommended_majors": [
+      { "name": "Fisioterapi", "reason": "Secara langsung melatihmu dalam ilmu (Investigative) dan praktik (Realistic) rehabilitasi fisik." },
+      { "name": "Terapi Okupasi", "reason": "Fokus membantu pasien untuk kembali melakukan aktivitas sehari-hari yang bermakna bagi mereka." },
+      { "name": "Ilmu Keolahragaan", "reason": "Memberikan dasar yang kuat dalam ilmu gerakan, yang bisa diterapkan dalam konteks rehabilitasi atau pelatihan." }
+    ],
+    "career_recommendations": [
+      { "name": "Fisioterapis", "reason": "Bekerja di rumah sakit, klinik, atau tim olahraga untuk membantu orang pulih dari cedera." },
+      { "name": "Terapis Okupasi", "reason": "Membantu orang dengan berbagai kondisi untuk hidup semandiri mungkin." },
+      { "name": "Spesialis Rehabilitasi Jantung atau Paru", "reason": "Spesialisasi dalam membantu pasien pulih dari kondisi jantung atau paru-paru yang serius." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "RA",
+    "profile_title": "Sang Desainer Ruang Komunal",
+    "profile_tagline": "Seorang perancang yang menciptakan ruang fisik yang mendorong interaksi dan kesejahteraan.",
+    "reason_why": "Minat utamamu adalah pada dunia fisik yang nyata dan dapat dibangun (Realistic), tetapi kamu melakukannya dengan kepekaan artistik yang kuat (Artistic). Sebagai seorang ENFJ, tujuan akhir dari desainmu adalah untuk menciptakan ruang yang membuat orang merasa diterima, terhubung, dan terinspirasi.",
+    "what_this_means": "Kamu adalah seorang arsitek atau desainer interior yang berjiwa sosial. Kamu tidak tertarik merancang monumen yang dingin; kamu ingin merancang taman bermain yang ceria, perpustakaan yang hangat, atau co-working space yang kolaboratif. Kamu berpikir tentang bagaimana alur ruang akan memengaruhi alur percakapan, dan bagaimana cahaya akan memengaruhi suasana hati.",
+    "strengths": ["Mampu merancang ruang yang berpusat pada manusia.", "Memiliki visi yang kuat tentang bagaimana sebuah ruang seharusnya 'terasa'.", "Sangat baik dalam berkomunikasi dan memahami kebutuhan klien.", "Kreatif dan empatik dalam pendekatan desainnya."],
+    "weaknesses": ["Bisa menjadi sangat idealis dan sulit menerima batasan anggaran.", "Mungkin memprioritaskan aspek sosial di atas efisiensi atau kepraktisan murni.", "Sangat terikat secara personal pada desainnya dan sensitif terhadap kritik.", "Bisa kesulitan membuat keputusan yang akan mengecewakan sekelompok pengguna."],
+    "recommended_majors": [
+      { "name": "Desain Interior", "reason": "Fokus pada penciptaan atmosfer dan fungsionalitas di dalam ruang (Artistic & Realistic)." },
+      { "name": "Arsitektur Lanskap", "reason": "Merancang ruang publik luar ruangan yang mendorong rekreasi dan interaksi sosial." },
+      { "name": "Arsitektur (dengan fokus pada bangunan publik atau komunal)", "reason": "Merancang bangunan seperti sekolah, pusat komunitas, atau perpustakaan." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Interior (spesialisasi ruang kerja, sekolah, atau perhotelan)", "reason": "Menciptakan lingkungan dalam ruangan yang mendukung kolaborasi dan kesejahteraan." },
+      { "name": "Arsitek Lanskap", "reason": "Merancang taman, alun-alun, dan ruang publik lainnya yang menjadi jantung sebuah komunitas." },
+      { "name": "Perencana Kota (dengan fokus pada desain partisipatif)", "reason": "Bekerja secara langsung dengan warga untuk merancang lingkungan mereka sendiri." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "RC",
+    "profile_title": "Sang Manajer Acara (Event Manager)",
+    "profile_tagline": "Seorang organisator yang menciptakan pengalaman yang mulus dan tak terlupakan.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan nyata (Realistic) dengan bakat untuk perencanaan yang teliti, jadwal, dan prosedur (Conventional). Sebagai seorang ENFJ, kamu tidak hanya mengelola logistik; kamu melakukannya dengan tujuan untuk menciptakan sebuah acara yang membuat orang merasa terhubung dan bahagia.",
+    "what_this_means": "Kamu adalah seorang manajer acara atau perencana pernikahan yang luar biasa. Kamu memiliki kemampuan langka untuk memvisualisasikan sebuah acara besar dalam pikiranmu, lalu secara sistematis memecahnya menjadi ribuan detail kecil—vendor, jadwal, anggaran, tata letak—dan memastikan semuanya berjalan sempurna pada hari-H. Kamu menciptakan keteraturan dari kekacauan, demi kebahagiaan orang lain.",
+    "strengths": ["Sangat terorganisir dan berorientasi pada detail.", "Mampu mengelola banyak tugas dan tekanan secara bersamaan.", "Sangat baik dalam berkomunikasi dan berkoordinasi dengan banyak pihak (vendor, klien, tamu).", "Memiliki visi yang jelas tentang bagaimana sebuah acara seharusnya terasa."],
+    "weaknesses": ["Bisa menjadi sangat stres karena sifat pekerjaan yang penuh tekanan.", "Cenderung perfeksionis dan sulit mendelegasikan.", "Sangat terpukul jika terjadi kesalahan kecil di luar kendalinya.", "Bisa mengabaikan kesejahteraan diri sendiri saat sibuk mengurus acara."],
+    "recommended_majors": [
+      { "name": "Manajemen Acara (Event Management) atau Manajemen Pariwisata & Perhotelan", "reason": "Jurusan yang secara langsung melatihmu dalam semua aspek perencanaan dan eksekusi acara." },
+      { "name": "Komunikasi", "reason": "Mengasah kemampuanmu untuk berkoordinasi dengan berbagai pemangku kepentingan, yang merupakan inti dari manajemen acara." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan dasar yang kuat dalam penganggaran, negosiasi, dan manajemen proyek." }
+    ],
+    "career_recommendations": [
+      { "name": "Perencana Acara atau Pernikahan (Event/Wedding Planner)", "reason": "Membantu klien merancang dan mengeksekusi acara-acara penting dalam hidup mereka." },
+      { "name": "Manajer Konferensi atau Pameran", "reason": "Mengorganisir acara berskala besar untuk perusahaan atau industri." },
+      { "name": "Manajer Produksi (untuk acara langsung)", "reason": "Bertanggung jawab atas semua aspek teknis dan logistik dari sebuah konser, festival, atau pertunjukan." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "RE",
+    "profile_title": "Sang Wirausahawan Perhotelan",
+    "profile_tagline": "Seorang pemimpin yang membangun bisnis yang berpusat pada pelayanan dan pengalaman tamu.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan membangun sebuah bisnis (Enterprising) dengan fokus pada dunia pelayanan yang nyata dan praktis (Realistic). Sebagai seorang ENFJ, kamu tidak hanya menjalankan sebuah hotel atau restoran; kamu menciptakan sebuah 'rumah kedua' bagi para tamumu, di mana setiap detail dirancang untuk membuat mereka merasa diterima dan dirawat.",
+    "what_this_means": "Kamu adalah seorang manajer hotel atau restaurateur yang ulung. Kamu memiliki visi tentang pengalaman tamu yang sempurna dan kemampuan untuk melatih dan memotivasi stafmu untuk memberikan pelayanan yang luar biasa. Kamu memahami bahwa dalam bisnis perhotelan, produknya adalah perasaan—dan kamu adalah seorang ahli dalam merekayasa perasaan positif.",
+    "strengths": ["Memiliki visi yang kuat untuk pengalaman pelanggan.", "Pemimpin yang sangat baik dan motivator bagi staf pelayanan.", "Sangat berorientasi pada kualitas dan perhatian pada detail.", "Mampu menangani keluhan pelanggan dengan empati dan efisiensi."],
+    "weaknesses": ["Bisa menjadi terlalu perfeksionis tentang standar pelayanan.", "Sangat terpengaruh oleh ulasan atau umpan balik negatif.", "Jam kerja yang panjang dan tidak teratur bisa sangat melelahkan.", "Mungkin kesulitan menyeimbangkan antara kemurahan hati kepada tamu dan profitabilitas bisnis."],
+    "recommended_majors": [
+      { "name": "Manajemen Perhotelan atau Pariwisata", "reason": "Jurusan yang secara spesifik mempersiapkanmu untuk memimpin di industri pelayanan." },
+      { "name": "Kewirausahaan (Entrepreneurship)", "reason": "Memberikan dasar untuk membangun bisnis pelayananmu sendiri dari nol." },
+      { "name": "Seni Kuliner (jika tertarik pada restoran)", "reason": "Menguasai produk inti dari bisnis restoran." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Umum Hotel", "reason": "Bertanggung jawab atas seluruh operasional dan pengalaman tamu di sebuah hotel." },
+      { "name": "Restaurateur atau Manajer Restoran", "reason": "Memimpin sebuah restoran, dari menu, pelayanan, hingga keuangan." },
+      { "name": "Pemilik Bisnis di Bidang Pariwisata (misal: agen perjalanan butik, resor)", "reason": "Menciptakan dan menjual pengalaman liburan yang unik dan berkesan." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "CI",
+    "profile_title": "Sang Pustakawan Hukum",
+    "profile_tagline": "Seorang ahli informasi yang membimbing orang lain melalui labirin pengetahuan hukum.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada riset dan pemahaman (Investigative) dengan keahlian dalam sistem yang terstruktur dan berbasis aturan (Conventional). Sebagai seorang ENFJ, kamu tidak hanya mengelola informasi; kamu melakukannya dengan misi untuk membantu orang lain—baik itu mahasiswa hukum, pengacara, atau masyarakat umum—untuk memahami dan menggunakan informasi tersebut demi keadilan.",
+    "what_this_means": "Kamu adalah seorang pustakawan hukum atau peneliti hukum (paralegal) yang sangat baik. Kamu menikmati tantangan untuk menavigasi database hukum yang sangat besar dan kompleks, menemukan preseden yang relevan, dan menyusunnya menjadi ringkasan yang jelas dan berguna. Kamu adalah pemandu di dunia informasi yang rumit.",
+    "strengths": ["Sangat baik dalam melakukan riset di database yang kompleks.", "Mampu memahami dan menjelaskan aturan dan sistem yang rumit.", "Sangat terorganisir dan metodis.", "Didorong oleh keinginan untuk membantu orang lain dengan keahlian informasimu."],
+    "weaknesses": ["Pekerjaan bisa sangat detail dan membutuhkan banyak waktu di depan komputer.", "Bisa frustrasi dengan ambiguitas atau inkonsistensi dalam sistem hukum.", "Cenderung perfeksionis dalam penelitiannya.", "Mungkin kurang tertarik pada aspek argumentatif atau konfrontatif dari dunia hukum."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan (dengan spesialisasi hukum)", "reason": "Secara langsung melatihmu untuk menjadi seorang ahli informasi di bidang hukum." },
+      { "name": "Ilmu Hukum", "reason": "Memberikan pemahaman mendalam tentang materi pelajaran yang akan kamu kelola dan teliti." },
+      { "name": "Studi Paralegal", "reason": "Fokus pada keterampilan praktis dalam melakukan riset dan persiapan dokumen hukum." }
+    ],
+    "career_recommendations": [
+      { "name": "Pustakawan Hukum (di universitas atau firma hukum)", "reason": "Mengelola koleksi hukum dan membantu mahasiswa serta pengacara melakukan riset." },
+      { "name": "Paralegal atau Asisten Peneliti Hukum", "reason": "Melakukan riset mendalam untuk mendukung pengacara dalam mempersiapkan sebuah kasus." },
+      { "name": "Manajer Informasi atau Pengetahuan di Firma Hukum", "reason": "Merancang dan mengelola sistem internal perusahaan untuk berbagi dan menemukan informasi hukum." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "CE",
+    "profile_title": "Sang Manajer Personalia",
+    "profile_tagline": "Seorang pemimpin yang membangun tim yang kuat melalui proses yang adil dan terstruktur.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mengembangkan orang (Enterprising) dengan bakat untuk menciptakan dan mengikuti sistem, aturan, dan prosedur (Conventional). Sebagai seorang ENFJ, kamu adalah seorang manajer HR yang ideal: kamu tidak hanya peduli pada orang, tetapi kamu juga tahu bagaimana cara membangun sistem yang adil untuk merekrut, mengevaluasi, dan mengembangkan mereka.",
+    "what_this_means": "Kamu adalah seorang pembangun tim yang sistematis. Kamu unggul dalam merancang proses wawancara yang terstruktur, menciptakan sistem evaluasi kinerja yang transparan, atau mengelola program kompensasi dan tunjangan. Kamu percaya bahwa cara terbaik untuk merawat karyawan adalah dengan memiliki sistem yang jelas, konsisten, dan adil bagi semua orang.",
+    "strengths": ["Mampu merancang dan mengimplementasikan sistem HR yang efektif.", "Sangat baik dalam menyeimbangkan antara kebutuhan perusahaan dan kesejahteraan karyawan.", "Komunikator yang jelas tentang kebijakan dan prosedur.", "Sangat terorganisir dan dapat diandalkan."],
+    "weaknesses": ["Bisa menjadi terlalu kaku dengan aturan dan kebijakan.", "Mungkin kesulitan menangani situasi 'abu-abu' yang tidak tercakup dalam prosedur.", "Cenderung menghindari konflik langsung antara karyawan dan manajemen.", "Bisa frustrasi dengan manajer lain yang tidak mengikuti sistem yang telah dibuat."],
+    "recommended_majors": [
+      { "name": "Manajemen Sumber Daya Manusia (SDM)", "reason": "Jurusan yang secara sempurna menggabungkan studi tentang manusia di tempat kerja dengan perancangan sistem dan kebijakan." },
+      { "name": "Hukum (dengan minat pada hukum ketenagakerjaan)", "reason": "Memberikan pemahaman yang kuat tentang aturan hukum yang mengatur hubungan kerja." },
+      { "name": "Psikologi Industri dan Organisasi", "reason": "Memberikan dasar ilmiah untuk merancang sistem seleksi, pelatihan, dan evaluasi." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Sumber Daya Manusia (HR Manager)", "reason": "Bertanggung jawab atas seluruh siklus hidup karyawan, dari rekrutmen hingga pensiun." },
+      { "name": "Spesialis Kompensasi dan Tunjangan", "reason": "Merancang dan mengelola sistem gaji dan tunjangan yang adil dan kompetitif." },
+      { "name": "Spesialis Hubungan Industrial", "reason": "Bertindak sebagai jembatan antara manajemen dan serikat pekerja, memastikan kepatuhan pada kontrak dan peraturan." }
+    ]
+  },
+  {
+    "mbti_type": "ENFJ",
+    "riasec_code": "CR",
+    "profile_title": "Sang Koordinator Logistik Kemanusiaan",
+    "profile_tagline": "Seorang organisator yang memastikan bantuan sampai ke tangan yang membutuhkan, tepat waktu.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang teratur, terjadwal, dan efisien (Conventional) dengan fokus pada dunia fisik yang nyata (Realistic). Sebagai seorang ENFJ, kamu melakukan pekerjaan logistik yang rumit ini bukan untuk keuntungan, tetapi didorong oleh misi yang mendalam untuk membantu orang-orang dalam krisis.",
+    "what_this_means": "Kamu adalah seorang pahlawan di balik layar dalam setiap operasi bantuan bencana. Kamu adalah orang yang akan merencanakan rute truk bantuan, mengelola inventaris di gudang pengungsian, dan memastikan bahwa makanan, air, dan obat-obatan didistribusikan secara efisien dan adil. Kamu membawa keteraturan ke dalam situasi yang paling kacau.",
+    "strengths": ["Sangat terorganisir dan mampu bekerja di bawah tekanan.", "Pemecah masalah yang praktis dan cepat.", "Didorong oleh misi kemanusiaan yang kuat.", "Mampu berkoordinasi dengan banyak pihak yang berbeda di lingkungan yang sulit."],
+    "weaknesses": ["Pekerjaan bisa sangat menantang secara fisik dan emosional.", "Bisa menjadi sangat frustrasi dengan birokrasi atau hambatan logistik.", "Cenderung mengabaikan kesejahteraan diri sendiri dalam situasi krisis.", "Sangat terpukul oleh penderitaan yang dilihatnya di lapangan."],
+    "recommended_majors": [
+      { "name": "Manajemen Rantai Pasok atau Logistik", "reason": "Memberikan keterampilan teknis dalam mengelola aliran barang, yang bisa kamu terapkan pada sektor kemanusiaan." },
+      { "name": "Studi Pembangunan Internasional atau Manajemen Bencana", "reason": "Fokus pada konteks dan tantangan unik dari operasi bantuan kemanusiaan." },
+      { "name": "Administrasi Publik", "reason": "Mempelajari cara bekerja dengan lembaga pemerintah dan LSM dalam situasi darurat." }
+    ],
+    "career_recommendations": [
+      { "name": "Petugas Logistik untuk LSM Kemanusiaan (misal: Palang Merah, World Food Programme)", "reason": "Bertanggung jawab untuk memastikan bahwa bantuan sampai ke lokasi bencana secara efisien." },
+      { "name": "Manajer Operasi Bantuan Bencana", "reason": "Mengkoordinasikan semua aspek logistik dan operasional dari sebuah respons bencana." },
+      { "name": "Spesialis Rantai Pasok Kesehatan Global", "reason": "Fokus pada logistik pengiriman vaksin dan obat-obatan ke daerah-daerah terpencil di seluruh dunia." }
+    ]
+  }
+]
