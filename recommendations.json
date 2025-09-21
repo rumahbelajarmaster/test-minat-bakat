@@ -3025,3 +3025,504 @@
     ]
   }
 ]
+{
+    "mbti_type": "INFP",
+    "riasec_code": "AI",
+    "profile_title": "Sang Seniman Jiwa",
+    "profile_tagline": "Seorang penjelajah dunia batin yang mengekspresikan nilai-nilai dan emosi melalui seni.",
+    "reason_why": "Ini adalah kombinasi INFP yang paling murni. Doronganmu untuk memahami dan setia pada nilai-nilai pribadimu (Fi) dan menjelajahi berbagai kemungkinan (Ne) sangat selaras dengan minat untuk berekspresi secara kreatif (Artistic) dan melakukan refleksi mendalam (Investigative).",
+    "what_this_means": "Kamu adalah seorang seniman dalam arti yang paling sejati. Duniamu adalah dunia ide, emosi, dan metafora. Kamu menggunakan tulisan, musik, atau seni visual bukan hanya untuk menciptakan keindahan, tetapi sebagai cara untuk memahami dirimu sendiri dan dunia di sekitarmu. Karyamu adalah cerminan langsung dari jiwamu.",
+    "strengths": ["Sangat kreatif dan imajinatif.", "Memiliki kedalaman emosi dan wawasan yang luar biasa.", "Mampu menciptakan karya yang sangat personal dan menyentuh.", "Setia pada visi artistik dan nilai-nilai pribadi."],
+    "weaknesses": ["Bisa menjadi sangat perfeksionis dan sulit menyelesaikan karya.", "Sangat sensitif terhadap kritik karena karyanya bersifat personal.", "Cenderung bekerja dalam isolasi dan kesulitan dengan sisi bisnis dari seni.", "Bisa kesulitan menerjemahkan dunia batinnya yang kaya menjadi bentuk yang bisa dipahami orang lain."],
+    "recommended_majors": [
+      { "name": "Penulisan Kreatif atau Sastra", "reason": "Memberimu alat untuk menjelajahi dan mengekspresikan dunia batinmu (Fi & Ne) melalui kata-kata (Artistic)." },
+      { "name": "Seni Rupa atau Musik", "reason": "Medium yang sempurna untuk menyalurkan emosi dan ide-ide non-verbalmu." },
+      { "name": "Filsafat", "reason": "Tempat untuk bergulat dengan pertanyaan-pertanyaan besar tentang makna dan nilai, yang menjadi bahan bakar bagi senimu." }
+    ],
+    "career_recommendations": [
+      { "name": "Penulis, Penyair, atau Novelis", "reason": "Peran di mana kamu bisa sepenuhnya mendedikasikan diri untuk mengeksplorasi dan mengekspresikan dunia batinmu." },
+      { "name": "Musisi atau Komposer", "reason": "Menggunakan bahasa universal musik untuk menyampaikan emosi dan cerita yang mendalam." },
+      { "name": "Seniman Visual (Pelukis, Ilustrator)", "reason": "Menciptakan gambar-gambar yang merupakan cerminan dari perasaan dan visimu." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "AS",
+    "profile_title": "Sang Penyembuh Kreatif",
+    "profile_tagline": "Seorang advokat yang menggunakan seni dan empati untuk membantu dan menginspirasi orang lain.",
+    "reason_why": "Kamu menggabungkan doronganmu untuk mengekspresikan nilai-nilai pribadimu (Fi & Ne) melalui cara-cara yang kreatif (Artistic) dengan keinginan tulus untuk membantu dan terhubung dengan orang lain (Social). Kamu ingin senimu memiliki dampak positif yang nyata.",
+    "what_this_means": "Kamu adalah tipe orang yang percaya pada kekuatan penyembuhan dari seni. Kamu mungkin seorang guru seni yang menginspirasi, seorang terapis musik, atau seorang penulis buku anak-anak. Kamu menggunakan kreativitasmu sebagai jembatan untuk membangun empati, mengajarkan nilai-nilai, dan memberikan harapan kepada orang lain.",
+    "strengths": ["Sangat empatik dan kreatif.", "Mampu menginspirasi dan memberikan dukungan emosional.", "Pandai menggunakan cerita atau metafora untuk mengajar.", "Sangat berdedikasi pada kesejahteraan orang lain."],
+    "weaknesses": ["Bisa menjadi sangat terikat secara emosional pada orang yang dibantunya.", "Pekerjaan bisa sangat menguras energi emosional.", "Idealisme yang tinggi bisa membuatnya kecewa dengan realitas.", "Cenderung menghindari konflik, bahkan saat diperlukan."],
+    "recommended_majors": [
+      { "name": "Psikologi (dengan spesialisasi terapi seni atau drama)", "reason": "Menggabungkan pemahaman tentang jiwa manusia (Social) dengan penggunaan media kreatif (Artistic) sebagai alat terapi." },
+      { "name": "Pendidikan Seni atau Musik", "reason": "Mempersiapkanmu untuk menjadi seorang guru yang menginspirasi kreativitas pada orang lain." },
+      { "name": "Pekerjaan Sosial (Social Work)", "reason": "Memberikan kerangka kerja untuk membantu individu dan komunitas, di mana kamu bisa menerapkan pendekatan kreatifmu." }
+    ],
+    "career_recommendations": [
+      { "name": "Terapis Seni, Musik, atau Drama", "reason": "Menggunakan seni sebagai cara untuk membantu klien mengeksplorasi emosi dan menyembuhkan luka batin." },
+      { "name": "Guru (Seni, Sastra, atau TK/SD)", "reason": "Membentuk perkembangan anak-anak dengan cara yang kreatif dan penuh perhatian." },
+      { "name": "Penulis Buku Anak-Anak", "reason": "Menciptakan cerita-cerita yang mengajarkan nilai-nilai penting dengan cara yang imajinatif dan lembut." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "SI",
+    "profile_title": "Sang Peneliti Nilai",
+    "profile_tagline": "Seorang pemikir mendalam yang mendedikasikan hidupnya untuk memahami makna di balik tindakan manusia.",
+    "reason_why": "Kamu menggabungkan doronganmu untuk membantu dan memahami orang lain (Social) dengan minat yang mendalam pada riset, refleksi, dan pemahaman teoretis (Investigative). Sebagai seorang INFP, kamu tidak hanya ingin tahu 'apa' yang orang lakukan, tetapi 'mengapa'—apa nilai dan keyakinan yang mendorong mereka.",
+    "what_this_means": "Kamu adalah seorang ilmuwan sosial atau humanis di hati. Kamu tertarik pada pertanyaan-pertanyaan besar tentang budaya, agama, sejarah, dan psikologi. Kamu adalah tipe orang yang akan menjadi seorang antropolog yang mempelajari ritual suku terpencil, seorang sejarawan yang meneliti surat-surat pribadi untuk memahami sebuah era, atau seorang psikolog yang mempelajari perkembangan moral.",
+    "strengths": ["Memiliki wawasan yang mendalam tentang motivasi manusia.", "Peneliti kualitatif yang sangat baik, mampu memahami nuansa.", "Didorong oleh pencarian akan kebenaran dan makna.", "Mampu bekerja secara mandiri pada proyek riset jangka panjang."],
+    "weaknesses": ["Bisa menjadi terlalu teoretis dan kurang terhubung dengan dunia nyata.", "Cenderung bekerja dalam isolasi.", "Proses riset bisa sangat lambat dan membutuhkan banyak refleksi.", "Sangat idealis dan bisa kecewa jika temuannya disalahgunakan."],
+    "recommended_majors": [
+      { "name": "Antropologi atau Sosiologi", "reason": "Mempelajari budaya dan masyarakat (Social) melalui metode penelitian yang mendalam (Investigative)." },
+      { "name": "Psikologi", "reason": "Memberikan kerangka kerja untuk memahami pikiran, emosi, dan nilai-nilai yang membentuk individu." },
+      { "name": "Sejarah, Studi Agama, atau Filsafat", "reason": "Jurusan yang didedikasikan untuk memahami sistem nilai dan kepercayaan manusia sepanjang waktu." }
+    ],
+    "career_recommendations": [
+      { "name": "Dosen atau Peneliti di bidang Humaniora/Ilmu Sosial", "reason": "Mendedikasikan kariermu untuk belajar dan mengajar tentang kondisi manusia." },
+      { "name": "Periset Kualitatif (Qualitative Researcher)", "reason": "Melakukan wawancara mendalam untuk memahami pengalaman dan perspektif orang lain untuk organisasi atau perusahaan riset." },
+      { "name": "Kurator Museum", "reason": "Menceritakan kisah kemanusiaan melalui seleksi dan interpretasi artefak." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "SA",
+    "profile_title": "Sang Aktivis Kreatif",
+    "profile_tagline": "Seorang pejuang yang menggunakan seni dan komunikasi untuk menyuarakan kaum tertindas.",
+    "reason_why": "Dorongan utamamu adalah untuk membantu dan membela mereka yang membutuhkan (Social), dan kamu melakukannya melalui cara-cara yang ekspresif, imajinatif, dan seringkali tidak konvensional (Artistic). Sebagai seorang INFP, kamu adalah seorang aktivis yang senjatanya adalah kata-kata, gambar, atau lagu.",
+    "what_this_means": "Kamu tidak bisa diam ketika melihat ketidakadilan. Kamu adalah tipe orang yang akan menulis puisi protes, membuat film dokumenter tentang isu sosial, atau merancang poster untuk sebuah gerakan. Kamu percaya bahwa seni memiliki kekuatan untuk mengubah hati dan pikiran, dan kamu menggunakannya untuk berjuang demi dunia yang lebih baik sesuai dengan nilai-nilaimu.",
+    "strengths": ["Sangat bersemangat dan didorong oleh nilai-nilai yang kuat.", "Mampu menyampaikan pesan yang kuat dengan cara yang kreatif dan emosional.", "Sangat empatik terhadap penderitaan orang lain.", "Berani dan tidak takut untuk menyuarakan kebenaran."],
+    "weaknesses": ["Bisa menjadi sangat idealis dan rentan terhadap kelelahan emosional (burnout).", "Sangat terpengaruh secara personal oleh isu yang diperjuangkan.", "Mungkin kesulitan dengan aspek strategis atau politik dari aktivisme.", "Cenderung bekerja lebih baik dalam kelompok kecil yang sepaham daripada organisasi besar."],
+    "recommended_majors": [
+      { "name": "Jurnalistik atau Studi Media", "reason": "Memberimu platform untuk menyebarkan informasi (Artistic) tentang isu-isu sosial (Social)." },
+      { "name": "Studi Gender, Studi Pembangunan, atau Sosiologi", "reason": "Memberikan dasar teoretis untuk memahami ketidakadilan sosial yang ingin kamu lawan." },
+      { "name": "Film Dokumenter", "reason": "Mempelajari cara menceritakan kisah nyata dengan cara yang kuat dan persuasif." }
+    ],
+    "career_recommendations": [
+      { "name": "Jurnalis Advokasi atau Pembuat Film Dokumenter", "reason": "Menggunakan media untuk mengungkap ketidakadilan dan memberikan suara kepada yang tak terdengar." },
+      { "name": "Pekerja di Organisasi Nirlaba (LSM/NGO)", "reason": "Bekerja secara langsung pada isu yang kamu pedulikan, seringkali dalam peran komunikasi atau kampanye." },
+      { "name": "Seniman atau Musisi Protes", "reason": "Menciptakan karya yang secara eksplisit menantang status quo dan menginspirasi perubahan." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "SE",
+    "profile_title": "Sang Diplomat Idealis",
+    "profile_tagline": "Seorang pembangun jembatan yang memperjuangkan keharmonisan dan nilai-nilai kemanusiaan.",
+    "reason_why": "Kamu menggabungkan keinginanmu yang mendalam untuk membantu dan menciptakan keharmonisan (Social) dengan minat untuk memengaruhi dan meyakinkan orang lain demi sebuah tujuan (Enterprising). Sebagai seorang INFP, kamu memimpin bukan dengan perintah, tetapi dengan inspirasi dan integritas moral.",
+    "what_this_means": "Kamu adalah seorang pemimpin yang melayani. Kamu adalah tipe orang yang akan menjadi seorang diplomat, mediator, atau pemimpin di organisasi nirlaba. Kamu unggul dalam memahami semua sisi dari sebuah konflik dan dengan sabar membimbing orang menuju solusi yang adil dan damai. Kamu berjuang untuk sebuah visi, bukan untuk kekuasaan.",
+    "strengths": ["Sangat baik dalam mediasi dan resolusi konflik.", "Mampu menginspirasi orang lain dengan visi dan nilai-nilainya.", "Diplomatis dan pandai membangun konsensus.", "Memiliki integritas moral yang sangat tinggi."],
+    "weaknesses": ["Cenderung sangat menghindari konflik, yang kadang diperlukan.", "Bisa kesulitan untuk mengambil keputusan yang tegas tetapi akan menyakiti perasaan orang.", "Sangat idealis dan bisa naif tentang politik atau kekuasaan.", "Mudah lelah oleh lingkungan yang terlalu kompetitif atau agresif."],
+    "recommended_majors": [
+      { "name": "Hubungan Internasional atau Diplomasi", "reason": "Secara langsung melatihmu dalam seni negosiasi dan pemahaman antar budaya untuk tujuan perdamaian." },
+      { "name": "Pekerjaan Sosial atau Kebijakan Publik", "reason": "Fokus pada advokasi untuk menciptakan sistem yang lebih adil bagi masyarakat." },
+      { "name": "Manajemen Sumber Daya Manusia (SDM)", "reason": "Berperan sebagai mediator antara karyawan dan manajemen, memperjuangkan lingkungan kerja yang adil." }
+    ],
+    "career_recommendations": [
+      { "name": "Diplomat atau Mediator", "reason": "Bekerja untuk menyelesaikan konflik antara kelompok atau negara." },
+      { "name": "Manajer di Organisasi Nirlaba", "reason": "Memimpin sebuah tim untuk mencapai sebuah misi sosial yang kamu yakini." },
+      { "name": "Spesialis Hubungan Karyawan (Employee Relations)", "reason": "Menjadi penengah dan memastikan keadilan dalam perselisihan di tempat kerja." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "IS",
+    "profile_title": "Sang Penasihat Bijak",
+    "profile_tagline": "Seorang pendengar yang mendalam, yang menggunakan wawasan untuk membimbing orang lain menemukan jalan mereka.",
+    "reason_why": "Dorongan utamamu adalah untuk memahami diri sendiri dan orang lain pada tingkat yang sangat dalam (Investigative & Fi), dan kamu menggunakan pemahaman itu untuk membantu dan membimbing (Social). Kamu adalah seorang konselor alami, tertarik pada dunia batin dan pertumbuhan personal.",
+    "what_this_means": "Kamu adalah tipe orang yang akan didatangi teman-temanmu untuk nasihat. Kamu memiliki kemampuan langka untuk mendengarkan tanpa menghakimi dan mengajukan pertanyaan yang tepat yang membantu orang lain menemukan jawaban mereka sendiri. Kamu sangat cocok untuk peran sebagai terapis, konselor, atau pelatih spiritual, di mana kamu bisa membantu orang lain dalam perjalanan mereka menuju keaslian.",
+    "strengths": ["Pendengar yang luar biasa dan sangat empatik.", "Mampu melihat potensi terbaik dalam diri orang lain.", "Memberikan bimbingan yang berpusat pada nilai-nilai individu.", "Menciptakan ruang yang aman dan penuh kepercayaan."],
+    "weaknesses": ["Bisa menyerap emosi orang lain secara berlebihan.", "Kesulitan untuk memberikan nasihat yang 'keras' meskipun itu perlu.", "Cenderung bekerja terlalu banyak di belakang layar dan kurang mempromosikan diri.", "Pekerjaan bisa sangat menguras energi emosional dan mental."],
+    "recommended_majors": [
+      { "name": "Psikologi (Konseling)", "reason": "Memberikan kerangka kerja teoretis (Investigative) dan keterampilan praktis untuk praktik konseling (Social)." },
+      { "name": "Pekerjaan Sosial (Social Work)", "reason": "Fokus pada membantu individu dalam konteks lingkungan sosial mereka." },
+      { "name": "Studi Agama atau Teologi", "reason": "Mengeksplorasi pertanyaan tentang makna, tujuan, dan spiritualitas, yang seringkali menjadi inti dari konseling." }
+    ],
+    "career_recommendations": [
+      { "name": "Terapis atau Konselor", "reason": "Membimbing individu, pasangan, atau keluarga melalui tantangan hidup mereka." },
+      { "name": "Pelatih Kehidupan (Life Coach) atau Pelatih Spiritual", "reason": "Membantu klien mengklarifikasi nilai-nilai mereka dan mencapai tujuan pribadi." },
+      { "name": "Konselor Sekolah atau Bimbingan Karier", "reason": "Membantu kaum muda menavigasi pilihan pendidikan dan karier yang sesuai dengan diri mereka yang sebenarnya." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "IA",
+    "profile_title": "Sang Visioner Fantastis",
+    "profile_tagline": "Seorang pencipta dunia yang membangun realitas alternatif yang kaya akan makna dan keajaiban.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada ide, teori, dan pemahaman (Investigative) dengan dorongan yang tak terbendung untuk menciptakan dan berekspresi (Artistic). Sebagai seorang INFP, dunia yang kamu ciptakan akan selalu dipenuhi dengan nilai-nilai, emosi yang kompleks, dan pertanyaan tentang kemanusiaan.",
+    "what_this_means": "Kamu adalah seorang penulis fiksi fantasi atau ilmiah, seorang desainer game, atau seorang seniman konseptual. Kamu memiliki imajinasi yang luar biasa dan menikmati proses membangun dunia dari nol—lengkap dengan sejarah, budaya, dan aturan-aturannya sendiri. Bagimu, menciptakan dunia adalah cara untuk mengeksplorasi ide-ide besar.",
+    "strengths": ["Imajinasi yang sangat kaya dan orisinal.", "Mampu menciptakan dunia dan karakter yang sangat detail dan meyakinkan.", "Karyanya seringkali memiliki kedalaman filosofis atau emosional.", "Sangat berdedikasi pada visinya."],
+    "weaknesses": ["Bisa menjadi terlalu terjebak dalam pembangunan dunia dan lupa pada plot atau narasi.", "Perfeksionis, sulit untuk menyelesaikan proyek yang sangat ambisius.", "Cenderung bekerja sendiri dan terisolasi.", "Karyanya mungkin terlalu 'niche' atau sulit diakses oleh audiens yang luas."],
+    "recommended_majors": [
+      { "name": "Penulisan Kreatif (dengan fokus pada fiksi spekulatif)", "reason": "Secara langsung mengasah kemampuanmu untuk membangun dunia dan menceritakan kisah." },
+      { "name": "Desain Game", "reason": "Menggabungkan pembangunan dunia (Artistic) dengan perancangan sistem dan mekanika (Investigative)." },
+      { "name": "Sastra, Mitologi, atau Sejarah", "reason": "Memberikanmu bahan bakar dan inspirasi yang tak ada habisnya untuk dunia yang akan kamu ciptakan." }
+    ],
+    "career_recommendations": [
+      { "name": "Penulis Novel Fantasi atau Fiksi Ilmiah", "reason": "Membangun dunia dan menceritakan kisah-kisah epik yang mengeksplorasi tema-tema besar." },
+      { "name": "Desainer Naratif atau Penulis untuk Video Game", "reason": "Menciptakan cerita, dialog, dan lore untuk dunia game yang interaktif." },
+      { "name": "Seniman Konseptual (Concept Artist) untuk film atau game", "reason": "Orang pertama yang memvisualisasikan seperti apa rupa sebuah dunia, karakter, atau makhluk fantasi." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "IC",
+    "profile_title": "Sang Pustakawan Cerita",
+    "profile_tagline": "Seorang penjaga pengetahuan yang dengan teliti mengorganisir dunia ide dan cerita.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada riset dan pemahaman (Investigative) dengan kecintaan pada keteraturan, detail, dan sistem (Conventional). Sebagai seorang INFP, kamu melakukan ini karena kamu sangat menghargai pengetahuan dan cerita, dan kamu percaya bahwa semua itu harus dilestarikan dan diatur dengan baik agar orang lain bisa menikmatinya.",
+    "what_this_means": "Kamu adalah seorang pustakawan, arsiparis, atau editor yang ideal. Kamu menemukan kepuasan yang mendalam dalam mengambil informasi atau naskah dan memberinya struktur. Kamu adalah tipe orang yang akan dengan senang hati mengkategorikan koleksi buku yang besar, melakukan fact-checking yang teliti pada sebuah tulisan, atau merancang sistem pengarsipan yang sempurna. Kamu membawa keteraturan pada dunia ide.",
+    "strengths": ["Sangat teliti dan berorientasi pada detail.", "Metodis dan terorganisir.", "Memiliki penghargaan yang mendalam terhadap pengetahuan dan akurasi.", "Sangat sabar dan mampu bekerja sendiri pada tugas-tugas yang rumit."],
+    "weaknesses": ["Bisa menjadi sangat perfeksionis.", "Cenderung menghindari tugas-tugas yang membutuhkan banyak interaksi sosial.", "Mungkin kurang fleksibel atau lambat dalam beradaptasi dengan sistem baru.", "Bisa frustrasi dengan kesalahan atau ketidakkonsistenan."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan dan Informasi", "reason": "Jurusan yang secara sempurna menggabungkan cinta pada pengetahuan dengan keterampilan dalam pengorganisasian." },
+      { "name": "Jurnalistik atau Penerbitan", "reason": "Melatihmu dalam ketelitian mengedit dan memeriksa fakta." },
+      { "name": "Sejarah", "reason": "Membutuhkan penelitian yang cermat dan pengelolaan sumber-sumber informasi yang kompleks." }
+    ],
+    "career_recommendations": [
+      { "name": "Pustakawan atau Arsiparis", "reason": "Merawat, mengkategorikan, dan membantu orang lain mengakses koleksi pengetahuan." },
+      { "name": "Editor atau Proofreader", "reason": "Memastikan sebuah naskah bebas dari kesalahan dan konsisten sebelum diterbitkan." },
+      { "name": "Peneliti Fakta (Fact-Checker)", "reason": "Bekerja untuk media atau penerbit untuk memverifikasi akurasi dari sebuah tulisan." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "IE",
+    "profile_title": "Sang Wirausahawan Bermisi",
+    "profile_tagline": "Seorang visioner yang membangun bisnis yang didasarkan pada nilai-nilai dan tujuan mulia.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada riset dan pemahaman (Investigative) dengan dorongan untuk membangun dan memimpin sebuah usaha (Enterprising). Sebagai seorang INFP, usahamu tidak akan pernah hanya tentang uang; ia harus menjadi perwujudan dari nilai-nilai dan visimu untuk dunia yang lebih baik.",
+    "what_this_means": "Kamu adalah seorang wirausahawan sosial atau pendiri perusahaan yang digerakkan oleh misi. Kamu adalah tipe orang yang akan memulai sebuah kafe yang memberdayakan petani lokal, sebuah merek pakaian yang etis, atau sebuah platform teknologi untuk tujuan sosial. Kamu memimpin dengan inspirasi dan keaslian, bukan dengan perintah.",
+    "strengths": ["Didorong oleh visi dan nilai-nilai yang sangat kuat.", "Mampu menciptakan merek atau produk yang otentik dan memiliki cerita.", "Dapat menginspirasi loyalitas yang mendalam dari karyawan dan pelanggan.", "Kreatif dan inovatif dalam pendekatan bisnis."],
+    "weaknesses": ["Bisa menjadi sangat idealis dan kurang fokus pada profitabilitas.", "Mungkin kesulitan dengan aspek-aspek 'kasar' dari bisnis seperti negosiasi atau pemecatan.", "Sangat terikat secara personal pada bisnisnya, sulit menerima kritik.", "Cenderung menghindari konflik dan keputusan yang sulit."],
+    "recommended_majors": [
+      { "name": "Kewirausahaan Sosial (Social Entrepreneurship)", "reason": "Secara langsung mempelajari cara membangun bisnis yang memiliki dampak sosial positif." },
+      { "name": "Studi Lingkungan atau Pembangunan Berkelanjutan", "reason": "Memberikanmu misi dan pengetahuan untuk membangun bisnis yang ramah lingkungan atau sosial." },
+      { "name": "Manajemen Bisnis", "reason": "Memberikan dasar-dasar bisnis yang penting, yang bisa kamu padukan dengan nilai-nilaimu." }
+    ],
+    "career_recommendations": [
+      { "name": "Pendiri atau CEO Wirausaha Sosial", "reason": "Membangun sebuah perusahaan yang bertujuan untuk memecahkan masalah sosial atau lingkungan." },
+      { "name": "Pemilik Usaha Kecil (Toko Buku Independen, Kafe, Galeri)", "reason": "Menciptakan sebuah ruang atau bisnis yang merupakan cerminan langsung dari nilai-nilai dan seleramu." },
+      { "name": "Konsultan Merek untuk Bisnis yang Berbasis Nilai", "reason": "Membantu perusahaan lain mengkomunikasikan misi dan keaslian mereka." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "IR",
+    "profile_title": "Sang Penyembuh Hewan",
+    "profile_tagline": "Seorang perawat yang menggunakan intuisi dan kelembutan untuk merawat makhluk yang tak bisa bicara.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada ilmu pengetahuan (Investigative) dengan aplikasi di dunia nyata yang praktis, khususnya pada makhluk hidup (Realistic). Sebagai seorang INFP, kamu memiliki empati yang mendalam tidak hanya pada manusia, tetapi juga pada hewan, memberimu panggilan untuk menyembuhkan mereka.",
+    "what_this_means": "Kamu sangat cocok untuk menjadi seorang dokter hewan atau perawat hewan. Kamu memiliki kombinasi langka antara ketajaman pikiran untuk mendiagnosis masalah medis dengan kelembutan hati untuk menenangkan hewan yang ketakutan atau kesakitan. Kamu adalah advokat bagi mereka yang tidak bisa menyuarakan penderitaan mereka sendiri.",
+    "strengths": ["Memiliki empati yang mendalam terhadap hewan.", "Sangat sabar dan lembut dalam menangani hewan.", "Mampu mengobservasi detail-detail kecil dalam perilaku hewan.", "Didorong oleh komitmen etis yang kuat untuk kesejahteraan hewan."],
+    "weaknesses": ["Pekerjaan bisa sangat menguras emosi, terutama saat menghadapi penderitaan atau kematian hewan.", "Bisa kesulitan saat harus berhadapan dengan pemilik hewan yang sulit atau tidak bertanggung jawab.", "Cenderung mengabaikan kebutuhan diri sendiri demi merawat hewan.", "Mungkin kurang tertarik pada sisi bisnis dari sebuah klinik."],
+    "recommended_majors": [
+      { "name": "Kedokteran Hewan atau Kesehatan Hewan", "reason": "Jalan yang paling langsung untuk menjadi seorang penyembuh hewan profesional." },
+      { "name": "Biologi (dengan spesialisasi Zoologi atau Konservasi)", "reason": "Mempelajari tentang hewan dan ekosistemnya, yang bisa mengarah pada karier di bidang konservasi atau rehabilitasi satwa liar." },
+      { "name": "Psikologi (dengan minat pada perilaku hewan)", "reason": "Mempelajari pikiran dan emosi hewan untuk meningkatkan kesejahteraan mereka." }
+    ],
+    "career_recommendations": [
+      { "name": "Dokter Hewan", "reason": "Mendiagnosis dan mengobati penyakit pada hewan, dari hewan peliharaan hingga ternak." },
+      { "name": "Perawat atau Teknisi Veteriner", "reason": "Memberikan perawatan langsung dan membantu dokter hewan dalam prosedur medis." },
+      { "name": "Pekerja di Penampungan Hewan (Shelter) atau Pusat Rehabilitasi Satwa Liar", "reason": "Merawat hewan yang terlantar atau terluka dan membantu mereka menemukan rumah atau kembali ke alam liar." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "EI",
+    "profile_title": "Sang Diplomat Bermisi",
+    "profile_tagline": "Seorang idealis yang berjuang untuk nilai-nilainya melalui persuasi dan pengaruh yang lembut.",
+    "reason_why": "Dorongan utamamu adalah untuk memengaruhi dunia agar sejalan dengan nilai-nilaimu (Enterprising & Fi), dan kamu melakukannya dengan cara melakukan riset, memahami, dan membangun argumen yang kuat (Investigative). Sebagai seorang INFP, kamu bukanlah pemimpin yang agresif, melainkan seorang influencer yang menggerakkan orang lain melalui inspirasi dan integritas.",
+    "what_this_means": "Kamu adalah seorang advokat atau diplomat di hati. Kamu mungkin tertarik pada karier di bidang hukum, kebijakan publik, atau hubungan internasional, di mana kamu bisa memperjuangkan sebuah tujuan yang kamu yakini. Kamu unggul dalam riset yang mendalam untuk mendukung argumenmu dan kemudian menyampaikannya dengan cara yang menyentuh hati sekaligus pikiran.",
+    "strengths": ["Didorong oleh keyakinan dan nilai-nilai yang sangat kuat.", "Mampu membangun argumen yang didasarkan pada riset yang mendalam dan prinsip moral.", "Persuasif dengan cara yang tulus dan inspiratif.", "Sangat gigih dalam memperjuangkan apa yang dianggapnya benar."],
+    "weaknesses": ["Sangat idealis dan bisa naif tentang realitas politik.", "Cenderung menghindari konfrontasi langsung atau taktik yang 'kotor'.", "Sangat terpengaruh secara personal oleh kemunduran atau kegagalan.", "Bisa kesulitan untuk berkompromi dengan nilai-nilainya."],
+    "recommended_majors": [
+      { "name": "Hukum", "reason": "Memberimu alat untuk memperjuangkan keadilan sesuai dengan nilai-nilaimu." },
+      { "name": "Ilmu Politik atau Kebijakan Publik", "reason": "Mempelajari sistem untuk kemudian kamu pengaruhi dari dalam demi perubahan yang positif." },
+      { "name": "Hubungan Internasional", "reason": "Bekerja pada isu-isu global seperti hak asasi manusia, perdamaian, atau lingkungan." }
+    ],
+    "career_recommendations": [
+      { "name": "Pengacara (khususnya di bidang kepentingan publik atau hak asasi manusia)", "reason": "Mewakili klien atau tujuan yang sejalan dengan nilai-nilaimu." },
+      { "name": "Analis Kebijakan atau Pelobi untuk Organisasi Nirlaba", "reason": "Mempengaruhi pembuat kebijakan untuk menciptakan hukum yang lebih adil." },
+      { "name": "Diplomat atau Pekerja di Organisasi Internasional (misal: PBB)", "reason": "Bekerja untuk mempromosikan perdamaian dan kerja sama antar negara." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "EA",
+    "profile_title": "Sang Kurator Independen",
+    "profile_tagline": "Seorang visioner yang menciptakan ruang atau platform untuk seniman-seniman yang sepaham.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan membangun sebuah usaha (Enterprising) dengan kecintaan yang mendalam pada seni dan ekspresi kreatif (Artistic). Sebagai seorang INFP, usahamu akan selalu menjadi cerminan dari seleramu yang unik dan nilai-nilaimu. Kamu adalah seorang juara bagi para seniman.",
+    "what_this_means": "Kamu adalah tipe orang yang akan membuka galeri seni independen, mendirikan sebuah label rekaman kecil, atau memulai sebuah majalah sastra. Kamu didorong oleh keinginan untuk menciptakan sebuah platform di mana jenis seni yang kamu sukai dan hargai bisa berkembang. Kamu adalah seorang wirausahawan kreatif yang berorientasi pada komunitas.",
+    "strengths": ["Memiliki visi dan selera artistik yang sangat kuat.", "Mampu menemukan dan memperjuokang bakat-bakat baru.", "Dapat membangun komunitas yang loyal di sekitar platformnya.", "Sangat bersemangat dan berdedikasi pada misinya."],
+    "weaknesses": ["Bisa menjadi sangat 'niche' dan kesulitan mencapai kesuksesan komersial yang luas.", "Mungkin kurang terampil atau tertarik pada aspek keuangan dan administratif dari bisnis.", "Sangat terikat secara personal pada usahanya, sulit menerima kegagalan.", "Cenderung lebih mementingkan komunitas daripada keuntungan."],
+    "recommended_majors": [
+      { "name": "Manajemen Seni atau Industri Kreatif", "reason": "Mempelajari sisi bisnis (Enterprising) dari dunia seni (Artistic)." },
+      { "name": "Kewirausahaan (Entrepreneurship)", "reason": "Memberikan dasar untuk membangun bisnis sendiri di bidang apa pun yang kamu sukai." },
+      { "name": "Sejarah Seni atau Studi Media", "reason": "Mempertajam selera dan pemahamanmu tentang dunia seni, yang akan menjadi dasar dari usahamu." }
+    ],
+    "career_recommendations": [
+      { "name": "Pemilik Galeri Seni atau Toko Buku Independen", "reason": "Menciptakan sebuah ruang fisik yang menjadi pusat bagi sebuah komunitas kreatif." },
+      { "name": "Pendiri Label Rekaman atau Rumah Penerbitan Kecil", "reason": "Memberikan kesempatan bagi seniman atau penulis yang mungkin diabaikan oleh industri besar." },
+      { "name": "Editor Kepala Majalah atau Situs Budaya", "reason": "Menjadi penentu selera dan mempromosikan karya-karya yang kamu yakini penting." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "ES",
+    "profile_title": "Sang Pekerja Kemanusiaan",
+    "profile_tagline": "Seorang advokat yang berjuang di garis depan untuk membantu mereka yang paling rentan.",
+    "reason_why": "Dorongan utamamu adalah untuk memengaruhi dan menciptakan perubahan (Enterprising), dan kamu mengarahkannya pada misi untuk membantu orang lain (Social). Sebagai seorang INFP, kamu tidak hanya akan berdonasi; kamu akan turun ke lapangan, mengorganisir, dan memimpin upaya bantuan.",
+    "what_this_means": "Kamu adalah tipe orang yang akan bergabung dengan Peace Corps, bekerja di kamp pengungsian, atau memimpin sebuah proyek komunitas di daerah tertinggal. Kamu melihat masalah, merasakan penderitaan orang lain secara mendalam, dan merasa terpanggil untuk mengambil tindakan nyata. Kamu adalah seorang pemimpin yang melayani dengan hati.",
+    "strengths": ["Sangat bersemangat dan didorong oleh misi kemanusiaan.", "Mampu menginspirasi dan memobilisasi orang lain untuk membantu.", "Sangat empatik dan mampu terhubung dengan orang dari berbagai latar belakang.", "Gigih dan tidak mudah menyerah dalam menghadapi kesulitan."],
+    "weaknesses": ["Sangat rentan terhadap kelelahan emosional dan fisik (burnout).", "Bisa menjadi sangat frustrasi dengan birokrasi dan ketidakadilan sistemik.", "Cenderung mengabaikan keselamatan atau kesejahteraan diri sendiri.", "Sangat idealis, bisa kesulitan menerima kenyataan pahit di lapangan."],
+    "recommended_majors": [
+      { "name": "Studi Pembangunan Internasional", "reason": "Mempelajari isu-isu global dan strategi untuk intervensi kemanusiaan." },
+      { "name": "Pekerjaan Sosial", "reason": "Memberikan keterampilan praktis untuk bekerja secara langsung dengan populasi yang rentan." },
+      { "name": "Kesehatan Masyarakat (Public Health)", "reason": "Fokus pada upaya-upaya untuk meningkatkan kesehatan komunitas dalam skala besar." }
+    ],
+    "career_recommendations": [
+      { "name": "Pekerja Bantuan Kemanusiaan (Humanitarian Aid Worker)", "reason": "Bekerja di lapangan untuk organisasi seperti Palang Merah atau Dokter Lintas Batas (MSF)." },
+      { "name": "Manajer Program di Organisasi Nirlaba Internasional", "reason": "Merancang dan mengelola proyek-proyek bantuan di berbagai negara." },
+      { "name": "Advokat atau Pelobi untuk Isu Kemanusiaan", "reason": "Berjuang di tingkat kebijakan untuk menciptakan perubahan yang lebih luas." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "EC",
+    "profile_title": "Sang Manajer Etis",
+    "profile_tagline": "Seorang pemimpin yang membangun tim yang produktif berdasarkan nilai-nilai dan kepercayaan.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mengorganisir (Enterprising) dengan komitmen yang kuat pada prosedur yang adil dan integritas (Conventional). Sebagai seorang INFP, kamu adalah tipe manajer yang akan selalu berusaha melakukan hal yang 'benar', memastikan bahwa sistem yang ada melayani orang, bukan sebaliknya.",
+    "what_this_means": "Kamu adalah seorang manajer sumber daya manusia atau pemimpin tim yang berprinsip. Kamu unggul dalam menciptakan lingkungan kerja yang terstruktur, adil, dan suportif. Kamu adalah orang yang akan memastikan bahwa kebijakan perusahaan diterapkan secara konsisten, evaluasi kinerja dilakukan secara objektif, dan setiap orang diperlakukan dengan hormat. Kamu memimpin dengan integritas.",
+    "strengths": ["Memiliki integritas dan standar etis yang sangat tinggi.", "Sangat baik dalam menciptakan proses yang adil dan transparan.", "Dapat diandalkan dan konsisten.", "Mampu membangun tim yang didasarkan pada kepercayaan dan rasa hormat."],
+    "weaknesses": ["Bisa menjadi sangat kaku dengan aturan dan prosedur.", "Cenderung menghindari konflik atau keputusan sulit yang dapat menyakiti perasaan orang.", "Mungkin kesulitan untuk beradaptasi dengan lingkungan bisnis yang sangat agresif atau 'cut-throat'.", "Bisa frustrasi jika orang lain tidak berbagi komitmen etis yang sama."],
+    "recommended_majors": [
+      { "name": "Manajemen Sumber Daya Manusia (SDM)", "reason": "Fokus pada perancangan sistem yang adil (Conventional) untuk mengelola dan mengembangkan karyawan (Enterprising)." },
+      { "name": "Administrasi Bisnis (dengan fokus pada etika bisnis)", "reason": "Mempelajari prinsip-prinsip manajemen dengan penekanan pada integritas." },
+      { "name": "Hukum", "reason": "Memberikan dasar yang kuat dalam aturan dan etika yang mengatur dunia kerja." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Sumber Daya Manusia (HR Manager)", "reason": "Bertanggung jawab untuk menciptakan dan menegakkan kebijakan yang adil di tempat kerja." },
+      { "name": "Manajer Kepatuhan (Compliance Manager) atau Pejabat Etik", "reason": "Memastikan sebuah perusahaan beroperasi sesuai dengan standar hukum dan etika." },
+      { "name": "Administrator Nirlaba", "reason": "Mengelola operasional sebuah organisasi yang didasarkan pada misi dan nilai-nilai yang kuat." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "ER",
+    "profile_title": "Sang Pengrajin Wirausaha",
+    "profile_tagline": "Seorang kreator yang mengubah hasrat dan keterampilan tangan menjadi sebuah bisnis yang otentik.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan membangun usaha sendiri (Enterprising) dengan kecintaan pada proses pembuatan yang nyata dan praktis (Realistic). Sebagai seorang INFP, bisnismu akan menjadi perpanjangan tangan dari dirimu sendiri, didasarkan pada kualitas, keaslian, dan hubungan personal dengan pelanggan.",
+    "what_this_means": "Kamu adalah tipe orang yang akan membuka toko Etsy yang sukses, memiliki sebuah kafe kecil yang nyaman, atau menjadi seorang desainer independen. Kamu tidak tertarik membangun sebuah kerajaan bisnis raksasa; kamu ingin membangun sebuah usaha yang memungkinkanmu untuk melakukan apa yang kamu sukai, dengan caramu sendiri, dan terhubung dengan orang-orang yang menghargai karyamu. Kamu menjual sebuah cerita dan sebuah sentuhan personal.",
+    "strengths": ["Sangat bersemangat dan otentik dalam apa yang dilakukannya.", "Mampu menciptakan produk berkualitas tinggi dengan cerita yang kuat.", "Dapat membangun basis pelanggan yang sangat loyal.", "Sangat berdedikasi dan pekerja keras."],
+    "weaknesses": ["Mungkin kesulitan untuk meningkatkan skala bisnisnya.", "Cenderung kurang tertarik pada aspek-aspek bisnis yang 'membosankan' seperti akuntansi atau pemasaran.", "Sangat terikat secara personal pada produknya, sulit menerima umpan balik negatif.", "Bisa jadi mematok harga terlalu rendah karena tidak enakan."],
+    "recommended_majors": [
+      { "name": "Kewirausahaan (Entrepreneurship)", "reason": "Memberikan dasar-dasar bisnis yang kamu butuhkan untuk mengubah hobimu menjadi karier." },
+      { "name": "Desain Produk, Kriya, atau Seni Kuliner", "reason": "Mengasah keterampilan praktis (Realistic) yang akan menjadi inti dari bisnismu." },
+      { "name": "Manajemen Bisnis Kecil", "reason": "Fokus pada tantangan dan strategi yang spesifik untuk menjalankan usaha skala kecil." }
+    ],
+    "career_recommendations": [
+      { "name": "Pemilik Usaha Kecil (misal: toko kerajinan, kafe, toko bunga)", "reason": "Membangun sebuah bisnis yang sepenuhnya berada di bawah kendalimu dan mencerminkan nilai-nilaimu." },
+      { "name": "Pengrajin atau Desainer Independen", "reason": "Menjual produk buatan tanganmu sendiri melalui platform online atau pasar lokal." },
+      { "name": "Restaurateur atau Chef-Owner", "reason": "Menciptakan sebuah pengalaman kuliner yang personal dan otentik." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "RC",
+    "profile_title": "Sang Konservator Hati",
+    "profile_tagline": "Seorang penjaga yang dengan teliti merawat benda-benda yang memiliki cerita dan makna.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan membutuhkan keterampilan tangan (Realistic) dengan kecintaan pada keteraturan, presisi, dan pelestarian (Conventional). Sebagai seorang INFP, kamu melihat setiap objek bersejarah bukan sebagai benda mati, tetapi sebagai pembawa cerita dan emosi dari masa lalu yang harus dijaga dengan penuh hormat.",
+    "what_this_means": "Kamu adalah seorang konservator museum, penjilid buku, atau restorator mebel antik. Kamu memiliki kesabaran dan ketelitian yang luar biasa untuk bekerja pada objek-objek yang rapuh. Kamu menemukan kepuasan yang mendalam dalam proses yang lambat dan metodis untuk membersihkan, memperbaiki, dan melestarikan sebuah artefak, mengetahui bahwa kamu sedang menyelamatkan sepotong sejarah.",
+    "strengths": ["Sangat sabar, teliti, dan presisi.", "Memiliki rasa hormat yang mendalam terhadap objek dan cerita di baliknya.", "Mampu bekerja sendiri untuk waktu yang lama dengan fokus yang tinggi.", "Sangat berhati-hati dan dapat diandalkan."],
+    "weaknesses": ["Pekerjaan bisa sangat soliter dan kurang interaksi sosial.", "Bisa menjadi sangat perfeksionis.", "Mungkin kurang tertarik pada aspek manajerial atau penggalangan dana dari sebuah museum.", "Prosesnya sangat lambat, membutuhkan kepuasan dari proses itu sendiri, bukan hasil yang cepat."],
+    "recommended_majors": [
+      { "name": "Konservasi dan Restorasi Benda Seni/Cagar Budaya", "reason": "Jurusan yang secara spesifik melatihmu dalam ilmu dan teknik (Conventional & Realistic) untuk merawat artefak." },
+      { "name": "Ilmu Perpustakaan dan Kearsipan (dengan fokus pada pelestarian)", "reason": "Spesialisasi dalam merawat buku-buku langka dan dokumen bersejarah." },
+      { "name": "Arkeologi", "reason": "Bekerja secara langsung dengan artefak dari masa lalu, baik di lapangan maupun di lab." }
+    ],
+    "career_recommendations": [
+      { "name": "Konservator atau Restorator di Museum", "reason": "Secara langsung bertanggung jawab atas perawatan fisik dari koleksi." },
+      { "name": "Penjilid Buku (Bookbinder)", "reason": "Sebuah kerajinan yang membutuhkan presisi, kesabaran, dan kecintaan pada buku sebagai objek." },
+      { "name": "Manajer Koleksi (Collections Manager)", "reason": "Bertanggung jawab atas pengkatalogan, penyimpanan, dan pelestarian seluruh koleksi di sebuah institusi." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "RI",
+    "profile_title": "Sang Naturalis",
+    "profile_tagline": "Seorang pengamat alam yang menemukan makna dan keajaiban dalam dunia non-manusia.",
+    "reason_why": "Kamu menggabungkan minat yang mendalam pada pemahaman dan observasi (Investigative) dengan fokus pada dunia alam yang nyata dan fisik (Realistic). Sebagai seorang INFP, hubunganmu dengan alam bersifat sangat personal dan spiritual. Kamu tidak hanya mempelajari alam; kamu merasakannya.",
+    "what_this_means": "Kamu adalah seorang ahli biologi lapangan, penjaga hutan, atau penulis alam. Kamu menemukan kedamaian dan makna saat berada di alam liar, jauh dari keramaian dunia manusia. Kamu menikmati proses mengamati perilaku hewan, mengidentifikasi spesies tanaman, atau sekadar berjalan di hutan. Kamu adalah advokat bagi keheningan dan keindahan alam.",
+    "strengths": ["Memiliki hubungan yang mendalam dan intuitif dengan alam.", "Pengamat yang sangat sabar dan teliti.", "Mampu bekerja sendiri di lokasi terpencil untuk waktu yang lama.", "Didorong oleh komitmen yang kuat untuk melindungi lingkungan."],
+    "weaknesses": ["Mungkin kesulitan beradaptasi dengan lingkungan kerja kantor yang terstruktur.", "Cenderung menghindari konflik yang diperlukan untuk advokasi lingkungan.", "Bisa merasa terasing dari masyarakat modern.", "Pekerjaan bisa menuntut secara fisik dan seringkali memiliki gaji yang rendah."],
+    "recommended_majors": [
+      { "name": "Biologi (dengan spesialisasi Ekologi atau Konservasi)", "reason": "Mempelajari interaksi antar makhluk hidup dan lingkungannya." },
+      { "name": "Ilmu Kehutanan atau Manajemen Satwa Liar", "reason": "Fokus pada pengelolaan dan perlindungan ekosistem hutan dan penghuninya." },
+      { "name": "Ilmu Lingkungan", "reason": "Mempelajari isu-isu lingkungan dari perspektif ilmiah dan sosial." }
+    ],
+    "career_recommendations": [
+      { "name": "Ahli Biologi Lapangan atau Peneliti Ekologi", "reason": "Menghabiskan waktu di alam untuk mengumpulkan data dan mempelajari ekosistem." },
+      { "name": "Penjaga Taman Nasional atau Polisi Hutan (Park Ranger)", "reason": "Melindungi kawasan konservasi dan mendidik pengunjung." },
+      { "name": "Penulis Alam (Nature Writer) atau Fotografer Satwa Liar", "reason": "Menggunakan kreativitasmu untuk berbagi keindahan dan pentingnya alam dengan orang lain." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "RA",
+    "profile_title": "Sang Pengrajin Puitis",
+    "profile_tagline": "Seorang kreator yang menuangkan emosi dan cerita ke dalam objek buatan tangan.",
+    "reason_why": "Dorongan utamamu adalah untuk menciptakan sesuatu yang indah dan ekspresif (Artistic), dan kamu melakukannya melalui medium yang nyata, membutuhkan keterampilan tangan, dan sentuhan personal (Realistic). Sebagai seorang INFP, setiap karya yang kamu buat adalah sepotong dari dirimu, penuh dengan perasaan dan cerita.",
+    "what_this_means": "Kamu adalah seorang pengrajin sejati. Kamu mungkin seorang pembuat tembikar, penenun, pembuat perhiasan, atau pengukir kayu. Kamu menikmati proses yang intim dan meditatif dalam mengubah bahan mentah menjadi sebuah karya seni. Bagimu, ketidaksempurnaan buatan tangan adalah tanda keaslian dan keindahan.",
+    "strengths": ["Mampu menciptakan karya fisik yang sangat ekspresif dan personal.", "Memiliki keterampilan tangan yang baik dan kesabaran.", "Sangat otentik dan setia pada gaya pribadinya.", "Menciptakan karya yang memiliki 'jiwa'."],
+    "weaknesses": ["Mungkin kesulitan untuk mengubah hasratnya menjadi bisnis yang menguntungkan.", "Cenderung bekerja sangat lambat dan tidak efisien.", "Sangat terikat pada karyanya, sulit untuk menerima kritik atau permintaan komersial.", "Lebih suka proses pembuatannya daripada proses penjualannya."],
+    "recommended_majors": [
+      { "name": "Kriya (Craft) atau Seni Rupa", "reason": "Secara langsung mengasah keterampilan tangan (Realistic) untuk tujuan ekspresi artistik (Artistic)." },
+      { "name": "Desain Produk (dengan fokus pada kerajinan tangan)", "reason": "Merancang objek fungsional yang dibuat dengan sentuhan personal dan artistik." },
+      { "name": "Antropologi", "reason": "Mempelajari tradisi kerajinan tangan dari berbagai budaya, yang bisa menjadi sumber inspirasi yang kaya." }
+    ],
+    "career_recommendations": [
+      { "name": "Seniman atau Pengrajin (menjual karya sendiri)", "reason": "Mendedikasikan dirimu untuk menciptakan dan menjual karya-karyamu yang unik." },
+      { "name": "Guru Kerajinan Tangan", "reason": "Berbagi kecintaan dan keterampilanmu pada proses pembuatan dengan orang lain." },
+      { "name": "Terapis Seni atau Okupasi", "reason": "Menggunakan kegiatan kerajinan tangan sebagai alat terapeutik untuk membantu orang lain." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "RE",
+    "profile_title": "Sang Pemilik Toko Buku Independen",
+    "profile_tagline": "Seorang wirausahawan yang menciptakan ruang komunitas yang didasarkan pada nilai-nilai dan hasrat.",
+    "reason_why": "Kamu menggabungkan dorongan untuk membangun usaha sendiri (Enterprising) dengan kecintaan pada produk yang nyata dan memiliki cerita (Realistic). Sebagai seorang INFP, bisnismu adalah sebuah kurasi dari hal-hal yang kamu cintai dan ingin kamu bagikan dengan dunia. Kamu menjual sebuah pengalaman, bukan hanya sebuah produk.",
+    "what_this_means": "Kamu adalah tipe orang yang akan membuka toko buku independen, sebuah kedai kopi spesialti, atau sebuah toko tanaman. Kamu sangat peduli pada setiap detail—dari produk yang kamu pilih, musik yang kamu putar, hingga suasana yang kamu ciptakan. Usahamu adalah sebuah tempat di mana orang-orang yang sepaham bisa berkumpul. Kamu adalah seorang wirausahawan komunitas.",
+    "strengths": ["Mampu menciptakan merek yang sangat otentik dan memiliki pengikut setia.", "Sangat bersemangat dan berdedikasi pada bisnisnya.", "Pandai menciptakan pengalaman pelanggan yang personal dan berkesan.", "Didorong oleh nilai-nilai, bukan hanya keuntungan."],
+    "weaknesses": ["Bisa kesulitan untuk bersaing dengan bisnis besar yang lebih efisien.", "Mungkin kurang terampil dalam manajemen keuangan atau operasional.", "Sangat terikat secara personal pada bisnisnya, sulit untuk beristirahat.", "Cenderung menghindari keputusan bisnis yang 'kejam' meskipun diperlukan."],
+    "recommended_majors": [
+      { "name": "Kewirausahaan (Entrepreneurship)", "reason": "Memberikan dasar-dasar yang kamu butuhkan untuk menjalankan bisnis sendiri." },
+      { "name": "Manajemen Bisnis Kecil", "reason": "Fokus pada tantangan unik yang dihadapi oleh pemilik usaha kecil." },
+      { "name": "Pemasaran (Marketing)", "reason": "Mempelajari cara menceritakan kisah di balik produkmu dan terhubung dengan pelanggan." }
+    ],
+    "career_recommendations": [
+      { "name": "Pemilik Toko Ritel Independen (buku, musik, tanaman, dll.)", "reason": "Menciptakan dan mengelola sebuah ruang yang merupakan cerminan dari hasratmu." },
+      { "name": "Pemilik Kafe atau Restoran Kecil", "reason": "Membangun sebuah tempat di mana komunitas bisa berkumpul dan menikmati produk berkualitas." },
+      { "name": "Manajer Komunitas untuk sebuah Merek", "reason": "Membangun hubungan antara sebuah merek dan para penggemarnya yang paling setia." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "RS",
+    "profile_title": "Sang Perawat Hewan",
+    "profile_tagline": "Seorang penyembuh yang memberikan perawatan dan kenyamanan kepada hewan yang membutuhkan.",
+    "reason_why": "Kamu menggabungkan doronganmu yang kuat untuk membantu dan merawat (Social) dengan fokus pada dunia hewan yang nyata dan fisik (Realistic). Sebagai seorang INFP, kamu memiliki hubungan empati yang mendalam dengan hewan, mampu merasakan ketakutan dan rasa sakit mereka, dan memiliki keinginan yang tulus untuk meringankannya.",
+    "what_this_means": "Kamu adalah seorang perawat atau teknisi veteriner yang luar biasa, atau seorang pekerja di penampungan hewan yang sangat berdedikasi. Kamu adalah orang yang akan dengan sabar memegang kaki seekor anjing saat disuntik, membersihkan kandang dengan teliti, atau menghabiskan waktu berjam-jam untuk mendapatkan kepercayaan dari seekor kucing yang trauma. Kamu adalah suara dan tangan yang menenangkan bagi para hewan.",
+    "strengths": ["Sangat empatik dan sabar dengan hewan.", "Memiliki sentuhan yang lembut dan menenangkan.", "Sangat berdedikasi dan rela berkorban.", "Mampu bekerja dengan baik dalam tim perawatan hewan."],
+    "weaknesses": ["Pekerjaan bisa sangat menguras emosi, terutama saat menghadapi kasus kekejaman atau eutanasia.", "Bisa menjadi sangat frustrasi dengan pemilik yang tidak bertanggung jawab.", "Cenderung membawa pulang pekerjaan (atau hewannya!).", "Gaji di bidang ini seringkali tidak sebanding dengan tuntutan emosionalnya."],
+    "recommended_majors": [
+      { "name": "Kesehatan Hewan atau Teknologi Veteriner", "reason": "Secara langsung mempersiapkanmu untuk menjadi perawat atau teknisi di klinik hewan." },
+      { "name": "Ilmu Peternakan atau Perilaku Hewan (Animal Behavior)", "reason": "Mempelajari cara merawat dan memahami berbagai jenis hewan." },
+      { "name": "Biologi", "reason": "Memberikan dasar ilmiah yang kuat tentang dunia hewan." }
+    ],
+    "career_recommendations": [
+      { "name": "Perawat atau Teknisi Veteriner", "reason": "Bekerja sebagai tangan kanan dokter hewan, memberikan perawatan langsung kepada pasien hewan." },
+      { "name": "Pekerja atau Manajer Penampungan Hewan (Animal Shelter)", "reason": "Merawat hewan-hewan yang terlantar dan membantu mereka menemukan rumah baru." },
+      { "name": "Pelatih Hewan (dengan metode positif)", "reason": "Membantu membangun hubungan yang lebih baik antara hewan dan pemiliknya melalui pelatihan yang lembut." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "CI",
+    "profile_title": "Sang Penjaga Pengetahuan",
+    "profile_tagline": "Seorang individu yang berdedikasi untuk melestarikan dan mengorganisir pengetahuan demi generasi mendatang.",
+    "reason_why": "Kamu menggabungkan minat pada riset dan ide (Investigative) dengan kecintaan pada keteraturan dan pelestarian (Conventional). Sebagai seorang INFP, kamu melihat tugas ini sebagai misi suci. Kamu percaya bahwa buku, dokumen, dan data adalah warisan berharga dari kemanusiaan yang harus dijaga dengan penuh hormat dan ketelitian.",
+    "what_this_means": "Kamu adalah seorang arsiparis atau pustakawan yang sangat berdedikasi. Kamu menikmati ketenangan dan fokus saat bekerja sendiri di antara tumpukan dokumen atau buku. Kamu menemukan kepuasan yang mendalam dalam proses mengkategorikan, merawat, dan memastikan bahwa sepotong pengetahuan tidak akan hilang ditelan zaman. Kamu adalah penjaga memori kolektif kita.",
+    "strengths": ["Sangat teliti, metodis, dan sabar.", "Memiliki rasa hormat yang mendalam terhadap informasi dan sejarah.", "Mampu bekerja secara mandiri pada proyek jangka panjang.", "Sangat berintegritas dan dapat diandalkan."],
+    "weaknesses": ["Pekerjaan bisa sangat soliter dan kurang interaksi sosial.", "Bisa menjadi sangat kaku dengan sistem pengarsipan atau katalog.", "Kurang suka pada perubahan atau teknologi baru yang mengganggu sistem yang sudah ada.", "Mungkin kesulitan untuk mempromosikan pentingnya pekerjaannya kepada orang lain."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan dan Kearsipan", "reason": "Jurusan yang secara sempurna mempersiapkanmu untuk karier di bidang ini." },
+      { "name": "Sejarah", "reason": "Memberimu pemahaman tentang pentingnya sumber-sumber primer yang akan kamu kelola." },
+      { "name": "Museologi (Studi Museum)", "reason": "Fokus pada pengelolaan dan pelestarian koleksi di museum." }
+    ],
+    "career_recommendations": [
+      { "name": "Arsiparis", "reason": "Bekerja di lembaga pemerintah, universitas, atau perusahaan untuk mengelola dan melestarikan catatan-catatan penting." },
+      { "name": "Pustakawan (dengan spesialisasi koleksi langka atau arsip)", "reason": "Merawat bagian paling berharga dari koleksi sebuah perpustakaan." },
+      { "name": "Manajer Catatan (Records Manager)", "reason": "Merancang dan mengimplementasikan sistem pengelolaan dokumen untuk sebuah organisasi besar." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "CE",
+    "profile_title": "Sang Advokat Prosedural",
+    "profile_tagline": "Seorang pejuang keadilan yang memastikan sistem dan aturan ditegakkan secara adil.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan memengaruhi demi sebuah tujuan (Enterprising) dengan komitmen yang kuat pada aturan, prosedur, dan keadilan (Conventional). Sebagai seorang INFP, kamu adalah seorang idealis yang percaya bahwa cara terbaik untuk mencapai keadilan adalah melalui penegakan sistem yang benar dan konsisten.",
+    "what_this_means": "Kamu sangat cocok untuk peran sebagai paralegal, auditor, atau spesialis kepatuhan di organisasi yang kamu yakini misinya. Kamu adalah tipe orang yang akan membaca setiap baris peraturan untuk memastikan bahwa hak-hak seseorang dilindungi. Kamu menemukan kepuasan dalam memastikan bahwa sebuah sistem yang baik dijalankan dengan benar, demi melindungi yang lemah.",
+    "strengths": ["Memiliki integritas dan standar etis yang sangat tinggi.", "Sangat teliti dan berorientasi pada detail.", "Gigih dalam memastikan aturan diikuti.", "Mampu memahami dokumen hukum atau prosedur yang rumit."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan tidak fleksibel dengan aturan.", "Cenderung menghindari konfrontasi langsung, lebih suka bekerja melalui dokumen.", "Bisa frustrasi dengan sistem yang korup atau tidak adil.", "Mungkin kesulitan untuk melihat 'gambaran besar' di luar prosedur yang ada."],
+    "recommended_majors": [
+      { "name": "Studi Paralegal", "reason": "Secara langsung melatihmu dalam riset dan persiapan dokumen hukum." },
+      { "name": "Hukum", "reason": "Memberikan pemahaman yang mendalam tentang sistem hukum." },
+      { "name": "Administrasi Publik", "reason": "Mempelajari cara kerja birokrasi dan peraturan di sektor publik." }
+    ],
+    "career_recommendations": [
+      { "name": "Paralegal (terutama di bidang hukum kepentingan publik atau imigrasi)", "reason": "Memberikan dukungan riset dan administratif yang krusial bagi pengacara yang memperjuangkan keadilan." },
+      { "name": "Auditor atau Investigator untuk Lembaga Pemerintah", "reason": "Memastikan bahwa lembaga lain atau perusahaan mematuhi peraturan." },
+      { "name": "Spesialis Kepatuhan (Compliance Specialist) di Organisasi Nirlaba", "reason": "Memastikan bahwa sebuah organisasi nirlaba beroperasi sesuai dengan semua aturan hukum dan donor." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "CR",
+    "profile_title": "Sang Penjaga Taman",
+    "profile_tagline": "Seorang perawat alam yang menciptakan keteraturan dan keindahan di lingkungan.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan berhubungan dengan alam (Realistic) dengan kecintaan pada keteraturan, perencanaan, dan detail (Conventional). Sebagai seorang INFP, kamu melihat berkebun atau merawat lanskap bukan hanya sebagai pekerjaan fisik, tetapi sebagai cara untuk menciptakan kedamaian dan harmoni.",
+    "what_this_means": "Kamu adalah seorang tukang kebun, desainer lanskap, atau penjaga taman yang sangat berdedikasi. Kamu menikmati proses yang lambat dan metodis dalam merawat tanaman, dari menabur benih hingga memangkas dahan. Kamu menemukan kepuasan yang mendalam dalam menciptakan sebuah ruang hijau yang teratur, sehat, dan indah, sebuah surga kecil di bumi.",
+    "strengths": ["Sangat sabar dan teliti.", "Memiliki 'tangan dingin' dan pemahaman intuitif tentang tanaman.", "Mampu bekerja sendiri untuk waktu yang lama di lingkungan yang tenang.", "Sangat terorganisir dalam merencanakan dan merawat taman."],
+    "weaknesses": ["Pekerjaan bisa menuntut fisik.", "Mungkin kurang tertarik pada sisi bisnis dari hortikultura.", "Cenderung bekerja sendiri dan kurang suka mengelola tim.", "Bisa frustrasi dengan hal-hal di luar kendali seperti cuaca atau hama."],
+    "recommended_majors": [
+      { "name": "Hortikultura atau Arsitektur Lanskap", "reason": "Secara langsung mempelajari ilmu dan seni (Conventional & Realistic) merawat dan merancang taman." },
+      { "name": "Ilmu Tanah atau Agronomi", "reason": "Memberikan dasar ilmiah yang kuat tentang kesehatan tanah dan tanaman." },
+      { "name": "Biologi (dengan spesialisasi Botani)", "reason": "Fokus pada studi ilmiah tentang dunia tumbuhan." }
+    ],
+    "career_recommendations": [
+      { "name": "Ahli Hortikultura atau Kepala Tukang Kebun (di kebun raya atau taman pribadi)", "reason": "Bertanggung jawab atas perawatan dan desain dari sebuah taman berskala besar." },
+      { "name": "Desainer Lanskap", "reason": "Merancang taman dan ruang hijau untuk klien perumahan atau komersial." },
+      { "name": "Pemilik Persemaian (Nursery) atau Toko Tanaman", "reason": "Menjalankan bisnis yang berhubungan langsung dengan hasratmu pada tanaman." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "CA",
+    "profile_title": "Sang Ilustrator Teliti",
+    "profile_tagline": "Seorang seniman yang menggunakan presisi dan detail untuk menciptakan karya yang indah dan teratur.",
+    "reason_why": "Kamu menggabungkan hasrat untuk berekspresi secara kreatif (Artistic) dengan kecintaan pada keteraturan, presisi, dan detail (Conventional). Sebagai seorang INFP, kamu bukanlah seniman yang ekspresif dan 'kacau'; kamu adalah seniman yang menemukan keindahan dalam garis yang bersih, warna yang harmonis, dan komposisi yang seimbang.",
+    "what_this_means": "Kamu adalah seorang ilustrator, desainer grafis, atau animator yang sangat teliti. Kamu mungkin suka menggambar ilustrasi botani yang sangat detail, merancang pola yang rumit, atau membuat animasi frame-by-frame yang mulus. Kamu menikmati proses yang lambat dan metodis dalam menciptakan sebuah karya yang sempurna secara teknis.",
+    "strengths": ["Sangat teliti dan berorientasi pada detail.", "Memiliki keterampilan teknis yang tinggi dalam seninya.", "Sangat sabar dan mampu mengerjakan tugas-tugas yang repetitif.", "Mampu menciptakan karya yang sangat bersih, rapi, dan terpoles."],
+    "weaknesses": ["Bisa menjadi sangat perfeksionis dan lambat dalam bekerja.", "Mungkin kurang spontan atau ekspresif secara emosional dalam karyanya.", "Cenderung lebih suka bekerja sendiri.", "Sensitif terhadap kritik, terutama yang berkaitan dengan detail teknis."],
+    "recommended_majors": [
+      { "name": "Desain Komunikasi Visual (DKV) atau Ilustrasi", "reason": "Secara langsung mengasah keterampilan teknis (Conventional) dan konseptual (Artistic) dalam seni visual." },
+      { "name": "Animasi", "reason": "Bidang yang membutuhkan kesabaran dan presisi yang luar biasa untuk menciptakan ilusi gerakan." },
+      { "name": "Desain Tekstil atau Pola", "reason": "Fokus pada penciptaan pola-pola yang rumit dan berulang." }
+    ],
+    "career_recommendations": [
+      { "name": "Ilustrator (terutama untuk buku ilmiah, botani, atau teknis)", "reason": "Menggunakan keterampilan menggambarmu yang presisi untuk tujuan informasi." },
+      { "name": "Desainer Pola (Pattern Designer)", "reason": "Menciptakan pola-pola untuk kain, kertas dinding, atau produk lainnya." },
+      { "name": "Animator 2D", "reason": "Menggambar setiap frame dari sebuah animasi, sebuah pekerjaan yang membutuhkan kesabaran dan konsistensi yang luar biasa." }
+    ]
+  },
+  {
+    "mbti_type": "INFP",
+    "riasec_code": "CS",
+    "profile_title": "Sang Pustakawan Anak",
+    "profile_tagline": "Seorang organisator yang menciptakan ruang yang aman dan teratur bagi anak-anak untuk jatuh cinta pada cerita.",
+    "reason_why": "Kamu menggabungkan doronganmu untuk membantu dan merawat (Social) dengan bakat untuk keteraturan, sistem, dan detail (Conventional). Sebagai seorang INFP, kamu menerapkan keterampilan organisasimu pada dunia yang paling kamu pedulikan: perkembangan dan kesejahteraan anak-anak.",
+    "what_this_means": "Kamu adalah seorang pustakawan anak atau administrator sekolah yang ideal. Kamu tidak hanya melihat anak-anak sebagai kelompok, tetapi sebagai individu yang membutuhkan lingkungan yang aman, dapat diprediksi, dan penuh dengan sumber daya yang tepat. Kamu menikmati proses mengkategorikan buku, merencanakan acara 'story time', dan memastikan perpustakaan adalah tempat yang ramah dan teratur.",
+    "strengths": ["Sangat terorganisir dan dapat diandalkan.", "Sangat sabar dan lembut dengan anak-anak.", "Mampu menciptakan lingkungan yang aman dan terstruktur.", "Memiliki pengetahuan yang luas tentang literatur anak-anak."],
+    "weaknesses": ["Bisa menjadi sangat frustrasi dengan kekacauan atau kebisingan.", "Cenderung menghindari konflik dengan orang tua atau rekan kerja.", "Mungkin kesulitan untuk menjadi tegas atau menegakkan aturan.", "Pekerjaan bisa menguras energi, membutuhkan banyak waktu tenang setelahnya."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan (dengan spesialisasi layanan anak)", "reason": "Secara langsung mempersiapkanmu untuk menjadi seorang pustakawan anak." },
+      { "name": "Pendidikan Anak Usia Dini (PAUD) atau PGSD", "reason": "Mempelajari tentang perkembangan anak dan cara menciptakan lingkungan belajar yang efektif." },
+      { "name": "Psikologi Perkembangan", "reason": "Memberikan pemahaman ilmiah tentang kebutuhan anak-anak pada berbagai tahap usia." }
+    ],
+    "career_recommendations": [
+      { "name": "Pustakawan Anak", "reason": "Mengelola bagian anak-anak di perpustakaan umum, memilih koleksi, dan menyelenggarakan program." },
+      { "name": "Administrator atau Staf Tata Usaha Sekolah (terutama TK/SD)", "reason": "Mengelola semua aspek operasional sekolah untuk mendukung siswa dan guru." },
+      { "name": "Manajer Koleksi untuk Penerbit Buku Anak", "reason": "Mengelola dan mengkategorikan naskah dan ilustrasi yang masuk." }
+    ]
+  }
+]
