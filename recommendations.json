@@ -599,7 +599,7 @@
       { "name": "Konsultan Pajak atau Pengacara Korporat", "reason": "Memberikan nasihat kepada perusahaan tentang cara beroperasi secara legal dan efisien dalam kerangka hukum." }
     ]
   }
-]
+,
 {
     "mbti_type": "ENTP",
     "riasec_code": "EI",
@@ -1100,7 +1100,7 @@
       { "name": "Bankir Investasi (Investment Banker)", "reason": "Terlibat dalam negosiasi kompleks untuk merger, akuisisi, dan transaksi keuangan besar lainnya." }
     ]
   }
-]
+,
 {
     "mbti_type": "INTJ",
     "riasec_code": "IE",
@@ -1641,7 +1641,7 @@
       { "name": "Konsultan Operasional", "reason": "Membantu perusahaan industri meningkatkan efisiensi dan profitabilitas mereka." }
     ]
   }
-]
+,
 {
     "mbti_type": "ENTJ",
     "riasec_code": "EI",
@@ -2142,7 +2142,7 @@
       { "name": "Registrar di Universitas", "reason": "Memimpin departemen yang mengelola semua data akademik mahasiswa, dari pendaftaran hingga kelulusan." }
     ]
   }
-]
+,
 {
     "mbti_type": "INFJ",
     "riasec_code": "SA",
@@ -2603,7 +2603,7 @@
       { "name": "Jaksa atau Pengacara di bidang Perlindungan Anak", "reason": "Bekerja untuk negara untuk melindungi anak-anak dari penelantaran atau kekerasan." }
     ]
   }
-]
+,
 {
     "mbti_type": "ENFJ",
     "riasec_code": "SE",
@@ -3024,7 +3024,7 @@
       { "name": "Spesialis Rantai Pasok Kesehatan Global", "reason": "Fokus pada logistik pengiriman vaksin dan obat-obatan ke daerah-daerah terpencil di seluruh dunia." }
     ]
   }
-]
+,
 {
     "mbti_type": "INFP",
     "riasec_code": "AI",
@@ -3525,7 +3525,7 @@
       { "name": "Manajer Koleksi untuk Penerbit Buku Anak", "reason": "Mengelola dan mengkategorikan naskah dan ilustrasi yang masuk." }
     ]
   }
-]
+,
 {
     "mbti_type": "ENFP",
     "riasec_code": "AS",
@@ -3906,7 +3906,7 @@
       { "name": "Spesialis Dukungan Pelanggan (Customer Support)", "reason": "Membantu pelanggan memecahkan masalah mereka dengan cara yang empatik dan terstruktur." }
     ]
   }
-]
+,
 {
     "mbti_type": "ISFP",
     "riasec_code": "AR",
@@ -4327,7 +4327,7 @@
       { "name": "Resepsionis atau Asisten Administratif (di kantor yang tenang seperti klinik atau firma hukum)", "reason": "Menjadi titik kontak pertama yang ramah dan membantu sambil mengelola tugas-tugas yang teratur." }
     ]
   }
-]
+,
 {
     "mbti_type": "ESFP",
     "riasec_code": "SA",
@@ -4648,7 +4648,7 @@
       { "name": "Pelatih Kekuatan dan Kondisi (Strength and Conditioning Coach)", "reason": "Bekerja dengan atlet atau tim untuk meningkatkan kinerja fisik mereka." }
     ]
   }
-]
+,
 {
     "mbti_type": "ISTP",
     "riasec_code": "RI",
@@ -5027,10 +5027,8 @@
       { "name": "Analis Forensik Digital", "reason": "Bekerja untuk lembaga penegak hukum atau perusahaan swasta untuk menginvestigasi insiden siber." },
       { "name": "Akuntan Forensik", "reason": "Menyelidiki penipuan keuangan, penggelapan uang, atau kejahatan kerah putih lainnya." },
       { "name": "Penyelidik eDiscovery", "reason": "Bekerja untuk firma hukum untuk menemukan dan menganalisis bukti elektronik untuk sebuah kasus." }
-    }
-  ],
-  "message": "Selesai sudah untuk ISTP! Dengan ini, 330 profil telah kita buat. Tinggal satu lagi untuk melengkapi kelompok SP (Sensing-Perceiving), yaitu 'saudara kembar' ekstrovertnya, **ESTP**. Apakah kita akan langsung melanjutkannya?"
-}
+    ]
+},
 {
     "mbti_type": "ESTP",
     "riasec_code": "ER",
@@ -5371,7 +5369,7 @@
       { "name": "Desainer Layout", "reason": "Bertanggung jawab untuk menata teks dan gambar di majalah, koran, atau situs web." }
     ]
   }
-]
+,
 {
     "mbti_type": "ISFJ",
     "riasec_code": "SC",
@@ -5652,7 +5650,7 @@
       { "name": "Manajer Kepatuhan (Compliance Manager)", "reason": "Memastikan firma mematuhi semua aturan etika dan hukum yang berlaku." }
     ]
   }
-]
+,
 {
     "mbti_type": "ESFJ",
     "riasec_code": "SE",
@@ -6013,7 +6011,7 @@
       { "name": "Spesialis Kehidupan Anak (Child Life Specialist) di rumah sakit", "reason": "Membantu anak-anak dan keluarga mereka mengatasi tantangan dari penyakit dan rawat inap." }
     ]
   }
-]
+,
 {
     "mbti_type": "ISTJ",
     "riasec_code": "CR",
@@ -6294,7 +6292,7 @@
       { "name": "Analis Anggaran (Budget Analyst)", "reason": "Bekerja untuk pemerintah atau perusahaan besar untuk merencanakan dan mengawasi anggaran." }
     ]
   }
-]
+,
 {
     "mbti_type": "ESTJ",
     "riasec_code": "EC",
@@ -6575,3 +6573,4 @@
       { "name": "Spesialis Kepatuhan (Compliance)", "reason": "Menafsirkan peraturan pemerintah dan menulis kebijakan internal perusahaan untuk memastikannya dipatuhi." }
     ]
   }
+]
