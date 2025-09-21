@@ -11,29 +11,50 @@
 <body class="bg-light">
 
   <div class="container py-5">
-    <!-- Halaman awal -->
     <div id="welcome-screen" class="card shadow-lg p-5 text-center animate__animated animate__fadeIn">
       <h1 class="mb-3">Selamat Datang di Tes Minat Bakat</h1>
-      <p class="lead">Kenali minat, kepribadian, dan rekomendasi jurusan kuliahmu.</p>
+      <p class="lead">Kenali minat, kepribadian, dan dapatkan rekomendasi jurusan kuliah yang dipersonalisasi untukmu.</p>
       <button id="startBtn" class="btn btn-primary btn-lg mt-3">Mulai Tes</button>
     </div>
 
-    <!-- Halaman pertanyaan -->
+    <div id="user-info-screen" class="card shadow-lg p-5 d-none animate__animated animate__fadeIn">
+      <h3 class="text-center mb-4">Isi Data Diri Dulu Ya</h3>
+      <form id="userInfoForm">
+        <div class="mb-3">
+          <label for="userName" class="form-label">Nama Lengkap</label>
+          <input type="text" class="form-control" id="userName" placeholder="Masukkan namamu" required>
+        </div>
+        <div class="mb-3">
+          <label for="userSchool" class="form-label">Asal Sekolah</label>
+          <input type="text" class="form-control" id="userSchool" placeholder="Contoh: SMAN 1 Jakarta" required>
+        </div>
+        <div class="mb-3">
+          <label for="userGrade" class="form-label">Kelas</label>
+          <select class="form-select" id="userGrade" required>
+            <option value="" disabled selected>Pilih kelasmu</option>
+            <option value="10">Kelas X / 10</option>
+            <option value="11">Kelas XI / 11</option>
+            <option value="12">Kelas XII / 12</option>
+          </select>
+        </div>
+        <button type="submit" class="btn btn-primary w-100 mt-3">Lanjutkan ke Tes</button>
+      </form>
+    </div>
+
     <div id="question-screen" class="card shadow-lg p-5 d-none animate__animated animate__fadeInUp">
       <h4 id="question-text">Pertanyaan akan muncul di sini</h4>
       <div id="options" class="d-flex justify-content-around mt-4"></div>
       <div class="d-flex justify-content-between mt-5">
         <button id="prevBtn" class="btn btn-secondary" disabled>Sebelumnya</button>
-        <button id="nextBtn" class="btn btn-primary" disabled>Berikutnya</button>
+        <button id="nextBtn" class="btn btn-primary" disabled>Lanjut</button>
       </div>
-      <div class="progress mt-4">
+      <div class="progress mt-4" style="height: 25px;">
         <div id="progress-bar" class="progress-bar bg-success" style="width: 0%">0%</div>
       </div>
     </div>
 
-    <!-- Halaman hasil -->
     <div id="result-screen" class="card shadow-lg p-5 d-none animate__animated animate__fadeInUp">
-      <h2 class="mb-3">Hasil Tes Kamu</h2>
+      <h2 class="mb-3 text-center">Hasil Tes Kamu</h2>
       <div id="result-content"></div>
       <button class="btn btn-outline-primary mt-4" onclick="location.reload()">Ulangi Tes</button>
     </div>
