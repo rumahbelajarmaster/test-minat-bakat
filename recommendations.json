@@ -5031,3 +5031,344 @@
   ],
   "message": "Selesai sudah untuk ISTP! Dengan ini, 330 profil telah kita buat. Tinggal satu lagi untuk melengkapi kelompok SP (Sensing-Perceiving), yaitu 'saudara kembar' ekstrovertnya, **ESTP**. Apakah kita akan langsung melanjutkannya?"
 }
+{
+    "mbti_type": "ESTP",
+    "riasec_code": "ER",
+    "profile_title": "Sang Wirausahawan Sejati",
+    "profile_tagline": "Seorang pengambil risiko yang mengubah peluang di dunia nyata menjadi sebuah usaha yang sukses.",
+    "reason_why": "Ini adalah kombinasi ESTP yang paling murni. Kemampuanmu untuk melihat dan bertindak pada peluang di saat ini (Se) dan menganalisisnya secara logis (Ti) sangat selaras dengan minat untuk membangun bisnis (Enterprising) dan bekerja dengan hal-hal yang nyata dan praktis (Realistic).",
+    "what_this_means": "Kamu adalah seorang pengusaha alami. Kamu tidak suka berteori; kamu suka bertindak. Kamu memiliki energi dan keberanian untuk terjun ke dalam situasi baru, dengan cepat memahami aturan mainnya, dan menemukan cara untuk menang. Kamu berkembang dalam lingkungan yang bergerak cepat, kompetitif, dan berorientasi pada hasil nyata.",
+    "strengths": ["Sangat berani mengambil risiko yang diperhitungkan.", "Pemecah masalah yang sangat cepat dan praktis.", "Pandai bernegosiasi dan 'menjual' ide.", "Sangat energik dan mampu beradaptasi dengan cepat."],
+    "weaknesses": ["Bisa menjadi sangat impulsif dan kurang memikirkan konsekuensi jangka panjang.", "Cenderung bosan dengan rutinitas dan pekerjaan administratif.", "Mungkin mengabaikan aturan atau prosedur jika dianggap menghalangi.", "Bisa terlihat terlalu agresif atau oportunistik."],
+    "recommended_majors": [
+      { "name": "Kewirausahaan (Entrepreneurship)", "reason": "Secara langsung mengasah bakat alamimu untuk melihat peluang (Se) dan membangun bisnis di sekitarnya (Enterprising)." },
+      { "name": "Manajemen Bisnis", "reason": "Memberikan kerangka kerja untuk menyalurkan energimu dalam mengelola dan mengembangkan usaha." },
+      { "name": "Pemasaran (Marketing)", "reason": "Fokus pada seni persuasi dan strategi untuk memenangkan pelanggan, yang sangat kamu nikmati." }
+    ],
+    "career_recommendations": [
+      { "name": "Pendiri Startup", "reason": "Peran di mana kamu bisa sepenuhnya memanfaatkan keberanian, kecepatan, dan kemampuanmu melihat peluang." },
+      { "name": "Pengembang Properti (Property Developer)", "reason": "Bisnis berisiko tinggi yang membutuhkan negosiasi, kecepatan, dan pemahaman tentang pasar nyata." },
+      { "name": "Pedagang Saham (Stock Trader)", "reason": "Lingkungan yang bergerak cepat di mana kamu bisa menggunakan logikamu untuk membuat keputusan instan demi keuntungan." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "ES",
+    "profile_title": "Sang Promotor Sosial",
+    "profile_tagline": "Seorang individu karismatik yang menjadi pusat dari setiap acara dan jaringan sosial.",
+    "reason_why": "Kamu menggabungkan doronganmu untuk memimpin dan memengaruhi (Enterprising) dengan kecintaan pada interaksi sosial dan kegembiraan (Social). Sebagai seorang ESTP, kamu menggunakan energimu (Se) dan pesonamu (Fe) untuk menciptakan pengalaman yang menyenangkan dan menyatukan orang.",
+    "what_this_means": "Kamu adalah nyawa dari setiap pesta atau acara. Kamu memiliki bakat alami untuk membuat orang merasa nyaman, tertawa, dan terhubung. Kamu unggul dalam peran sebagai promotor, spesialis humas, atau manajer acara. Kamu menikmati proses membangun 'hype', mengumpulkan orang, dan memastikan semua orang memiliki waktu yang tak terlupakan.",
+    "strengths": ["Sangat karismatik, menawan, dan pandai bergaul.", "Pandai berjejaring dan membangun hubungan dengan cepat.", "Sangat baik dalam mempromosikan acara atau produk.", "Energik dan mampu menciptakan suasana yang positif."],
+    "weaknesses": ["Bisa jadi kurang fokus pada tujuan jangka panjang dari sebuah acara.", "Cenderung menghindari percakapan yang terlalu dalam atau emosional.", "Mungkin kesulitan dengan pekerjaan perencanaan yang detail di belakang layar.", "Sangat membutuhkan rangsangan sosial dan bisa cepat bosan jika sendirian."],
+    "recommended_majors": [
+      { "name": "Hubungan Masyarakat (Public Relations) atau Komunikasi", "reason": "Mengasah kemampuan alamimu untuk membangun citra (Enterprising) dan terhubung dengan publik (Social)." },
+      { "name": "Manajemen Acara (Event Management)", "reason": "Secara langsung menyalurkan energimu untuk menciptakan dan mengelola acara-acara yang seru." },
+      { "name": "Pemasaran (Marketing)", "reason": "Fokus pada bagaimana cara terhubung dengan pelanggan dan membangun komunitas di sekitar sebuah merek." }
+    ],
+    "career_recommendations": [
+      { "name": "Spesialis Hubungan Masyarakat (PR Specialist) atau Promotor", "reason": "Menjadi wajah dan suara dari sebuah merek, acara, atau individu." },
+      { "name": "Perencana Acara atau Produser", "reason": "Mengorganisir segala sesuatu mulai dari festival musik hingga konferensi perusahaan." },
+      { "name": "Pemandu Wisata", "reason": "Menggunakan energimu untuk memberikan pengalaman yang menyenangkan dan tak terlupakan bagi para turis." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "RE",
+    "profile_title": "Sang Ahli Lapangan",
+    "profile_tagline": "Seorang pemimpin praktis yang unggul dalam lingkungan kerja yang menantang secara fisik.",
+    "reason_why": "Dorongan utamamu adalah untuk bekerja dengan hal-hal yang nyata dan praktis (Realistic), dan kamu melakukannya dengan energi, keberanian, dan kemampuan untuk memimpin (Enterprising). Sebagai seorang ESTP, kamu adalah tipe pemimpin yang akan turun langsung ke lapangan bersama timmu.",
+    "what_this_means": "Kamu adalah seorang manajer konstruksi, mandor, atau pemimpin tim teknis. Kamu tidak suka terjebak di kantor; kamu harus berada di tengah-tengah aksi, memecahkan masalah saat itu juga. Kamu memiliki pemahaman intuitif tentang bagaimana hal-hal fisik bekerja dan mampu membuat keputusan cepat untuk menjaga proyek tetap berjalan.",
+    "strengths": ["Pemimpin yang sangat praktis dan berorientasi pada tindakan.", "Sangat baik dalam memecahkan masalah di lapangan.", "Mampu bekerja dengan baik di bawah tekanan.", "Memiliki energi fisik yang tinggi dan tidak takut kerja keras."],
+    "weaknesses": ["Bisa jadi kurang sabar dengan perencanaan atau birokrasi.", "Cenderung mengambil jalan pintas jika dianggap lebih efisien.", "Mungkin kurang komunikatif tentang rencana besarnya, lebih fokus pada tugas saat ini.", "Bisa berbenturan dengan atasan atau aturan yang dianggapnya tidak praktis."],
+    "recommended_majors": [
+      { "name": "Manajemen Konstruksi", "reason": "Secara langsung mempersiapkanmu untuk memimpin (Enterprising) proyek pembangunan fisik (Realistic)." },
+      { "name": "Teknik Sipil atau Mesin", "reason": "Memberikan dasar teknis yang kuat untuk karier di industri." },
+      { "name": "Manajemen Operasional", "reason": "Fokus pada pengelolaan proses kerja di lingkungan produksi atau lapangan." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Konstruksi atau Mandor", "reason": "Mengawasi dan memimpin kru di lokasi pembangunan." },
+      { "name": "Supervisor Produksi di Pabrik", "reason": "Memastikan lini produksi berjalan lancar dan target tercapai." },
+      { "name": "Pemilik Bisnis Jasa (misal: lansekap, renovasi)", "reason": "Membangun bisnis sendiri yang berbasis pada pekerjaan fisik dan praktis." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "RS",
+    "profile_title": "Sang Pelatih Juara",
+    "profile_tagline": "Seorang mentor yang menggunakan energi dan pengalaman praktisnya untuk mendorong orang lain.",
+    "reason_why": "Kamu menggabungkan minat pada dunia fisik yang kompetitif (Realistic) dengan hasrat untuk berinteraksi, mengajar, dan memotivasi orang lain (Social). Sebagai seorang ESTP, kamu adalah tipe pelatih yang memimpin dengan memberi contoh, selalu berada di tengah-tengah latihan bersama timmu.",
+    "what_this_means": "Kamu adalah seorang pelatih olahraga, instruktur kebugaran, atau sersan pelatihan militer. Kamu memiliki energi yang tak ada habisnya dan kemampuan untuk mendorong orang lain melewati batas kemampuan mereka. Kamu tidak hanya mengajarkan teknik; kamu membangun semangat tim, mentalitas kompetitif, dan rasa saling percaya melalui aksi bersama.",
+    "strengths": ["Sangat memotivasi dan mampu membangkitkan semangat.", "Pemimpin yang memimpin dengan memberi contoh.", "Sangat baik dalam mengajarkan keterampilan fisik secara langsung.", "Mampu membuat latihan menjadi menyenangkan dan menantang."],
+    "weaknesses": ["Bisa menjadi terlalu keras atau tidak sabar dengan mereka yang kurang berbakat secara fisik.", "Cenderung lebih fokus pada kemenangan jangka pendek daripada pengembangan jangka panjang.", "Mungkin kurang tertarik pada aspek strategi atau analisis data dari kepelatihan.", "Gaya kepemimpinannya bisa terlalu intens bagi sebagian orang."],
+    "recommended_majors": [
+      { "name": "Pendidikan Kepelatihan Olahraga atau Ilmu Keolahragaan", "reason": "Memberikan dasar untuk karier sebagai pelatih (Social) di dunia olahraga (Realistic)." },
+      { "name": "Pendidikan Jasmani", "reason": "Mempersiapkanmu untuk menjadi guru olahraga yang energik dan inspiratif." },
+      { "name": "Psikologi Olahraga", "reason": "Mempelajari aspek mental dari kompetisi dan cara memotivasi atlet." }
+    ],
+    "career_recommendations": [
+      { "name": "Pelatih Olahraga (Head Coach)", "reason": "Membangun dan memimpin sebuah tim untuk mencapai kemenangan." },
+      { "name": "Pelatih Pribadi (Personal Trainer) atau Instruktur Kebugaran", "reason": "Memotivasi individu untuk mencapai tujuan kebugaran mereka dengan energi yang tinggi." },
+      { "name": "Instruktur di Pelatihan Militer atau Kepolisian", "reason": "Membentuk rekrut baru menjadi tim yang tangguh dan disiplin." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "RA",
+    "profile_title": "Sang Pengrajin Trendi",
+    "profile_tagline": "Seorang kreator yang tangannya mampu mengubah tren terbaru menjadi produk nyata.",
+    "reason_why": "Dorongan utamamu adalah untuk bekerja dengan dunia fisik yang nyata (Realistic), dan kamu melakukannya dengan kepekaan yang tajam terhadap apa yang sedang populer dan estetis (Artistic). Sebagai seorang ESTP, kamu memiliki kemampuan untuk dengan cepat mempelajari keterampilan baru dan menerapkannya untuk menciptakan produk yang diinginkan orang saat ini.",
+    "what_this_means": "Kamu adalah seorang desainer grafis, koki, atau pengrajin yang sangat adaptif. Kamu tidak terikat pada satu gaya; sebaliknya, kamu menikmati tantangan untuk menguasai tren terbaru. Kamu adalah tipe orang yang akan melihat sebuah video tutorial di pagi hari dan sudah menjual produknya di sore hari. Kamu menciptakan dengan kecepatan dan relevansi.",
+    "strengths": ["Sangat cepat dalam mempelajari keterampilan praktis baru.", "Memiliki mata yang jeli untuk tren dan estetika populer.", "Sangat adaptif dan fleksibel.", "Produktif dan berorientasi pada hasil."],
+    "weaknesses": ["Karyanya mungkin kurang memiliki kedalaman atau gaya pribadi yang konsisten.", "Cenderung cepat bosan dengan satu teknik dan beralih ke yang lain.", "Bisa jadi kurang sabar dengan proses yang membutuhkan waktu lama.", "Lebih fokus pada 'apa' yang dibuat daripada 'mengapa'."],
+    "recommended_majors": [
+      { "name": "Desain Grafis atau Komunikasi Visual", "reason": "Bidang yang terus berubah di mana kemampuan untuk beradaptasi dengan tren baru (Artistic) sangat penting." },
+      { "name": "Seni Kuliner (Culinary Arts)", "reason": "Menggabungkan keterampilan tangan (Realistic) dengan kreativitas untuk mengikuti tren makanan terbaru (Artistic)." },
+      { "name": "Desain Mode (Fashion Design)", "reason": "Industri yang sepenuhnya didorong oleh perubahan tren musiman." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Grafis (terutama untuk media sosial atau pemasaran)", "reason": "Menciptakan konten visual yang relevan dengan tren saat ini." },
+      { "name": "Koki atau Bartender", "reason": "Selalu bereksperimen dengan teknik dan bahan baru untuk menciptakan menu yang menarik." },
+      { "name": "Pengrajin (yang menjual karyanya secara online)", "reason": "Mampu dengan cepat membuat produk yang sedang diminati pasar." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "RC",
+    "profile_title": "Sang Teknisi Andal",
+    "profile_tagline": "Seorang pemecah masalah yang efisien, yang menguasai peralatannya dan mengikuti prosedur.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan mekanis (Realistic) dengan penghargaan terhadap efisiensi, presisi, dan proses yang terbukti (Conventional). Sebagai seorang ESTP, kamu adalah teknisi yang sangat kompeten, cepat, dan dapat diandalkan.",
+    "what_this_means": "Kamu adalah seorang teknisi ahli. Kamu mungkin seorang teknisi bedah, mekanik balap, atau teknisi audio. Kamu berkembang dalam lingkungan di mana kamu bisa menjadi ahli dalam menggunakan peralatan yang kompleks. Kamu menikmati kepuasan dari pekerjaan yang dilakukan dengan cepat, benar, dan sesuai dengan standar tertinggi. Kamu adalah seorang profesional yang membumi.",
+    "strengths": ["Sangat terampil dan efisien dalam tugas-tugas teknis.", "Mampu bekerja dengan cepat dan akurat di bawah tekanan.", "Sangat baik dalam mengikuti prosedur yang kompleks.", "Dapat diandalkan dan konsisten dalam kinerjanya."],
+    "weaknesses": ["Bisa menjadi kurang fleksibel atau tidak suka berimprovisasi di luar prosedur.", "Mungkin kurang tertarik pada aspek manusiawi atau strategis dari pekerjaan.", "Cenderung bosan jika tidak ada tantangan teknis yang cukup.", "Bisa jadi kurang sabar dengan pemula atau orang yang lambat."],
+    "recommended_majors": [
+      { "name": "Teknologi Bedah (Surgical Technology) atau Radiologi", "reason": "Bidang medis yang membutuhkan penguasaan peralatan canggih (Realistic) dan kepatuhan yang ketat pada prosedur (Conventional)." },
+      { "name": "Teknik Otomotif (dengan spesialisasi balap)", "reason": "Lingkungan berkecepatan tinggi yang menuntut efisiensi dan presisi mekanis." },
+      { "name": "Teknik Audio (Audio Engineering)", "reason": "Mengoperasikan peralatan studio yang kompleks untuk mencapai hasil suara yang sempurna." }
+    ],
+    "career_recommendations": [
+      { "name": "Teknisi Bedah", "reason": "Bekerja di ruang operasi, mempersiapkan peralatan, dan membantu ahli bedah selama prosedur." },
+      { "name": "Mekanik Tim Balap (Pit Crew)", "reason": "Melakukan perbaikan dan penyesuaian dengan kecepatan dan presisi yang luar biasa di tengah balapan." },
+      { "name": "Teknisi Suara untuk Acara Langsung atau Studio", "reason": "Bertanggung jawab atas kualitas audio dari sebuah konser atau rekaman." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "EA",
+    "profile_title": "Sang Bintang Iklan",
+    "profile_tagline": "Seorang penampil yang menggunakan pesona dan energinya untuk menjual sebuah produk atau ide.",
+    "reason_why": "Dorongan utamamu adalah untuk memimpin, meyakinkan, dan menjadi pusat perhatian (Enterprising), dan kamu melakukannya melalui medium pertunjukan yang kreatif dan menarik (Artistic). Sebagai seorang ESTP, kamu adalah seorang penjual alami yang panggungnya adalah dunia.",
+    "what_this_means": "Kamu sangat cocok untuk peran sebagai bintang iklan, juru lelang, atau presenter penjualan. Kamu memiliki energi, pesona, dan kemampuan untuk berpikir cepat yang membuatmu sangat persuasif. Kamu menikmati sensasi dari 'pertunjukan' penjualan, menggunakan humor dan karisma untuk membangun hubungan dengan audiens dan meyakinkan mereka untuk bertindak.",
+    "strengths": ["Sangat persuasif dan karismatik.", "Penampil yang energik dan menarik.", "Pandai membaca audiens dan beradaptasi dengan cepat.", "Tidak takut untuk menjadi pusat perhatian."],
+    "weaknesses": ["Bisa terlihat terlalu 'menjual' atau tidak tulus.", "Cenderung kurang fokus pada detail produk dan lebih pada presentasi.", "Sangat bergantung pada energi dan reaksi positif dari audiens.", "Mungkin kurang sabar dengan proses penjualan yang panjang."],
+    "recommended_majors": [
+      { "name": "Periklanan (Advertising) atau Pemasaran", "reason": "Mempelajari seni dan ilmu persuasi." },
+      { "name": "Teater atau Komunikasi", "reason": "Mengasah kemampuanmu untuk tampil di depan umum dengan percaya diri." },
+      { "name": "Bisnis", "reason": "Memberikan dasar yang kuat untuk karier di bidang penjualan dan promosi." }
+    ],
+    "career_recommendations": [
+      { "name": "Bintang Iklan atau Model Komersial", "reason": "Menjadi wajah dari sebuah merek dalam kampanye pemasaran." },
+      { "name": "Juru Lelang", "reason": "Lingkungan berkecepatan tinggi yang membutuhkan energi, pesona, dan kemampuan untuk mengendalikan kerumunan." },
+      { "name": "Presenter Penjualan (di TV atau acara)", "reason": "Mendemonstrasikan dan menjual produk secara langsung kepada audiens." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "EC",
+    "profile_title": "Sang Negosiator Andal",
+    "profile_tagline": "Seorang ahli strategi praktis yang unggul dalam mencapai kesepakatan terbaik.",
+    "reason_why": "Kamu menggabungkan dorongan untuk bersaing dan menang (Enterprising) dengan pendekatan yang sangat logis, teratur, dan berbasis pada aturan main (Conventional). Sebagai seorang ESTP, kamu adalah seorang negosiator yang pragmatis: kamu dengan cepat memahami apa yang diinginkan pihak lain dan menemukan cara tercepat untuk mendapatkan apa yang kamu inginkan.",
+    "what_this_means": "Kamu adalah seorang negosiator ulung, baik itu sebagai agen real estat, petugas pengadaan, atau manajer penjualan. Kamu menikmati permainan tawar-menawar. Kamu pandai membaca orang, memahami angka-angka penting, dan membuat keputusan cepat di bawah tekanan. Kamu fokus pada hasil akhir: kesepakatan yang menguntungkan.",
+    "strengths": ["Negosiator yang sangat baik dan pragmatis.", "Pandai membaca situasi dan orang.", "Mampu berpikir cepat dan logis di bawah tekanan.", "Berorientasi pada hasil dan tidak mudah terpengaruh emosi."],
+    "weaknesses": ["Bisa terlihat terlalu oportunistik atau hanya peduli pada keuntungan.", "Cenderung kurang fokus pada membangun hubungan jangka panjang.", "Mungkin mengambil jalan pintas atau mengabaikan detail-detail kecil dalam kontrak.", "Tidak sabar dengan proses negosiasi yang berlarut-larut."],
+    "recommended_majors": [
+      { "name": "Bisnis (dengan spesialisasi Negosiasi atau Penjualan)", "reason": "Secara langsung mengasah keterampilan yang paling kamu nikmati." },
+      { "name": "Manajemen Rantai Pasok", "reason": "Fokus pada negosiasi dengan pemasok, yang merupakan bagian penting dari bisnis." },
+      { "name": "Ilmu Hukum", "reason": "Mempelajari seni argumentasi dan negosiasi dalam kerangka hukum." }
+    ],
+    "career_recommendations": [
+      { "name": "Agen Real Estat atau Pialang (Broker)", "reason": "Karier yang sepenuhnya didasarkan pada kemampuanmu untuk menegosiasikan dan menutup kesepakatan." },
+      { "name": "Spesialis Pengadaan (Purchasing Manager)", "reason": "Bertanggung jawab untuk menegosiasikan harga dan syarat terbaik untuk semua yang dibeli perusahaan." },
+      { "name": "Penjual (Salesperson) untuk produk bernilai tinggi (misal: mobil, perangkat lunak perusahaan)", "reason": "Peran di mana setiap penjualan melibatkan proses negosiasi yang signifikan." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "EI",
+    "profile_title": "Sang Detektif",
+    "profile_tagline": "Seorang pemecah masalah yang menggunakan observasi tajam dan logika untuk mengungkap kebenaran.",
+    "reason_why": "Kamu menggabungkan dorongan untuk bertindak dan menyelesaikan kasus (Enterprising) dengan kemampuan untuk mengamati detail, menganalisis fakta, dan memahami sistem (Investigative). Sebagai seorang ESTP, kamu adalah seorang detektif alami: kamu unggul di lapangan, bukan di belakang meja.",
+    "what_this_means": "Kamu adalah seorang detektif polisi, penyelidik swasta, atau jurnalis investigasi. Kamu memiliki kemampuan langka untuk masuk ke dalam sebuah situasi, dengan cepat menyerap semua detail sensorik, dan melihat hal-hal yang dilewatkan orang lain. Kamu kemudian menggunakan logikamu untuk menyatukan petunjuk-petunjuk tersebut dan memecahkan teka-teki. Kamu mengejar kebenaran melalui aksi.",
+    "strengths": ["Pengamat yang sangat tajam dan berorientasi pada detail.", "Mampu berpikir cepat dan logis di bawah tekanan.", "Sangat baik dalam membaca orang dan situasi.", "Berani dan tidak takut untuk mengambil tindakan untuk mendapatkan informasi."],
+    "weaknesses": ["Bisa menjadi sangat impulsif dan mengambil risiko yang tidak perlu.", "Cenderung mengabaikan prosedur atau aturan jika dianggap menghalangi.", "Mungkin kurang sabar dengan pekerjaan laporan atau analisis data yang panjang.", "Bisa berbenturan dengan otoritas."],
+    "recommended_majors": [
+      { "name": "Ilmu Kepolisian atau Kriminologi", "reason": "Secara langsung mempersiapkanmu untuk karier sebagai penegak hukum." },
+      { "name": "Ilmu Forensik", "reason": "Mempelajari sisi ilmiah dari investigasi kriminal." },
+      { "name": "Jurnalistik", "reason": "Mengasah kemampuanmu untuk melakukan wawancara, observasi, dan menyusun cerita." }
+    ],
+    "career_recommendations": [
+      { "name": "Detektif Polisi", "reason": "Berada di garis depan dalam menyelidiki kejahatan." },
+      { "name": "Penyelidik Swasta (Private Investigator)", "reason": "Memecahkan berbagai macam kasus untuk klien pribadi atau perusahaan." },
+      { "name": "Jurnalis Investigasi", "reason": "Membongkar skandal dan kejahatan untuk dilaporkan kepada publik." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "AS",
+    "profile_title": "Sang Komedian",
+    "profile_tagline": "Seorang pengamat yang tajam, yang mengubah keanehan hidup sehari-hari menjadi sebuah pertunjukan.",
+    "reason_why": "Dorongan utamamu adalah untuk tampil dan menghibur (Artistic), dan kamu melakukannya dengan cara berinteraksi langsung dan membaca energi audiens (Social). Sebagai seorang ESTP, kamu memiliki kesadaran yang tajam terhadap momen saat ini (Se) dan kemampuan untuk melihat logika yang absurd dalam situasi sehari-hari (Ti), yang merupakan bahan bakar sempurna untuk komedi.",
+    "what_this_means": "Kamu adalah seorang stand-up comedian atau seorang aktor komedi. Kamu memiliki bakat alami untuk observasi dan timing. Kamu bisa melihat sebuah situasi yang canggung, menganalisis mengapa itu lucu, dan kemudian menceritakannya kembali di atas panggung dengan cara yang membuat semua orang tertawa. Kamu terhubung dengan orang lain melalui tawa.",
+    "strengths": ["Memiliki timing komedi yang sangat baik.", "Pengamat yang tajam terhadap perilaku manusia.", "Sangat pandai membaca dan berinteraksi dengan audiens.", "Berani dan tidak takut untuk mengambil risiko di atas panggung."],
+    "weaknesses": ["Bisa menjadi sangat bergantung pada tawa dan validasi dari audiens.", "Cenderung menghindari materi yang terlalu emosional atau 'gelap'.", "Mungkin kesulitan dengan proses penulisan materi yang soliter.", "Gaya hidup bisa sangat tidak teratur."],
+    "recommended_majors": [
+      { "name": "Teater (dengan fokus pada komedi atau improvisasi)", "reason": "Tempat yang sempurna untuk mengasah bakat alamimu dalam pertunjukan langsung." },
+      { "name": "Penulisan Kreatif", "reason": "Membantumu menstrukturkan observasimu menjadi materi yang bisa ditampilkan." },
+      { "name": "Komunikasi", "reason": "Mempelajari cara terhubung dengan audiens dan menyampaikan pesan secara efektif." }
+    ],
+    "career_recommendations": [
+      { "name": "Stand-up Comedian", "reason": "Karier di mana kamu secara langsung mengubah pengamatanmu tentang dunia menjadi tawa." },
+      { "name": "Aktor Komedi (di TV, film, atau teater sketsa)", "reason": "Menggunakan bakat komedimu untuk menghidupkan karakter." },
+      { "name": "Penulis untuk Acara Komedi", "reason": "Bekerja di belakang layar, menulis lelucon dan sketsa untuk para penampil." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "AC",
+    "profile_title": "Sang Spesialis Produksi",
+    "profile_tagline": "Seorang ahli di balik layar yang memastikan pertunjukan berjalan sempurna secara teknis.",
+    "reason_why": "Kamu menggabungkan minat pada dunia pertunjukan yang kreatif (Artistic) dengan bakat untuk bekerja dengan peralatan yang presisi dan mengikuti prosedur yang ketat (Conventional). Sebagai seorang ESTP, kamu menikmati energi dan kegembiraan dari sebuah acara langsung, tetapi dari posisi di mana kamu memiliki kendali atas aspek teknis.",
+    "what_this_means": "Kamu adalah seorang manajer panggung, teknisi pencahayaan, atau operator siaran. Kamu adalah orang yang memastikan bahwa setiap isyarat (cue) terjadi tepat pada waktunya. Kamu berkembang dalam lingkungan bertekanan tinggi di belakang panggung atau di ruang kontrol, di mana kamu bisa menggunakan refleks cepat dan pemikiran logismu untuk memecahkan masalah teknis saat itu juga.",
+    "strengths": ["Sangat baik dalam bekerja dengan peralatan teknis yang kompleks.", "Mampu tetap tenang dan fokus di bawah tekanan acara langsung.", "Memiliki timing yang sangat baik.", "Pemain tim yang dapat diandalkan di belakang layar."],
+    "weaknesses": ["Bisa menjadi tidak sabar dengan orang-orang kreatif yang tidak terorganisir.", "Cenderung kurang tertarik pada aspek konseptual atau artistik murni.", "Lebih suka mengeksekusi daripada merencanakan.", "Membutuhkan lingkungan kerja yang berenergi tinggi agar tidak bosan."],
+    "recommended_majors": [
+      { "name": "Manajemen Produksi Teater atau Teknis Teater", "reason": "Secara langsung melatihmu untuk peran-peran teknis di belakang panggung." },
+      { "name": "Produksi Film dan Televisi atau Penyiaran (Broadcasting)", "reason": "Fokus pada aspek teknis dari produksi media." },
+      { "name": "Teknik Audio", "reason": "Spesialisasi dalam ilmu dan seni suara." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Panggung (Stage Manager)", "reason": "Orang yang 'memanggil' semua isyarat dan menjalankan sebuah pertunjukan teater setiap malam." },
+      { "name": "Direktur Teknis (Technical Director)", "reason": "Bertanggung jawab atas semua aspek teknis dari sebuah produksi atau siaran." },
+      { "name": "Operator Siaran (Broadcast Operator)", "reason": "Bekerja di ruang kontrol stasiun TV atau radio, memastikan siaran berjalan lancar." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "AI",
+    "profile_title": "Sang Desainer Gerak (Motion Designer)",
+    "profile_tagline": "Seorang seniman digital yang menciptakan visual yang dinamis dan berdampak.",
+    "reason_why": "Kamu menggabungkan minat pada ekspresi visual yang kreatif (Artistic) dengan pemahaman yang mendalam tentang bagaimana sistem perangkat lunak bekerja (Investigative). Sebagai seorang ESTP, kamu tidak hanya ingin membuat gambar yang diam; kamu ingin membuatnya bergerak, memberinya energi dan kehidupan.",
+    "what_this_means": "Kamu adalah seorang desainer grafis gerak (motion graphic designer) atau animator. Kamu memiliki mata yang baik untuk desain dan pikiran yang logis untuk memahami perangkat lunak animasi yang kompleks. Kamu menikmati proses mengambil elemen-elemen statis—logo, teks, ilustrasi—dan menciptakan urutan animasi yang menarik dan efektif. Kamu adalah seorang pemecah masalah visual.",
+    "strengths": ["Menggabungkan kreativitas visual dengan kemahiran teknis.", "Sangat baik dalam mempelajari perangkat lunak baru dengan cepat.", "Mampu menciptakan animasi yang energik dan menarik perhatian.", "Berorientasi pada hasil dan mampu bekerja dengan cepat."],
+    "weaknesses": ["Bisa jadi kurang sabar dengan proses rendering yang lama atau revisi yang detail.", "Cenderung lebih suka pada proyek-proyek pendek dan cepat.", "Mungkin kurang tertarik pada aspek penceritaan yang lebih dalam dari animasi.", "Lebih suka bereksperimen sendiri daripada mengikuti arahan yang kaku."],
+    "recommended_majors": [
+      { "name": "Desain Grafis Gerak (Motion Graphics)", "reason": "Jurusan yang secara spesifik fokus pada animasi untuk tujuan komunikasi dan periklanan." },
+      { "name": "Animasi", "reason": "Memberikan dasar yang lebih luas dalam prinsip-prinsip gerakan." },
+      { "name": "Desain Komunikasi Visual (DKV)", "reason": "Memberikan fondasi desain yang kuat, yang kemudian bisa kamu terapkan pada gerakan." }
+    ],
+    "career_recommendations": [
+      { "name": "Motion Graphic Designer", "reason": "Bekerja untuk agensi periklanan, studio produksi, atau stasiun TV untuk menciptakan judul acara, iklan, atau grafis penjelasan." },
+      { "name": "Animator UI", "reason": "Spesialisasi dalam menciptakan animasi untuk antarmuka aplikasi dan situs web, membuat pengalaman pengguna lebih dinamis." },
+      { "name": "Editor Video (dengan spesialisasi efek visual)", "reason": "Menambahkan grafis dan efek pada rekaman video untuk meningkatkan dampaknya." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "SI",
+    "profile_title": "Sang Fasilitator Kelompok",
+    "profile_tagline": "Seorang pembimbing yang menggunakan aktivitas dan humor untuk membantu kelompok belajar dan bekerja sama.",
+    "reason_why": "Kamu menggabungkan keinginan untuk membantu dan berinteraksi dengan orang lain (Social) dengan pendekatan yang didasarkan pada pemahaman logis tentang dinamika kelompok (Investigative). Sebagai seorang ESTP, kamu adalah fasilitator yang energik dan praktis. Kamu tidak suka teori; kamu suka membuat orang beraksi.",
+    "what_this_means": "Kamu adalah seorang pelatih perusahaan (corporate trainer), fasilitator lokakarya (workshop), atau guru yang sangat dinamis. Kamu unggul dalam memimpin sesi-sesi interaktif, permainan peran, dan aktivitas team-building. Kamu memiliki kemampuan untuk membaca energi sebuah ruangan dan dengan cepat menyesuaikan pendekatanmu untuk menjaga semua orang tetap terlibat. Kamu mengajar dengan melakukan.",
+    "strengths": ["Fasilitator yang sangat menarik dan energik.", "Pandai membuat pembelajaran menjadi menyenangkan dan interaktif.", "Sangat baik dalam membaca dinamika kelompok.", "Praktis dan fokus pada hasil yang bisa langsung diterapkan."],
+    "weaknesses": ["Bisa menjadi kurang sabar dengan peserta yang pasif atau terlalu teoretis.", "Cenderung kurang terstruktur dalam penyampaian materi.", "Mungkin kurang tertarik pada persiapan atau evaluasi pasca-lokakarya.", "Sangat bergantung pada energi kelompok untuk menjaga semangatnya sendiri."],
+    "recommended_majors": [
+      { "name": "Pengembangan Sumber Daya Manusia (HR Development) atau Pelatihan", "reason": "Fokus pada cara merancang dan menyampaikan program pelatihan yang efektif." },
+      { "name": "Psikologi (khususnya Psikologi Sosial atau Organisasi)", "reason": "Memberikan pemahaman tentang dinamika kelompok dan motivasi." },
+      { "name": "Komunikasi", "reason": "Mengasah kemampuanmu untuk berbicara di depan umum dan memfasilitasi diskusi." }
+    ],
+    "career_recommendations": [
+      { "name": "Pelatih Perusahaan (Corporate Trainer)", "reason": "Menyelenggarakan lokakarya tentang topik-topik seperti kepemimpinan, penjualan, atau kerja tim." },
+      { "name": "Fasilitator", "reason": "Memimpin rapat atau sesi brainstorming untuk membantu kelompok mencapai tujuan mereka." },
+      { "name": "Guru (terutama untuk orang dewasa atau di sekolah yang berorientasi pada proyek)", "reason": "Menciptakan pengalaman belajar yang sangat aktif dan kolaboratif." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "SC",
+    "profile_title": "Sang Koordinator Lapangan",
+    "profile_tagline": "Seorang organisator yang memastikan semua bagian bergerak di sebuah acara berjalan sesuai rencana.",
+    "reason_why": "Kamu menggabungkan keinginan untuk membantu dan memastikan semua orang senang (Social) dengan bakat untuk organisasi, jadwal, dan detail praktis (Conventional). Sebagai seorang ESTP, kamu membawa energi dan kemampuan pemecahan masalah yang cepat pada peran di balik layar ini.",
+    "what_this_means": "Kamu adalah seorang manajer panggung atau koordinator acara. Kamu adalah orang yang memiliki headset dan clipboard, memastikan bahwa pembicara berikutnya sudah siap, katering tiba tepat waktu, dan setiap masalah kecil diselesaikan sebelum ada yang menyadarinya. Kamu berkembang dalam energi dan tekanan dari sebuah acara langsung.",
+    "strengths": ["Sangat baik dalam multitasking dan bekerja di bawah tekanan.", "Pemecah masalah yang sangat cepat dan praktis.", "Komunikator yang jelas dan efisien.", "Mampu menjaga semangat tim di belakang layar."],
+    "weaknesses": ["Bisa menjadi kurang sabar dengan orang yang tidak disiplin dengan jadwal.", "Cenderung kurang tertarik pada fase perencanaan jangka panjang.", "Pekerjaan bisa sangat menuntut dan menyebabkan stres.", "Mungkin mengabaikan prosedur formal jika ada cara yang lebih cepat."],
+    "recommended_majors": [
+      { "name": "Manajemen Acara (Event Management)", "reason": "Secara langsung mempersiapkanmu untuk peran logistik dan koordinasi dalam acara." },
+      { "name": "Manajemen Produksi Teater", "reason": "Fokus pada peran di balik layar yang membuat sebuah pertunjukan menjadi mungkin." },
+      { "name": "Manajemen Perhotelan", "reason": "Memberikan keterampilan dalam mengelola banyak detail untuk memastikan kepuasan pelanggan." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Panggung (Stage Manager)", "reason": "Menjadi pusat komando di belakang layar dari sebuah pertunjukan teater." },
+      { "name": "Koordinator Acara atau Lapangan", "reason": "Orang di lokasi yang bertanggung jawab untuk memastikan semua aspek logistik dari sebuah acara berjalan lancar." },
+      { "name": "Manajer Tur (untuk band atau pertunjukan)", "reason": "Mengelola semua logistik perjalanan, jadwal, dan kebutuhan teknis saat tur." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "CI",
+    "profile_title": "Sang Analis Pasar Cepat",
+    "profile_tagline": "Seorang pemikir logis yang menggunakan data untuk membuat keputusan cepat di dunia bisnis.",
+    "reason_why": "Kamu menggabungkan minat pada riset dan analisis (Investigative) dengan penghargaan terhadap data yang jelas, aturan, dan hasil yang terukur (Conventional). Sebagai seorang ESTP, kamu tidak tertarik pada teori yang berlarut-larut; kamu ingin menggunakan data untuk bertindak dan menang, sekarang juga.",
+    "what_this_means": "Kamu sangat cocok untuk peran sebagai analis data pemasaran, analis penjualan, atau pedagang saham. Kamu menikmati proses melihat data real-time, dengan cepat mengidentifikasi sebuah pola atau peluang, dan segera mengambil tindakan berdasarkan itu. Kamu adalah seorang taktisi yang berbasis data.",
+    "strengths": ["Mampu memproses informasi dan membuat keputusan dengan sangat cepat.", "Sangat logis dan pragmatis dalam menganalisis data.", "Berorientasi pada hasil dan tidak mudah terpengaruh oleh emosi.", "Baik dalam menemukan solusi praktis dari data."],
+    "weaknesses": ["Bisa menjadi sangat impulsif dan mengabaikan analisis yang lebih dalam.", "Cenderung kurang tertarik pada metodologi atau teori di balik data.", "Bosan dengan tugas-tugas pengelolaan atau pembersihan data yang lambat.", "Mungkin mengabaikan tren jangka panjang karena terlalu fokus pada saat ini."],
+    "recommended_majors": [
+      { "name": "Bisnis (dengan spesialisasi Keuangan atau Analisis Data)", "reason": "Memberikan keterampilan kuantitatif untuk diterapkan dalam lingkungan bisnis yang bergerak cepat." },
+      { "name": "Ekonomi", "reason": "Mempelajari cara menganalisis data pasar dan membuat model." },
+      { "name": "Sistem Informasi", "reason": "Fokus pada bagaimana data dikelola dan digunakan untuk pengambilan keputusan." }
+    ],
+    "career_recommendations": [
+      { "name": "Pedagang Saham atau Valuta Asing (Trader)", "reason": "Membuat keputusan dalam hitungan detik berdasarkan data pasar real-time." },
+      { "name": "Analis Data Penjualan atau Pemasaran", "reason": "Menganalisis kinerja kampanye dan penjualan untuk memberikan rekomendasi taktis yang cepat." },
+      { "name": "Analis Intelijen Kompetitif", "reason": "Melacak dan menganalisis tindakan pesaing untuk memberikan keunggulan strategis bagi perusahaanmu." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "CE",
+    "profile_title": "Sang Manajer Proyek Pragmatis",
+    "profile_tagline": "Seorang pemimpin yang fokus untuk menyelesaikan pekerjaan, melewati rintangan dengan cara yang paling efisien.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mencapai tujuan (Enterprising) dengan pendekatan yang teratur dan berbasis pada aturan praktis (Conventional). Sebagai seorang ESTP, kamu adalah seorang manajer proyek yang sangat membumi: kamu tidak peduli pada metodologi yang indah, kamu peduli pada apa yang berhasil.",
+    "what_this_means": "Kamu adalah seorang manajer proyek atau scrum master yang sangat efektif. Kamu unggul dalam memecah tujuan besar menjadi tugas-tugas kecil yang bisa dijalankan, menghilangkan rintangan bagi timmu, dan menjaga momentum proyek tetap berjalan. Kamu adalah seorang pemadam kebakaran, selalu siap untuk melompat masuk dan menyelesaikan masalah apa pun yang menghalangi kemajuan.",
+    "strengths": ["Sangat berorientasi pada solusi dan penyelesaian.", "Pandai menghilangkan rintangan dan menjaga tim tetap bergerak.", "Komunikator yang jelas dan langsung.", "Adaptif dan mampu mengubah rencana dengan cepat."],
+    "weaknesses": ["Bisa jadi mengabaikan perencanaan jangka panjang atau dokumentasi.", "Cenderung mengambil jalan pintas.", "Mungkin kurang sabar dengan anggota tim yang lambat atau terlalu banyak bertanya.", "Bisa terlihat terlalu fokus pada tugas dan kurang pada pengembangan tim."],
+    "recommended_majors": [
+      { "name": "Manajemen Proyek", "reason": "Mempelajari berbagai metodologi yang bisa kamu adaptasi dengan gaya pragmatismu." },
+      { "name": "Administrasi Bisnis", "reason": "Memberikan dasar yang kuat dalam semua aspek pengelolaan." },
+      { "name": "Sistem Informasi", "reason": "Sangat relevan untuk mengelola proyek-proyek pengembangan perangkat lunak." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Proyek (Project Manager)", "reason": "Memastikan sebuah proyek selesai tepat waktu, sesuai anggaran, dan memenuhi tujuan." },
+      { "name": "Scrum Master", "reason": "Bertindak sebagai fasilitator untuk tim pengembangan perangkat lunak, menghilangkan rintangan dan memastikan proses berjalan lancar." },
+      { "name": "Manajer Operasional", "reason": "Bertanggung jawab untuk memastikan semua proses harian di sebuah departemen atau perusahaan berjalan efisien." }
+    ]
+  },
+  {
+    "mbti_type": "ESTP",
+    "riasec_code": "CA",
+    "profile_title": "Sang Desainer Produksi",
+    "profile_tagline": "Seorang kreator yang secara efisien mengubah konsep menjadi aset visual yang siap pakai.",
+    "reason_why": "Kamu menggabungkan minat pada estetika dan kreativitas (Artistic) dengan bakat untuk bekerja secara cepat, efisien, dan sesuai dengan spesifikasi (Conventional). Sebagai seorang ESTP, kamu adalah seorang desainer produksi yang sangat andal: kamu bisa mengambil sebuah ide dan dengan cepat menghasilkan aset visual berkualitas tinggi.",
+    "what_this_means": "Kamu adalah seorang desainer grafis produksi, desainer layout, atau seniman 3D. Kamu mungkin bukan orang yang menghasilkan konsep awal, tetapi kamu adalah orang yang akan mengambil konsep itu dan mengubahnya menjadi puluhan variasi iklan, layout majalah yang sempurna, atau model 3D yang dioptimalkan untuk game. Kamu adalah seorang eksekutor kreatif yang cepat.",
+    "strengths": ["Sangat cepat dan efisien dalam menggunakan perangkat lunak desain.", "Mampu menghasilkan karya berkualitas tinggi di bawah tenggat waktu yang ketat.", "Sangat baik dalam mengikuti arahan dan spesifikasi teknis.", "Adaptif dan mampu bekerja pada berbagai macam proyek."],
+    "weaknesses": ["Bisa jadi kurang tertarik pada fase konseptual atau brainstorming.", "Cenderung bosan dengan proyek yang terlalu lama atau rumit.", "Mungkin kurang memiliki gaya artistik pribadi yang kuat.", "Lebih suka mengeksekusi daripada memimpin sebuah visi kreatif."],
+    "recommended_majors": [
+      { "name": "Desain Komunikasi Visual (DKV)", "reason": "Memberikan keterampilan teknis yang kuat dalam berbagai perangkat lunak desain." },
+      { "name": "Penerbitan Digital atau Desain Grafis untuk Produksi", "reason": "Spesialisasi dalam mempersiapkan file desain untuk dicetak atau digunakan secara digital." },
+      { "name": "Animasi 3D atau Desain Game", "reason": "Fokus pada aspek teknis dari pembuatan aset untuk game atau film." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Produksi (Production Designer/Artist)", "reason": "Bekerja di agensi atau studio, fokus pada eksekusi cepat dari berbagai materi desain." },
+      { "name": "Artis 3D (3D Artist)", "reason": "Membuat model dan tekstur untuk karakter, lingkungan, atau objek dalam video game atau film." },
+      { "name": "Desainer Layout", "reason": "Bertanggung jawab untuk menata teks dan gambar di majalah, koran, atau situs web." }
+    ]
+  }
+]
