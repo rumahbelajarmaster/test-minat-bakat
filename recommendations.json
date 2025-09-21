@@ -600,3 +600,504 @@
     ]
   }
 ]
+{
+    "mbti_type": "ENTP",
+    "riasec_code": "EI",
+    "profile_title": "Sang Inovator Disruptif",
+    "profile_tagline": "Seorang visioner yang tidak hanya melihat masa depan, tapi juga membangunnya.",
+    "reason_why": "Ini adalah kombinasi ENTP paling murni. Kemampuanmu melihat berbagai kemungkinan (Ne) dan menganalisis sistem (Ti) sangat cocok dengan minat untuk memimpin usaha baru (Enterprising) dan melakukan riset mendalam (Investigative). Kamu adalah mesin ide yang punya dorongan untuk mewujudkannya.",
+    "what_this_means": "Kamu terlahir untuk menjadi seorang inovator atau pendiri startup. Kamu melihat masalah bukan sebagai halangan, tapi sebagai undangan untuk menciptakan solusi yang brilian. Kamu berkembang dalam lingkungan yang dinamis, penuh tantangan intelektual, dan di mana kamu bisa berdebat dan mengadu ide dengan orang-orang cerdas lainnya.",
+    "strengths": ["Sangat inovatif dan visioner.", "Mampu melihat peluang bisnis dari ide-ide kompleks.", "Pandai berargumen dan meyakinkan orang lain.", "Cepat beradaptasi dengan perubahan."],
+    "weaknesses": ["Bisa cepat bosan dengan detail implementasi.", "Cenderung menentang aturan dan struktur yang kaku.", "Kadang memulai terlalu banyak proyek dan tidak menyelesaikannya.", "Bisa terlihat argumentatif atau provokatif bagi orang lain."],
+    "recommended_majors": [
+      { "name": "Kewirausahaan (Entrepreneurship/Technopreneurship)", "reason": "Langsung mengasah bakat alamimu untuk mengubah ide inovatif (Investigative) menjadi bisnis yang nyata dan berpengaruh (Enterprising)." },
+      { "name": "Ilmu Komputer", "reason": "Memberikanmu alat untuk membangun sistem dan teknologi baru (Investigative), yang menjadi fondasi banyak startup (Enterprising)." },
+      { "name": "Ilmu Politik atau Hubungan Internasional", "reason": "Tempat yang tepat untuk menganalisis sistem sosial yang kompleks (Investigative) dan menyusun strategi untuk memengaruhinya (Enterprising)." }
+    ],
+    "career_recommendations": [
+      { "name": "Pendiri Startup (Startup Founder)", "reason": "Peran di mana kamu bisa secara bebas mengejar visimu, membangun tim, dan menciptakan disrupsi di pasar." },
+      { "name": "Konsultan Strategi", "reason": "Kamu dibayar untuk memecahkan masalah paling rumit dari perusahaan lain dengan ide-ide segar dan analisis tajam." },
+      { "name": "Venture Capitalist", "reason": "Menganalisis dan berinvestasi pada ide-ide besar berikutnya, memberimu paparan konstan terhadap inovasi." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "EA",
+    "profile_title": "Sang Kreator Ulang (The Remix Artist)",
+    "profile_tagline": "Seorang penggagas ide yang menggunakan kreativitas untuk menantang status quo.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan berinovasi (Enterprising) dengan hasrat untuk berekspresi secara orisinal dan tidak konvensional (Artistic). Fungsi Ne-Ti dari ENTP membuatmu sangat baik dalam mengambil konsep yang sudah ada dan meramunya kembali menjadi sesuatu yang sama sekali baru.",
+    "what_this_means": "Kamu adalah sumber ide-ide kreatif yang tak ada habisnya. Kamu berkembang dalam peran di mana kamu bisa melakukan brainstorming, menyusun konsep, dan memimpin proyek-proyek kreatif. Kamu mungkin seorang sutradara yang punya gaya unik, seorang arsitek dengan desain dekonstruktivis, atau seorang kepala tim iklan yang selalu menghasilkan kampanye viral.",
+    "strengths": ["Sangat kreatif dan konseptual.", "Mampu 'menjual' ide-ide kreatif yang liar.", "Pandai memimpin dan menginspirasi tim kreatif.", "Tidak takut untuk mengambil risiko artistik."],
+    "weaknesses": ["Bisa kesulitan untuk fokus dan memilih satu ide terbaik.", "Cenderung menolak batasan, baik itu anggaran maupun permintaan klien.", "Mungkin kurang memperhatikan detail-detail teknis produksi.", "Bisa terlihat tidak terorganisir bagi orang lain."],
+    "recommended_majors": [
+      { "name": "Periklanan (Advertising) atau Komunikasi Pemasaran", "reason": "Arena yang sempurna untuk menggabungkan ide-ide kreatif (Artistic) dengan strategi untuk memengaruhi audiens (Enterprising)." },
+      { "name": "Film dan Televisi", "reason": "Memberimu kesempatan untuk memimpin (Enterprising) sebuah proyek visi artistik (Artistic) dari awal hingga akhir." },
+      { "name": "Arsitektur", "reason": "Mendesain bangunan (Artistic) yang inovatif dan memimpin tim untuk mewujudkan visi tersebut (Enterprising)." }
+    ],
+    "career_recommendations": [
+      { "name": "Direktur Kreatif (Creative Director)", "reason": "Memimpin sebuah tim untuk menghasilkan ide-ide orisinal untuk kampanye, merek, atau produk." },
+      { "name": "Sutradara Film atau Iklan", "reason": "Menerjemahkan sebuah naskah atau konsep menjadi sebuah karya visual yang utuh dan memiliki gaya." },
+      { "name": "Arsitek", "reason": "Merancang bangunan yang menantang konvensi dan memimpin proses pembangunannya." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "ES",
+    "profile_title": "Sang Pengacara Perubahan",
+    "profile_tagline": "Seorang komunikator persuasif yang menggunakan logika untuk memperjuangkan isu-isu sosial.",
+    "reason_why": "Kamu mengarahkan kecerdasan analitis dan kemampuan berdebatmu (ENTP) untuk tujuan yang lebih besar: memimpin (Enterprising) perubahan yang bermanfaat bagi masyarakat (Social). Kamu adalah seorang advokat alami, mampu melihat kelemahan dalam sistem sosial dan mengartikulasikannya dengan sangat meyakinkan.",
+    "what_this_means": "Kamu adalah tipe orang yang akan menjadi pengacara hak asasi manusia, seorang politisi, atau jurnalis investigasi. Kamu tidak takut untuk menantang kekuasaan dan berbicara atas nama mereka yang tidak memiliki suara. Kamu berkembang dalam debat, negosiasi, dan saat menginspirasi orang lain untuk ikut bergerak.",
+    "strengths": ["Sangat persuasif dan pandai berbicara di depan umum.", "Mampu memahami isu sosial yang kompleks.", "Bersemangat dalam memperjuangkan keyakinan.", "Strategis dalam merencanakan kampanye atau argumen."],
+    "weaknesses": ["Bisa terlihat terlalu argumentatif atau agresif.", "Mungkin frustrasi dengan lambatnya perubahan sosial.", "Cenderung kurang sabar dengan orang yang tidak setuju.", "Bisa mengabaikan dampak emosional dari argumennya."],
+    "recommended_majors": [
+      { "name": "Hukum", "reason": "Tempat terbaik untuk melatih kemampuanmu dalam menganalisis kasus (Investigative), membangun argumen (Enterprising), dan membela klien atau tujuan sosial (Social)." },
+      { "name": "Ilmu Politik", "reason": "Mempelajari cara kerja sistem kekuasaan sehingga kamu bisa menyusun strategi yang efektif untuk menciptakan perubahan." },
+      { "name": "Jurnalistik", "reason": "Memberimu platform untuk menyuarakan isu-isu penting dan memengaruhi opini publik melalui tulisan dan laporan yang tajam." }
+    ],
+    "career_recommendations": [
+      { "name": "Pengacara", "reason": "Menggunakan logika dan kemampuan berdebatmu untuk memperjuangkan keadilan di pengadilan." },
+      { "name": "Politisi atau Diplomat", "reason": "Mewakili kepentingan publik dan bernegosiasi untuk menciptakan kebijakan yang lebih baik." },
+      { "name": "Jurnalis Investigasi", "reason": "Membongkar kebenaran dan menyajikannya kepada publik untuk mendorong akuntabilitas dan perubahan." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "EC",
+    "profile_title": "Sang Ahli Optimasi Sistem",
+    "profile_tagline": "Seorang pemimpin yang menemukan cara-cara baru yang lebih cerdas untuk menjalankan bisnis.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan berinovasi (Enterprising) dengan apresiasi terhadap data, efisiensi, dan proses yang teratur (Conventional). Sebagai seorang ENTP, kamu tidak hanya mengikuti aturan; kamu menganalisisnya, menemukan kelemahannya, dan menciptakan sistem baru yang lebih baik.",
+    "what_this_means": "Kamu adalah seorang pemecah masalah bisnis yang ulung. Kamu bisa masuk ke dalam sebuah perusahaan, melihat proses yang tidak efisien, dan dengan cepat merancang alur kerja baru yang lebih logis dan menguntungkan. Kamu adalah seorang manajer yang inovatif, bukan birokrat.",
+    "strengths": ["Sangat baik dalam menganalisis dan memperbaiki proses bisnis.", "Mampu menerjemahkan data menjadi strategi yang bisa dijalankan.", "Pemimpin yang logis dan efisien.", "Tidak takut untuk menantang cara-cara lama yang tidak efektif."],
+    "weaknesses": ["Mungkin tidak sabar dengan orang yang resisten terhadap perubahan.", "Cenderung kurang tertarik pada aspek hubungan personal dalam manajemen.", "Bisa mengabaikan detail-detail kecil jika terlalu fokus pada sistem besar.", "Perlu terus menerus diberi tantangan baru agar tidak bosan."],
+    "recommended_majors": [
+      { "name": "Teknik Industri", "reason": "Jurusan yang secara khusus mempelajari cara menganalisis, merancang, dan mengoptimalkan sistem yang kompleks untuk efisiensi maksimal." },
+      { "name": "Sistem Informasi atau Manajemen Informatika", "reason": "Fokus pada bagaimana teknologi dapat digunakan untuk menciptakan proses bisnis yang lebih efisien dan terstruktur." },
+      { "name": "Manajemen Bisnis (Spesialisasi Operasional atau Keuangan)", "reason": "Memberikan kerangka kerja untuk mengelola dan meningkatkan kinerja perusahaan berdasarkan data dan analisis." }
+    ],
+    "career_recommendations": [
+      { "name": "Analis Bisnis (Business Analyst)", "reason": "Menganalisis kebutuhan dan proses sebuah organisasi dan merekomendasikan solusi berbasis sistem." },
+      { "name": "Manajer Operasional", "reason": "Bertanggung jawab untuk memastikan semua proses internal perusahaan berjalan seefisien mungkin." },
+      { "name": "Konsultan Manajemen", "reason": "Membantu berbagai perusahaan memperbaiki cara kerja mereka dengan menerapkan sistem dan strategi baru." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "ER",
+    "profile_title": "Sang Insinyur Wirausaha",
+    "profile_tagline": "Seorang pemimpin praktis yang membangun solusi teknis untuk masalah dunia nyata.",
+    "reason_why": "Kamu menggabungkan ambisi untuk memimpin sebuah usaha (Enterprising) dengan minat yang kuat pada hal-hal yang nyata, mekanis, dan dapat dibangun (Realistic). Kemampuanmu sebagai ENTP untuk melihat kemungkinan-kemungkinan baru kamu terapkan pada dunia fisik, bukan hanya dunia ide.",
+    "what_this_means": "Kamu adalah tipe orang yang akan menemukan cara yang lebih baik untuk membangun jembatan, merancang produk, atau mengoptimalkan proses manufaktur, lalu membangun bisnis di sekitarnya. Kamu adalah seorang problem-solver yang tidak takut kotor tangannya, dan kamu memimpin dengan memberi contoh langsung di lapangan.",
+    "strengths": ["Mampu menerjemahkan ide inovatif menjadi produk fisik.", "Pemimpin yang praktis dan berorientasi pada tindakan.", "Memahami baik aspek teknis maupun bisnis dari sebuah proyek.", "Sangat baik dalam pemecahan masalah (troubleshooting) di lapangan."],
+    "weaknesses": ["Mungkin kurang tertarik pada teori murni atau perencanaan jangka panjang.", "Bisa jadi tidak sabar dengan birokrasi atau rapat yang tidak produktif.", "Cenderung mengambil alih tugas sendiri daripada mendelegasikannya.", "Perlu melihat hasil nyata dengan cepat untuk tetap termotivasi."],
+    "recommended_majors": [
+      { "name": "Teknik Mesin atau Teknik Elektro", "reason": "Memberikanmu fondasi teknis yang kuat (Realistic) yang bisa kamu kembangkan menjadi sebuah produk atau layanan bisnis (Enterprising)." },
+      { "name": "Manajemen Konstruksi", "reason": "Mempelajari cara memimpin (Enterprising) proyek-proyek pembangunan fisik yang kompleks (Realistic)." },
+      { "name": "Teknik Industri", "reason": "Fokus pada perancangan sistem produksi yang efisien, yang merupakan inti dari banyak bisnis berbasis produk." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Proyek Teknik", "reason": "Memimpin tim insinyur untuk merancang dan membangun produk atau sistem baru, dari konsep hingga produksi." },
+      { "name": "Kontraktor atau Pengembang Properti", "reason": "Memimpin bisnis yang secara langsung membangun infrastruktur fisik seperti gedung atau perumahan." },
+      { "name": "Pendiri Startup Perangkat Keras (Hardware Startup)", "reason": "Menciptakan dan menjual produk fisik yang inovatif, seperti drone, printer 3D, atau perangkat IoT." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "IE",
+    "profile_title": "Sang Visioner Analitis",
+    "profile_tagline": "Seorang penjelajah ide yang mengubah riset mendalam menjadi strategi yang berpengaruh.",
+    "reason_why": "Ini adalah kombinasi ENTP yang sangat intelektual. Minat utamamu adalah melakukan riset dan analisis mendalam (Investigative), dan kamu menggunakan temuanmu untuk menyusun strategi, memengaruhi orang lain, dan memimpin (Enterprising). Kamu adalah seorang ahli strategi yang didasari oleh pengetahuan.",
+    "what_this_means": "Kamu adalah tipe orang yang akan menjadi seorang futuris, analis pasar, atau konsultan spesialis. Kamu menikmati proses belajar tentang sebuah sistem yang kompleks—baik itu pasar saham, teknologi baru, atau tren politik—dan kemudian menggunakan pemahaman itu untuk memprediksi masa depan dan memberikan nasihat strategis. Kamu 'menjual' wawasan.",
+    "strengths": ["Kemampuan riset dan analisis yang sangat mendalam.", "Mampu menyintesis informasi dari berbagai sumber menjadi satu ide besar.", "Sangat baik dalam peramalan (forecasting) dan perencanaan strategis.", "Komunikator ide-ide kompleks yang meyakinkan."],
+    "weaknesses": ["Bisa terjebak dalam 'analysis paralysis', terlalu banyak riset dan kurang aksi.", "Mungkin terlihat sombong atau terlalu teoretis bagi orang lain.", "Tidak suka mengerjakan tugas-tugas yang tidak menantang secara intelektual.", "Cenderung berdebat untuk membuktikan kebenaran analisisnya."],
+    "recommended_majors": [
+      { "name": "Ekonomi atau Keuangan", "reason": "Menganalisis sistem pasar yang kompleks (Investigative) untuk membuat keputusan investasi atau strategi bisnis (Enterprising)." },
+      { "name": "Sains Data", "reason": "Menggunakan keterampilan analitis dan statistik (Investigative) untuk memberikan wawasan yang dapat ditindaklanjuti oleh bisnis (Enterprising)." },
+      { "name": "Filsafat, Politik, dan Ekonomi (PPE)", "reason": "Program interdisipliner yang melatihmu untuk menganalisis sistem sosial dari berbagai sudut pandang." }
+    ],
+    "career_recommendations": [
+      { "name": "Analis Pasar Finansial atau Ekuitas", "reason": "Melakukan riset mendalam tentang perusahaan dan pasar untuk memberikan rekomendasi investasi." },
+      { "name": "Konsultan Manajemen (Spesialis Riset)", "reason": "Menjadi ahli di bidang tertentu dan membantu klien membuat keputusan strategis berdasarkan riset yang kamu lakukan." },
+      { "name": "Futuris atau Analis Tren", "reason": "Mempelajari data dan sinyal saat ini untuk memprediksi seperti apa masa depan dan membantu organisasi beradaptasi." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "IA",
+    "profile_title": "Sang Arsitek Pengalaman",
+    "profile_tagline": "Seorang perancang sistem yang menggunakan kreativitas untuk menciptakan pengalaman yang intuitif.",
+    "reason_why": "Kamu menggabungkan hasrat untuk memahami sistem yang kompleks (Investigative) dengan dorongan untuk menciptakan sesuatu yang baru dan ekspresif (Artistic). Sebagai seorang ENTP, kamu tidak hanya ingin sistem itu berfungsi secara logis, tetapi juga ingin sistem itu terasa menyenangkan, intuitif, dan cerdas saat digunakan.",
+    "what_this_means": "Kamu sangat cocok untuk peran seperti arsitek UX, desainer game, atau bahkan arsitek sungguhan. Kamu menikmati proses memetakan semua kemungkinan interaksi dalam sebuah sistem, lalu merancangnya menjadi sebuah alur yang elegan dan memuaskan. Kamu adalah seorang seniman yang karyanya didasari oleh logika yang kuat.",
+    "strengths": ["Mampu merancang sistem yang kompleks dan elegan.", "Kombinasi kuat antara pemikiran analitis dan kreativitas.", "Sangat baik dalam memahami kebutuhan pengguna dari sudut pandang logis.", "Selalu mencari cara-cara baru yang inovatif untuk memecahkan masalah desain."],
+    "weaknesses": ["Bisa jadi lebih tertarik pada fase konseptual daripada implementasi teknis.", "Mungkin frustrasi jika harus bekerja dalam batasan platform atau teknologi yang kaku.", "Cenderung terus-menerus mengubah dan menyempurnakan ide, sulit untuk finalisasi.", "Bisa berdebat sengit untuk mempertahankan keputusan desainnya."],
+    "recommended_majors": [
+      { "name": "Desain Interaksi atau Desain Pengalaman Pengguna (UI/UX)", "reason": "Secara langsung melatihmu untuk melakukan riset pengguna (Investigative) dan merancang alur aplikasi yang intuitif dan menarik (Artistic)." },
+      { "name": "Desain Game", "reason": "Menciptakan mekanika dan aturan permainan yang seimbang dan logis (Investigative) sambil membangun dunia yang imersif (Artistic)." },
+      { "name": "Arsitektur", "reason": "Merancang ruang yang fungsional berdasarkan analisis kebutuhan (Investigative) sambil menciptakan bentuk bangunan yang estetis (Artistic)." }
+    ],
+    "career_recommendations": [
+      { "name": "Arsitek UX (User Experience Architect)", "reason": "Merancang 'cetak biru' dari sebuah produk digital, memastikan setiap interaksi terasa logis dan memuaskan." },
+      { "name": "Desainer Mekanika Game (Game Mechanics Designer)", "reason": "Fokus pada perancangan aturan, sistem, dan loop gameplay yang membuat sebuah game menjadi seru dan adiktif." },
+      { "name": "Arsitek Informasi", "reason": "Mengorganisir informasi yang kompleks di situs web atau aplikasi agar mudah ditemukan dan dipahami oleh pengguna." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "IS",
+    "profile_title": "Sang Jurnalis Penjelas",
+    "profile_tagline": "Seorang peneliti yang menerjemahkan topik rumit agar bisa dipahami dan bermanfaat bagi banyak orang.",
+    "reason_why": "Kamu memiliki rasa ingin tahu yang tak terbatas untuk memahami cara kerja dunia (Investigative) dan hasrat untuk berbagi pengetahuan itu dengan orang lain (Social). Kemampuanmu sebagai ENTP untuk melihat berbagai sudut pandang membuatmu menjadi seorang penjelas yang sangat baik, mampu menyederhanakan kerumitan tanpa kehilangan esensinya.",
+    "what_this_means": "Kamu akan menjadi seorang jurnalis sains, produser konten edukasi, atau dosen yang hebat. Kamu menikmati proses belajar tentang sesuatu yang rumit, lalu menemukan cara terbaik untuk 'mengemas' informasi itu—baik melalui tulisan, video, atau kuliah—sehingga audiensmu bisa tercerahkan. Kamu adalah seorang penerjemah ide.",
+    "strengths": ["Sangat baik dalam menyederhanakan konsep yang kompleks.", "Komunikator yang menarik dan antusias.", "Memiliki rasa ingin tahu yang luas di berbagai bidang.", "Mampu melihat hubungan antara topik-topik yang tampaknya tidak berhubungan."],
+    "weaknesses": ["Bisa jadi 'tahu sedikit tentang banyak hal' tapi tidak ahli di satu bidang.", "Mungkin cepat bosan dengan satu topik dan melompat ke topik lain.", "Cenderung lebih suka menjelaskan daripada mendengarkan.", "Bisa frustrasi dengan orang yang tidak cepat menangkap penjelasannya."],
+    "recommended_majors": [
+      { "name": "Jurnalistik (dengan peminatan sains atau data)", "reason": "Melatihmu untuk melakukan riset mendalam (Investigative) dan menuliskannya dengan cara yang menarik bagi publik (Social)." },
+      { "name": "Pendidikan (di tingkat menengah atau tinggi)", "reason": "Memberimu kesempatan untuk terus belajar (Investigative) dan berbagi pengetahuan itu dengan siswa (Social)." },
+      { "name": "Antropologi atau Sosiologi", "reason": "Mempelajari sistem sosial yang kompleks dan kemudian menjelaskan temuanmu melalui tulisan atau pengajaran." }
+    ],
+    "career_recommendations": [
+      { "name": "Jurnalis Sains atau Teknologi", "reason": "Menerjemahkan penelitian dan inovasi terbaru ke dalam bahasa yang bisa dimengerti oleh masyarakat umum." },
+      { "name": "Pembuat Konten Edukasi (Educational Content Creator)", "reason": "Membuat video, podcast, atau blog yang menjelaskan berbagai topik menarik, dari sejarah hingga fisika kuantum." },
+      { "name": "Dosen atau Peneliti Akademik", "reason": "Melakukan riset orisinal dan membagikan hasilnya melalui pengajaran dan publikasi." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "IC",
+    "profile_title": "Sang Analis Sistem Cerdas",
+    "profile_tagline": "Seorang pemecah masalah yang merancang sistem yang lebih baik berdasarkan data yang akurat.",
+    "reason_why": "Kamu menggabungkan rasa ingin tahu yang mendalam untuk memahami sebuah sistem (Investigative) dengan apresiasi terhadap akurasi, data, dan proses yang terstruktur (Conventional). Sebagai seorang ENTP, kamu tidak hanya menerima data apa adanya; kamu menginterogasinya, mencari anomali, dan menggunakannya untuk membangun model atau sistem yang lebih logis.",
+    "what_this_means": "Kamu adalah seorang detektif data. Kamu berkembang dalam peran di mana kamu bisa menyelami kumpulan data yang besar dan rumit untuk menemukan pola, wawasan, dan kebenaran yang tersembunyi. Kamu adalah tipe orang yang akan merancang sistem database yang lebih efisien, membangun model keuangan yang lebih akurat, atau mengotomatiskan alur kerja yang berantakan.",
+    "strengths": ["Kemampuan analisis kuantitatif yang sangat kuat.", "Sangat baik dalam menemukan pola dan anomali dalam data.", "Mampu merancang sistem yang logis dan efisien.", "Berpikir kritis dan tidak mudah menerima asumsi."],
+    "weaknesses": ["Bisa menjadi tidak sabar dengan data yang tidak bersih atau tidak lengkap.", "Mungkin kurang tertarik pada aspek subjektif atau 'manusia' dari sebuah masalah.", "Cenderung lebih suka bekerja dengan data daripada mempresentasikannya.", "Bisa terjebak dalam detail analisis dan lupa pada gambaran besarnya."],
+    "recommended_majors": [
+      { "name": "Sains Data atau Statistika", "reason": "Secara langsung melatihmu untuk menganalisis data (Investigative) dengan metode yang teliti dan akurat (Conventional)." },
+      { "name": "Ilmu Aktuaria atau Keuangan Kuantitatif", "reason": "Menggunakan model matematika yang kompleks (Investigative) untuk menganalisis risiko berdasarkan data historis (Conventional)." },
+      { "name": "Sistem Informasi", "reason": "Fokus pada perancangan dan pengelolaan database dan sistem informasi yang efisien dan terstruktur." }
+    ],
+    "career_recommendations": [
+      { "name": "Ilmuwan Data (Data Scientist)", "reason": "Menggunakan data untuk menjawab pertanyaan bisnis yang kompleks, membangun model prediktif, dan memberikan wawasan strategis." },
+      { "name": "Analis Kuantitatif (Quant Analyst)", "reason": "Bekerja di industri keuangan, merancang model algoritma trading yang kompleks berdasarkan analisis data pasar." },
+      { "name": "Analis Intelijen (Intelligence Analyst)", "reason": "Menganalisis data dari berbagai sumber untuk memberikan wawasan keamanan atau bisnis yang strategis." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "IR",
+    "profile_title": "Sang Insinyur Penemu",
+    "profile_tagline": "Seorang penjelajah ide yang membuktikan konsepnya dengan membangun prototipe nyata.",
+    "reason_why": "Kamu memiliki rasa ingin tahu seorang ilmuwan (Investigative) dan keterampilan seorang insinyur (Realistic). Kemampuanmu sebagai ENTP untuk menghasilkan banyak ide kamu terapkan pada dunia fisik. Kamu tidak hanya bertanya 'bagaimana jika?', kamu langsung mencoba membuatnya di bengkel atau lab.",
+    "what_this_means": "Kamu adalah seorang penemu di hati. Kamu berkembang saat diberi tantangan teknis yang tampaknya mustahil. Kamu menikmati proses dari riset teoretis, merancang solusi di atas kertas, hingga membangun dan menguji prototipe pertama. Kamu adalah jembatan antara sains murni dan rekayasa terapan.",
+    "strengths": ["Sangat baik dalam pemecahan masalah (troubleshooting) teknis.", "Kreatif dalam menemukan solusi rekayasa yang tidak konvensional.", "Memiliki pemahaman yang kuat dari teori hingga praktik.", "Tidak takut untuk gagal dan mencoba lagi."],
+    "weaknesses": ["Bisa cepat bosan begitu masalah teknisnya terpecahkan.", "Mungkin kurang tertarik pada proses produksi massal atau standardisasi.", "Cenderung lebih suka memulai proyek baru daripada memelihara yang sudah ada.", "Dokumentasi atau pekerjaan administratif terasa membosankan."],
+    "recommended_majors": [
+      { "name": "Teknik Mesin atau Teknik Elektro (dengan fokus R&D)", "reason": "Memberikanmu dasar rekayasa yang kuat (Realistic) untuk bereksperimen dengan ide-ide dan teknologi baru (Investigative)." },
+      { "name": "Mekatronika atau Robotika", "reason": "Bidang interdisipliner yang sempurna untuk menggabungkan riset (Investigative) dengan pembangunan sistem elektromekanis yang nyata (Realistic)." },
+      { "name": "Fisika Teknik (Engineering Physics)", "reason": "Menjembatani antara penemuan dalam fisika murni dengan aplikasi rekayasa praktis." }
+    ],
+    "career_recommendations": [
+      { "name": "Insinyur Riset dan Pengembangan (R&D Engineer)", "reason": "Bekerja di lab untuk menciptakan teknologi atau produk generasi berikutnya." },
+      { "name": "Spesialis Prototyping", "reason": "Fokus pada pembuatan model kerja pertama dari sebuah ide, mengubah konsep menjadi sesuatu yang bisa diuji." },
+      { "name": "Penemu atau Konsultan Teknik Independen", "reason": "Memecahkan berbagai masalah teknis yang menantang untuk klien yang berbeda-beda." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "AE",
+    "profile_title": "Sang Provokator Kreatif",
+    "profile_tagline": "Seorang seniman konseptual yang karyanya memicu perdebatan dan mengubah cara pandang.",
+    "reason_why": "Dorongan utamamu adalah untuk menciptakan sesuatu yang baru dan menantang (Artistic), dan kamu menggunakan karyamu sebagai platform untuk memengaruhi dan memprovokasi pemikiran (Enterprising). Sifat ENTP-mu yang suka berdebat kamu salurkan melalui medium seni.",
+    "what_this_means": "Kamu adalah tipe seniman yang karyanya lebih dari sekadar estetika; ia memiliki pesan, argumen, atau pertanyaan. Kamu mungkin seorang sutradara film dengan komentar sosial yang tajam, seorang penulis satir, atau seorang seniman pertunjukan yang menantang norma-norma sosial. Kamu ingin karyamu memulai percakapan.",
+    "strengths": ["Sangat konseptual dan provokatif.", "Mampu menghasilkan karya yang orisinal dan tak terlupakan.", "Pandai 'menjual' atau menjelaskan konsep di balik karyanya.", "Tidak takut untuk menjadi kontroversial."],
+    "weaknesses": ["Karyanya mungkin terlalu 'niche' atau sulit diterima oleh audiens umum.", "Bisa dianggap lebih mementingkan ide daripada eksekusi teknis.", "Cenderung menolak kritik yang tidak memahami konsepnya.", "Membutuhkan kebebasan artistik yang mutlak."],
+    "recommended_majors": [
+      { "name": "Seni Rupa Kontemporer", "reason": "Memberimu kebebasan untuk mengeksplorasi berbagai medium (Artistic) untuk menyampaikan ide-ide yang menantang (Enterprising)." },
+      { "name": "Penulisan Kreatif (dengan fokus pada satir atau drama)", "reason": "Menggunakan kata-kata untuk membangun argumen dan memprovokasi pemikiran melalui cerita." },
+      { "name": "Studi Media atau Cultural Studies", "reason": "Menganalisis budaya populer untuk kemudian kamu dekonstruksi dan ciptakan ulang melalui karyamu." }
+    ],
+    "career_recommendations": [
+      { "name": "Seniman Konseptual atau Sutradara Film Eksperimental", "reason": "Menciptakan karya yang lebih fokus pada ide dan pertanyaan daripada narasi atau estetika tradisional." },
+      { "name": "Penulis Satir atau Komedian", "reason": "Menggunakan humor dan ironi untuk mengkritik masyarakat dan kekuasaan." },
+      { "name": "Kritikus Seni atau Budaya", "reason": "Menganalisis karya orang lain dan memicu perdebatan tentang makna dan dampaknya." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "AI",
+    "profile_title": "Sang Desainer Inovatif",
+    "profile_tagline": "Seorang pemecah masalah kreatif yang merancang sistem dan pengalaman baru.",
+    "reason_why": "Kamu menggabungkan dorongan untuk menciptakan sesuatu yang orisinal dan estetis (Artistic) dengan hasrat untuk memahami cara kerja sistem secara mendalam (Investigative). Sebagai seorang ENTP, kamu unggul dalam brainstorming solusi desain yang tidak hanya indah tetapi juga cerdas dan fungsional.",
+    "what_this_means": "Kamu adalah seorang desainer dalam arti yang luas. Kamu bisa merancang apa saja, mulai dari aplikasi, furnitur, hingga alur kerja sebuah organisasi. Kamu menikmati proses memahami sebuah masalah secara menyeluruh, lalu menghasilkan banyak sekali solusi kreatif, dan akhirnya menyempurnakannya menjadi sebuah desain yang elegan.",
+    "strengths": ["Sangat kreatif dan penuh ide.", "Mampu berpikir secara sistemik dalam proses desain.", "Baik dalam menghubungkan kebutuhan pengguna dengan solusi desain yang inovatif.", "Selalu mempertanyakan 'mengapa' di balik setiap keputusan desain."],
+    "weaknesses": ["Bisa kesulitan untuk berhenti pada satu desain dan menyatakannya selesai.", "Cenderung lebih menikmati fase ideasi daripada produksi detail.", "Mungkin menolak untuk mengikuti panduan merek (brand guidelines) yang kaku.", "Perlu lingkungan yang merangsang secara intelektual dan kreatif."],
+    "recommended_majors": [
+      { "name": "Desain Produk Industri", "reason": "Memberimu kesempatan untuk merancang (Artistic) objek fungsional berdasarkan riset tentang kebutuhan dan material (Investigative)." },
+      { "name": "Desain Komunikasi Visual (DKV)", "reason": "Menggunakan kreativitas visual (Artistic) untuk memecahkan masalah komunikasi berdasarkan analisis audiens dan pesan (Investigative)." },
+      { "name": "Arsitektur", "reason": "Bidang klasik yang menggabungkan perancangan ruang yang estetis dengan pemahaman teknis dan fungsional yang mendalam." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Produk atau Industri", "reason": "Merancang produk fisik yang memecahkan masalah nyata bagi pengguna dengan cara yang inovatif." },
+      { "name": "Desainer UI/UX", "reason": "Fokus pada perancangan pengalaman digital yang tidak hanya mudah digunakan tetapi juga menyenangkan dan cerdas." },
+      { "name": "Konsultan Desain", "reason": "Membantu berbagai perusahaan memecahkan masalah mereka melalui proses 'design thinking' yang kreatif dan analitis." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "AR",
+    "profile_title": "Sang Penemu Kreatif",
+    "profile_tagline": "Seorang seniman yang 'bengkel'-nya adalah laboratorium untuk ide-ide liar.",
+    "reason_why": "Dorongan utamamu adalah untuk berekspresi secara kreatif dan orisinal (Artistic), dan kamu memilih medium fisik yang nyata dan membutuhkan keterampilan tangan (Realistic). Sifat ENTP-mu membuatmu menjadi seorang eksperimentalis, selalu mencoba teknik dan material baru untuk mewujudkan visimu.",
+    "what_this_means": "Kamu adalah tipe kreator yang suka membuat sesuatu dengan tanganmu sendiri. Kamu mungkin seorang pematung yang bekerja dengan logam dan las, seorang desainer busana yang menciptakan siluet baru, atau seorang penemu yang membuat gadget unik di garasi. Bagimu, proses mencoba dan membuat adalah bagian dari seni itu sendiri.",
+    "strengths": ["Sangat inovatif dan eksperimental.", "Memiliki keterampilan teknis dan visi artistik.", "Tidak takut untuk mencoba hal-hal yang belum pernah dilakukan sebelumnya.", "Pemecah masalah yang kreatif saat menghadapi keterbatasan material."],
+    "weaknesses": ["Proyek-proyekmu mungkin tidak selalu praktis atau komersial.", "Cenderung cepat bosan dan beralih ke proyek baru sebelum yang lama selesai.", "Membutuhkan banyak ruang dan peralatan untuk bekerja.", "Bisa jadi kurang terorganisir dalam mengelola studio atau bengkel."],
+    "recommended_majors": [
+      { "name": "Seni Rupa (Peminatan Patung, Seni Media Baru)", "reason": "Memberimu kebebasan untuk bereksperimen (Artistic) dengan berbagai material dan teknologi fisik (Realistic)." },
+      { "name": "Desain Mode (Fashion Design)", "reason": "Menciptakan pakaian yang tidak hanya ekspresif tetapi juga membutuhkan keterampilan teknis dalam pembuatan pola dan menjahit." },
+      { "name": "Kriya (Craft)", "reason": "Fokus pada penguasaan keterampilan tangan (Realistic) untuk menciptakan objek seni atau fungsional (Artistic)." }
+    ],
+    "career_recommendations": [
+      { "name": "Seniman Media Campuran (Mixed Media Artist)", "reason": "Menciptakan karya seni dengan menggabungkan berbagai material dan teknik yang tidak konvensional." },
+      { "name": "Desainer Properti (Props Designer) untuk Film atau Teater", "reason": "Membuat objek-objek unik dan fungsional yang dibutuhkan untuk sebuah produksi." },
+      { "name": "Penemu atau Pembuat Prototipe Independen", "reason": "Menghabiskan waktu di bengkel untuk menciptakan dan menguji ide-ide produk baru." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "AS",
+    "profile_title": "Sang Antropolog Debat",
+    "profile_tagline": "Seorang pencerita yang menggunakan kreativitas untuk membuat orang memahami satu sama lain.",
+    "reason_why": "Kamu menggabungkan hasrat untuk berekspresi secara kreatif (Artistic) dengan minat yang tulus untuk memahami dan terhubung dengan orang lain (Social). Kemampuanmu sebagai ENTP untuk melihat berbagai perspektif membuatmu sangat baik dalam menceritakan kisah manusia dengan cara yang baru dan menggugah empati.",
+    "what_this_means": "Kamu adalah seorang pencerita di hati. Kamu mungkin seorang penulis, pembuat film dokumenter, atau jurnalis humanis. Kamu tertarik pada cerita-cerita individu dan bagaimana cerita-cerita itu mencerminkan isu sosial yang lebih besar. Kamu menggunakan kreativitasmu untuk menjembatani perbedaan dan mendorong dialog.",
+    "strengths": ["Pencerita yang menarik dan empatik.", "Mampu melihat sebuah isu dari berbagai sudut pandang.", "Kreatif dalam menemukan cara baru untuk menyampaikan sebuah pesan.", "Pandai memicu percakapan dan diskusi yang bermakna."],
+    "weaknesses": ["Bisa kesulitan untuk tetap objektif dan tidak memihak dalam ceritanya.", "Pekerjaan bisa sangat menguras emosi.", "Mungkin idealis dan kecewa jika karyanya tidak menciptakan dampak yang diharapkan.", "Cenderung lebih suka tahap penceritaan daripada riset data yang mendalam."],
+    "recommended_majors": [
+      { "name": "Jurnalistik atau Penulisan Kreatif", "reason": "Melatihmu untuk menceritakan kisah (Artistic) tentang manusia dan masyarakat (Social) dengan cara yang kuat dan etis." },
+      { "name": "Antropologi Visual", "reason": "Menggunakan media seperti fotografi atau film (Artistic) untuk mendokumentasikan dan memahami berbagai budaya (Social)." },
+      { "name": "Studi Teater atau Pertunjukan", "reason": "Mengeksplorasi kondisi manusia melalui penciptaan drama dan pertunjukan." }
+    ],
+    "career_recommendations": [
+      { "name": "Jurnalis Feature atau Penulis Majalah", "reason": "Menulis cerita-cerita mendalam tentang profil orang, tempat, atau fenomena budaya." },
+      { "name": "Sutradara Film Dokumenter", "reason": "Menciptakan film yang memberikan suara kepada individu atau komunitas dan mengeksplorasi isu-isu sosial." },
+      { "name": "Penulis Naskah (Screenwriter)", "reason": "Menciptakan karakter dan cerita yang kompleks yang membuat penonton berpikir dan merasakan." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "AC",
+    "profile_title": "Sang Komunikator Visual",
+    "profile_tagline": "Seorang desainer yang menciptakan sistem komunikasi visual yang cerdas dan teratur.",
+    "reason_why": "Kamu menggabungkan hasrat untuk kreativitas dan ekspresi (Artistic) dengan penghargaan terhadap struktur, presisi, dan keteraturan (Conventional). Sebagai seorang ENTP, kamu tidak hanya membuat sesuatu yang indah; kamu merancang sistem visual yang logis, konsisten, dan efisien dalam menyampaikan informasi.",
+    "what_this_means": "Kamu sangat cocok untuk peran seperti desainer branding, desainer UI, atau arsitek informasi. Kamu menikmati tantangan untuk mengambil informasi yang kompleks atau identitas merek dan menerjemahkannya ke dalam seperangkat aturan visual (logo, tipografi, warna, layout) yang koheren. Kamu menciptakan keteraturan yang kreatif.",
+    "strengths": ["Mampu menciptakan sistem desain yang kuat dan konsisten.", "Kombinasi yang baik antara kreativitas dan pemikiran terstruktur.", "Sangat teliti dalam detail-detail desain seperti tipografi dan grid.", "Baik dalam merancang solusi komunikasi yang jelas dan efektif."],
+    "weaknesses": ["Bisa menjadi sangat argumentatif tentang keputusan desainnya.", "Mungkin tidak suka bekerja pada proyek yang tidak memiliki tantangan sistemik.", "Cenderung lebih menikmati perancangan sistemnya daripada eksekusi setiap item desain.", "Bisa frustrasi jika klien atau tim tidak mengikuti panduan yang telah dibuat."],
+    "recommended_majors": [
+      { "name": "Desain Komunikasi Visual (DKV)", "reason": "Tempat yang sempurna untuk mempelajari cara membangun sistem identitas visual (branding) dan desain antarmuka (UI) yang terstruktur." },
+      { "name": "Desain Web", "reason": "Menggabungkan estetika visual (Artistic) dengan struktur kode dan standar aksesibilitas (Conventional)." },
+      { "name": "Arsitektur Informasi", "reason": "Fokus pada pengorganisasian konten digital secara logis dan teratur untuk kemudahan penggunaan." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Merek (Brand Designer)", "reason": "Menciptakan dan mengelola seluruh sistem identitas visual sebuah perusahaan, dari logo hingga materi pemasaran." },
+      { "name": "Desainer UI (User Interface Designer)", "reason": "Fokus pada perancangan komponen visual dari sebuah aplikasi atau situs web, memastikan konsistensi dan kejelasan." },
+      { "name": "Desainer Grafis (spesialisasi layout atau tipografi)", "reason": "Menjadi ahli dalam menata informasi di halaman, baik cetak maupun digital, dengan cara yang teratur dan indah." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "SI",
+    "profile_title": "Sang Fasilitator Pengetahuan",
+    "profile_tagline": "Seorang komunikator yang suka memicu diskusi dan membantu orang belajar dari satu sama lain.",
+    "reason_why": "Dorongan utamamu adalah untuk berinteraksi dan membantu orang lain (Social), dan caramu melakukannya adalah dengan memicu rasa ingin tahu, mengajukan pertanyaan, dan berbagi pengetahuan (Investigative). Sifat ENTP-mu yang dinamis dan suka berdebat membuatmu menjadi seorang guru atau fasilitator yang sangat menarik.",
+    "what_this_means": "Kamu tidak mengajar dengan cara menggurui; kamu mengajar dengan cara memprovokasi pemikiran. Kamu adalah tipe dosen yang kelasnya selalu penuh dengan diskusi dan perdebatan yang hidup. Kamu menikmati proses melemparkan sebuah ide atau masalah ke sebuah kelompok dan melihat mereka menganalisisnya bersama-sama. Kamu adalah katalisator pembelajaran.",
+    "strengths": ["Sangat menarik dan energik dalam mengajar atau presentasi.", "Mampu membuat topik yang rumit menjadi relevan dan menarik.", "Pandai memfasilitasi diskusi dan perdebatan yang produktif.", "Mendorong orang lain untuk berpikir kritis."],
+    "weaknesses": ["Bisa jadi mendominasi diskusi tanpa disadari.", "Mungkin kurang sabar dengan siswa yang lebih lambat atau kurang partisipatif.", "Cenderung lebih fokus pada ide-ide besar daripada detail kurikulum.", "Membutuhkan kebebasan akademik dan tidak suka mengikuti metode pengajaran yang kaku."],
+    "recommended_majors": [
+      { "name": "Pendidikan atau Psikologi Pendidikan", "reason": "Mempelajari teori tentang bagaimana orang belajar (Investigative) sehingga kamu bisa menciptakan lingkungan belajar yang efektif (Social)." },
+      { "name": "Sosiologi atau Antropologi", "reason": "Memberimu banyak sekali materi menarik tentang masyarakat (Investigative) untuk didiskusikan dan diajarkan kepada orang lain (Social)." },
+      { "name": "Filsafat", "reason": "Jurusan yang pada dasarnya adalah tentang belajar bagaimana cara bertanya, berdebat, dan menganalisis ide-ide besar." }
+    ],
+    "career_recommendations": [
+      { "name": "Dosen atau Guru (terutama di bidang ilmu sosial atau humaniora)", "reason": "Memimpin diskusi di kelas, melakukan riset, dan menginspirasi mahasiswa untuk berpikir secara mandiri." },
+      { "name": "Fasilitator atau Pelatih Perusahaan (Corporate Trainer)", "reason": "Merancang dan memimpin lokakarya (workshop) tentang topik-topik seperti kepemimpinan, kreativitas, atau pemecahan masalah." },
+      { "name": "Jurnalis atau Pembawa Acara Talk Show", "reason": "Mengajukan pertanyaan-pertanyaan tajam kepada narasumber untuk menggali informasi dan mencerahkan publik." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "SR",
+    "profile_title": "Sang Pelatih Inovatif",
+    "profile_tagline": "Seorang mentor yang menemukan cara-cara baru yang lebih baik untuk mengajarkan keterampilan praktis.",
+    "reason_why": "Kamu memiliki keinginan untuk membantu orang lain berkembang (Social) dan minat pada hal-hal yang nyata dan berbasis keterampilan (Realistic). Sebagai seorang ENTP, kamu tidak hanya akan mengajarkan metode yang ada; kamu akan terus-menerus bereksperimen dan menemukan teknik atau strategi pelatihan yang lebih efektif.",
+    "what_this_means": "Kamu adalah tipe pelatih yang akan menantang metode-metode konvensional. Kamu mungkin seorang pelatih olahraga yang menerapkan analisis data, seorang instruktur musik yang menemukan cara baru untuk mengajarkan teori, atau seorang terapis fisik yang merancang alat bantu inovatif. Kamu membantu orang lain dengan cara yang cerdas dan praktis.",
+    "strengths": ["Inovatif dalam metode pengajaran atau pelatihan.", "Mampu memotivasi dan menantang orang lain untuk berkembang.", "Berorientasi pada hasil yang nyata dan terukur.", "Komunikator yang energik dan menarik."],
+    "weaknesses": ["Bisa menjadi tidak sabar dengan orang yang tidak mau mencoba cara-cara baru.", "Mungkin kurang konsisten dalam menerapkan satu metode jangka panjang.", "Cenderung lebih fokus pada potensi dan peningkatan daripada merayakan keberhasilan kecil.", "Membutuhkan variasi dan tantangan baru agar tidak bosan."],
+    "recommended_majors": [
+      { "name": "Ilmu Keolahragaan atau Kinesiologi", "reason": "Mempelajari ilmu di balik gerakan manusia (Realistic) sehingga kamu bisa melatih atlet (Social) dengan cara yang lebih cerdas dan berbasis data." },
+      { "name": "Fisioterapi atau Terapi Okupasi", "reason": "Membantu pasien memulihkan fungsi fisik (Realistic) melalui program rehabilitasi yang dirancang secara kreatif dan personal." },
+      { "name": "Pendidikan Kejuruan", "reason": "Mengajarkan keterampilan teknis (Realistic) kepada siswa dengan metode yang menarik dan inovatif." }
+    ],
+    "career_recommendations": [
+      { "name": "Pelatih Olahraga atau Analis Kinerja (Performance Analyst)", "reason": "Menggunakan data dan teknologi untuk membantu atlet mencapai potensi maksimal mereka." },
+      { "name": "Terapis Fisik atau Okupasi", "reason": "Merancang program rehabilitasi yang kreatif untuk membantu pasien mencapai tujuan mereka." },
+      { "name": "Konsultan Pengembangan Keterampilan", "reason": "Bekerja dengan individu atau organisasi untuk menemukan cara-cara baru yang lebih efektif untuk belajar dan bekerja." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "SA",
+    "profile_title": "Sang Provokator Empatik",
+    "profile_tagline": "Seorang komunikator yang menggunakan kreativitas dan humor untuk membangun jembatan antar manusia.",
+    "reason_why": "Kamu menggabungkan keinginan untuk terhubung dan membantu orang lain (Social) dengan dorongan untuk berekspresi secara orisinal, cerdas, dan seringkali jenaka (Artistic). Sifat ENTP-mu membuatmu menjadi seorang pengamat sosial yang tajam, mampu menunjukkan keanehan dan keindahan dalam interaksi manusia melalui caramu yang unik.",
+    "what_this_means": "Kamu adalah tipe orang yang bisa menjadi seorang stand-up comedian, penulis naskah sitkom, atau seorang konselor dengan pendekatan yang tidak konvensional. Kamu menggunakan humor dan kreativitas untuk membuat orang merasa nyaman, membuka diri, dan melihat masalah mereka dari perspektif yang baru. Kamu menyembuhkan dengan tawa dan wawasan.",
+    "strengths": ["Sangat cerdas, jenaka, dan cepat berpikir.", "Mampu membuat orang lain merasa nyaman dan tertawa.", "Memiliki pemahaman yang tajam tentang dinamika sosial.", "Kreatif dalam menemukan cara untuk terhubung dengan orang lain."],
+    "weaknesses": ["Humormu kadang bisa disalahartikan atau dianggap tidak sensitif.", "Bisa kesulitan untuk serius dalam situasi yang sangat formal.", "Cenderung menghindari atau meremehkan emosi yang dalam dan negatif.", "Membutuhkan banyak rangsangan sosial dan bisa cepat bosan."],
+    "recommended_majors": [
+      { "name": "Psikologi atau Konseling", "reason": "Memberikanmu dasar untuk memahami manusia (Social), yang bisa kamu padukan dengan pendekatanmu yang kreatif dan 'out-of-the-box' (Artistic)." },
+      { "name": "Teater (terutama komedi atau improvisasi)", "reason": "Tempat yang sempurna untuk mengasah kemampuanmu dalam mengamati perilaku manusia dan mengubahnya menjadi pertunjukan." },
+      { "name": "Studi Komunikasi", "reason": "Mempelajari cara pesan dibentuk dan diterima, memberimu alat untuk berkomunikasi dengan lebih efektif dan persuasif." }
+    ],
+    "career_recommendations": [
+      { "name": "Terapis atau Konselor", "reason": "Menggunakan kecerdasan dan humor-mu untuk membangun hubungan dengan klien dan membantu mereka melihat masalah dari sudut pandang baru." },
+      { "name": "Penulis Naskah (khususnya komedi)", "reason": "Menciptakan karakter dan dialog yang secara cerdas mengomentari kehidupan sosial." },
+      { "name": "Stand-up Comedian atau Pembawa Acara", "reason": "Menggunakan panggung untuk berbagi pengamatan tajammu tentang dunia dengan cara yang menghibur." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "SE",
+    "profile_title": "Sang Katalisator Sosial",
+    "profile_tagline": "Seorang pemimpin karismatik yang menyatukan orang untuk menciptakan perubahan dan dampak.",
+    "reason_why": "Ini adalah kombinasi ENTP yang sangat berorientasi pada orang. Dorongan utamamu adalah untuk berinteraksi dan memberdayakan orang lain (Social), dan kamu melakukannya dengan cara memimpin, mengorganisir, dan menginspirasi mereka (Enterprising). Kamu adalah seorang pembangun komunitas alami.",
+    "what_this_means": "Kamu adalah tipe orang yang akan menjadi jantung dari setiap organisasi atau gerakan. Kamu pandai melihat potensi dalam diri orang lain dan menyatukan mereka untuk bekerja menuju tujuan bersama. Kamu adalah seorang negosiator, motivator, dan ahli strategi sosial. Kamu berkembang saat kamu bisa melihat dampak langsung dari usahamu pada sebuah komunitas.",
+    "strengths": ["Sangat karismatik dan pandai membangun jaringan.", "Mampu menginspirasi dan memobilisasi orang banyak.", "Pemimpin yang energik dan optimis.", "Strategis dalam mencapai tujuan sosial atau organisasi."],
+    "weaknesses": ["Bisa jadi terlalu banyak berjanji dan kesulitan menepati semuanya.", "Mungkin kurang fokus pada detail administratif dari sebuah proyek.", "Cenderung menghindari konflik internal untuk menjaga keharmonisan.", "Sangat bergantung pada energi dan umpan balik dari orang lain."],
+    "recommended_majors": [
+      { "name": "Manajemen Sumber Daya Manusia (SDM)", "reason": "Mempelajari cara mengelola dan mengembangkan aset paling penting dalam sebuah organisasi: manusianya." },
+      { "name": "Ilmu Politik atau Administrasi Publik", "reason": "Fokus pada bagaimana cara memimpin dan mengelola organisasi atau gerakan untuk menciptakan dampak sosial yang luas." },
+      { "name": "Kewirausahaan Sosial (Social Entrepreneurship)", "reason": "Menggabungkan prinsip-prinsip bisnis untuk memecahkan masalah-masalah sosial." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Komunitas (Community Manager)", "reason": "Membangun dan mengelola komunitas online atau offline untuk sebuah merek atau tujuan." },
+      { "name": "Politisi atau Manajer Kampanye", "reason": "Memobilisasi pemilih dan sukarelawan untuk memenangkan pemilihan dan memperjuangkan sebuah agenda." },
+      { "name": "Pendiri Organisasi Nirlaba", "reason": "Membangun sebuah organisasi dari nol yang didedikasikan untuk memecahkan masalah sosial tertentu." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "SC",
+    "profile_title": "Sang Arsitek Proses Manusia",
+    "profile_tagline": "Seorang organisator yang merancang sistem yang lebih baik untuk membantu orang bekerja sama.",
+    "reason_why": "Kamu menggabungkan keinginan untuk membantu dan bekerja dengan orang lain (Social) dengan apresiasi terhadap struktur, data, dan efisiensi (Conventional). Sebagai seorang ENTP, kamu tidak hanya menjalankan sistem yang ada; kamu secara aktif mencari cara untuk memperbaikinya agar lebih mudah dan lebih efektif bagi semua orang.",
+    "what_this_means": "Kamu adalah tipe orang yang akan merevolusi departemen HR atau merancang sistem manajemen proyek yang disukai semua orang. Kamu menikmati tantangan untuk melihat bagaimana orang bekerja, mengidentifikasi 'kemacetan' atau frustrasi dalam alur kerja, dan kemudian merancang solusi atau sistem baru yang lebih cerdas. Kamu adalah seorang insinyur proses sosial.",
+    "strengths": ["Sangat baik dalam merancang alur kerja dan sistem yang efisien.", "Mampu memahami kebutuhan pengguna dan menerjemahkannya ke dalam spesifikasi sistem.", "Komunikator yang baik antara tim teknis dan non-teknis.", "Berorientasi pada solusi dan perbaikan berkelanjutan."],
+    "weaknesses": ["Bisa menjadi tidak sabar dengan orang yang menolak untuk mengikuti sistem baru.", "Mungkin kurang tertarik pada pekerjaan sosial yang tidak memiliki komponen perbaikan sistem.", "Cenderung fokus pada efisiensi proses daripada hubungan personal yang mendalam.", "Perlu terus diberi masalah baru untuk dipecahkan agar tidak bosan."],
+    "recommended_majors": [
+      { "name": "Manajemen Sumber Daya Manusia (SDM)", "reason": "Fokus pada perancangan sistem untuk rekrutmen, pelatihan, dan evaluasi kinerja yang lebih efektif dan adil." },
+      { "name": "Sistem Informasi", "reason": "Mempelajari cara merancang dan mengimplementasikan solusi teknologi untuk meningkatkan cara orang bekerja dan berkolaborasi." },
+      { "name": "Psikologi Industri dan Organisasi (PIO)", "reason": "Mempelajari perilaku manusia di tempat kerja untuk merancang lingkungan dan proses kerja yang lebih baik." }
+    ],
+    "career_recommendations": [
+      { "name": "Spesialis Sistem HR (HRIS Analyst)", "reason": "Mengelola dan mengoptimalkan perangkat lunak dan sistem yang digunakan oleh departemen SDM." },
+      { "name": "Manajer Proyek (Project Manager)", "reason": "Menerapkan dan mengelola sistem (seperti Scrum atau Kanban) untuk membantu tim bekerja lebih efektif." },
+      { "name": "Konsultan Proses Bisnis", "reason": "Membantu perusahaan memetakan alur kerja mereka saat ini dan merancang ulang untuk efisiensi yang lebih tinggi." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "CI",
+    "profile_title": "Sang Pemecah Kode",
+    "profile_tagline": "Seorang analis sistem yang menemukan pola tersembunyi dalam data yang terstruktur.",
+    "reason_why": "Dorongan utamamu adalah untuk bekerja dengan data dan aturan yang jelas (Conventional), tetapi kamu melakukannya dengan rasa ingin tahu dan dorongan untuk memahami 'mengapa' di balik sistem tersebut (Investigative). Sebagai seorang ENTP, kamu adalah seorang hacker dalam arti klasiknya: seseorang yang suka memahami sistem sampai ke akar-akarnya untuk membuatnya melakukan hal-hal baru.",
+    "what_this_means": "Kamu berkembang dalam peran di mana kamu bisa berinteraksi dengan sistem data yang kompleks. Kamu mungkin seorang programmer, analis data, atau bahkan seorang ahli kriptografi. Kamu menikmati tantangan untuk menemukan kelemahan dalam sebuah sistem, mengoptimalkan sebuah algoritma, atau menemukan wawasan baru dari kumpulan data yang tampaknya biasa saja.",
+    "strengths": ["Kemampuan analisis logis dan pemecahan masalah yang luar biasa.", "Sangat baik dalam menemukan pola dan anomali.", "Mampu memahami sistem yang sangat kompleks dan abstrak.", "Tidak mudah menyerah saat menghadapi tantangan intelektual yang sulit."],
+    "weaknesses": ["Bisa jadi kurang tertarik pada pekerjaan yang tidak memiliki komponen analitis yang mendalam.", "Mungkin tidak sabar dengan aturan atau prosedur yang tidak logis.", "Cenderung lebih suka bekerja sendiri pada masalah yang rumit.", "Bisa mengabaikan implikasi praktis atau bisnis dari analisisnya."],
+    "recommended_majors": [
+      { "name": "Ilmu Komputer atau Teknik Informatika", "reason": "Memberimu alat untuk membangun dan menganalisis sistem logis yang kompleks." },
+      { "name": "Matematika atau Statistika", "reason": "Memberikan dasar teoretis yang kuat untuk menganalisis data dan membangun model." },
+      { "name": "Keamanan Siber (Cybersecurity)", "reason": "Fokus pada analisis sistem untuk menemukan dan memperbaiki kerentanan." }
+    ],
+    "career_recommendations": [
+      { "name": "Pengembang Perangkat Lunak (Software Developer)", "reason": "Membangun dan memecahkan masalah dalam sistem perangkat lunak yang kompleks." },
+      { "name": "Analis Keamanan Siber (Cybersecurity Analyst)", "reason": "Bekerja seperti seorang detektif digital, mencari kelemahan dalam sistem untuk melindunginya dari serangan." },
+      { "name": "Analis Data atau Ilmuwan Data", "reason": "Menyelami data untuk menemukan wawasan, membangun model, dan memecahkan masalah bisnis." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "CR",
+    "profile_title": "Sang Insinyur Proses",
+    "profile_tagline": "Seorang ahli efisiensi yang merancang alur kerja yang lebih baik untuk dunia nyata.",
+    "reason_why": "Kamu menggabungkan minat pada aturan, data, dan efisiensi (Conventional) dengan fokus pada dunia fisik yang praktis dan nyata (Realistic). Sebagai seorang ENTP, kamu tidak hanya menjalankan proses yang ada; kamu secara aktif menganalisisnya dan menemukan cara-cara inovatif untuk membuatnya lebih cepat, lebih murah, dan lebih baik.",
+    "what_this_means": "Kamu sangat cocok untuk peran di bidang teknik industri, manajemen rantai pasok, atau logistik. Kamu adalah tipe orang yang bisa melihat lini perakitan sebuah pabrik dan langsung melihat tiga cara untuk membuatnya 10% lebih efisien. Kamu menikmati tantangan untuk mengoptimalkan sistem di dunia nyata.",
+    "strengths": ["Sangat baik dalam analisis dan optimalisasi proses.", "Pemecah masalah yang praktis dan berorientasi pada data.", "Mampu melihat 'gambaran besar' dari sebuah alur kerja fisik.", "Selalu mencari cara yang lebih efisien untuk melakukan sesuatu."],
+    "weaknesses": ["Bisa menjadi tidak sabar dengan orang atau sistem yang tidak efisien.", "Mungkin kurang tertarik pada aspek kreativitas atau estetika dari sebuah produk.", "Cenderung fokus pada sistem dan proses daripada pada orang.", "Perlu lingkungan yang memberinya otonomi untuk melakukan perbaikan."],
+    "recommended_majors": [
+      { "name": "Teknik Industri", "reason": "Jurusan yang secara definisi adalah tentang merancang dan mengoptimalkan sistem produksi dan operasional." },
+      { "name": "Manajemen Rantai Pasok (Supply Chain Management)", "reason": "Fokus pada perancangan sistem yang efisien untuk memindahkan barang dari pemasok ke pelanggan." },
+      { "name": "Manajemen Operasional", "reason": "Mempelajari cara mengelola proses internal sebuah perusahaan untuk mencapai efisiensi dan kualitas maksimal." }
+    ],
+    "career_recommendations": [
+      { "name": "Insinyur Proses (Process Engineer)", "reason": "Menganalisis dan merancang ulang alur kerja di pabrik atau perusahaan untuk meningkatkan efisiensi." },
+      { "name": "Analis Logistik atau Rantai Pasok", "reason": "Menggunakan data untuk merencanakan dan mengoptimalkan rute pengiriman, tingkat inventaris, dan operasi gudang." },
+      { "name": "Konsultan Manufaktur", "reason": "Membantu berbagai perusahaan manufaktur menerapkan prinsip-prinsip 'lean' dan efisiensi lainnya." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "CA",
+    "profile_title": "Sang Arsitek Merek",
+    "profile_tagline": "Seorang ahli strategi visual yang merancang sistem identitas yang cerdas dan konsisten.",
+    "reason_why": "Dorongan utamamu adalah untuk bekerja dalam kerangka aturan dan sistem (Conventional), tetapi kamu menerapkannya pada dunia kreativitas dan ekspresi (Artistic). Sebagai seorang ENTP, kamu unggul dalam menciptakan 'aturan main' untuk sebuah merek—logo, palet warna, tipografi—yang tidak hanya indah, tetapi juga logis dan fleksibel.",
+    "what_this_means": "Kamu adalah seorang desainer branding atau desainer sistem yang ulung. Kamu menikmati tantangan untuk menciptakan sebuah identitas visual yang bisa diterapkan secara konsisten di berbagai media, dari kartu nama hingga aplikasi mobile. Kamu menciptakan kebebasan kreatif di dalam sebuah sistem yang teratur.",
+    "strengths": ["Sangat baik dalam pemikiran sistemik dalam desain.", "Mampu menciptakan identitas visual yang kuat dan koheren.", "Kombinasi yang baik antara kreativitas dan pemikiran terstruktur.", "Teliti dan memperhatikan detail-detail konsistensi."],
+    "weaknesses": ["Mungkin kurang tertarik pada proyek desain yang 'satu kali jadi' tanpa komponen sistem.", "Bisa menjadi sangat argumentatif dalam mempertahankan logika di balik sistem desainnya.", "Cenderung lebih menikmati perancangan sistemnya daripada eksekusi setiap item desain.", "Bisa frustrasi jika klien atau tim tidak mengikuti panduan yang telah dibuat."],
+    "recommended_majors": [
+      { "name": "Desain Komunikasi Visual (DKV)", "reason": "Sangat cocok untuk belajar tentang branding, tipografi, dan perancangan sistem visual lainnya." },
+      { "name": "Desain UI/UX", "reason": "Fokus pada perancangan sistem komponen dan pola desain yang konsisten untuk produk digital." },
+      { "name": "Arsitektur Informasi", "reason": "Merancang struktur dan klasifikasi informasi yang logis dan konsisten untuk situs web atau aplikasi." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Merek (Brand Designer) atau Ahli Strategi Merek (Brand Strategist)", "reason": "Membangun fondasi visual dan konseptual untuk identitas sebuah perusahaan." },
+      { "name": "Desainer Sistem Desain (Design System Designer)", "reason": "Menciptakan dan memelihara kumpulan komponen UI yang dapat digunakan kembali untuk memastikan konsistensi produk." },
+      { "name": "Direktur Seni (Art Director)", "reason": "Memastikan bahwa semua materi visual yang dihasilkan oleh sebuah tim sesuai dengan panduan merek yang telah ditetapkan." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "CS",
+    "profile_title": "Sang Pustakawan Digital",
+    "profile_tagline": "Seorang organisator informasi yang merancang cara yang lebih baik bagi orang untuk menemukan pengetahuan.",
+    "reason_why": "Kamu menggabungkan minat pada data yang terstruktur dan proses yang teratur (Conventional) dengan keinginan untuk membantu orang lain (Social). Sebagai seorang ENTP, kamu tidak hanya akan mengelola arsip; kamu akan merancang ulang sistem katalognya, menciptakan taksonomi yang lebih intuitif, dan menggunakan teknologi untuk membuat informasi lebih mudah diakses oleh semua orang.",
+    "what_this_means": "Kamu adalah seorang arsitek informasi atau pustakawan generasi baru. Kamu menikmati tantangan untuk mengambil sejumlah besar informasi yang berantakan dan memberinya struktur yang logis dan ramah pengguna. Kamu adalah jembatan antara data mentah dan orang-orang yang membutuhkannya.",
+    "strengths": ["Sangat baik dalam mengkategorikan dan menstrukturkan informasi.", "Mampu merancang sistem yang logis dan intuitif.", "Berpikir tentang kebutuhan pengguna saat merancang sistem.", "Inovatif dalam menggunakan teknologi untuk manajemen informasi."],
+    "weaknesses": ["Bisa menjadi tidak sabar dengan sistem yang sudah usang atau tidak efisien.", "Mungkin kurang tertarik pada interaksi tatap muka yang konstan dengan pengguna.", "Cenderung lebih fokus pada perancangan sistemnya daripada pemeliharaan rutin.", "Bisa frustrasi jika orang lain tidak menggunakan sistemnya dengan 'benar'."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan dan Informasi", "reason": "Jurusan klasik yang kini telah berkembang untuk mencakup manajemen database, arsitektur informasi, dan UX." },
+      { "name": "Manajemen Informasi atau Sistem Informasi", "reason": "Fokus pada bagaimana teknologi digunakan untuk mengelola data dan informasi dalam sebuah organisasi." },
+      { "name": "Desain UX (dengan fokus pada Arsitektur Informasi)", "reason": "Spesialisasi dalam merancang navigasi dan struktur konten dari sebuah produk digital." }
+    ],
+    "career_recommendations": [
+      { "name": "Arsitek Informasi", "reason": "Merancang struktur, navigasi, dan sistem pelabelan untuk situs web dan aplikasi agar mudah digunakan." },
+      { "name": "Pustakawan Digital atau Ahli Taksonomi", "reason": "Mengorganisir aset digital dan metadata dalam sebuah organisasi untuk memastikan semuanya dapat ditemukan." },
+      { "name": "Manajer Pengetahuan (Knowledge Manager)", "reason": "Menciptakan sistem bagi sebuah perusahaan untuk menangkap, menyimpan, dan berbagi pengetahuan internal secara efektif." }
+    ]
+  },
+  {
+    "mbti_type": "ENTP",
+    "riasec_code": "CE",
+    "profile_title": "Sang Negosiator Sistem",
+    "profile_tagline": "Seorang ahli strategi yang menggunakan data dan aturan untuk memenangkan negosiasi.",
+    "reason_why": "Dorongan utamamu adalah untuk bekerja dengan aturan, data, dan proses yang jelas (Conventional), dan kamu menggunakannya sebagai senjata dalam arena persuasi dan kepemimpinan (Enterprising). Sebagai seorang ENTP, kamu adalah master dalam menemukan celah, menafsirkan aturan, dan membangun argumen yang tak terbantahkan berdasarkan fakta.",
+    "what_this_means": "Kamu sangat cocok untuk peran di bidang hukum, keuangan, atau pengadaan (procurement). Kamu menikmati proses negosiasi yang kompleks di mana kamu bisa menggunakan pemahamanmu yang mendalam tentang aturan main untuk mendapatkan kesepakatan terbaik. Kamu adalah seorang pemain catur dalam dunia bisnis.",
+    "strengths": ["Sangat analitis dan strategis.", "Negosiator yang tangguh dan berbasis data.", "Mampu menemukan solusi kreatif di dalam batasan aturan.", "Sangat baik dalam membangun argumen yang logis dan terstruktur."],
+    "weaknesses": ["Bisa terlihat terlalu oportunistik atau 'licik' bagi orang lain.", "Mungkin kurang mempertimbangkan aspek hubungan jangka panjang dalam negosiasi.", "Cenderung melihat interaksi sebagai sebuah permainan untuk dimenangkan.", "Tidak sabar dengan orang yang mengambil keputusan berdasarkan emosi."],
+    "recommended_majors": [
+      { "name": "Hukum (terutama hukum korporat atau kontrak)", "reason": "Melatihmu untuk menjadi ahli dalam menafsirkan dan menggunakan aturan (Conventional) untuk keuntungan klienmu (Enterprising)." },
+      { "name": "Keuangan atau Akuntansi", "reason": "Memberimu pemahaman mendalam tentang data dan aturan keuangan, yang merupakan dasar dari banyak negosiasi bisnis." },
+      { "name": "Manajemen Rantai Pasok", "reason": "Fokus pada negosiasi kontrak dengan pemasok untuk mendapatkan harga dan syarat terbaik." }
+    ],
+    "career_recommendations": [
+      { "name": "Pengacara Korporat atau Spesialis Kontrak", "reason": "Merancang dan menegosiasikan kontrak yang melindungi kepentingan perusahaan." },
+      { "name": "Spesialis Pengadaan (Procurement Specialist) atau Manajer Pembelian", "reason": "Bertanggung jawab untuk menegosiasikan kesepakatan terbaik dengan pemasok dan vendor." },
+      { "name": "Bankir Investasi (Investment Banker)", "reason": "Terlibat dalam negosiasi kompleks untuk merger, akuisisi, dan transaksi keuangan besar lainnya." }
+    ]
+  }
+]
