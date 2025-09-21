@@ -1,52 +1,48 @@
-[
-  {
-    "mbti_type": "INTP",
-    "riasec_code": "IRC",
-    "display_name": "The Architect Analyst",
-    "description": "Seorang pemikir logis dan analitis yang gemar memecahkan masalah kompleks dan bekerja dengan ide-ide teoretis. Cenderung investigatif, realistis, dan konvensional.",
-    "recommendations": {
-      "majors": ["Teknik Informatika (AI, Data Science)", "Ilmu Komputer", "Fisika Murni", "Matematika", "Filsafat"],
-      "professions": ["AI Engineer", "Software Architect", "Data Scientist", "University Professor", "System Analyst"]
-    }
+{
+  "mbti_type": "INTP",
+  "riasec_code": "IR",
+  "profile_title": "The Analytical Theorist",
+  "profile_tagline": "A deep thinker who grounds abstract ideas in tangible reality.",
+  "profile_summary": "This profile combines the INTP's love for logical systems and theoretical models with the RIASEC 'Investigative' drive for research and the 'Realistic' preference for practical, hands-on application. You are likely someone who isn't just satisfied with knowing *how* something works in theory, but also feels compelled to build, test, or apply it in the real world.",
+  "strengths": [
+    "Deep analytical and problem-solving skills.",
+    "Ability to bridge the gap between abstract concepts and practical implementation.",
+    "Independent and self-sufficient in research and execution.",
+    "High standard for accuracy and logical consistency."
+  ],
+  "potential_challenges": [
+    "May become overly focused on theoretical details, delaying practical action.",
+    "Can be skeptical of established procedures without logical proof.",
+    "May prefer working alone, sometimes missing collaborative insights.",
+    "Struggles with emotionally-driven or subjective decision-making."
+  ],
+  "career_recommendations": {
+    "title": "Profesi yang Direkomendasikan",
+    "list": [
+      "AI/Robotics Engineer",
+      "Data Scientist",
+      "Astrophysicist",
+      "Software Architect",
+      "Biomedical Engineer",
+      "Systems Analyst"
+    ]
   },
-  {
-    "mbti_type": "ENTJ",
-    "riasec_code": "ECI",
-    "display_name": "The Strategic Commander",
-    "description": "Pemimpin alami yang tegas, visioner, dan efisien dalam mengorganisir sumber daya untuk mencapai tujuan jangka panjang. Cenderung berjiwa wirausaha, konvensional, dan investigatif.",
-    "recommendations": {
-      "majors": ["Manajemen Bisnis", "Hukum", "Ilmu Politik", "Teknik Industri", "Ekonomi Pembangunan"],
-      "professions": ["CEO / Executive", "Management Consultant", "Lawyer", "Entrepreneur", "Project Manager"]
-    }
+  "major_recommendations": {
+    "title": "Jurusan Kuliah yang Sesuai",
+    "list": [
+      "Ilmu Komputer (Spesialisasi AI & Machine Learning)",
+      "Teknik Elektro (Spesialisasi Robotika)",
+      "Fisika Murni atau Terapan",
+      "Matematika",
+      "Bioinformatika"
+    ]
   },
-  {
-    "mbti_type": "ISFP",
-    "riasec_code": "ASR",
-    "display_name": "The Artistic Adventurer",
-    "description": "Individu yang artistik, menawan, dan spontan, yang menikmati keindahan dan pengalaman baru. Cenderung artistik, sosial, dan realistis.",
-    "recommendations": {
-      "majors": ["Desain Komunikasi Visual", "Seni Rupa", "Desain Interior", "Pariwisata", "Musik"],
-      "professions": ["Graphic Designer", "Fashion Designer", "Musician", "Chef", "Photographer"]
-    }
-  },
-  {
-    "mbti_type": "ENFP",
-    "riasec_code": "SAI",
-    "display_name": "The Inspiring Advocate",
-    "description": "Individu yang antusias dan imajinatif, didorong oleh interaksi sosial dan keinginan untuk membantu orang lain. Cenderung sosial, artistik, dan investigatif.",
-    "recommendations": {
-      "majors": ["Psikologi", "Ilmu Komunikasi", "Hubungan Internasional", "Jurnalistik", "Sosiologi"],
-      "professions": ["Counselor", "Public Relations Specialist", "Human Resources Manager", "Journalist", "Creative Director"]
-    }
-  },
-  {
-    "mbti_type": "ISTJ",
-    "riasec_code": "CRI",
-    "display_name": "The Practical Logistician",
-    "description": "Seorang yang sangat bertanggung jawab, terorganisir, dan dapat diandalkan, yang menghargai tradisi dan keteraturan. Cenderung konvensional, realistis, dan investigatif.",
-    "recommendations": {
-      "majors": ["Akuntansi", "Administrasi Bisnis", "Teknik Sipil", "Manajemen Logistik", "Ilmu Perpustakaan"],
-      "professions": ["Accountant", "Auditor", "Civil Engineer", "Supply Chain Manager", "Data Analyst"]
-    }
+  "development_tips": {
+    "title": "Saran Pengembangan Diri",
+    "list": [
+      "Practice communicating complex ideas in simpler terms to non-technical audiences.",
+      "Set practical deadlines for research phases to avoid 'analysis paralysis'.",
+      "Schedule collaborative sessions to gain different perspectives, even if you prefer to work alone."
+    ]
   }
-]
+}
