@@ -1,9 +1,9 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="id">
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Minat Bakat & MBTI Test</title>
+  <title>Tes Minat Bakat & MBTI</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
   <link href="style.css" rel="stylesheet">
   <link href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" rel="stylesheet">
@@ -11,31 +11,31 @@
 <body class="bg-light">
 
   <div class="container py-5">
-    <!-- Welcome screen -->
+    <!-- Halaman awal -->
     <div id="welcome-screen" class="card shadow-lg p-5 text-center animate__animated animate__fadeIn">
-      <h1 class="mb-3">Welcome to the Minat Bakat Test</h1>
-      <p class="lead">Discover your interests, personality, and future study paths.</p>
-      <button id="startBtn" class="btn btn-primary btn-lg mt-3">Start Test</button>
+      <h1 class="mb-3">Selamat Datang di Tes Minat Bakat</h1>
+      <p class="lead">Kenali minat, kepribadian, dan rekomendasi jurusan kuliahmu.</p>
+      <button id="startBtn" class="btn btn-primary btn-lg mt-3">Mulai Tes</button>
     </div>
 
-    <!-- Question screen -->
+    <!-- Halaman pertanyaan -->
     <div id="question-screen" class="card shadow-lg p-5 d-none animate__animated animate__fadeInUp">
-      <h4 id="question-text">Question will appear here</h4>
+      <h4 id="question-text">Pertanyaan akan muncul di sini</h4>
       <div id="options" class="d-flex justify-content-around mt-4"></div>
       <div class="d-flex justify-content-between mt-5">
-        <button id="prevBtn" class="btn btn-secondary" disabled>Previous</button>
-        <button id="nextBtn" class="btn btn-primary" disabled>Next</button>
+        <button id="prevBtn" class="btn btn-secondary" disabled>Sebelumnya</button>
+        <button id="nextBtn" class="btn btn-primary" disabled>Berikutnya</button>
       </div>
       <div class="progress mt-4">
         <div id="progress-bar" class="progress-bar bg-success" style="width: 0%">0%</div>
       </div>
     </div>
 
-    <!-- Result screen -->
+    <!-- Halaman hasil -->
     <div id="result-screen" class="card shadow-lg p-5 d-none animate__animated animate__fadeInUp">
-      <h2 class="mb-3">Your Results</h2>
+      <h2 class="mb-3">Hasil Tes Kamu</h2>
       <div id="result-content"></div>
-      <button class="btn btn-outline-primary mt-4" onclick="location.reload()">Retake Test</button>
+      <button class="btn btn-outline-primary mt-4" onclick="location.reload()">Ulangi Tes</button>
     </div>
   </div>
 
