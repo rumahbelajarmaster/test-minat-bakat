@@ -1101,3 +1101,544 @@
     ]
   }
 ]
+{
+    "mbti_type": "INTJ",
+    "riasec_code": "IE",
+    "profile_title": "Sang Mastermind Strategis",
+    "profile_tagline": "Seorang visioner yang merancang dan mengeksekusi rencana jangka panjang yang kompleks.",
+    "reason_why": "Ini adalah kombinasi INTJ yang paling arketipal. Visi jangka panjangmu (Ni) dan kemampuan mengeksekusi secara logis (Te) sangat selaras dengan minat untuk riset mendalam (Investigative) dan dorongan untuk memimpin serta mencapai tujuan (Enterprising). Kamu adalah seorang ahli strategi alami.",
+    "what_this_means": "Kamu melihat dunia sebagai sebuah papan catur, selalu berpikir beberapa langkah ke depan. Kamu tidak hanya punya ide; kamu punya RENCANA. Kamu berkembang dalam lingkungan di mana kamu bisa merancang sistem yang kompleks, mengoptimalkan proses, dan memimpin proyek dari konsep hingga penyelesaian dengan efisiensi yang kejam.",
+    "strengths": ["Pemikir strategis dan visioner.", "Sangat baik dalam perencanaan jangka panjang.", "Mampu menerjemahkan ide kompleks menjadi langkah-langkah yang bisa dijalankan.", "Sangat logis, efisien, dan berorientasi pada tujuan."],
+    "weaknesses": ["Bisa terlihat arogan atau tidak sabaran dengan orang yang dianggap tidak kompeten.", "Cenderung kurang fleksibel jika rencana terganggu.", "Mungkin mengabaikan aspek emosional atau 'manusia' dalam pengambilan keputusan.", "Sangat kritis terhadap diri sendiri dan orang lain."],
+    "recommended_majors": [
+      { "name": "Manajemen Bisnis (Spesialisasi Strategi)", "reason": "Langsung mengasah kemampuanmu untuk menganalisis pasar (Investigative) dan merancang strategi untuk memenangkan persaingan (Enterprising)." },
+      { "name": "Teknik Industri", "reason": "Fokus pada perancangan sistem yang efisien (Investigative & Te), yang merupakan inti dari eksekusi strategi yang baik." },
+      { "name": "Ilmu Ekonomi", "reason": "Mempelajari sistem ekonomi yang kompleks (Investigative) untuk membuat prediksi dan keputusan bisnis yang strategis (Enterprising)." }
+    ],
+    "career_recommendations": [
+      { "name": "Konsultan Manajemen atau Strategi", "reason": "Pekerjaanmu adalah memecahkan masalah paling sulit dari perusahaan lain dengan analisis tajam dan rencana yang komprehensif." },
+      { "name": "Eksekutif Perusahaan (CEO, COO)", "reason": "Peran puncak di mana kamu bisa menetapkan visi jangka panjang perusahaan dan memimpin eksekusinya." },
+      { "name": "Arsitek Sistem (Systems Architect)", "reason": "Merancang 'cetak biru' untuk sistem teknologi atau organisasi yang kompleks, memastikan semua bagian bekerja sama secara efisien." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "IC",
+    "profile_title": "Sang Arsitek Pengetahuan",
+    "profile_tagline": "Seorang perancang sistem yang membangun fondasi pengetahuan yang akurat dan terstruktur.",
+    "reason_why": "Kamu menggabungkan visi jangka panjang (Ni) dan logika (Te) dengan minat yang mendalam pada riset (Investigative) dan kecintaan pada akurasi, data, dan keteraturan (Conventional). Kamu tidak hanya ingin memahami dunia; kamu ingin mengkategorikan dan mengaturnya.",
+    "what_this_means": "Kamu adalah seorang pembangun sistem informasi. Kamu berkembang saat bisa mengambil data atau pengetahuan yang kompleks dan merancangnya ke dalam sebuah struktur yang logis, efisien, dan bebas dari ambiguitas. Kamu adalah tipe orang yang akan merancang database yang sempurna, menulis kode yang sangat terstruktur, atau melakukan riset yang sangat metodis.",
+    "strengths": ["Sangat teliti dan metodis.", "Mampu merancang sistem informasi yang sangat kompleks.", "Kemampuan analisis data yang kuat.", "Sangat terorganisir dan menghasilkan pekerjaan yang akurat."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan tidak suka jika sistemnya diubah.", "Cenderung kurang fleksibel dalam menghadapi data yang tidak terstruktur.", "Mungkin kurang tertarik pada aspek manusiawi dan lebih fokus pada data.", "Bisa terjebak dalam detail dan perfeksionisme."],
+    "recommended_majors": [
+      { "name": "Sains Data atau Statistika", "reason": "Memberimu alat untuk menganalisis data (Investigative) dengan cara yang terstruktur dan akurat (Conventional) untuk membangun model prediktif." },
+      { "name": "Ilmu Komputer (Spesialisasi Arsitektur Perangkat Lunak)", "reason": "Fokus pada perancangan struktur dasar dari sebuah program atau sistem yang kompleks." },
+      { "name": "Akuntansi atau Ilmu Aktuaria", "reason": "Bekerja dengan sistem aturan dan data yang sangat terstruktur untuk menganalisis kesehatan finansial atau risiko." }
+    ],
+    "career_recommendations": [
+      { "name": "Ilmuwan Data (Data Scientist) atau Arsitek Data (Data Architect)", "reason": "Merancang dan membangun sistem untuk mengumpulkan, menyimpan, dan menganalisis data dalam skala besar." },
+      { "name": "Pengembang Perangkat Lunak (Backend)", "reason": "Fokus pada pembangunan logika dan database di balik sebuah aplikasi, memastikan semuanya efisien dan terstruktur." },
+      { "name": "Analis Riset Kuantitatif", "reason": "Melakukan riset yang sangat metodis dan berbasis data untuk menghasilkan wawasan yang akurat." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "IR",
+    "profile_title": "Sang Insinyur Visioner",
+    "profile_tagline": "Seorang perancang yang mengubah visi masa depan menjadi teknologi yang nyata.",
+    "reason_why": "Kombinasi ini menyatukan visimu tentang masa depan (Ni) dengan minat pada riset ilmiah (Investigative) dan fokus pada aplikasi di dunia nyata yang praktis (Realistic). Kamu tidak hanya memimpikan teknologi masa depan; kamu merancang dan membangunnya.",
+    "what_this_means": "Kamu adalah seorang insinyur atau penemu di hati. Kamu memiliki kemampuan langka untuk melihat ke mana arah teknologi akan bergerak, lalu menggunakan logika dan keterampilan teknismu untuk menciptakan produk atau sistem yang mewujudkan visi tersebut. Kamu adalah tipe orang yang bekerja di departemen R&D paling canggih.",
+    "strengths": ["Mampu menjembatani antara konsep futuristik dan rekayasa praktis.", "Sangat baik dalam pemecahan masalah teknis yang kompleks.", "Memiliki visi jangka panjang untuk pengembangan produk.", "Sangat kompeten dan mandiri."],
+    "weaknesses": ["Bisa frustrasi dengan keterbatasan teknologi saat ini.", "Mungkin kurang sabar dengan proses pengembangan yang lambat atau birokratis.", "Cenderung lebih fokus pada produk daripada pada tim.", "Bisa terlihat menyendiri atau sulit didekati."],
+    "recommended_majors": [
+      { "name": "Teknik Elektro, Teknik Mesin, atau Teknik Dirgantara", "reason": "Memberikan dasar rekayasa yang kuat (Realistic) untuk menerapkan prinsip-prinsip ilmiah (Investigative) dalam menciptakan teknologi baru." },
+      { "name": "Ilmu Komputer (Spesialisasi Robotika atau AI)", "reason": "Menggabungkan perancangan algoritma cerdas (Investigative) dengan pembangunan mesin fisik (Realistic)." },
+      { "name": "Fisika Teknik", "reason": "Jurusan yang berada tepat di persimpangan antara penemuan ilmiah murni dan aplikasi rekayasa." }
+    ],
+    "career_recommendations": [
+      { "name": "Insinyur Riset dan Pengembangan (R&D Engineer)", "reason": "Bekerja di garis depan inovasi, menciptakan teknologi yang akan membentuk masa depan." },
+      { "name": "Arsitek Sistem (untuk Perangkat Keras)", "reason": "Merancang arsitektur keseluruhan dari produk perangkat keras yang kompleks, seperti satelit atau kendaraan otonom." },
+      { "name": "Penemu atau Pendiri Startup Perangkat Keras", "reason": "Mewujudkan visi teknologimu sendiri dengan membangun perusahaan dan produk dari nol." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "IA",
+    "profile_title": "Sang Arsitek Konseptual",
+    "profile_tagline": "Seorang visioner yang merancang sistem yang elegan, fungsional, dan bermakna.",
+    "reason_why": "Kamu menggabungkan visi mendalam (Ni) dan pemikiran sistem (Te) dengan minat pada analisis (Investigative) dan apresiasi yang kuat terhadap estetika, desain, dan orisinalitas (Artistic). Kamu percaya bahwa sistem yang paling baik tidak hanya efisien, tetapi juga indah.",
+    "what_this_means": "Kamu adalah seorang perancang dalam arti yang paling murni. Kamu unggul dalam peran seperti arsitek, desainer UX, atau perancang game, di mana kamu harus menciptakan sebuah sistem yang kompleks yang tidak hanya bekerja dengan sempurna secara logika, tetapi juga menciptakan pengalaman yang bermakna dan memuaskan bagi penggunanya. Kamu adalah seniman sistem.",
+    "strengths": ["Mampu merancang sistem yang sangat kompleks dan elegan.", "Keseimbangan yang kuat antara logika dan estetika.", "Visioner dalam hal desain dan pengalaman pengguna.", "Memiliki standar yang sangat tinggi untuk kualitas."],
+    "weaknesses": ["Bisa menjadi sangat perfeksionis, sulit untuk menyatakan sebuah proyek selesai.", "Sangat kritis terhadap desain yang tidak memenuhi standarnya.", "Mungkin kurang fleksibel terhadap umpan balik yang dianggap tidak logis.", "Cenderung bekerja lebih baik sendiri atau dengan tim kecil yang sangat kompeten."],
+    "recommended_majors": [
+      { "name": "Arsitektur", "reason": "Bidang klasik yang menuntut perancangan sistem ruang (Investigative) yang fungsional sekaligus estetis (Artistic)." },
+      { "name": "Desain Pengalaman Pengguna (UX Design) atau Desain Interaksi", "reason": "Fokus pada perancangan alur dan sistem aplikasi digital agar logis, efisien, dan menyenangkan." },
+      { "name": "Desain Game", "reason": "Merancang dunia, aturan, dan mekanika permainan—sebuah sistem interaktif yang kompleks yang harus analitis dan kreatif." }
+    ],
+    "career_recommendations": [
+      { "name": "Arsitek", "reason": "Merancang bangunan dan ruang yang membentuk cara manusia hidup dan berinteraksi." },
+      { "name": "Arsitek UX atau Perancang Utama Produk (Lead Product Designer)", "reason": "Menetapkan visi dan merancang 'cetak biru' untuk produk digital yang kompleks." },
+      { "name": "Sutradara Film atau Direktur Kreatif", "reason": "Memiliki visi artistik yang utuh dan merancang setiap elemen (visual, suara, narasi) untuk mewujudkannya." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "IS",
+    "profile_title": "Sang Ahli Strategi Sosial",
+    "profile_tagline": "Seorang analis sistem yang merancang solusi jangka panjang untuk masalah kemanusiaan.",
+    "reason_why": "Kombinasi yang langka ini menyatukan visimu yang mendalam (Ni) dan pemikiran sistem (Te) dengan minat pada riset (Investigative) dan fokus pada kesejahteraan manusia dan masyarakat (Social). Kamu adalah seorang reformis yang bekerja dari belakang layar.",
+    "what_this_means": "Kamu peduli pada isu-isu sosial, tetapi kamu mendekatinya bukan dengan emosi, melainkan dengan analisis sistem yang dingin. Kamu adalah tipe orang yang akan merancang sistem layanan kesehatan yang lebih efisien, model pendidikan yang lebih baik, atau kebijakan publik yang didasarkan pada data. Kamu ingin membantu orang dengan cara memperbaiki sistem yang memengaruhi mereka.",
+    "strengths": ["Mampu menganalisis masalah sosial yang kompleks secara objektif.", "Sangat baik dalam merancang solusi sistemik jangka panjang.", "Didorong oleh keinginan untuk menciptakan dampak positif yang nyata.", "Mampu bekerja secara mandiri pada riset yang mendalam."],
+    "weaknesses": ["Bisa terlihat dingin atau tidak personal dalam menangani masalah manusia.", "Mungkin frustrasi dengan birokrasi dan politik yang menghambat implementasi solusi logis.", "Cenderung kurang sabar dengan pendekatan yang berbasis emosi atau tradisi.", "Interaksi sosial yang intens bisa menguras energi."],
+    "recommended_majors": [
+      { "name": "Kebijakan Publik atau Administrasi Publik", "reason": "Mempelajari cara menganalisis masalah sosial (Investigative) dan merancang serta mengimplementasikan kebijakan untuk menyelesaikannya (Social & Te)." },
+      { "name": "Sosiologi atau Ekonomi Pembangunan", "reason": "Fokus pada riset untuk memahami akar penyebab masalah sosial dan ketidaksetaraan." },
+      { "name": "Psikologi (Jalur Riset atau Industri & Organisasi)", "reason": "Menggunakan metode ilmiah untuk memahami perilaku manusia guna meningkatkan sistem di tempat kerja atau masyarakat." }
+    ],
+    "career_recommendations": [
+      { "name": "Analis Kebijakan (Policy Analyst)", "reason": "Bekerja untuk pemerintah atau lembaga think tank, melakukan riset dan memberikan rekomendasi untuk kebijakan yang lebih baik." },
+      { "name": "Perencana Kota atau Wilayah", "reason": "Merancang tata letak dan sistem kota untuk meningkatkan kualitas hidup penduduknya." },
+      { "name": "Spesialis Psikologi Industri & Organisasi", "reason": "Membantu perusahaan merancang sistem seleksi, pelatihan, dan manajemen kinerja yang lebih adil dan efektif." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "EI",
+    "profile_title": "Sang Panglima Perusahaan",
+    "profile_tagline": "Seorang pemimpin yang mengubah visi menjadi kerajaan bisnis.",
+    "reason_why": "Kombinasi ini adalah perpaduan kuat antara dorongan untuk memimpin dan membangun (Enterprising) dengan pemikiran analitis yang tajam (Investigative). Visi jangka panjang (Ni) dan eksekusi logis (Te) dari INTJ membuatmu menjadi seorang pemimpin bisnis yang sangat efektif dan berorientasi pada pertumbuhan.",
+    "what_this_means": "Kamu adalah seorang pembangun di hati. Kamu melihat peluang di pasar, merumuskan rencana bisnis yang komprehensif, dan secara sistematis mengeksekusinya untuk mencapai dominasi. Kamu adalah tipe CEO yang tidak hanya mengelola, tetapi secara aktif merancang masa depan perusahaan.",
+    "strengths": ["Visioner dan sangat strategis dalam bisnis.", "Pemimpin yang tegas dan berorientasi pada hasil.", "Sangat baik dalam mengorganisir sumber daya untuk mencapai tujuan.", "Mampu mengambil keputusan yang sulit dan logis di bawah tekanan."],
+    "weaknesses": ["Bisa menjadi terlalu menuntut atau kurang empatik terhadap bawahan.", "Cenderung 'micromanage' jika merasa orang lain tidak kompeten.", "Sangat tidak suka pada inefisiensi atau penundaan.", "Bisa kesulitan untuk mendelegasikan tugas yang dianggapnya kritis."],
+    "recommended_majors": [
+      { "name": "Manajemen Bisnis atau Administrasi Bisnis (MBA Track)", "reason": "Memberikan kerangka kerja yang komprehensif untuk memimpin semua aspek perusahaan." },
+      { "name": "Keuangan atau Ekonomi", "reason": "Memberikan pemahaman mendalam tentang mesin yang menggerakkan bisnis dan pasar." },
+      { "name": "Kewirausahaan (Entrepreneurship)", "reason": "Fokus pada keterampilan yang dibutuhkan untuk membangun sebuah bisnis dari nol." }
+    ],
+    "career_recommendations": [
+      { "name": "CEO, COO, atau Eksekutif Tingkat Atas", "reason": "Memimpin dan menetapkan arah strategis sebuah perusahaan." },
+      { "name": "Pendiri Perusahaan (Founder)", "reason": "Membangun sebuah organisasi dari visi pribadimu." },
+      { "name": "Konsultan Strategi", "reason": "Merancang rencana pertumbuhan dan efisiensi untuk perusahaan lain." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "EC",
+    "profile_title": "Sang Manajer Sistem",
+    "profile_tagline": "Seorang pemimpin yang menciptakan efisiensi melalui proses yang terstruktur dan terukur.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mencapai hasil (Enterprising) dengan kecintaan pada keteraturan, data, dan prosedur (Conventional). Visi (Ni) dan logika (Te) INTJ-mu kamu terapkan untuk membangun dan mengoptimalkan mesin organisasi yang berjalan mulus.",
+    "what_this_means": "Kamu adalah seorang manajer operasional yang ulung. Kamu unggul dalam mengambil sebuah sistem atau departemen, menganalisisnya, mengidentifikasi inefisiensi, dan kemudian menerapkan proses baru yang lebih baik, lengkap dengan metrik untuk mengukur keberhasilannya. Kamu menciptakan keteraturan dari kekacauan.",
+    "strengths": ["Sangat baik dalam merancang dan mengimplementasikan proses.", "Pemimpin yang terorganisir, konsisten, dan dapat diandalkan.", "Membuat keputusan berdasarkan data dan fakta.", "Sangat efisien dan berorientasi pada hasil."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan resisten terhadap perubahan yang tidak sesuai dengan sistem.", "Mungkin kurang inovatif atau 'out-of-the-box' dibandingkan kombinasi INTJ lainnya.", "Cenderung fokus pada metrik dan proses daripada pengembangan orang.", "Tidak sabar dengan kesalahan atau penyimpangan dari prosedur."],
+    "recommended_majors": [
+      { "name": "Teknik Industri", "reason": "Jurusan yang secara fundamental adalah tentang merancang dan mengoptimalkan sistem dan proses." },
+      { "name": "Manajemen Operasional atau Rantai Pasok", "reason": "Fokus pada pengelolaan proses internal perusahaan untuk efisiensi dan kualitas maksimal." },
+      { "name": "Akuntansi atau Sistem Informasi", "reason": "Memberikan keterampilan dalam mengelola sistem data yang terstruktur yang menjadi dasar pengambilan keputusan." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Operasional (Operations Manager)", "reason": "Bertanggung jawab atas efisiensi seluruh proses internal perusahaan." },
+      { "name": "Analis Bisnis (Business Analyst)", "reason": "Menganalisis proses yang ada dan merancang solusi berbasis sistem untuk perbaikan." },
+      { "name": "Manajer Proyek (Project Manager)", "reason": "Memastikan proyek selesai tepat waktu, sesuai anggaran, dan sesuai dengan spesifikasi yang telah ditetapkan." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "ER",
+    "profile_title": "Sang Mandor Visioner",
+    "profile_tagline": "Seorang pemimpin di lapangan yang memastikan visi yang kompleks terwujud secara fisik.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mengelola (Enterprising) dengan fokus pada dunia nyata yang praktis dan mekanis (Realistic). Visi jangka panjang (Ni) dan kemampuanmu untuk mengorganisir (Te) membuatmu sangat efektif dalam memimpin proyek-proyek rekayasa atau konstruksi yang besar.",
+    "what_this_means": "Kamu adalah tipe pemimpin yang menerjemahkan cetak biru menjadi kenyataan. Kamu unggul dalam mengelola proyek konstruksi, manufaktur, atau rekayasa. Kamu mampu memahami gambaran besar strategis sekaligus detail teknis di lapangan, memastikan tim, anggaran, dan jadwal berjalan sesuai rencana.",
+    "strengths": ["Mampu mengelola proyek teknis yang berskala besar.", "Pemimpin yang praktis dan tegas.", "Memahami baik aspek strategis maupun operasional.", "Sangat baik dalam pemecahan masalah di lapangan."],
+    "weaknesses": ["Bisa jadi kurang sabar dengan penundaan atau masalah birokrasi.", "Cenderung sangat menuntut standar tinggi dari timnya.", "Mungkin kurang tertarik pada aspek 'lunak' seperti politik kantor.", "Lebih suka berada di lokasi proyek daripada di ruang rapat."],
+    "recommended_majors": [
+      { "name": "Manajemen Konstruksi", "reason": "Secara langsung mempersiapkanmu untuk memimpin (Enterprising) proyek pembangunan fisik (Realistic)." },
+      { "name": "Teknik Sipil atau Teknik Mesin", "reason": "Memberikan dasar teknis yang kuat yang diperlukan untuk mengelola proyek rekayasa secara efektif." },
+      { "name": "Manajemen Proyek", "reason": "Mengajarkan metodologi untuk mengelola sumber daya, jadwal, dan anggaran untuk berbagai jenis proyek." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Proyek Konstruksi atau Site Manager", "reason": "Bertanggung jawab penuh atas keberhasilan sebuah proyek pembangunan dari awal hingga akhir." },
+      { "name": "Manajer Pabrik atau Produksi", "reason": "Memimpin operasi harian di sebuah fasilitas manufaktur, memastikan target tercapai." },
+      { "name": "Insinyur Kepala (Chief Engineer)", "reason": "Memimpin departemen teknik dalam sebuah organisasi, menetapkan standar, dan mengelola proyek-proyek besar." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "EA",
+    "profile_title": "Sang Produser Visioner",
+    "profile_tagline": "Seorang ahli strategi yang mengubah visi artistik menjadi kenyataan yang sukses secara komersial.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan membangun sebuah usaha (Enterprising) dengan apresiasi yang mendalam terhadap kreativitas dan ekspresi artistik (Artistic). Visi (Ni) dan logika (Te) INTJ-mu membuatmu mampu melihat sebuah karya seni tidak hanya sebagai ekspresi, tetapi juga sebagai produk yang perlu dikelola dan dipasarkan.",
+    "what_this_means": "Kamu adalah otak di balik sebuah produksi kreatif yang besar. Kamu adalah seorang produser film, direktur teater, atau mungkin pendiri sebuah galeri seni atau label musik. Kamu adalah orang yang menemukan bakat, mengamankan pendanaan, menyusun tim, dan memastikan visi kreatif tersebut terwujud dan menjangkau audiensnya.",
+    "strengths": ["Mampu melihat potensi bisnis dalam sebuah ide kreatif.", "Sangat baik dalam perencanaan dan pengorganisasian proyek kreatif.", "Pemimpin yang visioner dan tegas.", "Pandai menyeimbangkan antara idealisme artistik dan realitas komersial."],
+    "weaknesses": ["Bisa berbenturan dengan seniman yang dianggapnya tidak praktis atau tidak disiplin.", "Cenderung mengendalikan semua aspek proyek.", "Mungkin lebih fokus pada hasil akhir daripada proses kreatif itu sendiri.", "Sangat kritis terhadap hasil yang tidak memenuhi visinya."],
+    "recommended_majors": [
+      { "name": "Manajemen Seni atau Industri Kreatif", "reason": "Secara spesifik mempelajari cara mengelola (Enterprising) bisnis di sektor seni dan hiburan (Artistic)." },
+      { "name": "Produksi Film dan Televisi", "reason": "Fokus pada semua aspek manajerial, finansial, dan logistik di balik pembuatan film." },
+      { "name": "Manajemen Bisnis (dengan minat pada seni/hiburan)", "reason": "Memberikan dasar bisnis yang kuat yang bisa kamu terapkan pada industri yang kamu sukai." }
+    ],
+    "career_recommendations": [
+      { "name": "Produser Film/Televisi/Teater", "reason": "Orang yang bertanggung jawab penuh atas keberhasilan sebuah produksi, dari awal hingga akhir." },
+      { "name": "Direktur Kreatif (Creative Director)", "reason": "Menetapkan visi kreatif keseluruhan untuk sebuah merek atau kampanye dan memimpin tim untuk mencapainya." },
+      { "name": "Pemilik Galeri Seni atau Label Musik", "reason": "Membangun sebuah bisnis untuk menemukan, mengembangkan, dan mempromosikan bakat artistik." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "ES",
+    "profile_title": "Sang Arsitek Perubahan Sosial",
+    "profile_tagline": "Seorang pemimpin yang merancang dan mengimplementasikan sistem untuk kebaikan sosial.",
+    "reason_why": "Kamu mengarahkan visi jangka panjang (Ni) dan kemampuan eksekusi logis (Te) milikmu pada tujuan untuk memimpin (Enterprising) perbaikan dalam masyarakat (Social). Kamu adalah seorang reformis yang strategis, fokus pada hasil nyata daripada sekadar sentimen.",
+    "what_this_means": "Kamu adalah tipe orang yang akan mendirikan sebuah organisasi nirlaba yang sangat efektif, menjadi menteri yang reformis, atau memimpin sebuah yayasan besar. Kamu melihat masalah sosial, menganalisis akar penyebabnya, merancang sebuah rencana intervensi jangka panjang yang komprehensif, dan kemudian secara sistematis melaksanakannya.",
+    "strengths": ["Sangat strategis dalam menciptakan dampak sosial.", "Mampu merancang dan mengelola program berskala besar.", "Pemimpin yang visioner dan inspiratif (dengan cara yang logis).", "Fokus pada hasil yang terukur dan berkelanjutan."],
+    "weaknesses": ["Bisa terlihat dingin atau tidak personal dalam usahanya membantu orang.", "Sangat tidak sabar dengan birokrasi atau inefisiensi di sektor sosial.", "Mungkin kurang mempertimbangkan faktor budaya atau emosional yang tidak logis.", "Cenderung bekerja dengan visinya sendiri dan kurang kolaboratif."],
+    "recommended_majors": [
+      { "name": "Kewirausahaan Sosial (Social Entrepreneurship)", "reason": "Menggabungkan prinsip bisnis dan inovasi (Enterprising) untuk memecahkan masalah sosial (Social)." },
+      { "name": "Administrasi Publik atau Kebijakan Publik", "reason": "Mempelajari cara merancang dan mengelola sistem dan kebijakan untuk melayani publik secara efektif." },
+      { "name": "Manajemen Nirlaba (Non-Profit Management)", "reason": "Fokus pada keterampilan yang dibutuhkan untuk memimpin organisasi yang berorientasi pada misi sosial." }
+    ],
+    "career_recommendations": [
+      { "name": "Pendiri atau Direktur Organisasi Nirlaba/LSM", "reason": "Membangun dan memimpin sebuah organisasi untuk mengatasi masalah sosial tertentu." },
+      { "name": "Pejabat Tinggi Pemerintah (misal: Menteri, Dirjen)", "reason": "Memiliki kekuatan untuk merancang dan mengimplementasikan reformasi sistemik dari dalam." },
+      { "name": "Konsultan Pengembangan Internasional", "reason": "Membantu negara-negara berkembang merancang dan melaksanakan program pembangunan yang efektif." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "CI",
+    "profile_title": "Sang Pengoptimal Sistem",
+    "profile_tagline": "Seorang perancang yang menciptakan keteraturan dan efisiensi melalui data dan prosedur.",
+    "reason_why": "Kamu menggabungkan dorongan untuk keteraturan, akurasi, dan kepatuhan pada aturan (Conventional) dengan minat yang mendalam pada analisis dan pemahaman sistem (Investigative). Visi (Ni) dan logika (Te) INTJ-mu membuatmu menjadi seorang ahli dalam merancang dan menyempurnakan sistem yang sangat efisien.",
+    "what_this_means": "Kamu adalah seorang master dalam efisiensi. Kamu menemukan kepuasan mendalam saat mengambil sebuah proses yang rumit dan merancangnya ulang agar lebih cepat, lebih murah, dan lebih akurat. Kamu unggul dalam peran seperti analis sistem, administrator database, atau auditor. Kamu percaya bahwa ada satu cara 'terbaik' untuk melakukan sesuatu, dan tugasmu adalah menemukannya.",
+    "strengths": ["Sangat baik dalam merancang proses dan alur kerja.", "Sangat teliti, akurat, dan metodis.", "Mampu memahami dan mengelola sistem data yang kompleks.", "Sangat terorganisir dan dapat diandalkan."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan tidak suka penyimpangan dari sistem yang telah dirancang.", "Cenderung menolak ide-ide baru jika tidak didukung oleh data yang kuat.", "Mungkin kurang fleksibel dalam lingkungan yang selalu berubah.", "Fokus pada efisiensi sistem bisa mengalahkan pertimbangan manusiawi."],
+    "recommended_majors": [
+      { "name": "Sistem Informasi", "reason": "Secara langsung mempelajari cara merancang, mengimplementasikan, dan mengelola sistem informasi (Conventional) berdasarkan analisis kebutuhan (Investigative)." },
+      { "name": "Akuntansi", "reason": "Bekerja dalam sistem aturan keuangan yang sangat terstruktur untuk menganalisis dan melaporkan data." },
+      { "name": "Teknik Industri", "reason": "Fokus pada analisis dan perancangan sistem produksi dan operasional untuk mencapai efisiensi maksimal." }
+    ],
+    "career_recommendations": [
+      { "name": "Analis Sistem (Systems Analyst)", "reason": "Menganalisis sistem IT atau bisnis yang ada dan merancang solusi yang lebih baik dan lebih efisien." },
+      { "name": "Administrator Database (DBA)", "reason": "Merancang, membangun, dan memelihara struktur database untuk memastikan integritas dan efisiensi data." },
+      { "name": "Auditor Internal atau Auditor IT", "reason": "Memeriksa sistem sebuah perusahaan untuk memastikan kepatuhan pada aturan dan efisiensi operasional." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "CE",
+    "profile_title": "Sang Ahli Strategi Kepatuhan",
+    "profile_tagline": "Seorang pemimpin yang memastikan kesuksesan jangka panjang dengan mematuhi dan memanfaatkan aturan.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mencapai tujuan bisnis (Enterprising) dengan pemahaman yang mendalam tentang aturan, regulasi, dan data yang akurat (Conventional). Visi (Ni) dan logika (Te) INTJ-mu membuatmu tidak hanya mematuhi aturan, tetapi juga menggunakannya sebagai bagian dari strategi untuk menang.",
+    "what_this_means": "Kamu adalah tipe orang yang akan menjadi seorang pengacara korporat, CFO, atau spesialis manajemen risiko. Kamu memahami bahwa dalam bisnis, memenangkan permainan seringkali berarti memahami aturan lebih baik daripada orang lain. Kamu unggul dalam merancang struktur perusahaan, kontrak, atau strategi keuangan yang tidak hanya menguntungkan, tetapi juga aman dan sesuai dengan hukum.",
+    "strengths": ["Memiliki pemahaman yang mendalam tentang aturan dan regulasi.", "Sangat strategis dalam mitigasi risiko.", "Pemimpin yang teliti dan dapat diandalkan.", "Mampu membuat keputusan yang kompleks berdasarkan data dan kepatuhan."],
+    "weaknesses": ["Bisa jadi terlalu menghindari risiko dan melewatkan peluang inovatif.", "Cenderung kurang fleksibel dan birokratis.", "Mungkin terlihat sebagai 'penghalang' bagi ide-ide yang lebih kreatif tetapi berisiko.", "Fokus pada aturan bisa membuatnya kurang mempertimbangkan budaya perusahaan."],
+    "recommended_majors": [
+      { "name": "Hukum (terutama Hukum Bisnis)", "reason": "Mempelajari kerangka aturan (Conventional) yang mengatur bagaimana perusahaan harus beroperasi dan bersaing (Enterprising)." },
+      { "name": "Akuntansi atau Keuangan", "reason": "Memberikan dasar yang kuat dalam aturan pelaporan dan analisis keuangan yang penting untuk strategi bisnis." },
+      { "name": "Manajemen Risiko", "reason": "Secara spesifik mempelajari cara mengidentifikasi, menganalisis, dan merespons risiko bisnis secara sistematis." }
+    ],
+    "career_recommendations": [
+      { "name": "Pengacara Korporat (Corporate Lawyer)", "reason": "Memberikan nasihat hukum strategis kepada perusahaan mengenai transaksi, kontrak, dan kepatuhan." },
+      { "name": "Chief Financial Officer (CFO)", "reason": "Memimpin strategi keuangan sebuah perusahaan, memastikan kesehatan finansial dan kepatuhan terhadap regulasi." },
+      { "name": "Manajer Kepatuhan (Compliance Manager) atau Manajer Risiko (Risk Manager)", "reason": "Merancang dan mengawasi sistem untuk memastikan perusahaan beroperasi sesuai dengan hukum dan standar industri." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "CR",
+    "profile_title": "Sang Manajer Proyek Presisi",
+    "profile_tagline": "Seorang organisator yang memastikan rencana teknis dieksekusi dengan sempurna.",
+    "reason_why": "Kamu menggabungkan kecintaan pada keteraturan, jadwal, dan prosedur (Conventional) dengan fokus pada proyek-proyek di dunia nyata yang praktis dan teknis (Realistic). Visi (Ni) dan kemampuan mengorganisir (Te) dari INTJ membuatmu menjadi manajer proyek yang sangat efektif, mampu melihat gambaran besar sekaligus mengawasi setiap detail eksekusi.",
+    "what_this_means": "Kamu adalah tipe orang yang akan memastikan sebuah jembatan dibangun sesuai spesifikasi, sebuah lini produksi berjalan tepat waktu, atau sebuah sistem logistik beroperasi tanpa cela. Kamu menikmati proses mengambil sebuah rencana yang kompleks dan memecahnya menjadi tugas-tugas yang terukur, terjadwal, dan dapat diawasi. Kamu adalah penjamin kualitas dan ketepatan waktu.",
+    "strengths": ["Sangat terorganisir dan berorientasi pada detail.", "Pandai dalam perencanaan dan penjadwalan.", "Mampu mengelola proyek teknis yang kompleks.", "Sangat andal dan memastikan pekerjaan selesai dengan benar."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan tidak suka perubahan pada rencana.", "Mungkin kurang fleksibel dalam menangani masalah tak terduga di lapangan.", "Cenderung 'micromanage' untuk memastikan kepatuhan pada prosedur.", "Fokus pada jadwal dan spesifikasi bisa mengalahkan pertimbangan tim."],
+    "recommended_majors": [
+      { "name": "Manajemen Proyek", "reason": "Mempelajari metodologi dan alat untuk merencanakan, melaksanakan, dan mengawasi proyek secara efektif." },
+      { "name": "Manajemen Rantai Pasok atau Logistik", "reason": "Fokus pada pengelolaan alur barang dan informasi (Realistic) secara efisien dan terstruktur (Conventional)." },
+      { "name": "Teknik Sipil atau Teknik Industri", "reason": "Memberikan dasar teknis untuk mengelola proyek-proyek di bidang konstruksi atau manufaktur." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Proyek (di bidang konstruksi, manufaktur, atau IT)", "reason": "Bertanggung jawab untuk memastikan sebuah proyek selesai sesuai dengan tiga batasan: ruang lingkup, waktu, dan biaya." },
+      { "name": "Spesialis Perencanaan dan Penjadwalan", "reason": "Fokus pada pembuatan jadwal induk yang detail untuk proyek-proyek berskala besar." },
+      { "name": "Manajer Logistik", "reason": "Merancang dan mengawasi sistem transportasi dan pergudangan untuk memastikan efisiensi maksimal." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "CA",
+    "profile_title": "Sang Desainer Informasi",
+    "profile_tagline": "Seorang arsitek visual yang menyajikan informasi kompleks dengan kejelasan dan keindahan.",
+    "reason_why": "Kamu menggabungkan minat pada keteraturan dan presisi (Conventional) dengan apresiasi terhadap estetika dan komunikasi visual (Artistic). Visi (Ni) dan logika (Te) INTJ-mu membuatmu mampu merancang sistem informasi visual yang tidak hanya akurat dan terstruktur, tetapi juga elegan dan mudah dipahami.",
+    "what_this_means": "Kamu adalah seorang master dalam visualisasi data dan desain informasi. Kamu adalah tipe orang yang bisa mengambil spreadsheet yang rumit dan mengubahnya menjadi infografis yang indah dan mencerahkan. Kamu unggul dalam merancang layout buku, antarmuka pengguna, atau presentasi yang padat informasi namun tetap bersih dan jelas.",
+    "strengths": ["Mampu menyajikan data kompleks secara visual.", "Sangat teliti dan presisi dalam desain.", "Memiliki keseimbangan yang baik antara kreativitas dan struktur.", "Sangat baik dalam menciptakan kejelasan dari kerumitan."],
+    "weaknesses": ["Bisa menjadi sangat kaku dengan aturan desain (grid, tipografi).", "Mungkin kurang menyukai gaya desain yang ekspresif dan tidak teratur.", "Cenderung perfeksionis dan menghabiskan banyak waktu pada detail.", "Kurang fleksibel terhadap umpan balik desain yang bersifat subjektif."],
+    "recommended_majors": [
+      { "name": "Desain Komunikasi Visual (DKV) (spesialisasi Desain Informasi)", "reason": "Fokus pada bagaimana cara menyajikan informasi dan data (Conventional) secara efektif dan estetis (Artistic)." },
+      { "name": "Arsitektur Informasi", "reason": "Mempelajari cara mengorganisir dan melabeli konten digital agar mudah ditemukan dan dipahami." },
+      { "name": "Statistika (dengan minat pada visualisasi data)", "reason": "Memberikan dasar kuantitatif yang kuat yang bisa kamu terjemahkan ke dalam bentuk visual." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Informasi atau Spesialis Visualisasi Data", "reason": "Mengubah data dan informasi kompleks menjadi grafik, diagram, dan dasbor yang mudah dimengerti." },
+      { "name": "Desainer UI (User Interface)", "reason": "Merancang antarmuka aplikasi yang bersih, konsisten, dan terstruktur." },
+      { "name": "Desainer Layout untuk media cetak atau digital", "reason": "Menjadi ahli dalam menata teks dan gambar untuk menciptakan pengalaman membaca yang optimal." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "CS",
+    "profile_title": "Sang Pustakawan Strategis",
+    "profile_tagline": "Seorang pengelola pengetahuan yang merancang sistem untuk memberdayakan orang lain.",
+    "reason_why": "Kamu menggabungkan kecintaan pada keteraturan dan sistem informasi (Conventional) dengan keinginan untuk membantu orang lain mencapai tujuan mereka (Social). Visi (Ni) dan logika (Te) INTJ-mu membuatmu tidak hanya mengelola informasi, tetapi juga secara strategis merancang sistem pengetahuan yang dapat meningkatkan kecerdasan kolektif sebuah organisasi atau komunitas.",
+    "what_this_means": "Kamu adalah seorang arsitek pengetahuan. Kamu mungkin seorang pustakawan akademik, manajer pengetahuan di sebuah perusahaan, atau kurator database riset. Kamu menikmati tantangan untuk mengantisipasi informasi apa yang akan dibutuhkan orang di masa depan, lalu membangun sistem yang rapi dan mudah diakses untuk menyediakannya. Kamu membantu orang lain dengan cara mengorganisir dunia untuk mereka.",
+    "strengths": ["Sangat baik dalam merancang sistem klasifikasi dan taksonomi.", "Berpikir strategis tentang kebutuhan informasi jangka panjang.", "Sangat terorganisir dan dapat diandalkan.", "Didorong oleh keinginan untuk memberdayakan orang lain melalui pengetahuan."],
+    "weaknesses": ["Mungkin kurang menikmati interaksi langsung yang konstan dengan pengguna.", "Bisa frustrasi jika orang lain tidak menggunakan sistem yang telah dirancangnya dengan benar.", "Cenderung lebih fokus pada perancangan sistemnya daripada pelayanan sehari-hari.", "Bisa terlihat kaku atau tidak personal dalam interaksi."],
+    "recommended_majors": [
+      { "name": "Ilmu Perpustakaan dan Informasi", "reason": "Jurusan yang ideal untuk mempelajari cara mengorganisir, mengelola, dan menyebarkan informasi (Conventional) untuk kepentingan publik (Social)." },
+      { "name": "Manajemen Pengetahuan (Knowledge Management)", "reason": "Fokus pada bagaimana organisasi dapat menangkap dan memanfaatkan pengetahuan kolektif karyawannya." },
+      { "name": "Sistem Informasi", "reason": "Memberikan dasar teknis untuk membangun database dan sistem informasi yang akan digunakan oleh orang banyak." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Pengetahuan (Knowledge Manager)", "reason": "Merancang dan mengelola sistem (seperti wiki internal atau database) untuk membantu karyawan berbagi pengetahuan." },
+      { "name": "Pustakawan Akademik atau Riset", "reason": "Membantu mahasiswa dan peneliti menemukan sumber daya informasi yang mereka butuhkan untuk pekerjaan mereka." },
+      { "name": "Arsitek Informasi atau Ahli Taksonomi", "reason": "Merancang struktur dan sistem pelabelan untuk situs web atau database besar agar intuitif bagi pengguna." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "AI",
+    "profile_title": "Sang Sutradara Intelektual",
+    "profile_tagline": "Seorang visioner yang menciptakan karya seni yang kompleks, berlapis, dan penuh makna.",
+    "reason_why": "Kamu menggabungkan dorongan untuk menciptakan karya yang orisinal dan ekspresif (Artistic) dengan hasrat untuk analisis mendalam dan pemahaman konseptual (Investigative). Visi (Ni) dan logika (Te) INTJ-mu membuatmu menjadi seorang seniman yang karyanya tidak hanya indah, tetapi juga cerdas dan terstruktur dengan baik.",
+    "what_this_means": "Kamu adalah tipe sutradara film seperti Christopher Nolan atau seorang penulis novel seperti Isaac Asimov. Kamu tertarik pada ide-ide besar—waktu, memori, masyarakat, teknologi—dan kamu menggunakan medium senimu untuk mengeksplorasinya secara mendalam. Setiap elemen dalam karyamu memiliki tujuan dan makna, menciptakan sebuah sistem yang koheren dan memuaskan secara intelektual.",
+    "strengths": ["Mampu menciptakan karya yang memiliki kedalaman intelektual dan artistik.", "Sangat visioner dan memiliki gaya yang khas.", "Perencana yang teliti dalam proses kreatif.", "Setiap detail dalam karyanya memiliki tujuan."],
+    "weaknesses": ["Karyanya bisa terasa dingin, rumit, atau terlalu 'intelektual' bagi sebagian audiens.", "Sangat protektif terhadap visi artistiknya dan kurang terbuka pada kolaborasi.", "Bisa menjadi sangat perfeksionis dan menuntut.", "Cenderung kurang spontan dalam proses kreatif."],
+    "recommended_majors": [
+      { "name": "Film (Peminatan Sutradara atau Penulis Naskah)", "reason": "Media yang sempurna untuk mewujudkan visi artistik yang kompleks melalui perencanaan yang teliti." },
+      { "name": "Sastra atau Filsafat", "reason": "Memberikanmu amunisi intelektual dan konseptual (Investigative) untuk dituangkan ke dalam karya-karya kreatifmu (Artistic)." },
+      { "name": "Arsitektur", "reason": "Menggabungkan perancangan sistem yang logis dengan ekspresi artistik yang kuat." }
+    ],
+    "career_recommendations": [
+      { "name": "Sutradara Film", "reason": "Memiliki kendali penuh atas visi sebuah film, dari naskah, sinematografi, hingga musik." },
+      { "name": "Penulis Novel (terutama fiksi ilmiah atau filosofis)", "reason": "Membangun dunia dan narasi yang kompleks untuk mengeksplorasi ide-ide besar." },
+      { "name": "Direktur Kreatif atau Konseptor", "reason": "Merancang visi keseluruhan untuk proyek-proyek kreatif yang kompleks, seperti pameran museum atau kampanye besar." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "AS",
+    "profile_title": "Sang Psikolog Analitis",
+    "profile_tagline": "Seorang seniman jiwa yang menggunakan pemahaman mendalam untuk membantu orang lain melalui ekspresi.",
+    "reason_why": "Kombinasi ini menyatukan dorongan untuk berkarya secara kreatif (Artistic) dengan keinginan untuk membantu dan memahami orang lain (Social). Visi (Ni) dan logika (Te) INTJ-mu memberimu kemampuan unik untuk melihat pola dalam perilaku manusia dan merancang intervensi kreatif untuk membantu mereka.",
+    "what_this_means": "Kamu tertarik pada persimpangan antara seni dan penyembuhan. Kamu mungkin seorang terapis drama, terapis musik, atau seorang penulis yang karyanya memiliki dampak terapeutik. Kamu percaya bahwa ekspresi kreatif adalah jalan menuju pemahaman diri dan kamu ingin memfasilitasi proses itu untuk orang lain dengan cara yang terstruktur dan bertujuan.",
+    "strengths": ["Memiliki pemahaman yang mendalam tentang psikologi manusia.", "Mampu merancang program terapi yang kreatif dan efektif.", "Empati yang dikombinasikan dengan analisis objektif.", "Mampu menciptakan lingkungan yang aman untuk ekspresi diri."],
+    "weaknesses": ["Pekerjaan bisa sangat menguras energi emosional dan intelektual.", "Bisa frustrasi jika klien tidak mengikuti rencana terapi yang telah dirancang.", "Mungkin kesulitan menyeimbangkan antara menjadi terapis dan menjadi seniman.", "Cenderung menjaga jarak profesional yang bisa terasa dingin bagi sebagian klien."],
+    "recommended_majors": [
+      { "name": "Psikologi (dengan spesialisasi Terapi Seni Ekspresif)", "reason": "Secara langsung mempelajari cara menggunakan media kreatif (Artistic) sebagai alat terapi untuk membantu klien (Social)." },
+      { "name": "Pekerjaan Sosial", "reason": "Memberikan kerangka kerja untuk membantu individu dan komunitas, di mana kamu bisa menerapkan metode-metode kreatif." },
+      { "name": "Pendidikan Seni atau Musik", "reason": "Fokus pada bagaimana seni dapat digunakan sebagai alat untuk pengembangan pribadi dan pendidikan." }
+    ],
+    "career_recommendations": [
+      { "name": "Terapis Seni, Musik, atau Drama", "reason": "Menggunakan medium seni untuk membantu klien memproses emosi, mengatasi trauma, dan meningkatkan kesejahteraan mental." },
+      { "name": "Konselor Sekolah", "reason": "Membantu siswa mengatasi masalah pribadi, sosial, dan akademik, seringkali dengan pendekatan yang kreatif." },
+      { "name": "Penulis atau Pembuat Film (dengan tema psikologis)", "reason": "Menciptakan karya yang membantu audiens memahami kondisi manusia dengan lebih baik." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "AC",
+    "profile_title": "Sang Desainer Sistem Visual",
+    "profile_tagline": "Seorang visioner yang menciptakan bahasa visual yang teratur, konsisten, dan bermakna.",
+    "reason_why": "Kamu menggabungkan dorongan untuk menciptakan karya yang orisinal dan estetis (Artistic) dengan kecintaan pada keteraturan, presisi, dan sistem (Conventional). Visi (Ni) dan logika (Te) INTJ-mu membuatmu menjadi seorang ahli dalam merancang sistem identitas visual (branding) atau sistem desain (design systems).",
+    "what_this_means": "Kamu adalah seorang desainer yang berpikir seperti seorang arsitek. Kamu tidak hanya membuat satu logo; kamu merancang seluruh ekosistem visual yang akan digunakan oleh sebuah perusahaan. Kamu menikmati proses menetapkan aturan—grid, tipografi, palet warna—dan kemudian melihat bagaimana aturan tersebut menghasilkan karya-karya turunan yang konsisten namun tetap kreatif.",
+    "strengths": ["Sangat baik dalam berpikir sistemik dalam konteks desain.", "Mampu menciptakan identitas visual yang kuat dan tahan lama.", "Sangat teliti dan presisi.", "Memiliki visi jangka panjang untuk sebuah merek atau produk."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan tidak suka jika sistem desainnya dilanggar.", "Sangat kritis terhadap desain yang dianggapnya tidak sistematis.", "Cenderung lebih menikmati fase perancangan sistem daripada aplikasi sehari-harinya.", "Kurang fleksibel terhadap tren desain yang bersifat sementara."],
+    "recommended_majors": [
+      { "name": "Desain Komunikasi Visual (DKV)", "reason": "Tempat yang ideal untuk mempelajari teori dan praktik perancangan sistem identitas visual dan branding." },
+      { "name": "Desain UI/UX", "reason": "Fokus pada perancangan sistem komponen yang konsisten dan terstruktur untuk produk digital." },
+      { "name": "Arsitektur", "reason": "Melatih pemikiran sistemik dalam konteks visual dan spasial." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer Merek (Brand Designer) atau Ahli Strategi Merek", "reason": "Merancang dan mengawasi keseluruhan identitas visual sebuah perusahaan untuk memastikan konsistensi dan dampak." },
+      { "name": "Desainer Sistem Desain (Design System Designer)", "reason": "Peran spesialis di perusahaan teknologi besar yang tugasnya adalah menciptakan dan memelihara 'kamus' komponen UI." },
+      { "name": "Direktur Seni (Art Director)", "reason": "Menetapkan dan menjaga standar visual untuk sebuah publikasi, kampanye, atau merek." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "AE",
+    "profile_title": "Sang Visioner Kreatif",
+    "profile_tagline": "Seorang pemimpin yang membangun sebuah usaha di atas fondasi visi artistik yang kuat.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan membangun sebuah bisnis (Enterprising) dengan visi artistik yang orisinal dan kuat (Artistic). Visi (Ni) dan logika (Te) INTJ-mu membuatmu tidak hanya menjadi seorang seniman, tetapi juga seorang wirausahawan yang mampu mengubah kreativitas menjadi sebuah merek yang berpengaruh.",
+    "what_this_means": "Kamu adalah tipe orang seperti Steve Jobs atau seorang perancang busana yang membangun rumah modenya sendiri. Kamu memiliki visi yang sangat jelas tentang estetika dan pengalaman, dan kamu memiliki dorongan dan ketajaman strategis untuk membangun sebuah perusahaan yang mewujudkan visi tersebut. Kamu menjual sebuah visi, bukan hanya sebuah produk.",
+    "strengths": ["Memiliki visi artistik dan bisnis yang sangat kuat.", "Sangat persuasif dan mampu menginspirasi orang dengan visinya.", "Perencana strategis yang ulung.", "Memiliki standar kualitas yang sangat tinggi."],
+    "weaknesses": ["Bisa menjadi sangat mengontrol dan tidak mau berkompromi dengan visinya.", "Sangat menuntut, baik pada diri sendiri maupun pada tim.", "Mungkin kurang tertarik pada aspek operasional sehari-hari dari bisnis.", "Tidak sabar dengan orang yang tidak 'mengerti' visinya."],
+    "recommended_majors": [
+      { "name": "Desain (Produk, Mode, atau Komunikasi Visual)", "reason": "Memberikanmu keterampilan kreatif sebagai fondasi, yang kemudian bisa kamu kembangkan menjadi sebuah bisnis." },
+      { "name": "Kewirausahaan (Entrepreneurship)", "reason": "Mempelajari sisi bisnis dari membangun sebuah merek dari nol." },
+      { "name": "Manajemen Merek (Brand Management)", "reason": "Fokus pada bagaimana cara membangun dan mengelola citra dan nilai sebuah merek di pasar." }
+    ],
+    "career_recommendations": [
+      { "name": "Pendiri Perusahaan (di bidang desain, mode, teknologi)", "reason": "Membangun sebuah bisnis yang merupakan perwujudan dari visi unikmu." },
+      { "name": "Direktur Kreatif (Creative Director)", "reason": "Menjadi penentu utama visi kreatif untuk sebuah merek atau perusahaan besar." },
+      { "name": "Arsitek atau Desainer Utama", "reason": "Memimpin sebuah firma desain yang dikenal karena gaya dan filosofi desainnya yang khas." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "AR",
+    "profile_title": "Sang Pengrajin Konseptual",
+    "profile_tagline": "Seorang kreator yang mewujudkan ide-ide kompleks menjadi objek fisik yang indah dan presisi.",
+    "reason_why": "Kamu menggabungkan dorongan untuk menciptakan karya yang orisinal dan bermakna (Artistic) dengan minat pada proses pembuatan yang praktis, teknis, dan nyata (Realistic). Visi (Ni) dan logika (Te) INTJ-mu memastikan bahwa setiap karya yang kamu buat tidak hanya indah, tetapi juga dibuat dengan teknik dan presisi yang sempurna.",
+    "what_this_means": "Kamu adalah seorang pengrajin ahli atau desainer-pembuat. Kamu mungkin seorang pembuat furnitur, perancang perhiasan, atau arsitek yang juga suka membangun maket detail. Kamu menikmati seluruh proses, dari konsep abstrak di kepalamu hingga objek fisik yang bisa kamu sentuh dan lihat, memastikan setiap detailnya sesuai dengan visi awalku.",
+    "strengths": ["Memiliki visi artistik yang jelas dan kemampuan teknis untuk mewujudkannya.", "Sangat teliti dan presisi dalam pengerjaan.", "Memiliki pemahaman yang mendalam tentang material dan proses.", "Mampu bekerja secara mandiri pada proyek jangka panjang."],
+    "weaknesses": ["Bisa menjadi sangat perfeksionis dan lambat dalam menyelesaikan pekerjaan.", "Mungkin kurang tertarik pada produksi massal, lebih suka karya yang unik.", "Cenderung bekerja sendiri dan kurang kolaboratif.", "Bisa frustrasi jika hasil fisik tidak 100% sesuai dengan visi di kepala."],
+    "recommended_majors": [
+      { "name": "Desain Produk atau Kriya (Craft)", "reason": "Secara langsung melatih keterampilan tangan (Realistic) untuk menciptakan objek dengan nilai estetika yang tinggi (Artistic)." },
+      { "name": "Arsitektur", "reason": "Merancang bangunan (Artistic) yang membutuhkan pemahaman mendalam tentang material dan metode konstruksi (Realistic)." },
+      { "name": "Seni Rupa (Peminatan Patung atau Cetak Grafis)", "reason": "Fokus pada penciptaan karya seni yang membutuhkan proses teknis dan keterampilan tangan." }
+    ],
+    "career_recommendations": [
+      { "name": "Desainer-Pembuat Furnitur (Furniture Designer-Maker)", "reason": "Merancang dan membuat perabotan unik dari awal hingga akhir." },
+      { "name": "Perancang Perhiasan atau Pandai Besi Artistik", "reason": "Bekerja dengan material seperti logam dan batu mulia untuk menciptakan karya seni yang bisa dipakai." },
+      { "name": "Arsitek (dengan firma butik)", "reason": "Mengambil proyek-proyek khusus di mana kamu bisa terlibat langsung dalam detail desain dan konstruksi." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "SI",
+    "profile_title": "Sang Terapis Sistemik",
+    "profile_tagline": "Seorang konselor yang membantu orang memahami pola dalam hidup mereka.",
+    "reason_why": "Kamu menggabungkan keinginan tulus untuk membantu orang lain (Social) dengan minat yang mendalam pada analisis pola dan sistem (Investigative). Visi (Ni) dan logika (Te) INTJ-mu membuatmu menjadi seorang terapis atau konselor yang sangat baik dalam membantu klien melihat 'gambaran besar' dari masalah mereka dan merancang strategi untuk mengatasinya.",
+    "what_this_means": "Kamu adalah seorang 'dokter jiwa' yang analitis. Kamu tidak hanya memberikan dukungan emosional; kamu membantu klienmu memahami mengapa mereka terus mengulangi pola perilaku tertentu dan bagaimana cara memutus siklus tersebut. Kamu unggul dalam pendekatan terapi yang terstruktur seperti Terapi Kognitif Perilaku (CBT).",
+    "strengths": ["Mampu melihat pola perilaku jangka panjang pada orang lain.", "Memberikan nasihat yang logis, objektif, dan strategis.", "Empati yang didasari oleh pemahaman intelektual yang mendalam.", "Sangat baik dalam membantu klien menetapkan dan mencapai tujuan."],
+    "weaknesses": ["Bisa terlihat kurang hangat atau terlalu klinis bagi sebagian klien.", "Mungkin kurang sabar dengan klien yang tidak mau mengikuti rencana atau nasihat logis.", "Pekerjaan bisa sangat menguras energi, membutuhkan banyak waktu untuk sendiri.", "Cenderung fokus pada solusi dan kurang pada validasi emosi."],
+    "recommended_majors": [
+      { "name": "Psikologi (Klinis atau Konseling)", "reason": "Memberikan dasar ilmiah (Investigative) untuk praktik membantu orang lain (Social) dengan cara yang terstruktur." },
+      { "name": "Pekerjaan Sosial", "reason": "Mempelajari cara membantu individu dalam konteks sistem sosial mereka yang lebih luas." },
+      { "name": "Pendidikan (Bimbingan dan Konseling)", "reason": "Fokus pada penerapan prinsip-prinsip psikologis untuk membantu siswa di lingkungan pendidikan." }
+    ],
+    "career_recommendations": [
+      { "name": "Psikolog atau Terapis", "reason": "Membantu individu mengatasi masalah kesehatan mental dengan pendekatan yang analitis dan strategis." },
+      { "name": "Konselor Karier atau Akademik", "reason": "Membantu orang merencanakan masa depan mereka dengan menganalisis kekuatan, kelemahan, dan peluang mereka." },
+      { "name": "Peneliti Psikologi", "reason": "Melakukan studi ilmiah untuk lebih memahami perilaku manusia dan mengembangkan metode terapi baru." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "SA",
+    "profile_title": "Sang Dosen Inspiratif",
+    "profile_tagline": "Seorang pendidik yang menggunakan kreativitas untuk membuat topik yang kompleks menjadi hidup.",
+    "reason_why": "Kamu menggabungkan keinginan untuk berbagi pengetahuan dan membantu siswa berkembang (Social) dengan pendekatan pengajaran yang kreatif dan orisinal (Artistic). Visi (Ni) dan logika (Te) INTJ-mu membuatmu mampu merancang kurikulum dan metode pengajaran yang tidak hanya informatif, tetapi juga sangat menarik dan menggugah pikiran.",
+    "what_this_means": "Kamu adalah tipe guru atau dosen yang akan diingat oleh murid-muridmu selamanya. Kamu tidak hanya mengajar fakta; kamu mengajarkan cara berpikir. Kamu menggunakan analogi yang cerdas, proyek-proyek kreatif, dan diskusi yang mendalam untuk membuat materimu relevan dan menarik. Kamu adalah seorang sutradara di dalam kelas.",
+    "strengths": ["Mampu menjelaskan konsep yang sulit dengan cara yang kreatif.", "Menginspirasi siswa untuk mencintai proses belajar.", "Sangat terstruktur dan terorganisir dalam pengajaran.", "Memiliki visi jangka panjang untuk perkembangan siswanya."],
+    "weaknesses": ["Bisa memiliki standar yang sangat tinggi bagi siswanya.", "Mungkin kurang sabar dengan siswa yang tidak termotivasi atau tidak disiplin.", "Cenderung kurang fleksibel dengan kurikulum yang kaku dari institusi.", "Interaksi sosial yang konstan bisa menguras energi."],
+    "recommended_majors": [
+      { "name": "Pendidikan (dengan spesialisasi di bidang yang kamu sukai, misal: Sastra, Sejarah, Sains)", "reason": "Memberikanmu dasar pedagogis (Social) untuk menyalurkan kreativitasmu dalam mengajar (Artistic)." },
+      { "name": "Jurusan spesifik yang kamu minati (misal: Sastra Inggris, Fisika)", "reason": "Menguasai materi pelajaran secara mendalam, yang kemudian bisa kamu ajarkan dengan caramu yang unik." },
+      { "name": "Desain Instruksional (Instructional Design)", "reason": "Fokus pada perancangan pengalaman belajar yang efektif dan menarik." }
+    ],
+    "career_recommendations": [
+      { "name": "Dosen atau Guru", "reason": "Membentuk pikiran generasi berikutnya dengan caramu yang unik dan intelektual." },
+      { "name": "Pengembang Kurikulum atau Desainer Instruksional", "reason": "Merancang pengalaman belajar untuk sekolah, universitas, atau perusahaan." },
+      { "name": "Pembuat Konten Edukasi", "reason": "Menciptakan kursus online, video, atau materi lain yang membuat belajar menjadi menarik." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "SR",
+    "profile_title": "Sang Terapis Fisik Strategis",
+    "profile_tagline": "Seorang ahli rehabilitasi yang merancang rencana pemulihan yang efisien dan efektif.",
+    "reason_why": "Kamu menggabungkan keinginan tulus untuk membantu orang lain memulihkan fungsi tubuhnya (Social) dengan pendekatan yang sangat praktis, teknis, dan berbasis pada dunia nyata (Realistic). Visi (Ni) dan logika (Te) INTJ-mu membuatmu sangat baik dalam menganalisis masalah fisik, menetapkan tujuan jangka panjang, dan merancang program latihan yang sistematis untuk mencapainya.",
+    "what_this_means": "Kamu adalah seorang ahli strategi untuk tubuh manusia. Kamu unggul dalam peran seperti fisioterapis atau pelatih atletik. Kamu bisa melihat cedera atau kelemahan fisik, memahami mekanisme yang mendasarinya, dan kemudian menyusun rencana pemulihan langkah-demi-langkah yang logis. Kamu membantu orang dengan cara yang sangat terukur dan berorientasi pada hasil.",
+    "strengths": ["Sangat analitis dan diagnostik.", "Mampu merancang program rehabilitasi jangka panjang.", "Fokus pada hasil yang nyata dan terukur.", "Sabar dan metodis dalam bekerja dengan pasien atau atlet."],
+    "weaknesses": ["Bisa terlihat kurang empatik secara emosional, lebih fokus pada masalah fisik.", "Sangat tidak suka jika pasien tidak disiplin mengikuti program.", "Mungkin kurang fleksibel dan terlalu berpegang pada rencana awal.", "Membutuhkan data dan bukti untuk mempercayai sebuah metode terapi."],
+    "recommended_majors": [
+      { "name": "Fisioterapi atau Terapi Okupasi", "reason": "Secara langsung mempelajari cara membantu orang (Social) memulihkan fungsi fisik mereka (Realistic) melalui metode ilmiah." },
+      { "name": "Ilmu Keolahragaan atau Kedokteran Olahraga", "reason": "Fokus pada anatomi dan fisiologi manusia untuk meningkatkan kinerja fisik dan mencegah cedera." },
+      { "name": "Kedokteran (dengan spesialisasi rehabilitasi medis)", "reason": "Menjadi dokter yang fokus pada pemulihan fungsi pasien setelah sakit atau cedera." }
+    ],
+    "career_recommendations": [
+      { "name": "Fisioterapis", "reason": "Mendiagnosis masalah fisik dan merancang program latihan untuk membantu pasien pulih." },
+      { "name": "Pelatih Atletik (Athletic Trainer)", "reason": "Bekerja dengan tim olahraga untuk mencegah, mendiagnosis, dan merehabilitasi cedera atlet." },
+      { "name": "Spesialis Ergonomi", "reason": "Menganalisis lingkungan kerja dan merancangnya ulang untuk mencegah cedera dan meningkatkan efisiensi." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "SE",
+    "profile_title": "Sang Direktur Nirlaba",
+    "profile_tagline": "Seorang pemimpin visioner yang membangun organisasi yang efisien untuk kebaikan sosial.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan mencapai tujuan (Enterprising) dengan misi untuk melayani dan memberdayakan masyarakat (Social). Visi (Ni) dan kemampuan eksekusi (Te) INTJ-mu kamu gunakan untuk membangun sebuah organisasi nirlaba yang tidak hanya berhati baik, tetapi juga berjalan seperti perusahaan yang efisien.",
+    "what_this_means": "Kamu adalah seorang wirausahawan sosial di hati. Kamu melihat sebuah masalah di masyarakat dan berpikir, 'Saya bisa membangun sistem yang lebih baik untuk menyelesaikannya.' Kamu unggul dalam merancang program, menggalang dana, membangun tim, dan mengukur dampak dari organisasimu. Kamu membawa ketajaman bisnis ke dunia sosial.",
+    "strengths": ["Visioner dan strategis dalam misi sosial.", "Sangat baik dalam perencanaan dan pengorganisasian.", "Mampu memimpin dan menginspirasi tim dengan visi yang jelas.", "Fokus pada dampak yang nyata dan terukur."],
+    "weaknesses": ["Bisa menjadi tidak sabar dengan birokrasi atau proses yang lambat di sektor nirlaba.", "Mungkin terlihat terlalu 'korporat' atau kurang personal bagi sebagian pemangku kepentingan.", "Sangat menuntut standar tinggi dari staf dan sukarelawan.", "Cenderung mengambil alih terlalu banyak karena ingin semuanya sempurna."],
+    "recommended_majors": [
+      { "name": "Kewirausahaan Sosial (Social Entrepreneurship)", "reason": "Jurusan yang secara spesifik mengajarkan cara menerapkan prinsip bisnis (Enterprising) untuk menciptakan dampak sosial (Social)." },
+      { "name": "Manajemen Nirlaba (Non-Profit Management)", "reason": "Fokus pada keterampilan yang dibutuhkan untuk memimpin dan mengelola organisasi yang berorientasi pada misi." },
+      { "name": "Administrasi Publik", "reason": "Mempelajari cara kerja sektor publik dan nirlaba, serta cara merancang program yang efektif." }
+    ],
+    "career_recommendations": [
+      { "name": "Pendiri atau Direktur Eksekutif Organisasi Nirlaba", "reason": "Membangun dan memimpin sebuah organisasi untuk mencapai misi sosial yang spesifik." },
+      { "name": "Manajer Program (di lembaga donor atau yayasan)", "reason": "Mengevaluasi dan mengelola dana hibah untuk berbagai proyek sosial." },
+      { "name": "Konsultan untuk Sektor Nirlaba", "reason": "Membantu organisasi nirlaba lain menjadi lebih strategis, efisien, dan berdampak." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "SC",
+    "profile_title": "Sang Manajer Informasi Kesehatan",
+    "profile_tagline": "Seorang organisator yang merancang dan mengelola sistem data untuk meningkatkan pelayanan kesehatan.",
+    "reason_why": "Kamu menggabungkan keinginan untuk membantu orang lain (Social) dengan kecintaan pada data yang terstruktur, akurat, dan teratur (Conventional). Visi (Ni) dan logika (Te) INTJ-mu membuatmu sangat baik dalam melihat bagaimana sistem informasi yang lebih baik dapat secara langsung meningkatkan kualitas pelayanan kepada pasien.",
+    "what_this_means": "Kamu adalah seorang arsitek data di dunia kesehatan. Kamu unggul dalam peran yang membutuhkan pengelolaan rekam medis elektronik, analisis data kesehatan, atau administrasi rumah sakit. Kamu menemukan kepuasan dalam menciptakan sistem yang memastikan data pasien aman, akurat, dan dapat diakses dengan cepat oleh para dokter, yang pada akhirnya menyelamatkan nyawa.",
+    "strengths": ["Sangat terorganisir, teliti, dan metodis.", "Mampu merancang dan mengelola sistem database yang kompleks.", "Memahami pentingnya integritas dan kerahasiaan data.", "Berpikir strategis tentang bagaimana data dapat meningkatkan hasil."],
+    "weaknesses": ["Bisa menjadi sangat kaku dengan aturan dan prosedur.", "Cenderung lebih fokus pada data dan sistem daripada interaksi langsung dengan pasien.", "Tidak suka pada sistem yang berantakan atau data yang tidak akurat.", "Mungkin kurang fleksibel dalam menghadapi situasi darurat yang tidak terduga."],
+    "recommended_majors": [
+      { "name": "Manajemen Informasi Kesehatan atau Rekam Medis", "reason": "Jurusan yang secara spesifik melatihmu untuk mengelola data (Conventional) di lingkungan layanan kesehatan (Social)." },
+      { "name": "Sistem Informasi", "reason": "Memberikan dasar teknis untuk membangun dan mengelola sistem informasi di industri apa pun, termasuk kesehatan." },
+      { "name": "Administrasi Rumah Sakit", "reason": "Fokus pada sisi manajerial dari operasional institusi layanan kesehatan." }
+    ],
+    "career_recommendations": [
+      { "name": "Spesialis atau Manajer Informasi Kesehatan", "reason": "Bertanggung jawab atas pengelolaan seluruh data pasien di rumah sakit atau klinik." },
+      { "name": "Analis Data Kesehatan (Healthcare Data Analyst)", "reason": "Menganalisis data klinis dan operasional untuk menemukan cara meningkatkan efisiensi dan kualitas pelayanan." },
+      { "name": "Administrator Sistem Klinis", "reason": "Mengelola perangkat lunak rekam medis elektronik dan memastikan sistem tersebut berjalan dengan baik." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "RC",
+    "profile_title": "Sang Ahli Standar Keselamatan",
+    "profile_tagline": "Seorang perencana teliti yang merancang sistem untuk memastikan keselamatan dan kualitas.",
+    "reason_why": "Kamu menggabungkan minat pada pekerjaan yang praktis dan teknis (Realistic) dengan dedikasi pada aturan, standar, dan prosedur (Conventional). Visi (Ni) dan logika (Te) INTJ-mu membuatmu mampu melihat potensi risiko dalam sebuah sistem teknis dan merancang prosedur untuk mencegahnya.",
+    "what_this_means": "Kamu adalah seorang insinyur kualitas atau spesialis keselamatan. Kamu adalah tipe orang yang akan menulis manual prosedur untuk sebuah pabrik, merancang sistem keselamatan untuk sebuah lokasi konstruksi, atau melakukan audit untuk memastikan sebuah produk memenuhi semua standar teknis. Kamu menemukan kepuasan dalam menciptakan lingkungan yang aman dan dapat diprediksi.",
+    "strengths": ["Sangat teliti dan berorientasi pada detail.", "Memiliki pemahaman yang mendalam tentang standar dan regulasi teknis.", "Sangat baik dalam analisis risiko dan perencanaan pencegahan.", "Metodis dan dapat diandalkan."],
+    "weaknesses": ["Bisa menjadi sangat kaku dan birokratis.", "Mungkin dilihat sebagai 'penghambat' oleh tim yang lebih berorientasi pada kecepatan.", "Kurang tertarik pada inovasi yang menyimpang dari standar yang telah ditetapkan.", "Cenderung fokus pada pencegahan kesalahan daripada penciptaan sesuatu yang baru."],
+    "recommended_majors": [
+      { "name": "Keselamatan dan Kesehatan Kerja (K3) atau Teknik Keselamatan", "reason": "Secara langsung mempelajari cara menerapkan standar (Conventional) untuk lingkungan kerja yang bersifat fisik dan teknis (Realistic)." },
+      { "name": "Teknik Industri", "reason": "Fokus pada perancangan sistem produksi yang tidak hanya efisien tetapi juga aman dan berkualitas tinggi." },
+      { "name": "Manajemen Kualitas (Quality Management)", "reason": "Mempelajari metodologi seperti Six Sigma atau ISO untuk memastikan kualitas produk dan proses." }
+    ],
+    "career_recommendations": [
+      { "name": "Insinyur atau Manajer Kualitas (Quality Engineer/Manager)", "reason": "Merancang dan mengawasi sistem manajemen mutu di sebuah perusahaan manufaktur." },
+      { "name": "Spesialis Kesehatan dan Keselamatan Lingkungan (HSE Specialist)", "reason": "Memastikan sebuah perusahaan mematuhi semua peraturan keselamatan dan lingkungan." },
+      { "name": "Auditor Kualitas", "reason": "Melakukan inspeksi untuk memverifikasi bahwa produk atau proses memenuhi standar yang disyaratkan." }
+    ]
+  },
+  {
+    "mbti_type": "INTJ",
+    "riasec_code": "RE",
+    "profile_title": "Sang Industrialis",
+    "profile_tagline": "Seorang pemimpin yang membangun dan mengoptimalkan kerajaan industri.",
+    "reason_why": "Kamu menggabungkan dorongan untuk memimpin dan membangun bisnis (Enterprising) dengan minat yang kuat pada dunia fisik, manufaktur, dan rekayasa (Realistic). Visi (Ni) dan logika (Te) INTJ-mu membuatmu menjadi seorang ahli strategi industri, mampu merancang pabrik, rantai pasok, dan operasi yang sangat efisien.",
+    "what_this_means": "Kamu adalah seorang pembangun di dunia nyata. Kamu tidak hanya merancang bisnis di atas kertas; kamu membangun pabriknya, mengelola mesinnya, dan mengirimkan produknya. Kamu menikmati tantangan untuk bersaing dalam skala besar di sektor-sektor seperti manufaktur, konstruksi, atau energi. Kamu adalah seorang kapten industri.",
+    "strengths": ["Memiliki visi strategis untuk industri fisik.", "Sangat baik dalam mengelola operasi berskala besar.", "Pemimpin yang tegas dan berorientasi pada efisiensi.", "Memahami baik aspek teknis maupun komersial."],
+    "weaknesses": ["Bisa jadi kurang fleksibel dalam beradaptasi dengan teknologi digital baru.", "Cenderung sangat menuntut dan kurang empatik terhadap pekerja.", "Mungkin mengabaikan dampak lingkungan atau sosial demi efisiensi.", "Sangat tidak suka pada serikat pekerja atau regulasi yang dianggapnya menghambat."],
+    "recommended_majors": [
+      { "name": "Teknik Industri", "reason": "Jurusan yang sempurna untuk mempelajari cara merancang dan mengelola sistem industri yang kompleks (Realistic) untuk tujuan bisnis (Enterprising)." },
+      { "name": "Manajemen Rantai Pasok (Supply Chain Management)", "reason": "Fokus pada pengelolaan alur fisik barang dari bahan baku hingga produk jadi." },
+      { "name": "Teknik Perminyakan atau Pertambangan", "reason": "Industri skala besar yang membutuhkan kepemimpinan yang kuat dan pemahaman teknis yang mendalam." }
+    ],
+    "career_recommendations": [
+      { "name": "Manajer Pabrik atau Direktur Operasional", "reason": "Memimpin seluruh operasi di sebuah fasilitas manufaktur atau industri." },
+      { "name": "CEO Perusahaan Manufaktur atau Konstruksi", "reason": "Menetapkan visi dan strategi untuk sebuah perusahaan di sektor industri." },
+      { "name": "Konsultan Operasional", "reason": "Membantu perusahaan industri meningkatkan efisiensi dan profitabilitas mereka." }
+    ]
+  }
+]
